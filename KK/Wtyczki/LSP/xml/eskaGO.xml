@@ -1,0 +1,927 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+  <channels_info> <!-- this is opitonal -->
+  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]eskaGo[/B] [/COLOR]</title> 
+  <thumbnail>http://www.persiantv7.xyz/index_files/channels/eskago.png</thumbnail>
+  <fanart>http://media2.pl/g/0/27615.jpg</fanart>
+  </channels_info>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio[/B][/COLOR]</name>
+      <thumbnail>http://www.persiantv7.xyz/index_files/channels/eskago.png</thumbnail>
+      <fanart>https://i.ytimg.com/vi/8WLUJNqC9Ec/maxresdefault.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Disco Polo[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/k/u/s/ku2301876vsvJ.jpg/ru-0-ra-145,145-n-ku2301876vsvJ.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Disco Polo[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/k/u/s/ku2301876vsvJ.jpg/ru-0-ra-145,145-n-ku2301876vsvJ.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t088-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Disco Polo Top 40[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/k/u/s/ku2301876vsvJ.jpg/ru-0-ra-145,145-n-ku2301876vsvJ.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t037-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]The Best of Disco Polo[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/k/u/s/ku2301876vsvJ.jpg/ru-0-ra-145,145-n-ku2301876vsvJ.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t017-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Zenek Martyniuk i Akcent[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/k/u/s/ku2301876vsvJ.jpg/ru-0-ra-145,145-n-ku2301876vsvJ.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t026-1.mp3</link>	
+				</subitem>
+		</subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel> 
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ESKA[/B][/COLOR]</name>
+          <thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052013/radio_eska.png?itok=OoPq_A2d</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Radio ESKA[/B][/COLOR]</title>
+			      <thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052013/radio_eska.png?itok=OoPq_A2d</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t042-1.mp3</link>	
+				</subitem> 	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]ESKA # Ranne Ptaki[/B][/COLOR]</title>
+			      <thumbnail>http://c02.common.smcloud.net/s/1026022tQbR.jpg</thumbnail>
+                 <link>http://waw02.ic2.scdn.smcloud.net/t023-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]ESKA Active[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/L/T/s/LT2117494LaNb.jpg/ru-1-ra-1180,664-n-LT2117494LaNb.jpg</thumbnail>
+                 <link>http://waw02.ic2.scdn.smcloud.net/t096-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Eska Club[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066403q1UG.jpg/ru-1-ra-1180,664-n-1066403q1UG.jpg</thumbnail>
+                 <link>http://waw02.ic1.scdn.smcloud.net/t004-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]ESKA Dance[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066403q1UG.jpg/ru-1-ra-1180,664-n-1066403q1UG.jpg</thumbnail>
+                 <link>http://waw02.ic2.scdn.smcloud.net/t012-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]ESKA Do Pracy[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066403q1UG.jpg/ru-1-ra-1180,664-n-1066403q1UG.jpg</thumbnail>
+                 <link>http://waw01.ic1.scdn.smcloud.net/t014-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]ESKA Global Lista[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066403q1UG.jpg/ru-1-ra-1180,664-n-1066403q1UG.jpg</thumbnail>
+                 <link>http://waw02.ic1.scdn.smcloud.net/t016-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]ESKA Gorąca 20[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/S/y/s/Sy22005984XP9.jpg/ru-1-ra-1180,664-n-Sy22005984XP9.jpg</thumbnail>
+                 <link>http://waw02.ic1.scdn.smcloud.net/t019-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]ESKA Gorąca 100[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/X/A/s/XA2198149fgoD.jpg/ru-1-ra-1180,664-n-XA2198149fgoD.jpg</thumbnail>
+                 <link>http://waw02.ic2.scdn.smcloud.net/t039-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]ESKA Impreska[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/C/X/s/CX2301822k2Tk.jpg/ru-0-ra-145,145-n-CX2301822k2Tk.jpg</thumbnail>
+                 <link>http://waw01.ic1.scdn.smcloud.net/t005-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]ESKA Live RMX Puoteck[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/q/v/s/qv21395077z2o.jpg/ru-1-ra-1180,664-n-qv21395077z2o.jpg</thumbnail>
+                 <link>http://waw02.ic1.scdn.smcloud.net/t006-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]ESKA Rap[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/C/X/s/CX2301822k2Tk.jpg/ru-0-ra-145,145-n-CX2301822k2Tk.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t036-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]ESKA The Best of[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/C/X/s/CX2301822k2Tk.jpg/ru-0-ra-145,145-n-CX2301822k2Tk.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t020-1.mp3</link>	
+				</subitem>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Eska ROCK[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/m/v/s/mv2099948s0gq.png/ru-0-ra-191,69-n-mv2099948s0gq.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Eska ROCK[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/2/0/s/2084658Blv7.jpg/ru-1-ra-1180,664-n-2084658Blv7.jpg</thumbnail>
+                  <link>http://waw02.ic2.scdn.smcloud.net/t041-1.mp3</link>	
+				</subitem> 	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]# @ktywacja[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/L/W/s/LW2216232p17r.jpg/ru-1-ra-1180,664-n-LW2216232p17r.jpg</thumbnail>
+                  <link>http://waw02.ic2.scdn.smcloud.net/t027-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Eska ROCK Ballads[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
+                  <link>http://waw02.ic2.scdn.smcloud.net/t030-1.mp3</link>	
+				</subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow][B]Eska ROCK Block Party[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/L/U/s/LU2117502Npfn.jpg/ru-1-ra-1180,664-n-LU2117502Npfn.jpg</thumbnail>
+                  <link>http://waw02.ic2.scdn.smcloud.net/t095-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Eska ROCK Hot Rock[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/C/C/s/CC2301835UetJ.jpg/ru-0-ra-145,145-n-CC2301835UetJ.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t028-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Eska ROCK Kultowa Godzina[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
+                  <link>http://waw02.ic2.scdn.smcloud.net/t013-1.mp3</link>	
+				</subitem> 
+
+				<subitem>
+                  <title>[COLOR lightyellow][B]Eska ROCK Polska[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t008-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Eska ROCK Rockowa 100[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/A/r/s/Ar21981510xPS.jpg/ru-1-ra-1180,664-n-Ar21981510xPS.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t091-1.mp3</link>	
+				</subitem> 
+
+				<subitem>
+                  <title>[COLOR lightyellow][B]ROCKowy Top Wszech Czasów[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/w/R/s/wR2198532qCk6.jpg/ru-1-ra-1180,664-n-wR2198532qCk6.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t025-1.mp3</link>	
+				</subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Impreza[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/H/j/s/Hj2301864dDIz.jpg/ru-0-ra-145,145-n-Hj2301864dDIz.jpg</thumbnail>
+		    <subitems>
+		        <subitem>
+                  <title>[COLOR lightyellow][B]Energia[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066403q1UG.jpg/ru-1-ra-1180,664-n-1066403q1UG.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t012-1.mp3</link>	
+				</subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Impreza[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/H/j/s/Hj2301864dDIz.jpg/ru-0-ra-145,145-n-Hj2301864dDIz.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t005-1.mp3</link>	
+				</subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Oldschool[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/L/X/s/LX2301889YaP0.jpg/ru-0-ra-145,145-n-LX2301889YaP0.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Classic Party 80's[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/O/C/s/OC2059160RZbk.jpg/ru-1-ra-1180,664-n-OC2059160RZbk.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t089-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Classic Party 90's[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/N/z/s/Nz2059163NAHJ.jpg/ru-1-ra-1180,664-n-Nz2059163NAHJ.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t090-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Hity 60's/70's/80's[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/L/X/s/LX2301889YaP0.jpg/ru-0-ra-145,145-n-LX2301889YaP0.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t034-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Hity 80's[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/L/X/s/LX2301889YaP0.jpg/ru-0-ra-145,145-n-LX2301889YaP0.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t099-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Hity 90's[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/L/X/s/LX2301889YaP0.jpg/ru-0-ra-145,145-n-LX2301889YaP0.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t031-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Oldies Ballads[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/10662291mhz.jpg/ru-1-ra-1180,664-n-10662291mhz.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t033-1.mp3</link>	
+				</subitem> 
+		</subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]PLUS[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/4/3/s/4357HEhI.jpg/ru-0-ra-191,69-n-4357HEhI.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Radio Plus[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066420cmIO.jpg/ru-1-ra-1180,664-n-1066420cmIO.jpg</thumbnail>
+                  <link>http://waw02.ic2.scdn.smcloud.net/t051-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Radio Plus Koszalin[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066420cmIO.jpg/ru-1-ra-1180,664-n-1066420cmIO.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t083-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Radio Plus Kraków[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066420cmIO.jpg/ru-1-ra-1180,664-n-1066420cmIO.jpg</thumbnail>
+                  <link>http://waw02.ic2.scdn.smcloud.net/t086-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Radio Plus Łódź[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066420cmIO.jpg/ru-1-ra-1180,664-n-1066420cmIO.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t082-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Radio Plus Olsztyn[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066420cmIO.jpg/ru-1-ra-1180,664-n-1066420cmIO.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t071-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Radio Plus Podhale[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066420cmIO.jpg/ru-1-ra-1180,664-n-1066420cmIO.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t084-1.mp3</link>	
+				</subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow][B]Radio Plus Szczecin[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066420cmIO.jpg/ru-1-ra-1180,664-n-1066420cmIO.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t085-1.mp3</link>	
+				</subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Pop[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/P/N/s/PN2306103PTat.jpg/ru-0-ra-145,145-n-PN2306103PTat.jpg</thumbnail>
+		    <subitems>
+			   <subitem>
+                  <title>[COLOR lightyellow][B]Hity 2000[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/P/N/s/PN2306103PTat.jpg/ru-0-ra-145,145-n-PN2306103PTat.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t100-1.mp3</link>	
+				</subitem>	 
+			
+		        <subitem>
+                  <title>[COLOR lightyellow][B]Pop[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/P/N/s/PN2306103PTat.jpg/ru-0-ra-145,145-n-PN2306103PTat.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t024-1.mp3</link>	
+				</subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Pop Ballads[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/P/N/s/PN2306103PTat.jpg/ru-0-ra-145,145-n-PN2306103PTat.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t011-1.mp3</link>	
+				</subitem>	
+			</subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Praca/Nauka[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/o/q/s/oq2306105Njqr.jpg/ru-0-ra-145,145-n-oq2306105Njqr.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Praca[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/o/q/s/oq2306105Njqr.jpg/ru-0-ra-145,145-n-oq2306105Njqr.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t024-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Nauka[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/o/q/s/oq2306105Njqr.jpg/ru-0-ra-145,145-n-oq2306105Njqr.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t007-1.mp3</link>	
+				</subitem>
+		</subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Rock[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/l/O/s/lO2301881RHV7.jpg/ru-0-ra-145,145-n-lO2301881RHV7.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Alternative[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t015-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Ballady Rockowe[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t030-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Classic Rock[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t013-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Heavy[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t018-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Polski Rock[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t008-1.mp3</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Rock[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/l/O/s/lO2301881RHV7.jpg/ru-0-ra-145,145-n-lO2301881RHV7.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t001-1.mp3</link>	
+				</subitem> 
+		</subchannel>				
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Sport[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/O/Y/s/OY2301848SJGw.jpg/ru-0-ra-145,145-n-OY2301848SJGw.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Bieganie[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/O/Y/s/OY2301848SJGw.jpg/ru-0-ra-145,145-n-OY2301848SJGw.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t002-1.mp3</link>	
+				</subitem>
+			
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Fitness[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/L/T/s/LT2117494LaNb.jpg/ru-1-ra-1180,664-n-LT2117494LaNb.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t096-1.mp3</link>	
+				</subitem>
+			</subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]VOX FM[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/9/7/s/972759bUc7.jpg/ru-0-ra-191,69-n-972759bUc7.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]VOX FM[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/10662291mhz.jpg/ru-1-ra-1180,664-n-10662291mhz.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t049-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]VOX Best Lista[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/J/W/s/JW2059170TB7Y.jpg/ru-1-ra-1180,664-n-JW2059170TB7Y.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t087-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]VOX Disco Polo[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/9/7/s/972759bUc7.jpg/ru-0-ra-191,69-n-972759bUc7.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t088-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]VOX Impreza[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/10662291mhz.jpg/ru-1-ra-1180,664-n-10662291mhz.jpg</thumbnail>
+                  <link>http://waw02.ic2.scdn.smcloud.net/t035-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]VOX Lata 80[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/O/C/s/OC2059160RZbk.jpg/ru-1-ra-1180,664-n-OC2059160RZbk.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t089-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]VOX Lata 90[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/N/z/s/Nz2059163NAHJ.jpg/ru-1-ra-1180,664-n-Nz2059163NAHJ.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t090-1.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]VOX Marek Sierocki Prezentuje[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/v/l/s/vl2111427bson.jpg/ru-1-ra-1180,664-n-vl2111427bson.jpg</thumbnail>
+                  <link>http://waw02.ic2.scdn.smcloud.net/t029-1.mp3</link>	
+				</subitem>
+			</subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]WAWA[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/3/4/s/3479EUsa.jpg/ru-0-ra-191,69-n-3479EUsa.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Radio WAWA[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066471elTd.jpg/ru-1-ra-1180,664-n-1066471elTd.jpg</thumbnail>
+                  <link>http://waw02.ic1.scdn.smcloud.net/t050-1.mp3</link>	
+				</subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]WAWA Disco Polo[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/T/S/s/TS2215290juhB.jpg/ru-1-ra-1180,664-n-TS2215290juhB.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t017-1.mp3</link>	
+				</subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]WAWA Polskie Hity[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/M/h/s/Mh23018373LcO.jpg/ru-0-ra-145,145-n-Mh23018373LcO.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t009-1.mp3</link>	
+				</subitem>	
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <items>
+			    <item>
+                  <title>[COLOR lightyellow][B]Dance[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/d/M/s/dM2301953UZjH.jpg/ru-0-ra-145,145-n-dM2301953UZjH.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t012-1.mp3</link>		
+				</item>
+				
+				<item>
+                  <title>[COLOR lightyellow][B]Grammy Nominees 2017[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/b/L/s/bL2301972hNLN.jpg/ru-0-ra-145,145-n-bL2301972hNLN.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t097-1.mp3</link>		
+				</item>
+				
+				<item>
+                  <title>[COLOR lightyellow][B]La La Land[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/s/Z/s/sZ2320429jUtW.jpg/ru-0-ra-300,300-n-sZ2320429jUtW_justin_hurwitz_planetarium.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t098-1.mp3</link>		
+				</item>
+				
+				<item>
+                  <title>[COLOR lightyellow][B]Miłość[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/F/a/s/Fa2301862UQ8l.jpg/ru-0-ra-145,145-n-Fa2301862UQ8l.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t038-1.mp3</link>		
+				</item>
+				
+				<item>
+                  <title>[COLOR lightyellow][B]Muzykę wybiera Agnieszka Chylińska[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/N/l/s/Nl2334473lv85.jpg/ru-0-ra-270,130-n-Nl2334473lv85.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t010-1.mp3</link>		
+				</item>
+				
+				<item>
+                  <title>[COLOR lightyellow][B]Muzykę wybiera Ewa Farna[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/c/U/s/cU2334481KTJD.jpg/ru-0-ra-270,130-n-cU2334481KTJD.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t003-1.mp3</link>		
+				</item>
+				
+				<item>
+                  <title>[COLOR lightyellow][B]Muzykę wybiera Ewelina Lisowska[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/c/I/s/cI2334485Ljbs.jpg/ru-0-ra-270,130-n-cI2334485Ljbs.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t021-1.mp3</link>		
+				</item>
+				
+				<item>
+                  <title>[COLOR lightyellow][B]Muzykę wybiera Margaret[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/b/L/s/bL2301972hNLN.jpg/ru-0-ra-145,145-n-bL2301972hNLN.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t093-1.mp3</link>		
+				</item>
+			
+			    <item>
+                  <title>[COLOR lightyellow][B]Polskie Hity[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066471elTd.jpg/ru-1-ra-1180,664-n-1066471elTd.jpg</thumbnail>
+                  <link>http://waw02.ic2.scdn.smcloud.net/t009-1.mp3</link>		
+				</item>
+				
+				<item>
+                  <title>[COLOR lightyellow][B]Relaks[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/n/I/s/nI2301851vGux.jpg/ru-0-ra-145,145-n-nI2301851vGux.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t011-1.mp3</link>	
+				</item>
+				
+				<item>
+                  <title>[COLOR lightyellow][B]Rock Top 40[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/A/z/s/Az2334546bPyu.jpg/ru-0-ra-145,145-n-Az2334546bPyu.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t028-1.mp3</link>	
+				</item>
+				
+				<item>
+                  <title>[COLOR lightyellow][B]Wiosenne Przebudzenie[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/H/j/s/Hj2301864dDIz.jpg/ru-0-ra-145,145-n-Hj2301864dDIz.jpg</thumbnail>
+                  <link>http://waw01.ic1.scdn.smcloud.net/t005-1.mp3</link>	
+				</item>
+			</items>		
+	</channel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]TV[/B][/COLOR]</name>
+      <thumbnail>http://www.persiantv7.xyz/index_files/channels/eskago.png</thumbnail>
+      <fanart>http://media2.pl/g/0/27615.jpg</fanart>	  
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!--
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]8 TV[/B][/COLOR]</name>
+          <thumbnail>http://cdn11.se.smcloud.net/t/photos/558124/telewizja-8tv.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightblue]480p[/COLOR]</title>
+			      <thumbnail>http://cdn11.se.smcloud.net/t/photos/558124/telewizja-8tv.jpg</thumbnail>
+                  <link>rtmp://stream.cdn.smcloud.net/8tv2-t/8tv_480p$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>rtmp://stream.smcdn.pl/8tv2-t/_definst_/8tv_480p$$lsname=LINK 2</link>
+				  <link>rtmp://stream.smcdn.pl/8tv2-t/8tv_480p$$lsname=LINK 3</link>
+				</subitem> 	
+				
+				<subitem>
+                  <title>[COLOR lightblue]360p[/COLOR]</title>
+			      <thumbnail>http://cdn11.se.smcloud.net/t/photos/558124/telewizja-8tv.jpg</thumbnail>
+                  <link>rtmp://stream.cdn.smcloud.net/8tv2-t/8tv_360p$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>rtmp://stream.smcdn.pl/8tv2-t/_definst_/8tv_360p$$lsname=LINK 2</link>
+				  <link>rtmp://stream.smcdn.pl/8tv2-t/8tv_360p$$lsname=LINK 3</link>
+				</subitem>
+			</subitems>	
+        </subchannel>	
+-->		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Eska TV[/B][/COLOR]</name>
+          <thumbnail>http://c03.common.smcloud.net/s/9842636Oos.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]720p[/B][/COLOR]</title>
+			      <thumbnail>http://c03.common.smcloud.net/s/9842636Oos.jpg</thumbnail>
+                  <sportsdevil>https://api.stream.smcdn.pl/api/secureToken.php?streamUri=eskatv-t/eskatv_720p</sportsdevil>
+                  <referer>http://www.eskago.pl/tv/eska-tv</referer>
+				</subitem>
+				
+			    <subitem>
+                  <title>[COLOR lightyellow][B]480p[/B][/COLOR]</title>
+			      <thumbnail>http://c03.common.smcloud.net/s/9842636Oos.jpg</thumbnail>
+                  <sportsdevil>https://api.stream.smcdn.pl/api/secureToken.php?streamUri=eskatv-t/eskatv_720p</sportsdevil>
+                  <referer>http://www.eskago.pl/tv/eska-tv</referer>
+				</subitem> 	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]360p[/B][/COLOR]</title>
+			      <thumbnail>http://c03.common.smcloud.net/s/9842636Oos.jpg</thumbnail>
+                  <sportsdevil>https://api.stream.smcdn.pl/api/secureToken.php?streamUri=eskatv-t/eskatv_360p</sportsdevil>
+                  <referer>http://www.eskago.pl/tv/eska-tv</referer>
+				</subitem>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Eska Best Music TV[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/2/1/s/2195703zSJ0.jpg/ru-0-ra-230,230-n-2195703zSJ0.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]HD[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/2/1/s/2195703zSJ0.jpg/ru-0-ra-230,230-n-2195703zSJ0.jpg</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Eska Best Music TV HD[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/best-t/_definst_/best_720p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) Eska Best Music TV HD[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/best-t/best_720p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) Eska Best Music TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/best-t/best_720p$$lsname=[COLOR lightyellow][B](4) Eska Best Music TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/best-t/_definst_/best_720p$$lsname=[COLOR lightyellow][B](5) Eska Best Music TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/best-t/best_720p$$lsname=[COLOR lightyellow][B](6) Eska Best Music TV HD[/B][/COLOR]</link>
+				</subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow][B]480p[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/2/1/s/2195703zSJ0.jpg/ru-0-ra-230,230-n-2195703zSJ0.jpg</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/best-t/best_480p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Eska Best Music TV 480p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/best-t/_definst_/best_480p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) Eska Best Music TV 480p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/best-t/best_480p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) Eska Best Music TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/best-t/best_480p$$lsname=[COLOR lightyellow][B](4) Eska Best Music TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/best-t/_definst_/best_480p$$lsname=[COLOR lightyellow][B](5) Eska Best Music TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/best-t/best_480p$$lsname=[COLOR lightyellow][B](6) Eska Best Music TV 480p[/B][/COLOR]</link>
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]360p[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/2/1/s/2195703zSJ0.jpg/ru-0-ra-230,230-n-2195703zSJ0.jpg</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/best-t/best_360p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Eska Best Music TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/best-t/_definst_/best_360p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) Eska Best Music TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/best-t/best_360p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) Eska Best Music TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/best-t/best_360p$$lsname=[COLOR lightyellow][B](4) Eska Best Music TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/best-t/_definst_/best_360p$$lsname=[COLOR lightyellow][B](5) Eska Best Music TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/best-t/best_360p$$lsname=[COLOR lightyellow][B](6) Eska Best Music TV 360p[/B][/COLOR]</link>
+				</subitem>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Eska Party TV[/B][/COLOR]</name>
+          <thumbnail>http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/images2012/eskaparty.jpg</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>[COLOR lightyellow][B]HD[/B][/COLOR]</title>
+			      <thumbnail>http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/images2012/eskaparty.jpg</thumbnail>
+                  <link>rtmp://stream.cdn.smcloud.net/eska_party-t/eska_party_720p$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Eska Party TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/eska_party-t/_definst_/eska_party_720p$$lsname=[COLOR lightyellow][B](2) Eska Party TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/eska_party-t/eska_party_720p$$lsname=[COLOR lightyellow][B](3) Eska Party TV HD[/B][/COLOR]</link>
+				  <link>http://stream.cdn.smcloud.net/eska_party-t/eska_party_720p/playlist.m3u8$$lsname=[COLOR lightyellow][B](4) Eska Party TV HD[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/eska_party-t/_definst_/eska_party_720p/playlist.m3u8$$lsname=[COLOR lightyellow][B](5) Eska Party TV HD[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/eska_party-t/eska_party_720p/playlist.m3u8$$lsname=[COLOR lightyellow][B](6) Eska Party TV HD[/B][/COLOR]</link>
+				</subitem> 	
+	
+				<subitem>
+                  <title>[COLOR lightyellow][B]480p[/B][/COLOR]</title>
+			      <thumbnail>http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/images2012/eskaparty.jpg</thumbnail>
+                  <link>rtmp://stream.cdn.smcloud.net/eska_party-t/eska_party_480p$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Eska Party TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/eska_party-t/_definst_/eska_party_480p$$lsname=[COLOR lightyellow][B](2) Eska Party TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/eska_party-t/eska_party_480p$$lsname=[COLOR lightyellow][B](3) Eska Party TV 480p[/B][/COLOR]</link>
+				  <link>http://stream.cdn.smcloud.net/eska_party-t/eska_party_480p/playlist.m3u8$$lsname=[COLOR lightyellow][B](4) Eska Party TV 480p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/eska_party-t/_definst_/eska_party_480p/playlist.m3u8$$lsname=[COLOR lightyellow][B](5) Eska Party TV 480p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/eska_party-t/eska_party_480p/playlist.m3u8$$lsname=[COLOR lightyellow][B](6) Eska Party TV 480p[/B][/COLOR]</link>
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]360p[/B][/COLOR]</title>
+			      <thumbnail>http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/images2012/eskaparty.jpg</thumbnail>
+                  <link>rtmp://stream.cdn.smcloud.net/eska_party-t/eska_party_360p$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Eska Party TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/eska_party-t/_definst_/eska_party_360p$$lsname=[COLOR lightyellow][B](2) Eska Party TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/eska_party-t/eska_party_360p$$lsname=[COLOR lightyellow][B](3) Eska Party TV 360p[/B][/COLOR]</link>
+				  <link>http://stream.cdn.smcloud.net/eska_party-t/eska_party_360p/playlist.m3u8$$lsname=[COLOR lightyellow][B](4) Eska Party TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/eska_party-t/_definst_/eska_party_360p/playlist.m3u8$$lsname=[COLOR lightyellow][B](5) Eska Party TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/eska_party-t/eska_party_360p/playlist.m3u8$$lsname=[COLOR lightyellow][B](6) Eska Party TV 360p[/B][/COLOR]</link>
+				</subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Eska Rock TV[/B][/COLOR]</name>
+          <thumbnail>https://cdn.firstonetv.eu/images/logos/pl/ESKA_ROCKTV.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]HD[/B][/COLOR]</title>
+			      <thumbnail>https://cdn.firstonetv.eu/images/logos/pl/ESKA_ROCKTV.png</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/eska_rock-t/eska_rock_720p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Eska Rock TV HD[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/eska_rock-t/_definst_/eska_rock_720p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) Eska Rock TV HD[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/eska_rock-t/eska_rock_720p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) Eska Rock TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/eska_rock-t/eska_rock_720p$$lsname=[COLOR lightyellow][B](4) Eska Rock TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/eska_rock-t/_definst_/eska_rock_720p$$lsname=[COLOR lightyellow][B](5) Eska Rock TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/eska_rock-t/eska_rock_720p$$lsname=[COLOR lightyellow][B](6) Eska Rock TV HD[/B][/COLOR]</link>
+				</subitem> 	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]480p[/B][/COLOR]</title>
+			      <thumbnail>https://cdn.firstonetv.eu/images/logos/pl/ESKA_ROCKTV.png</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/eska_rock-t/eska_rock_480p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Eska Rock TV 480p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/eska_rock-t/_definst_/eska_rock_480p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) Eska Rock TV 480p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/eska_rock-t/eska_rock_480p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) Eska Rock TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/eska_rock-t/eska_rock_480p$$lsname=[COLOR lightyellow][B](4) Eska Rock TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/eska_rock-t/_definst_/eska_rock_480p$$lsname=[COLOR lightyellow][B](5) Eska Rock TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/eska_rock-t/eska_rock_480p$$lsname=[COLOR lightyellow][B](6) Eska Rock TV 480p[/B][/COLOR]</link>
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]360p[/B][/COLOR]</title>
+			      <thumbnail>https://cdn.firstonetv.eu/images/logos/pl/ESKA_ROCKTV.png</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/eska_rock-t/eska_rock_360p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Eska Rock TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/eska_rock-t/_definst_/eska_rock_360p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) Eska Rock TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/eska_rock-t/eska_rock_360p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) Eska Rock TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/eska_rock-t/eska_rock_360p$$lsname=[COLOR lightyellow][B](4) Eska Rock TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/eska_rock-t/_definst_/eska_rock_360p$$lsname=[COLOR lightyellow][B](5) Eska Rock TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/eska_rock-t/eska_rock_360p$$lsname=[COLOR lightyellow][B](6) Eska Rock TV 360p[/B][/COLOR]</link>
+				</subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Fokus TV[/B][/COLOR]</name>
+          <thumbnail>https://n-14-21.dcs.redcdn.pl/file/play/playtv/logo/FOTV_cl.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]360p[/B][/COLOR]</title>
+			      <thumbnail>https://n-14-21.dcs.redcdn.pl/file/play/playtv/logo/FOTV_cl.png</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/fokustv-p/stream1/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Fokus TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/fokustv-p/_definst_/stream1/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) Fokus TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/fokustv-p/stream1/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) Fokus TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/fokustv-p/stream1$$lsname=[COLOR lightyellow][B](4) Fokus TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/fokustv-p/_definst_/stream1$$lsname=[COLOR lightyellow][B](5) Fokus TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/fokustv-p/stream1$$lsname=[COLOR lightyellow][B](6) Fokus TV 360p[/B][/COLOR]</link>
+				</subitem> 
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Hip Hop TV[/B][/COLOR]</name>
+          <thumbnail>http://glamrap.pl/images/stories/c17/hh67.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]360p[/B][/COLOR]</title>
+			      <thumbnail>http://glamrap.pl/images/stories/c17/hh67.jpg</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/hiphoptv-p/stream1/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Hip Hop TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/hiphoptv-p/_definst_/stream1/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) Hip Hop TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/hiphoptv-p/stream1/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) Hip Hop TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/hiphoptv-p/stream1$$lsname=[COLOR lightyellow][B](4) Hip Hop TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/hiphoptv-p/_definst_/stream1$$lsname=[COLOR lightyellow][B](5) Hip Hop TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/hiphoptv-p/stream1$$lsname=[COLOR lightyellow][B](6) Hip Hop TV 360p[/B][/COLOR]</link>
+				</subitem> 
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!--
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Nowa TV[/B][/COLOR]</name>
+          <thumbnail>http://telewizja-cyfrowa.com/wp-content/uploads/2016/09/nowa-tv-logo.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightblue]480p[/COLOR]</title>
+			      <thumbnail>http://telewizja-cyfrowa.com/wp-content/uploads/2016/09/nowa-tv-logo.png</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/nowatv-t/nowatv_480p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://stream.smcdn.pl/nowatv-t/_definst_/nowatv_480p/playlist.m3u8$$lsname=LINK 2</link>
+				  <link>https://stream.smcdn.pl/nowatv-t/nowatv_480p/playlist.m3u8$$lsname=LINK 3</link>
+				</subitem> 	
+				
+				<subitem>
+                  <title>[COLOR lightblue]360p[/COLOR]</title>
+			      <thumbnail>http://telewizja-cyfrowa.com/wp-content/uploads/2016/09/nowa-tv-logo.png</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/nowatv-t/nowatv_360p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://stream.smcdn.pl/nowatv-t/_definst_/nowatv_360p/playlist.m3u8$$lsname=LINK 2</link>
+				  <link>https://stream.smcdn.pl/nowatv-t/nowatv_360p/playlist.m3u8$$lsname=LINK 3</link>
+				</subitem>
+			</subitems>	
+        </subchannel>
+-->		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Polo TV[/B][/COLOR]</name>
+          <thumbnail>http://c01.common.smcloud.net/s/1014333f0Lw.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]360p[/B][/COLOR]</title>
+			      <thumbnail>http://c01.common.smcloud.net/s/1014333f0Lw.png</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/polotv-p/stream1/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Polo TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/polotv-p/_definst_/stream1/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) Polo TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/polotv-p/stream1/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) Polo TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/polotv-p/stream1$$lsname=[COLOR lightyellow][B](4) Polo TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/polotv-p/_definst_/stream1$$lsname=[COLOR lightyellow][B](5) Polo TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/polotv-p/stream1$$lsname=[COLOR lightyellow][B](6) Polo TV 360p[/B][/COLOR]</link>
+				</subitem> 	
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Polo Party TV[/B][/COLOR]</name>
+          <thumbnail>http://www.sat-address.com/f/pics/logotipi/Polo-Party-TV-PL_o.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]HD[/B][/COLOR]</title>
+			      <thumbnail>http://www.sat-address.com/f/pics/logotipi/Polo-Party-TV-PL_o.jpg</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Polo Party TV HD[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/polo_party-t/_definst_/polo_party_720p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) Polo Party TV HD[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/polo_party-t/polo_party_720p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) Polo Party TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/polo_party-t/polo_party_720p$$lsname=[COLOR lightyellow][B](4) Polo Party TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/polo_party-t/_definst_/polo_party_720p$$lsname=[COLOR lightyellow][B](5) Polo Party TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/polo_party-t/polo_party_720p$$lsname=[COLOR lightyellow][B](6) Polo Party TV HD[/B][/COLOR]</link>
+				</subitem> 	
+				
+			    <subitem>
+                  <title>[COLOR lightyellow][B]480p[/B][/COLOR]</title>
+			      <thumbnail>http://www.sat-address.com/f/pics/logotipi/Polo-Party-TV-PL_o.jpg</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/polo_party-t/polo_party_480p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Polo Party TV 480p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/polo_party-t/_definst_/polo_party_480p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) Polo Party TV 480p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/polo_party-t/polo_party_480p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) Polo Party TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/polo_party-t/polo_party_480p$$lsname=[COLOR lightyellow][B](4) Polo Party TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/polo_party-t/_definst_/polo_party_480p$$lsname=[COLOR lightyellow][B](5) Polo Party TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/polo_party-t/polo_party_480p$$lsname=[COLOR lightyellow][B](6) Polo Party TV 480p[/B][/COLOR]</link>
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]360p[/B][/COLOR]</title>
+			      <thumbnail>http://www.sat-address.com/f/pics/logotipi/Polo-Party-TV-PL_o.jpg</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/polo_party-t/polo_party_360p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Polo Party TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/polo_party-t/_definst_/polo_party_360p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) Polo Party TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/polo_party-t/polo_party_360p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) Polo Party TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/polo_party-t/polo_party_360p$$lsname=[COLOR lightyellow][B](4) Polo Party TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/polo_party-t/_definst_/polo_party_360p$$lsname=[COLOR lightyellow][B](5) Polo Party TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/polo_party-t/polo_party_360p$$lsname=[COLOR lightyellow][B](6) Polo Party TV 360p[/B][/COLOR]</link>
+				</subitem> 	
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]VOX Music TV[/B][/COLOR]</name>
+          <thumbnail>https://cdn.firstonetv.eu/images/logos/pl/VOX_MUSIC_TV.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]360p[/B][/COLOR]</title>
+			      <thumbnail>https://cdn.firstonetv.eu/images/logos/pl/VOX_MUSIC_TV.png</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) VOX Music TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/vox2-p/_definst_/stream1/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) VOX Music TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/vox2-p/stream1/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) VOX Music TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/vox2-p/stream1$$lsname=[COLOR lightyellow][B](4) VOX Music TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/vox2-p/_definst_/stream1$$lsname=[COLOR lightyellow][B](5) VOX Music TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/vox2-p/stream1$$lsname=[COLOR lightyellow][B](6) VOX Music TV 360p[/B][/COLOR]</link>
+				</subitem>	
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]VOX Music Old's Cool TV[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/r/d/s/rd2005530kqU2.jpg/ru-0-r-108,108-n-rd2005530kqU2.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]HD[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/r/d/s/rd2005530kqU2.jpg/ru-0-r-108,108-n-rd2005530kqU2.jpg</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/vox-t/vox_720p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) VOX Music Old's Cool TV HD[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/vox-t/_definst_/vox_720p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) VOX Music Old's Cool TV HD[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/vox-t/vox_720p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) VOX Music Old's Cool TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/vox-t/vox_720p$$lsname=[COLOR lightyellow][B](4) VOX Music Old's Cool TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/vox-t/_definst_/vox_720p$$lsname=[COLOR lightyellow][B](5) VOX Music Old's Cool TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/vox-t/vox_720p$$lsname=[COLOR lightyellow][B](6) VOX Music Old's Cool TV HD[/B][/COLOR]</link>
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]480p[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/r/d/s/rd2005530kqU2.jpg/ru-0-r-108,108-n-rd2005530kqU2.jpg</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/vox-t/vox_480p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) VOX Music Old's Cool TV 480p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/vox-t/_definst_/vox_480p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) VOX Music Old's Cool TV 480p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/vox-t/vox_480p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) VOX Music Old's Cool TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/vox-t/vox_480p$$lsname=[COLOR lightyellow][B](4) VOX Music Old's Cool TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/vox-t/_definst_/vox_480p$$lsname=[COLOR lightyellow][B](5) VOX Music Old's Cool TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/vox-t/vox_480p$$lsname=[COLOR lightyellow][B](6) VOX Music Old's Cool TV 480p[/B][/COLOR]</link>
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]360p[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/r/d/s/rd2005530kqU2.jpg/ru-0-r-108,108-n-rd2005530kqU2.jpg</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/vox-t/vox_360p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) VOX Music Old's Cool TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/vox-t/_definst_/vox_360p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) VOX Music Old's Cool TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/vox-t/vox_360p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) VOX Music Old's Cool TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/vox-t/vox_360p$$lsname=[COLOR lightyellow][B](4) VOX Music Old's Cool TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/vox-t/_definst_/vox_360p$$lsname=[COLOR lightyellow][B](5) VOX Music Old's Cool TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/vox-t/vox_360p$$lsname=[COLOR lightyellow][B](6) VOX Music Old's Cool TV 360p[/B][/COLOR]</link>
+				</subitem>
+			</subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]WAWA TV[/B][/COLOR]</name>
+          <thumbnail>https://cdn.firstonetv.eu/images/logos/pl/WAWATV.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]HD[/B][/COLOR]</title>
+			      <thumbnail>https://cdn.firstonetv.eu/images/logos/pl/WAWATV.png</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/wawa-t/wawa_720p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) WAWA TV HD[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/wawa-t/_definst_/wawa_720p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) WAWA TV HD[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/wawa-t/wawa_720p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) WAWA TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/wawa-t/wawa_720p$$lsname=[COLOR lightyellow][B](4) WAWA TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/wawa-t/_definst_/wawa_720p$$lsname=[COLOR lightyellow][B](5) WAWA TV HD[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/wawa-t/wawa_720p$$lsname=[COLOR lightyellow][B](6) WAWA TV HD[/B][/COLOR]</link>
+				</subitem> 	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]480p[/B][/COLOR]</title>
+			      <thumbnail>https://cdn.firstonetv.eu/images/logos/pl/WAWATV.png</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/wawa-t/wawa_480p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) WAWA TV 480p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/wawa-t/_definst_/wawa_480p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) WAWA TV 480p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/wawa-t/wawa_480p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) WAWA TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/wawa-t/wawa_480p$$lsname=[COLOR lightyellow][B](4) WAWA TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/wawa-t/_definst_/wawa_480p$$lsname=[COLOR lightyellow][B](5) WAWA TV 480p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/wawa-t/wawa_480p$$lsname=[COLOR lightyellow][B](6) WAWA TV 480p[/B][/COLOR]</link>
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]360p[/B][/COLOR]</title>
+			      <thumbnail>https://cdn.firstonetv.eu/images/logos/pl/WAWATV.png</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/wawa-t/wawa_360p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) WAWA TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/wawa-t/_definst_/wawa_360p/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) WAWA TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/wawa-t/wawa_360p/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) WAWA TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/wawa-t/wawa_360p$$lsname=[COLOR lightyellow][B](4) WAWA TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/wawa-t/_definst_/wawa_360p$$lsname=[COLOR lightyellow][B](5) WAWA TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/wawa-t/wawa_360p$$lsname=[COLOR lightyellow][B](6) WAWA TV 360p[/B][/COLOR]</link>
+				</subitem> 	
+			</subitems>	
+        </subchannel>	
+	</channel>	  
+</channels>		  
