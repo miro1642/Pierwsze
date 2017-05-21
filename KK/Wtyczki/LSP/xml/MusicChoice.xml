@@ -1,0 +1,678 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+  <channels_info> <!-- this is opitonal -->
+  <title>[COLOR yellow]•[/COLOR]    [COLOR purple][B]Music Choice[/B] [/COLOR]</title> 
+  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+  <fanart>http://i.imgbox.com/2kwav0nq.png</fanart>
+  </channels_info> 
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+    <channel>
+    <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio[/B][/COLOR]</name>
+    <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+    <fanart>http://ww1.prweb.com/prfiles/2017/01/06/13964692/Rihanna_Work_146905.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+        <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]TODAY'S MUSIC[/B][/COLOR]</name>
+        <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+          <subsubitems>	
+		    <subitem>
+              <title>[COLOR lightyellow][B]Adult Alternative[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-022/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem> 
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]ALT R&B[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-163/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem> 
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Alternative[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-014/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem> 
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Brits + Hits[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-154/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem> 
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Dance/EDM[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-013/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem> 
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Hip-Hop And R&B[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-005/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem> 
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Hit List[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-002/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem> 
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Indie[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-117/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem> 
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Love Songs[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-049/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Metal[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-015/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Music Choice Max[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-050/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Pop&Country[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-047/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Pop Hits[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-029/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]R&B Soul[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-010/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Rap[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-011/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Rap 2K[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-165/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Reggae[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-024/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Rock[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-044/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Soft Rock[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-001/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Teen Beats[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-051/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Today's Country[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-003/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Underground Hip-Hop[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-149/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+		  </subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]THROWBACK MUSIC[/B][/COLOR]</name>
+          <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            <subitems>		
+			<subitem>
+              <title>[COLOR lightyellow][B]70s[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-036/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]80s[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-038/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]80s Rock[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]90s[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-039/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Classic Alternative[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-146/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Classic Country[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-027/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Classic Dance[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-162/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Classic Metal[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-153/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Classic Rock[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-006/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Country Hits[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-040/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Emo X Screamo[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-164/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Funk[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-161/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Hip-Hop Classics[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-019/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]New Wave[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-166/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Punk[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-152/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]R&B Classics[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-043/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Rock Hits[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-035/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Solid Gold Oldies[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-004/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Throwback Jamz[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-042/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Y2K[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-048/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+		  </subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>		   <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]LATINO[/B][/COLOR]</name>
+          <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            <subitems>
+			<subitem>
+              <title>[COLOR lightyellow][B]Latin Jazz[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-157/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Mexicana[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-026/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Musica Urbana[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-034/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Pop Latino[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-041/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Rock Latino[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-155/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Romances[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-031/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Teen Ritmos[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-159/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Tropicales[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-025/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+		  </subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>		   <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]VARIETY[/B][/COLOR]</name>
+          <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            <subitems>	
+			<subitem>
+              <title>[COLOR lightyellow][B]All Xmas[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-158/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Americana[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-147/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Bluegrass[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-148/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Blues[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-046/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Classical Masterpieces[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-017/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Contemporary Christian[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-016/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Easy Listening[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-009/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Folk[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-156/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Gospel[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-023/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Jazz[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-012/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Light Classical[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-008/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Lounge[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-150/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Opera[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-167/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Party Favourites[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-033/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Singers&Swing[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-018/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Smooth Jazz[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-007/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Sounds of the Seasons[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-032/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Soundscapes[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-045/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Stage&Screen[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-028/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+		  </subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>		   <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]FAMILY[/B][/COLOR]</name>
+          <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            <subitems>			
+			<subitem>
+              <title>[COLOR lightyellow][B]Kids Movie Soundtracks[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-160/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Kids Only![/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-021/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Toddler Tunes[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-020/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+		  </subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>		   <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]INTERNATIONAL[/B][/COLOR]</name>
+          <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            <subitems>		
+			<subitem>
+              <title>[COLOR lightyellow][B]Brazilian Pop[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-135/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]Filipino[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-136/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+			
+			<subitem>
+              <title>[COLOR lightyellow][B]K-Pop[/B][/COLOR]</title>
+              <link>http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-134/chunklist.m3u8</link>
+              <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            </subitem>
+		</subitems>
+	</channel>	  
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]TV[/B][/COLOR]</name>
+      <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+      <fanart>http://i.imgbox.com/2kwav0nq.png</fanart>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]TV TODAY'S MUSIC[/B][/COLOR]</name>
+          <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>[COLOR lightyellow][B]Alternative[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/122/chunklist.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Brits + Hits[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/143/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Dance/EDM[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Hip-Hop And R&B[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/106/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Hit List[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/100/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Indie[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/129/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Metal[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/139/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Pop & Country[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/132/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Pop Hits[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]R&B Soul[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/124/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Rap[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/125/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Rap 2K[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/141/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Rock[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Teen Beats[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/118/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Today’s Country[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/121/chunklist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]TV THROWBACK MUSIC[/B][/COLOR]</name>
+          <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            <subitems>		
+				<subitem>
+                  <title>[COLOR lightyellow][B]90s[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/140/chunklist.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Throwback Jamz[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/142/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Y2K[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/145/chunklist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>		   <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]TV LATINO[/B][/COLOR]</name>
+          <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>[COLOR lightyellow][B]Mexicana[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Musica Urbana[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/128/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Pop Latino[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Tropicales[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>		   <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]TV FAMILY[/B][/COLOR]</name>
+          <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            <subitems>				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Kidz Only![/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Toddler Tunes[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+		    <items>
+			    <item>
+                  <title>[COLOR lightyellow][B]MC Play[/B][/COLOR]</title>
+				  <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
+                  <link>http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8</link>
+                </item>
+			</items>
+	</channel>		
+</channels>	
