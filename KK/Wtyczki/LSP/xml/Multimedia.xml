@@ -129,13 +129,13 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]PVR[/B][/COLOR]</name>
-          <thumbnail>http://www.pvr.si/media/wysiwyg/infortis/brands/logo-nav-1.jpg</thumbnail>
+          <thumbnail>http://4.bp.blogspot.com/-AaPtqjtaYN8/UzjZax2pxUI/AAAAAAAACak/ETfGjhoyqRs/s1600/pvr-logo-letter.png</thumbnail>
           <fanart>https://i.ytimg.com/vi/b9seCp8PPIo/maxresdefault.jpg</fanart>
             <subitems>		
 				<subitem>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Dreambox Polskie[/B][/COLOR]</title>
                   <link>http://ignorame</link>
-                  <thumbnail>http://www.pvr.si/media/wysiwyg/infortis/brands/logo-nav-1.jpg</thumbnail>
+                  <thumbnail>http://4.bp.blogspot.com/-AaPtqjtaYN8/UzjZax2pxUI/AAAAAAAACak/ETfGjhoyqRs/s1600/pvr-logo-letter.png</thumbnail>
                   <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
                   <externallink>https://gist.githubusercontent.com/miro1642/e4efbd75aa4ea3c9a161651bdd3ba074/raw/</externallink>
 				</subitem>
@@ -143,7 +143,7 @@
 				<subitem>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Zagraniczne[/B][/COLOR]</title>
                   <link>http://ignorame</link>
-                  <thumbnail>http://www.pvr.si/media/wysiwyg/infortis/brands/logo-nav-1.jpg</thumbnail>
+                  <thumbnail>http://4.bp.blogspot.com/-AaPtqjtaYN8/UzjZax2pxUI/AAAAAAAACak/ETfGjhoyqRs/s1600/pvr-logo-letter.png</thumbnail>
                   <fanart>http://www.tapeciarnia.pl/tapety/normalne/57136_flagi_panstw_unia_europejska.jpg</fanart>
                   <externallink>http://adryanlist.org/adryan/evento.xml</externallink>
 				</subitem>
