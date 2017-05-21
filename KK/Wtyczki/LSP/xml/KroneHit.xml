@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+  <channels_info> <!-- this is opitonal -->
+  <title>[COLOR yellow]•[/COLOR]    [COLOR green][B]KroneHit[/B] [/COLOR]</title> 
+  <thumbnail>https://asky-04.audials.com/radio_logo/15900.jpg</thumbnail>
+  <fanart>http://www.kronehit.at/assets/content/KH-TV-1-611.jpg</fanart>
+  </channels_info> 
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+    <channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio[/B][/COLOR]</name>
+      <thumbnail>https://asky-04.audials.com/radio_logo/15900.jpg</thumbnail>
+      <fanart>http://www.kronehit.at/assets/content/KH-TV-1-611.jpg</fanart>
+        <items>
+		    <item>
+                <title>[COLOR lightyellow][B]105.8[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit1058.mp3?context=fHA6LTE=</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/chan1058-90x65.png</thumbnail>
+            </item>
+		
+		    <item>
+                <title>[COLOR lightyellow][B]90's Dance[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-90sdance.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/90s-DANCE-2015-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Absolut Anita[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-anita.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/ANITA-LOOP-1-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Balkan Beats[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-balkan.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/NEU-BALKAN-BEATS-NEU-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Best of 2015[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-event3.mp3?context=fHA6LTE=</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/BEST-OF-2015-90x65.jpg</thumbnail>
+            </item>
+		
+		    <item>
+                <title>[COLOR lightyellow][B]Big City Beats[/B][/COLOR]</title>
+                <link>http://138.201.252.25/bigcitybeats</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/BIGCITYBEATS-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Black[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-black.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/BLACK-2015-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Boy Groups[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-boygroups.mp3?context=fHA6LTE=</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/BOYGROUPS-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Charts[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-charts.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/NEU-CHARTS-NEU-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Clubland XXL[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-clubland.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/CLUBLAND-XXL-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Dance[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-dance.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/DANCE-2015-90x65.png</thumbnail>
+            </item>
+			
+		    <item>
+                <title>[COLOR lightyellow][B]Digital[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-hp.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/DIGITAL-2015-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Digital UHD[/B][/COLOR]</title>
+                <link>http://onair.krone.at/kronehit64.aac?context=fHA6LTE=</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/UHD-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Electric[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-electric.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/ELECTRIC-weiss-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Electric Love[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-event4.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/ELECTRIC-LOVE-90x65.png</thumbnail>
+            </item>
+			
+		    <item>
+                <title>[COLOR lightyellow][B]Fresh[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-fresh.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/FRESH-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]German Hip Hop[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-ghiphop.mp3?context=fHA6LTE=</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/GERMAN-HIPHOP-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Girl Power[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-girlpower.mp3?context=fHA6LTE=</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/GIRLPOWER-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Greatest Hits[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-greatesthits.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/Greatest-Hits-2015-90x65.png</thumbnail>
+            </item>
+			
+            <item>
+                <title>[COLOR lightyellow][B]Interactive[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-interactive.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/interactive-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Italo[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-italo.mp3?context=fHA6LTE=</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/ITALO-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Latino[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-latino.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/LATINO-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Love[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-love.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/LOVE-2015-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Spring Break[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-event.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/branding/SPRING-BREAK-940-233-artistwheel.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Total Versext[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-versext.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/TOTAL-VERSEXT-90x65.jpg</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]UK Charts[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-uscharts.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/UK-CHARTS-90x65-NEU.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]US Charts[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-ukcharts.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/US-CHARTS-90x65-NEU.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Vollgas[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-vollgas.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/NEU-VOLLGAS-NEU-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Workout[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-event2.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/WORKOUT-2015-90x65.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow][B]Y.A.M[/B][/COLOR]</title>
+                <link>http://onair-ha1.krone.at/kronehit-yam.mp3</link>
+                <thumbnail>http://www.kronehit.at/assets/channels/flag/NEU-YAM-NEU-90x65.png</thumbnail>
+            </item>
+        </items>
+	</channel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+    <channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]TV[/B][/COLOR]</name>
+      <thumbnail>https://lh3.ggpht.com/f1jp_0zjMVgt56RDadEnEGWLMM-p14bQxULSASkgfFC6HdFms3MzPuSUTsby-8lvLw=w300</thumbnail>
+      <fanart>http://www.kronehit.at/assets/content/KH-TV-1-611.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]KroneHit TV[/B][/COLOR]</name>
+          <thumbnail>https://lh3.ggpht.com/f1jp_0zjMVgt56RDadEnEGWLMM-p14bQxULSASkgfFC6HdFms3MzPuSUTsby-8lvLw=w300</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow][B]HD[/B][/COLOR]</title>
+				  <thumbnail>https://lh3.ggpht.com/f1jp_0zjMVgt56RDadEnEGWLMM-p14bQxULSASkgfFC6HdFms3MzPuSUTsby-8lvLw=w300</thumbnail>
+                  <f4m>http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8</f4m>
+                </subitem>	
+			
+                <subitem>
+                  <title>[COLOR lightyellow][B]720p[/B][/COLOR]</title>
+				  <thumbnail>https://lh3.ggpht.com/f1jp_0zjMVgt56RDadEnEGWLMM-p14bQxULSASkgfFC6HdFms3MzPuSUTsby-8lvLw=w300</thumbnail>
+                  <f4m>http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8</f4m>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]540p[/B][/COLOR]</title>
+				  <thumbnail>https://lh3.ggpht.com/f1jp_0zjMVgt56RDadEnEGWLMM-p14bQxULSASkgfFC6HdFms3MzPuSUTsby-8lvLw=w300</thumbnail>
+                  <f4m>http://bitcdn-kronehit-live.bitmovin.com/hls/1100k/bitcodin.m3u8</f4m>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]360p[/B][/COLOR]</title>
+				  <thumbnail>https://lh3.ggpht.com/f1jp_0zjMVgt56RDadEnEGWLMM-p14bQxULSASkgfFC6HdFms3MzPuSUTsby-8lvLw=w300</thumbnail>
+                  <f4m>http://bitcdn-kronehit-live.bitmovin.com/hls/700k/bitcodin.m3u8</f4m>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]360p[/B][/COLOR]</title>
+				  <thumbnail>https://lh3.ggpht.com/f1jp_0zjMVgt56RDadEnEGWLMM-p14bQxULSASkgfFC6HdFms3MzPuSUTsby-8lvLw=w300</thumbnail>
+                  <f4m>http://bitcdn-kronehit-live.bitmovin.com/hls/500k/bitcodin.m3u8</f4m>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]180p[/B][/COLOR]</title>
+				  <thumbnail>https://lh3.ggpht.com/f1jp_0zjMVgt56RDadEnEGWLMM-p14bQxULSASkgfFC6HdFms3MzPuSUTsby-8lvLw=w300</thumbnail>
+                  <f4m>http://bitcdn-kronehit-live.bitmovin.com/hls/250k/bitcodin.m3u8</f4m>
+                </subitem>
+			</subitems>	
+        </subchannel>
+	</channel>
+</channels>		
