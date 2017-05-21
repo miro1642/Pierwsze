@@ -71,7 +71,7 @@
                   <link>http://ignorame</link>
                   <thumbnail>https://lh5.ggpht.com/o1CSEAenWw4xXNt-C1SUaa870VF3AwKlmcm9gsAQ16WqZiXdPSwQCgvET3edCbEymcI=w300</thumbnail>
                   <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>https://gist.githubusercontent.com/miro1642/52e445fa25c33f7f0c3e8d64251911ad/raw/</externallink>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/HLS_Polskie.xml</externallink>
 				</subitem>
 				
 				<subitem>
@@ -79,7 +79,7 @@
                   <link>http://ignorame</link>
                   <thumbnail>https://lh5.ggpht.com/o1CSEAenWw4xXNt-C1SUaa870VF3AwKlmcm9gsAQ16WqZiXdPSwQCgvET3edCbEymcI=w300</thumbnail>
                   <fanart>http://www.tapeciarnia.pl/tapety/normalne/57136_flagi_panstw_unia_europejska.jpg</fanart>
-                  <externallink>https://gist.githubusercontent.com/miro1642/7c154d518f06188e315a170c76b1f755/raw</externallink>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/HLS_Zagraniczne.xml</externallink>
 				</subitem>
 		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
@@ -101,7 +101,7 @@
                   <link>http://ignorame</link>
                   <thumbnail>http://cdn.crowdfundinsider.com/wp-content/uploads/2014/01/P2P.png</thumbnail>
                   <fanart>http://www.tapeciarnia.pl/tapety/normalne/57136_flagi_panstw_unia_europejska.jpg</fanart>
-                  <externallink>https://gist.githubusercontent.com/miro1642/8c3efdbfb6ae8eae46aaa4e3e60c5a02/raw/</externallink>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/Torrenty_Zagraniczne.xml</externallink>
 				</subitem>
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
@@ -115,7 +115,7 @@
                   <link>http://ignorame</link>
                   <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.playlistLoader.png.pagespeed.ic.cN3WazgAOp.png</thumbnail>
                   <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>https://gist.githubusercontent.com/miro1642/2cba99348ee679f605c2eaccb29b6873/raw/</externallink>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/Polskie_Playlisty_IPTV.xml</externallink>
 				</subitem>
 				
 				<subitem>
@@ -123,7 +123,7 @@
                   <link>http://ignorame</link>
                   <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.playlistLoader.png.pagespeed.ic.cN3WazgAOp.png</thumbnail>
                   <fanart>http://www.tapeciarnia.pl/tapety/normalne/57136_flagi_panstw_unia_europejska.jpg</fanart>
-                  <externallink>https://gist.githubusercontent.com/miro1642/d2735c62d72414bafe82004107481d7b/raw/</externallink>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/Zagraniczne_Playlisty_IPTV.xml</externallink>
 				</subitem>
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
@@ -230,7 +230,7 @@
                   <link>http://ignorame</link>
                   <thumbnail>https://asky-04.audials.com/radio_logo/15900.jpg</thumbnail>
                   <fanart>http://www.kronehit.at/assets/content/KH-TV-1-611.jpg</fanart>
-                  <externallink>https://gist.githubusercontent.com/miro1642/9438e3c787a2c20c838f835395e6f091/raw/</externallink>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/KroneHit.xml</externallink>
 				</subitem>
  
 				<subitem>
@@ -238,7 +238,7 @@
                   <link>http://ignorame</link>
                   <thumbnail>http://cdn2.thr.com/sites/default/files/2012/02/music-choice-mc_logo.jpg</thumbnail>
                   <fanart>http://i.imgbox.com/2kwav0nq.png</fanart>
-                  <externallink>https://gist.githubusercontent.com/miro1642/4b983652af42dd8598eaf60c02c9fc9f/raw/</externallink>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/MusicChoice.xml</externallink>
 				</subitem>
 			</subitems>	
 		</subchannel>
@@ -249,7 +249,7 @@
                 <link>http://ignorame</link>
                 <thumbnail>http://vignette3.wikia.nocookie.net/uncyclopedia/images/5/56/Music-notes.jpg/revision/latest?cb=20080914120706</thumbnail>
                 <fanart>http://stuffpoint.com/music/image/439381-music-music-bass.jpg</fanart>
-				<externallink>https://gist.githubusercontent.com/miro1642/686db8f1c512f6abdd5acabe93f563b4/raw/</externallink>
+				<externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/Muzyczne_TV.xml</externallink>
             </item>
       	</items>	
     </channel>
@@ -266,7 +266,7 @@
               <link>http://ignorame</link>
               <thumbnail>http://gimnazjum-miloslaw.edu.pl/wp-content/uploads/2016/03/first-public-radio-broadcast.jpg</thumbnail>
               <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-              <externallink>https://gist.githubusercontent.com/miro1642/3f350023dbc1283284d9af7c2fdb74f3/raw/</externallink>	
+              <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/Radio_Polskie.xml</externallink>	
 			</item> 
 			
 			<item>
@@ -274,7 +274,7 @@
               <link>http://ignorame</link>
               <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.playlistLoader.png.pagespeed.ic.cN3WazgAOp.png</thumbnail>
               <fanart>http://www.hutui6.com/data/out/159/68217742-radio-wallpapers.jpeg</fanart>
-              <externallink>https://gist.githubusercontent.com/miro1642/4a1edd5d7819140fea72820a27fb1524/raw/</externallink>	
+              <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/Playlisty_Radiowe.xml</externallink>	
 			</item> 
 				
 			<item>
@@ -282,7 +282,7 @@
               <link>http://ignorame</link>
               <thumbnail>http://gimnazjum-miloslaw.edu.pl/wp-content/uploads/2016/03/first-public-radio-broadcast.jpg</thumbnail>
               <fanart>http://www.tapeciarnia.pl/tapety/normalne/57136_flagi_panstw_unia_europejska.jpg</fanart>
-              <externallink>https://gist.githubusercontent.com/miro1642/c5eaa07b454167dda0faf1666dc9c1e9/raw/</externallink>	
+              <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/Radio_Zagraniczne.xml</externallink>	
 			</item> 
 		  </items>
 	</channel>	
