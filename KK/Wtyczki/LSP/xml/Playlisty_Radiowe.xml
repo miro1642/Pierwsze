@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+  <channels_info> <!-- this is opitonal -->
+  <title>[COLOR yellow]•[/COLOR]    [COLOR purple][B]Playlisty Radiowe[/B][/COLOR]</title> 
+  <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.playlistLoader.png.pagespeed.ic.cN3WazgAOp.png</thumbnail>
+  <fanart>http://www.zappiti.com/images/screenshots/gui-zappiti-media-center-categories-en-1920x1080.jpg</fanart>
+  </channels_info> 
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]friezy.ru[/B][/COLOR]</name>
+      <thumbnail>https://friezy.ru/wp-content/uploads/2016/10/Lost.png</thumbnail>
+      <fanart>https://friezy.ru/wp-content/uploads/2017/01/cover.png</fanart>	
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Classical Radio[/B][/COLOR]</name>
+          <thumbnail>https://lh3.googleusercontent.com/_0yrJxE-x8jOBNnl5TtNrb0OvhIknKplGBpHwBiFtdHerBHd5gUvCEAOys6icBGFjzA=w300</thumbnail>
+		  <fanart>https://ichef.bbci.co.uk/images/ic/1920x1080/p01lyk9w.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]320k MP3[/COLOR]</title>
+				  <thumbnail>https://3.bp.blogspot.com/-D5Arxylz_Kk/V3tCVO-jNyI/AAAAAAAAA3A/1Ug4uM5tgYgzPuxi1oK94EUJMQS1NL6DgCLcB/s320/tieng-chim-se-mp3.png</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/CR.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]320k MP3[/COLOR]</title>
+				  <thumbnail>https://3.bp.blogspot.com/-D5Arxylz_Kk/V3tCVO-jNyI/AAAAAAAAA3A/1Ug4uM5tgYgzPuxi1oK94EUJMQS1NL6DgCLcB/s320/tieng-chim-se-mp3.png</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/CR.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]128k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/CR128.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]128k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/CR128.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]64k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/CR64.m3u</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]64k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/CR64.m3u</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]40k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/CR64.m3u</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]40k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/CR40.m3u</externallink>
+			      <page></page>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]DI.FM[/B][/COLOR]</name>
+          <thumbnail>http://cdn.audioaddict.com/di.fm/assets/android_app_banner/icon-36f5a36bcd7f7ee5c58bdc608a006d19.png</thumbnail>
+		  <fanart>https://i.ytimg.com/vi/VTfhF91EZJY/maxresdefault.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]320k MP3[/COLOR]</title>
+				  <thumbnail>https://3.bp.blogspot.com/-D5Arxylz_Kk/V3tCVO-jNyI/AAAAAAAAA3A/1Ug4uM5tgYgzPuxi1oK94EUJMQS1NL6DgCLcB/s320/tieng-chim-se-mp3.png</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/DI.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]320k MP3[/COLOR]</title>
+				  <thumbnail>https://3.bp.blogspot.com/-D5Arxylz_Kk/V3tCVO-jNyI/AAAAAAAAA3A/1Ug4uM5tgYgzPuxi1oK94EUJMQS1NL6DgCLcB/s320/tieng-chim-se-mp3.png</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/DI.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]128k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/DI128.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]128k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/DI128.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]64k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/DI64.m3u</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]64k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/DI64.m3u</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]40k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/DI64.m3u</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]40k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/DI40.m3u</externallink>
+			      <page></page>
+                </subitem>
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Jazz Radio[/B][/COLOR]</name>
+          <thumbnail>http://cdn.audioaddict.com/jazzradio.com/assets/android_app_banner/icon-4b52d460d8aeb12041b313884379c5aa.png</thumbnail>
+          <fanart>http://wallpapercave.com/wp/lVXSh99.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]256k MP3[/COLOR]</title>
+				  <thumbnail>https://3.bp.blogspot.com/-D5Arxylz_Kk/V3tCVO-jNyI/AAAAAAAAA3A/1Ug4uM5tgYgzPuxi1oK94EUJMQS1NL6DgCLcB/s320/tieng-chim-se-mp3.png</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/JR.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]256k MP3[/COLOR]</title>
+				  <thumbnail>https://3.bp.blogspot.com/-D5Arxylz_Kk/V3tCVO-jNyI/AAAAAAAAA3A/1Ug4uM5tgYgzPuxi1oK94EUJMQS1NL6DgCLcB/s320/tieng-chim-se-mp3.png</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/JR.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]128k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/JR128.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]128k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/JR128.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]64k AAC-HE[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/JR64.m3u</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]64k AAC-HE[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/JR64.m3u</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]40k AAC-HE[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/JR40.m3u</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]40k AAC-HE[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/JR40.m3u</externallink>
+			      <page></page>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio Tunes[/B][/COLOR]</name>
+          <thumbnail>http://qualisoft.dk/wp-content/uploads/2014/09/radiotunes-icon.png</thumbnail>
+          <fanart>http://img.mota.ru/upload/wallpapers/2013/12/05/12/05/38354/2baiNFmJtb-1920x1080.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]320k MP3[/COLOR]</title>
+				  <thumbnail>https://3.bp.blogspot.com/-D5Arxylz_Kk/V3tCVO-jNyI/AAAAAAAAA3A/1Ug4uM5tgYgzPuxi1oK94EUJMQS1NL6DgCLcB/s320/tieng-chim-se-mp3.png</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/RT.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]320k MP3[/COLOR]</title>
+				  <thumbnail>https://3.bp.blogspot.com/-D5Arxylz_Kk/V3tCVO-jNyI/AAAAAAAAA3A/1Ug4uM5tgYgzPuxi1oK94EUJMQS1NL6DgCLcB/s320/tieng-chim-se-mp3.png</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/RT.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]128k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/RT128.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]128k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/RT128.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]64k AAC-HE[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/RT64.m3u</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]64k AAC-HE[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/RT64.m3u</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]40k AAC-HE[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/RT40.m3u</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]40k AAC-HE[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/RT40.m3u</externallink>
+			      <page></page>
+                </subitem>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Rock Radio[/B][/COLOR]</name>
+          <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.audio.rockradio.com.png.pagespeed.ic.5vp7UxHftR.jpg</thumbnail>
+          <fanart>http://files.teamrock.com/images/696d616765-57a4a991087d13.52146299/original.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]256k MP3[/COLOR]</title>
+				  <thumbnail>https://3.bp.blogspot.com/-D5Arxylz_Kk/V3tCVO-jNyI/AAAAAAAAA3A/1Ug4uM5tgYgzPuxi1oK94EUJMQS1NL6DgCLcB/s320/tieng-chim-se-mp3.png</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/RR.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]256k MP3[/COLOR]</title>
+				  <thumbnail>https://3.bp.blogspot.com/-D5Arxylz_Kk/V3tCVO-jNyI/AAAAAAAAA3A/1Ug4uM5tgYgzPuxi1oK94EUJMQS1NL6DgCLcB/s320/tieng-chim-se-mp3.png</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/RR.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]128k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/RR128.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]128k AAC[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/RR128.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]64k AAC-HE[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://api.friezy.ru/playlists/m3u/RR64.m3u</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]64k AAC-HE[/COLOR]</title>
+				  <thumbnail>https://lh3.googleusercontent.com/IQ0fqhGti25sWiEp5X-CVjgZ95-YJe1n7RGkYP2ziaFtE_EKm4UWsGy9ZpduoxJWZg=w300</thumbnail>
+				  <link>http://ignorame</link>
+                  <externallink>https://old.friezy.ru/m3u/RR64.m3u</externallink>
+			      <page></page>
+                </subitem>
+			</subitems>	
+        </subchannel>				
+	</channel>	  
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+    <channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]m3u[/B][/COLOR]</name>
+      <thumbnail>http://www.vboxcomm.com/images/M3U_icon.png</thumbnail>
+      <fanart>http://edge.alluremedia.com.au/m/g/2014/06/shutterstock_197261408_1080.jpg</fanart>	
+            <items>
+				<item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]potokovoe.ru[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.satboerse24.de/images/dreambox_logo-1.jpg</thumbnail>
+                  <externallink>http://potokovoe.ru:8008/list.xsl</externallink>
+			      <page></page>
+                </item>
+			
+				<item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]RadioSlyNet[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.satboerse24.de/images/dreambox_logo-1.jpg</thumbnail>
+                  <externallink>http://iptv.slynet.tv/RadioSlyNet.m3u</externallink>
+			      <page></page>
+                </item>
+			</items>	
+	</channel>			  
+</channels>	

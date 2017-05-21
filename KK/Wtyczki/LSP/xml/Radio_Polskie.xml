@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+  <channels_info> <!-- this is opitonal -->
+  <title>[COLOR yellow]•[/COLOR]    [COLOR green][B]Polskie stacje radiowe/[/B] [/COLOR][COLOR orange]multi[/COLOR]</title> 
+  <thumbnail>http://gimnazjum-miloslaw.edu.pl/wp-content/uploads/2016/03/first-public-radio-broadcast.jpg</thumbnail>
+  <fanart>http://www.hutui6.com/data/out/159/68217742-radio-wallpapers.jpeg</fanart>
+  </channels_info> 
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+    <channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Pojedyncze[/B][/COLOR]</name>
+      <thumbnail>http://gimnazjum-miloslaw.edu.pl/wp-content/uploads/2016/03/first-public-radio-broadcast.jpg</thumbnail>
+      <fanart>http://hnzyzb.com/data/out/11/44349659-music-wallpapers.jpg</fanart>
+ 	    <items>
+		    <item>
+                  <title>[COLOR lightyellow]Disco Polo Music[/COLOR]</title>
+			      <thumbnail>https://pbs.twimg.com/profile_images/2609703415/qoh0lqool8flz42jwhmj.jpeg</thumbnail>
+                  <link>http://195.150.20.5/POLSKIEDISCO</link>
+            </item>
+
+			<item>
+                  <title>[COLOR lightblue]Radio Muza 80[/COLOR]</title>
+			      <thumbnail>http://rm80.pl/wp-content/static/img/RM80-logo-napis-2017-200c.png</thumbnail>
+                  <link>http://91.232.4.33:9011/stream</link>
+            </item>
+		
+			<item>
+                  <title>[COLOR lightyellow]RMF FM[/COLOR]</title>
+			      <thumbnail>https://www.runmageddon.pl/media/thumbnail/partners/min/6645.png</thumbnail>
+                  <link>http://217.74.72.4:8000/rmf_fm</link>
+            </item>
+		</items>	 	
+    </channel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+    <channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Polskie Radio[/B][/COLOR]</name>
+      <thumbnail>http://pej.aplus.pl/pej-wp/wp-content/uploads/2009/05/polskie_radio.gif</thumbnail>
+      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+        <items>
+		    <item>
+                <title>[COLOR lightyellow]Program 1[/COLOR]</title>
+                <link>http://stream3.polskieradio.pl:8900/listen.pls</link>
+				<thumbnail>http://polskafm.com/sites/default/files/radiu_jedynka.png</thumbnail>
+            </item>	
+			
+			<item>
+                <title>[COLOR lightyellow]Program 2[/COLOR]</title>
+                <link>http://stream3.polskieradio.pl:8902/listen.pls</link>
+				<thumbnail>http://static.prsa.pl/images/d5a3855e-cbd0-43a3-aeb6-3f332ba67088.jpg</thumbnail>
+            </item>	
+			
+			<item>
+                <title>[COLOR lightyellow]Program 3[/COLOR]</title>
+                <link>http://stream3.polskieradio.pl:8904/listen.pls</link>
+				<thumbnail>http://niska-kultura.blog.pl/files/2016/10/pr3.png</thumbnail>
+            </item>	
+		</items>	 	
+    </channel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Zet[/B][/COLOR]</name>
+      <thumbnail>http://gfx.radiozet.pl/design/radiozet/images/layout/logo.png</thumbnail>
+      <fanart>https://i.ytimg.com/vi/AmodMcA4Kc4/maxresdefault.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio ZET[/B][/COLOR]</name>
+          <thumbnail>http://gfx.radiozet.pl/design/radiozet/images/layout/logo.png</thumbnail>
+            <subitems>
+		    <subitem>
+                <title>[COLOR lightyellow]Radio ZET[/COLOR]</title>
+                <link>http://n-0-21.dcs.redcdn.pl/streams/o2/Eurozet/live/audio.livx$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				<link>http://radiozetmp3-07.eurozet.pl:8400$$lsname=LINK 2</link>
+                <thumbnail>http://gfx.radiozet.pl/design/radiozet/images/layout/logo.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET 80[/COLOR]</title>
+                <link>http://zet080-01.cdn.eurozet.pl:8402</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-80/66427-5-pol-PL/ZET-80_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET 90[/COLOR]</title>
+                <link>http://rds.eurozet.pl/reader/var/zet090_new.json?_=1469732916502</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-90/66667-3-pol-PL/ZET-90_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET 2000[/COLOR]</title>
+                <link>http://zet200-02.cdn.eurozet.pl:8406/;stream.nsv?seed=19074.504249729216</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-2000/68879-3-pol-PL/ZET-2000_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET Bajm[/COLOR]</title>
+                <link>http://zetbaj-01.cdn.eurozet.pl:8466/;stream.nsv?seed=16986.524588428438</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-bajm/971812-1-pol-PL/ZET-Bajm_resize200x200.jpg</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET Classic Rock[/COLOR]</title>
+                <link>http://zetcrk-01.cdn.eurozet.pl:8414/;stream.nsv?seed=8757.626144215465</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-classic-rock/69597-3-pol-PL/ZET-Classic-Rock_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET Dance[/COLOR]</title>
+                <link>http://zetdan-01.cdn.eurozet.pl:8416/;stream.nsv?seed=386.8713928386569</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-dance/66065-4-pol-PL/ZET-Dance_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET Do Biegania[/COLOR]</title>
+                <link>http://zetrun-01.cdn.eurozet.pl:8452/;stream.nsv?seed=28066.115900874138</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-do-biegania/68831-4-pol-PL/ZET-Do-Biegania_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET Film[/COLOR]</title>
+                <link>http://zetfil-01.cdn.eurozet.pl:8418/;stream.nsv?seed=26511.275111697614</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-film/66715-3-pol-PL/ZET-Film_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET Fitness[/COLOR]</title>
+                <link>http://zetfit-01.cdn.eurozet.pl:8420/;stream.nsv?seed=7236.501784063876</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-fitness/66763-3-pol-PL/ZET-Fitness_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET Hits[/COLOR]</title>
+                <link>http://zethit-01.cdn.eurozet.pl:8428/;stream.nsv?seed=9394.781738519669</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-hits/66017-5-pol-PL/ZET-Hits_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET ZET Kids[/COLOR]</title>
+                <link>http://zetkid-02.cdn.eurozet.pl:8434/;stream.nsv?seed=18661.197409965098</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-kids/66825-3-pol-PL/ZET-Kids_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET Klasyka pop[/COLOR]</title>
+                <link>http://zetgol-01.cdn.eurozet.pl:8424/;stream.nsv?seed=29046.243550255895</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-klasyka-pop/66571-3-pol-PL/ZET-Klasyka-pop_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET Love[/COLOR]</title>
+                <link>http://zetlov-01.cdn.eurozet.pl:8440/;stream.nsv?seed=20334.61867365986</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-love/66523-3-pol-PL/ZET-Love_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET Party[/COLOR]</title>
+                <link>http://zetpar-01.cdn.eurozet.pl:8444/;stream.nsv?seed=15991.938128136098</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-party/66113-4-pol-PL/ZET-Party_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET PL[/COLOR]</title>
+                <link>http://zetpl1-01.cdn.eurozet.pl:8446/;stream.nsv?seed=2536.0159249976277</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-pl/66379-4-pol-PL/ZET-PL_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET Rock[/COLOR]</title>
+                <link>http://zetrok-01.cdn.eurozet.pl:8448/;stream.nsv?seed=18022.39343058318</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-rock/66475-4-pol-PL/ZET-Rock_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET Soul[/COLOR]</title>
+                <link>http://zetsou-01.cdn.eurozet.pl:8458/;stream.nsv?seed=6335.287853144109</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-soul/66161-4-pol-PL/ZET-Soul_resize200x200.png</thumbnail>
+            </subitem> 
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET SuperGold[/COLOR]</title>
+                <link>http://zetspg-02.cdn.eurozet.pl:8460/;stream.nsv?seed=15072.249281220138</link>
+                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-supergold/66619-3-pol-PL/ZET-SuperGold_resize200x200.png</thumbnail>
+            </subitem> 
+		    </subitems>	
+	    </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio ZET Chilli[/B][/COLOR]</name>
+          <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/redakcja/zet-chilli/328527-2-pol-PL/ZET-Chilli.jpg</thumbnail>
+		  <fanart>https://i.ytimg.com/vi/t45h80Ax1n8/maxresdefault.jpg</fanart>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]ZET Chilli Biega[/COLOR]</title>
+			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-biega/3723-3-pol-PL/ZET-Chilli-Biega1_eplayer-channel.jpg</thumbnail>
+                  <link>http://chirun-01.cdn.eurozet.pl:8118/;channel.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]ZET Chilli Covers[/COLOR]</title>
+			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-covers/3963-2-pol-PL/ZET-Chilli-Covers1_eplayer-channel.jpg</thumbnail>
+                  <link>http://chicov-01.cdn.eurozet.pl:8102/;channel.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]ZET Chilli Deep[/COLOR]</title>
+			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-deep/3867-2-pol-PL/ZET-Chilli-Deep1_eplayer-channel.jpg</thumbnail>
+                  <link>http://chidep-01.cdn.eurozet.pl:8104/;channel.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]ZET Chilli Katowice[/COLOR]</title>
+			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-online-katowice/3675-2-pol-PL/ZET-Chilli-online-Katowice1_eplayer-channel.jpg</thumbnail>
+                  <link>http://chi-kat-01.cdn.eurozet.pl:8902/;channel.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]ZET Chilli Kraków[/COLOR]</title>
+			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-online-krakow/3627-2-pol-PL/ZET-Chilli-online-Krakow1_eplayer-channel.jpg</thumbnail>
+                  <link>http://chi-net-01.cdn.eurozet.pl:8900/;channel.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]ZET Chilli Ladies[/COLOR]</title>
+			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-ladies/4011-2-pol-PL/ZET-Chilli-Ladies1_eplayer-channel.jpg</thumbnail>
+                  <link>http://chilad-01.cdn.eurozet.pl:8108/;channel.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]ZET Chilli PL[/COLOR]</title>
+			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-pl/3915-3-pol-PL/ZET-Chilli-PL1_eplayer-channel.jpg</thumbnail>
+                  <link>http://chipol-01.cdn.eurozet.pl:8110/;channel.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]ZET Chilli Rafał Bryndal Jazz Quartet[/COLOR]</title>
+			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-jazz/3819-2-pol-PL/ZET-Chilli-Jazz1_eplayer-channel.jpg</thumbnail>
+                  <link>http://chijaz-01.cdn.eurozet.pl:8106/;channel.mp3</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]ZET Chilli Soul[/COLOR]</title>
+			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-soul/4059-2-pol-PL/ZET-Chilli-Soul1_eplayer-channel.jpg</thumbnail>
+                  <link>http://chisou-01.cdn.eurozet.pl:8112/;channel.mp3</link>	
+				</subitem>
+			
+			    <subitem>
+                  <title>[COLOR lightyellow]ZET Chilli Wawarsza[/COLOR]</title>
+			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-online-warszawa/3771-4-pol-PL/ZET-Chilli-online-Warszawa1_eplayer-channel.jpg</thumbnail>
+                  <link>http://n-6-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx?audio=5</link>	
+				</subitem>
+			</subitems>	
+        </subchannel>	
+	</channel>
+</channels>		
