@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+  <channels_info> <!-- this is opitonal -->
+  <title>[COLOR yellow]•[/COLOR]    [COLOR purple][B]Torrenty Zagraniczne[/B][/COLOR]</title> 
+  <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.playlistLoader.png.pagespeed.ic.cN3WazgAOp.png</thumbnail>
+  <fanart>http://www.zappiti.com/images/screenshots/gui-zappiti-media-center-categories-en-1920x1080.jpg</fanart>
+  </channels_info> 
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+    <channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Torrent[/B][/COLOR]</name>
+      <thumbnail>http://www.kino1080.org/_nw/7/43235320.png</thumbnail>
+      <fanart>https://i.ytimg.com/vi/OHmTOoKmNh4/maxresdefault.jpg</fanart>
+            <items>
+				<item>
+                  <title>[COLOR lightblue]Sportowe[/COLOR]</title>
+				  <thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+			      <link>$doregex[makelist]</link>
+                    <regex>
+                      <name>makelist</name>
+                      <listrepeat><![CDATA[
+	                    <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	                    <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=allfon.org</link>
+	                    <thumbnail>NA</thumbnail>
+                        ]]></listrepeat>
+                      <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+                      <page>https://gist.githubusercontent.com/miro1642/dcae9ebae2b974d235ddfccfb0030a2b/raw/7e1fdc8261d48d29f176db8fdd48c5fe0956a21d/Torrent.m3u</page>
+                      <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+                    </regex>
+                </item>
+			</items>	
+	</channel>			  
+</channels>	
