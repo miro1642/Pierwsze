@@ -1,0 +1,896 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+  <channels_info> <!-- this is opitonal -->
+  <title>[COLOR yellow]•[/COLOR]    [COLOR purple][B]Muzyczne TV[/B] [/COLOR]</title> 
+  <thumbnail>http://vignette3.wikia.nocookie.net/uncyclopedia/images/5/56/Music-notes.jpg/revision/latest?cb=20080914120706</thumbnail>
+  <fanart>http://stuffpoint.com/music/image/439381-music-music-bass.jpg</fanart>
+  </channels_info> 
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Polskie[/B][/COLOR]</name>
+      <thumbnail>http://vignette3.wikia.nocookie.net/uncyclopedia/images/5/56/Music-notes.jpg/revision/latest?cb=20080914120706</thumbnail>
+      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>	
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Amazing TV[/B][/COLOR]</name>
+          <thumbnail>http://szachmistrz.pl/wp-content/uploads/2013/06/amazing.jpg</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
+				  <thumbnail>http://szachmistrz.pl/wp-content/uploads/2013/06/amazing.jpg</thumbnail>
+                  <link>http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=2&bandwidth=1700000$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				    <link>http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=1&bandwidth=900000$$lsname=LINK 2</link>
+					<link>http://r.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=2&bandwidth=1700000$$lsname=LINK 3</link>
+					<link>http://r.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=1&bandwidth=900000$$lsname=LINK 4</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>http://szachmistrz.pl/wp-content/uploads/2013/06/amazing.jpg</thumbnail>
+                  <link>http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=0&bandwidth=600000$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				    <link>http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=3&bandwidth=320000$$lsname=LINK 2</link>
+				    <link>http://r.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=0&bandwidth=600000$$lsname=LINK 3</link>
+				    <link>http://r.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=3&bandwidth=320000$$lsname=LINK 4</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]132p[/COLOR]</title>
+				  <thumbnail>http://szachmistrz.pl/wp-content/uploads/2013/06/amazing.jpg</thumbnail>
+                  <link>http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=4&bandwidth=220000$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				    <link>http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=5&bandwidth=64000$$lsname=LINK 2</link>
+				    <link>http://r.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=4&bandwidth=220000$$lsname=LINK 3</link>
+				    <link>http://r.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=5&bandwidth=64000$$lsname=LINK 4</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Stars TV[/B][/COLOR]</name>
+          <thumbnail>http://i.wpimg.pl/250-187/MFT/tech/1/png_32041_stars-tv-logo.png.jpg</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+				  <thumbnail>http://i.wpimg.pl/250-187/MFT/tech/1/png_32041_stars-tv-logo.png.jpg</thumbnail>
+                  <link>http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1100000.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>http://i.wpimg.pl/250-187/MFT/tech/1/png_32041_stars-tv-logo.png.jpg</thumbnail>
+                  <link>http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b3400000.m3u8</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>		
+	</channel>	
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Zagraniczne[/B][/COLOR]</name>
+      <thumbnail>http://vignette3.wikia.nocookie.net/uncyclopedia/images/5/56/Music-notes.jpg/revision/latest?cb=20080914120706</thumbnail>
+      <fanart>http://static.prsa.pl/images/8129729f-5db3-425e-8eee-1098c7485cb4.jpg</fanart>	
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]1 HD Music Television[/B][/COLOR]</name>
+          <thumbnail>https://pbs.twimg.com/profile_images/581384485519921152/mqoXATjw.jpg</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+				  <thumbnail>https://pbs.twimg.com/profile_images/581384485519921152/mqoXATjw.jpg</thumbnail>
+                  <link>http://80.250.191.10:1935/live/livestream1/playlist.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]720p[/COLOR]</title>
+				  <thumbnail>https://pbs.twimg.com/profile_images/581384485519921152/mqoXATjw.jpg</thumbnail>
+                  <link>http://80.250.191.10:1935/live/livestream3/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8$$lsname=LINK 2</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]538 TV[/B][/COLOR]</name>
+          <thumbnail>http://fernsehen-live-stream.com/uploads/posts/2016-03/1458167155_tv-538.jpg</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]720p[/COLOR]</title>
+				  <thumbnail>http://fernsehen-live-stream.com/uploads/posts/2016-03/1458167155_tv-538.jpg</thumbnail>
+                  <link>http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>http://fernsehen-live-stream.com/uploads/posts/2016-03/1458167155_tv-538.jpg</thumbnail>
+                  <link>http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]272p[/COLOR]</title>
+				  <thumbnail>http://fernsehen-live-stream.com/uploads/posts/2016-03/1458167155_tv-538.jpg</thumbnail>
+                  <link>http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_2.m3u8</link>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+				  <thumbnail>http://fernsehen-live-stream.com/uploads/posts/2016-03/1458167155_tv-538.jpg</thumbnail>
+                  <link>http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_3.m3u8</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Dream TV[/B][/COLOR]</name>
+          <thumbnail>http://vector.me/files/images/1/1/11221/dream_tv.png</thumbnail>
+		  <info>http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/index.m3u8</info>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
+				  <thumbnail>http://vector.me/files/images/1/1/11221/dream_tv.png</thumbnail>
+                  <link>http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+				  <thumbnail>http://vector.me/files/images/1/1/11221/dream_tv.png</thumbnail>
+                  <link>http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/750/prog_index.m3u8?</link>
+				</subitem>  
+				 
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+				  <thumbnail>http://vector.me/files/images/1/1/11221/dream_tv.png</thumbnail>
+                  <link>http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/500/prog_index.m3u8?</link>
+				</subitem>  
+				 
+				<subitem>
+                  <title>[COLOR lightyellow]288p[/COLOR]</title>
+				  <thumbnail>http://vector.me/files/images/1/1/11221/dream_tv.png</thumbnail>
+                  <link>http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/256/prog_index.m3u8?</link>
+				</subitem>  
+				 
+				<subitem>
+                  <title>[COLOR lightyellow]288p[/COLOR]</title>
+				  <thumbnail>http://vector.me/files/images/1/1/11221/dream_tv.png</thumbnail>
+                  <link>http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/128/prog_index.m3u8?</link>
+				 </subitem> 
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Dream TV Türk[/B][/COLOR]</name>
+          <thumbnail>http://www.doganholding.com.tr/_images/kurulusLogolari/dreamturkLogo.jpg</thumbnail>
+		  <info>http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/index.m3u8</info>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
+				  <thumbnail>http://www.doganholding.com.tr/_images/kurulusLogolari/dreamturkLogo.jpg</thumbnail>
+                  <link>http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8?</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+				  <thumbnail>http://www.doganholding.com.tr/_images/kurulusLogolari/dreamturkLogo.jpg</thumbnail>
+                  <link>http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/750/prog_index.m3u8?</link>
+				</subitem>  
+				 
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+				  <thumbnail>http://www.doganholding.com.tr/_images/kurulusLogolari/dreamturkLogo.jpg</thumbnail>
+                  <link>http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/500/prog_index.m3u8?</link>
+				</subitem>  
+				 
+				<subitem>
+                  <title>[COLOR lightyellow]288p[/COLOR]</title>
+				  <thumbnail>http://www.doganholding.com.tr/_images/kurulusLogolari/dreamturkLogo.jpg</thumbnail>
+                  <link>http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/256/prog_index.m3u8?</link>
+				</subitem>  
+				 
+				<subitem>
+                  <title>[COLOR lightyellow]288p[/COLOR]</title>
+				  <thumbnail>http://www.doganholding.com.tr/_images/kurulusLogolari/dreamturkLogo.jpg</thumbnail>
+                  <link>http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/128/prog_index.m3u8?</link>
+				 </subitem> 
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]First Music Channel[/B][/COLOR]</name>
+          <thumbnail>http://www.sat-address.com/f/pics/logotipi/Perviy-Muzikalniy-Kanal_o.jpg</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]UHD[/COLOR]</title>
+				  <thumbnail>http://www.sat-address.com/f/pics/logotipi/Perviy-Muzikalniy-Kanal-HD_o.jpg</thumbnail>
+                  <link>http://rtmp.one.by:1400</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+				  <thumbnail>http://www.sat-address.com/f/pics/logotipi/Perviy-Muzikalniy-Kanal-HD_o.jpg</thumbnail>
+                  <link>http://rtmp.one.by:1300</link>
+                </subitem>	  
+				
+				<subitem>
+                  <title>[COLOR lightyellow]720p[/COLOR]</title>
+				  <thumbnail>http://www.sat-address.com/f/pics/logotipi/Perviy-Muzikalniy-Kanal-HD_o.jpg</thumbnail>
+                  <link>rtmp://rtmp.one.by/HD/1muz</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
+				  <thumbnail>http://www.sat-address.com/f/pics/logotipi/Perviy-Muzikalniy-Kanal_o.jpg</thumbnail>
+                  <link>http://rtmp.one.by:1200</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Hit TV[/B][/COLOR]</name>
+          <thumbnail>https://upload.wikimedia.org/wikipedia/ru/5/5b/Hittv_logo_2014.jpg</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>[COLOR lightyellow]540p[/COLOR]</title>
+				  <thumbnail>https://upload.wikimedia.org/wikipedia/ru/5/5b/Hittv_logo_2014.jpg</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id13_KTR_SG--Hittv/03/plst.m3u8</link>
+                </subitem>	  
+		
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>https://upload.wikimedia.org/wikipedia/ru/5/5b/Hittv_logo_2014.jpg</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id13_KTR_SG--Hittv/02/plst.m3u8</link>
+                </subitem>	
+
+				<subitem>
+                  <title>[COLOR lightyellow]240p[/COLOR]</title>
+				  <thumbnail>https://upload.wikimedia.org/wikipedia/ru/5/5b/Hittv_logo_2014.jpg</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id13_KTR_SG--Hittv/01/plst.m3u8</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>				
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Mooz[/B][/COLOR]</name>
+          <thumbnail>http://soleadp.com/wp-content/uploads/2014/05/logo-MOOZ.jpg</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]Mooz Dance[/COLOR]</title>
+				  <thumbnail>https://mooz.tv/site/img/mooz-dance.jpg</thumbnail>
+                  <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&amp;end=END</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Mooz HD[/COLOR]</title>
+				  <thumbnail>https://mooz.tv/site/img/mooz-hd.jpg</thumbnail>
+                  <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&amp;end=END</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Mooz Hits[/COLOR]</title>
+				  <thumbnail>https://mooz.tv/site/img/mooz-hits.jpg</thumbnail>
+                  <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&amp;end=END</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Mooz Ro![/COLOR]</title>
+				  <thumbnail>https://mooz.tv/site/img/mooz-ro1.png</thumbnail>
+                  <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&amp;end=END</link>
+                </subitem>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Music Box UA[/B][/COLOR]</name>
+          <thumbnail>http://thewatchtv.com/wp-content/uploads/2013/05/Watch-Music-Box-Live-TV-from-Ukraine.jpg</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
+				  <thumbnail>http://thewatchtv.com/wp-content/uploads/2013/05/Watch-Music-Box-Live-TV-from-Ukraine.jpg</thumbnail>
+                  <link>http://212.26.132.86/hls/mb_ua_2500.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>http://thewatchtv.com/wp-content/uploads/2013/05/Watch-Music-Box-Live-TV-from-Ukraine.jpg</thumbnail>
+                  <link>http://212.26.132.86/hls/mb_ua.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]MuzzOne[/B][/COLOR]</name>
+          <thumbnail>http://thaiptv.com/img/muzzone.png</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]540p[/COLOR]</title>
+				  <thumbnail>http://thaiptv.com/img/muzzone.png</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id27_KTR_SG--Muzzone/03/plst.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>http://thewatchtv.com/wp-content/uploads/2013/05/Watch-Music-Box-Live-TV-from-Ukraine.jpg</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id27_KTR_SG--Muzzone/02/plst.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]240p[/COLOR]</title>
+				  <thumbnail>http://thewatchtv.com/wp-content/uploads/2013/05/Watch-Music-Box-Live-TV-from-Ukraine.jpg</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id27_KTR_SG--Muzzone/01/plst.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>				
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]NRJ Hits[/B][/COLOR]</name>
+          <thumbnail>https://upload.wikimedia.org/wikipedia/fr/archive/0/0c/20091220193040!Logo_NRJ_Hits.jpg</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+				  <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/6f/NRJ_HITS_HD_2013.jpg/revision/latest?cb=20150315101607</thumbnail>
+                  <link>http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>https://upload.wikimedia.org/wikipedia/fr/archive/0/0c/20091220193040!Logo_NRJ_Hits.jpg</thumbnail>
+                  <link>http://5.196.138.6:1935/live/nrjbelgique_360p/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]O2 TV[/B][/COLOR]</name>
+          <thumbnail>http://www.tv14.net/wp-content/uploads/2010/03/vctv_10_o2_tv.jpg</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+				  <thumbnail>http://www.tv14.net/wp-content/uploads/2010/03/vctv_10_o2_tv.jpg</thumbnail>
+                  <link>http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+				  <thumbnail>http://www.tv14.net/wp-content/uploads/2010/03/vctv_10_o2_tv.jpg</thumbnail>
+                  <link>http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Óčko[/B][/COLOR]</name>
+          <thumbnail>http://www.mediaguru.cz/wp-content/uploads/2012/09/Ocko_logo.png</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]540p[/COLOR]</title>
+			      <thumbnail>http://www.mediaguru.cz/wp-content/uploads/2012/09/Ocko_logo.png</thumbnail>
+                  <link>http://ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_hq.m3u8</link>
+                </subitem>	
+			
+                <subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://www.mediaguru.cz/wp-content/uploads/2012/09/Ocko_logo.png</thumbnail>
+                  <link>http://ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Óčko Expres[/B][/COLOR]</name>
+          <thumbnail>http://okteve.com/wp-content/uploads/media/8bf98c11f4eaffce90c07cc0455f865a-520x293.jpeg</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]540p[/COLOR]</title>
+			      <thumbnail>http://okteve.com/wp-content/uploads/media/8bf98c11f4eaffce90c07cc0455f865a-520x293.jpeg</thumbnail>
+                  <link>http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8</link>
+                </subitem>	
+			
+                <subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://okteve.com/wp-content/uploads/media/8bf98c11f4eaffce90c07cc0455f865a-520x293.jpeg</thumbnail>
+                  <link>http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_lq.m3u8</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Óčko Gold[/B][/COLOR]</name>
+          <thumbnail>http://guzei.com/online_tv/logo/9760.png</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]540p[/COLOR]</title>
+			      <thumbnail>http://guzei.com/online_tv/logo/9760.png</thumbnail>
+                  <link>http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8</link>
+                </subitem>	
+			
+                <subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://guzei.com/online_tv/logo/9760.png</thumbnail>
+                  <link>http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_lq.m3u8</link>
+                </subitem>
+		</subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]OTTO 8 FM TV[/B][/COLOR]</name>
+          <thumbnail>http://www.sat-address.com/f/pics/logotipi/Otto-FM-TV_o.jpg</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+				  <thumbnail>http://www.sat-address.com/f/pics/logotipi/Otto-FM-TV_o.jpg</thumbnail>
+                  <link>http://live.youiptv.ch:1935/8FM/ngrp:8FM_all/chunklist_w914271748_b655360.m3u8.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+				  <thumbnail>http://www.sat-address.com/f/pics/logotipi/Otto-FM-TV_o.jpg</thumbnail>
+                  <link>http://live.youiptv.ch:1935/8FM/ngrp:8FM_all/chunklist_w1448244913_b531072.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+				  <thumbnail>http://www.sat-address.com/f/pics/logotipi/Otto-FM-TV_o.jpg</thumbnail>
+                  <link>http://live.youiptv.ch:1935/8FM/ngrp:8FM_all/chunklist_w1448244913_b331072.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Pik TV[/B][/COLOR]</name>
+          <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_PIK_TV.jpg</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+				  <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_PIK_TV.jpg</thumbnail>
+                  <link>http://78.140.209.14:1935/live/piktv3pik3tv/playlist.m3u8</link>
+                </subitem>	
+	
+				<subitem>
+                  <title>[COLOR lightyellow]404p[/COLOR]</title>
+				  <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_PIK_TV.jpg</thumbnail>
+                  <link>http://78.140.209.14:1935/live/piktv2pik2tv/playlist.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]288p[/COLOR]</title>
+				  <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_PIK_TV.jpg</thumbnail>
+                  <link>http://78.140.209.14:1935/live/piktv1pik1tv/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Power TV[/B][/COLOR]</name>
+          <thumbnail>https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png</thumbnail>
+		  <info>http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8</info>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+				  <thumbnail>https://pbs.twimg.com/profile_images/683989928783523841/TA-gVtwF.jpg</thumbnail>
+                  <link>http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/chunklist_w1718466382_b1928000.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+				  <thumbnail>https://pbs.twimg.com/profile_images/683989928783523841/TA-gVtwF.jpg</thumbnail>
+                  <link>http://185.28.3.10/powertv/powertvh.stream/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+				  <thumbnail>https://pbs.twimg.com/profile_images/683989928783523841/TA-gVtwF.jpg</thumbnail>
+                  <link>http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/chunklist_w1718466382_b1028000.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>https://pbs.twimg.com/profile_images/683989928783523841/TA-gVtwF.jpg</thumbnail>
+                  <link>http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/chunklist_w1718466382_b628000.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>https://pbs.twimg.com/profile_images/683989928783523841/TA-gVtwF.jpg</thumbnail>
+                  <link>http://185.28.3.10/powertv/powertvl.stream/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Power TV Turk[/B][/COLOR]</name>
+          <thumbnail>http://www.powerturk.com/i/defaultAlbumArt.jpg</thumbnail>
+		  <info>http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8</info>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+				  <thumbnail>https://pbs.twimg.com/profile_images/683989928783523841/TA-gVtwF.jpg</thumbnail>
+                  <link>http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/chunklist_w1960479043_b1928000.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+				  <thumbnail>http://www.powerturk.com/i/defaultAlbumArt.jpg</thumbnail>
+                  <link>http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/chunklist_w1960479043_b1028000.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+				  <thumbnail>http://www.powerturk.com/i/defaultAlbumArt.jpg</thumbnail>
+                  <link>http://185.28.3.10/powertv/powerturktvh.stream/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>http://www.powerturk.com/i/defaultAlbumArt.jpg</thumbnail>
+                  <link>http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/chunklist_w1960479043_b628000.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>http://www.powerturk.com/i/defaultAlbumArt.jpg</thumbnail>
+                  <link>http://185.28.3.10/powertv/powerturktvl.stream/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio 105 TV[/B][/COLOR]</name>
+          <thumbnail>http://www.freeetv.com/images/01_logo/radio_105_tv.jpg</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]432p[/COLOR]</title>
+				  <thumbnail>http://www.freeetv.com/images/01_logo/radio_105_tv.jpg</thumbnail>
+                  <link>http://fms.105.net:1935/live/105Test1/index.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]272p[/COLOR]</title>
+				  <thumbnail>http://www.freeetv.com/images/01_logo/radio_105_tv.jpg</thumbnail>
+                  <link>http://fms.105.net:1935/live/105Test2/index.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]200p[/COLOR]</title>
+				  <thumbnail>http://www.freeetv.com/images/01_logo/radio_105_tv.jpg</thumbnail>
+                  <link>http://fms.105.net:1935/live/105Test3/index.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio Monte Carlo TV[/B][/COLOR]</name>
+          <thumbnail>http://www.streaming-hub.com/wp-content/uploads/2014/12/radio-monte-carlo.png</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]432p[/COLOR]</title>
+				  <thumbnail>http://www.streaming-hub.com/wp-content/uploads/2014/12/radio-monte-carlo.png</thumbnail>
+                  <link>http://fms.105.net:1935/live/rmc1/index.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]272p[/COLOR]</title>
+				  <thumbnail>http://www.streaming-hub.com/wp-content/uploads/2014/12/radio-monte-carlo.png</thumbnail>
+                  <link>http://fms.105.net:1935/live/rmc2/index.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]200p[/COLOR]</title>
+				  <thumbnail>http://www.streaming-hub.com/wp-content/uploads/2014/12/radio-monte-carlo.png</thumbnail>
+                  <link>http://fms.105.net:1935/live/rmc3/index.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>							
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio Virgin TV[/B][/COLOR]</name>
+          <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/0/04/VIRGIN_RADIO_TV_2014.jpg/revision/latest?cb=20150316130915</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]432p[/COLOR]</title>
+				  <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/0/04/VIRGIN_RADIO_TV_2014.jpg/revision/latest?cb=20150316130915</thumbnail>
+                  <link>http://wow01.105.net/live/virgin1/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://fms.105.net:1935/live/virgin1/playlist.m3u8$$lsname=LINK 2</link>
+				  <link>rtmp://fms.105.net:1935/live/virgin1$$lsname=LINK 3</link>
+				  <link>rtmp://wow01.105.net:1935/live/virgin1$$lsname=LINK 4</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]272p[/COLOR]</title>
+				  <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/0/04/VIRGIN_RADIO_TV_2014.jpg/revision/latest?cb=20150316130915</thumbnail>
+                  <link>http://wow01.105.net/live/virgin2/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://fms.105.net:1935/live/virgin2/playlist.m3u8$$lsname=LINK 2</link>
+				  <link>rtmp://fms.105.net:1935/live/virgin2$$lsname=LINK 3</link>
+				  <link>rtmp://wow01.105.net:1935/live/virgin2$$lsname=LINK 4</link>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]200p[/COLOR]</title>
+				  <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/0/04/VIRGIN_RADIO_TV_2014.jpg/revision/latest?cb=20150316130915</thumbnail>
+                  <link>http://wow01.105.net/live/virgin3/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://fms.105.net:1935/live/virgin3/playlist.m3u8$$lsname=LINK 2</link>
+				  <link>rtmp://fms.105.net:1935/live/virgin3$$lsname=LINK 3</link>
+				  <link>rtmp://wow01.105.net:1935/live/virgin3$$lsname=LINK 4</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Retro Tv[/B][/COLOR]</name>
+          <thumbnail>http://okteve.com/wp-content/uploads/media/ce702977d6c9d02d36d78bc8ba517c42-520x293.jpeg</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>http://okteve.com/wp-content/uploads/media/ce702977d6c9d02d36d78bc8ba517c42-520x293.jpeg</thumbnail>
+                  <link>rtmp://stream.mediawork.cz/retrotv/retrotvHQ1$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8$$lsname=LINK 2</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]288p[/COLOR]</title>
+				  <thumbnail>http://okteve.com/wp-content/uploads/media/ce702977d6c9d02d36d78bc8ba517c42-520x293.jpeg</thumbnail>
+                  <link>rtmp://stream.mediawork.cz/retrotv/retrotvHQ2$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://stream.mediawork.cz/retrotv/retrotvHQ2/playlist.m3u8$$lsname=LINK 2</link>
+                </subitem>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]RTL 102.5[/B][/COLOR]</name>
+          <thumbnail>http://www.italiainchieste.it/wp-content/uploads/2014/04/rtl_102_5_logo.jpg</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>http://www.italiainchieste.it/wp-content/uploads/2014/04/rtl_102_5_logo.jpg</thumbnail>
+                  <link>http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/chunklist_b784000.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]270p[/COLOR]</title>
+				  <thumbnail>http://www.italiainchieste.it/wp-content/uploads/2014/04/rtl_102_5_logo.jpg</thumbnail>
+                  <link>http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/chunklist_b504000.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+				  <thumbnail>http://www.italiainchieste.it/wp-content/uploads/2014/04/rtl_102_5_logo.jpg</thumbnail>
+                  <link>http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/chunklist_b254000.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Slam! TV[/B][/COLOR]</name>
+          <thumbnail>http://okteve.com/wp-content/uploads/media/ea24eb16e9413a68c90e550acd345184.jpeg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+				  <thumbnail>http://okteve.com/wp-content/uploads/media/ea24eb16e9413a68c90e550acd345184.jpeg</thumbnail>
+                  <link>http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8$$lsname=LINK 2</link>
+                </subitem>
+				
+                <subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>http://okteve.com/wp-content/uploads/media/ea24eb16e9413a68c90e550acd345184.jpeg</thumbnail>
+                  <link>http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_1.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				   <link>http://hls2.slamfm.nl/content/slamtv/slamtv_1.m3u8$$lsname=LINK 2</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]272p[/COLOR]</title>
+				  <thumbnail>http://okteve.com/wp-content/uploads/media/ea24eb16e9413a68c90e550acd345184.jpeg</thumbnail>
+                  <link>http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_2.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls2.slamfm.nl/content/slamtv/slamtv_2.m3u8$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+				  <thumbnail>http://okteve.com/wp-content/uploads/media/ea24eb16e9413a68c90e550acd345184.jpeg</thumbnail>
+                  <link>http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_3.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls2.slamfm.nl/content/slamtv/slamtv_3.m3u8$$lsname=LINK 2</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Slušnej Kanál Rock[/B][/COLOR]</name>
+          <thumbnail>http://tv.slusnejkanal.cz/images/sktv_logo.png</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
+				  <thumbnail>http://tv.slusnejkanal.cz/images/sktv_logo.png</thumbnail>
+                  <link>http://212.96.163.139:8010/1-tv-pc/924.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>http://tv.slusnejkanal.cz/images/sktv_logo.png</thumbnail>
+                  <link>http://212.96.163.139:8010/1-tv-pc/925.m3u8</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>					
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+ 	    <items>
+		    <item>
+                <title>[COLOR lightyellow][B]1 Music Channel[/B][/COLOR]</title>
+                <link>http://stream.1music.hu/stream/1music.m3u8</link>
+                <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/25/Music-0.jpg/revision/latest?cb=20160630154700</thumbnail>
+            </item>       
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+		    <item>
+                <title>[COLOR lightyellow][B]AKA[/B][/COLOR]</title>
+                <link>http://rrr.sz.xlcdn.com/?account=AATW&amp;file=akanew&amp;type=live&amp;service=wowza&amp;protocol=http&amp;output=playlist.m3u8</link>
+                <thumbnail>http://www.astra2sat.com/wp-content/uploads/channel-aka.jpg</thumbnail>
+            </item>
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+		    <item>
+                <title>[COLOR lightyellow][B]Atomic[/B][/COLOR]</title>
+                <link>rtmp://5.154.185.153/live/live</link>
+                <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/f/fd/Atomic_TV.png/revision/latest?cb=20161213130411</thumbnail>
+            </item>			
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+		    <item>
+                <title>[COLOR lightyellow][B]Beatz[/B][/COLOR]</title>
+                <link>http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8</link>
+                <thumbnail>http://tv-tv.in/wp-content/uploads/2014/12/BEATZ-TV-live-streaming.gif</thumbnail>
+            </item>			
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+		    <item>
+                <title>[COLOR lightyellow][B]City TV[/B][/COLOR]</title>
+                <link>http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				<link>http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8$$lsname=LINK 2</link>
+                <thumbnail>http://okteve.com/wp-content/uploads/media/672b2f897a795bdb44fba862f0dfbea3-520x293.jpeg</thumbnail>
+            </item>				
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+		    <item>
+                <title>[COLOR lightyellow][B]Deluxe Music[/B][/COLOR]</title>
+                <link>http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8</link>
+                <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DeluxeMusic2013.svg/200px-DeluxeMusic2013.svg.png</thumbnail>
+            </item>				
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+		    <item>
+                <title>[COLOR lightyellow][B]DOT DANCE[/B][/COLOR]</title>
+                <link>http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8</link>
+                <thumbnail>http://pullzone.vydiainc.netdna-cdn.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-10-at-4.32.52-PM-e1441917429231.png</thumbnail>
+            </item>				
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Electrosound TV[/B][/COLOR]</title>
+                <link>rtmp://www.electrosound.tv/public/stream</link>
+                <thumbnail>https://www.prlog.org/10799791-etv.jpg</thumbnail>
+            </item>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+		    <item>
+                <title>[COLOR lightyellow][B]Fresh TV[/B][/COLOR]</title>
+                <link>http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8</link>
+                <thumbnail>https://bcdbimages.s3.amazonaws.com/logo/fresh_tv.jpg</thumbnail>
+            </item>				
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]HITV[/B][/COLOR]</title>
+                <link>http://live.rmg.cdnvideo.ru/rmg/rmg1.sdp/playlist.m3u8</link>
+                <thumbnail>http://ictcomm.vn/homepagefiles/images/hiTV.png</thumbnail>
+            </item>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Hit TV[/B][/COLOR]</title>
+                <link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				<link>http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8$$lsname=LINK 2</link>
+                <thumbnail>http://www.hittv.es/img/cabeceras/HITtv1.jpg</thumbnail>
+            </item>						
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]JuCe TV[/B][/COLOR]</title>
+                <link>http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8</link>
+                <thumbnail>http://www.accessfree.tv/images/access%20juce%20tv.jpg</thumbnail>
+            </item>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Klik TV[/B][/COLOR]</title>
+                <link>http://92.62.234.201:11234</link>
+                <thumbnail>http://klik-tv.net/wp-content/uploads/2015/09/klik-tv-das_grooosse_logoo.png</thumbnail>
+            </item>						
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]M6 Music[/B][/COLOR]</title>
+                <f4m>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</f4m>
+                <thumbnail>http://telvezti.com/wp-content/uploads/2016/04/M6-Music-Live.png</thumbnail>
+            </item>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Melody Channel[/B][/COLOR]</title>
+                <link>rtmp://186.155.200.118:1935/live/MelodyChannel</link>
+                <thumbnail>http://ulango.tv/uploads/channels/27274/logo_melody%20channel1.png</thumbnail>
+            </item>				
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Music Box[/B][/COLOR]</title>
+                <link>http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8</link>
+                <thumbnail>http://mp3hitsfree.narod.ru/Download_music_for_free_mp3hitsfree_images/musicbox.JPG</thumbnail>
+            </item>				
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Muzz One[/B][/COLOR]</title>
+                <link>http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8</link>
+                <thumbnail>http://abzalkz.kz/img_lib/ajaxfileupload_304aa551.jpg</thumbnail>
+            </item>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Number One TV[/B][/COLOR]</title>
+                <link>http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8</link>
+                <thumbnail>http://www.denkbilgi.com/wp-content/uploads/number-one-tv.jpg</thumbnail>
+            </item>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Number One TV Türk[/B][/COLOR]</title>
+                <link>http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8</link>
+                <thumbnail>http://www.sat-address.com/f/pics/logotipi/Number-One-Turk_o.jpg</thumbnail>
+            </item>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Nebiset[/B][/COLOR]</title>
+                <link>http://hls.nebiset.tv/nebiset.m3u8</link>
+                <thumbnail>https://pbs.twimg.com/profile_images/556104390226894849/MGkDTe20.jpeg</thumbnail>
+            </item>							
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]NRJ TV[/B][/COLOR]</title>
+				<link>rtmp://rtmp.infomaniak.ch:1935/livecast/energytv$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8$$lsname=LINK 2</link>
+                <thumbnail>https://lh3.googleusercontent.com/-25PIEX7uInE/AAAAAAAAAAI/AAAAAAAAACA/IA-T4ttiCzQ/s500-c-no/photo.jpg</thumbnail>
+            </item>	
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+		    <item>
+                <title>[COLOR lightyellow][B]Radio Bruno TV[/B][/COLOR]</title>
+                <link>rtmp://37.48.83.34:80/radiobrunotv/radiobrunotv</link>
+                <thumbnail>http://www.tvdream.net/immagini/radiobrunotv.jpg</thumbnail>
+            </item>	
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+		    <item>
+                <title>[COLOR lightyellow][B]Radio Number One TV[/B][/COLOR]</title>
+                <link>http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8</link>
+                <thumbnail>http://radioitalialive.com/sites/default/files/radio/logos/logo-radio-number-one.jpg</thumbnail>
+            </item>	
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+		    <item>
+                <title>[COLOR lightyellow][B]Rock One TV[/B][/COLOR]</title>
+                <link>mmsh://mediatv2.topix.it:80/246066?MSWMExt=.asf</link>
+                <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_rock_one_noir.jpg</thumbnail>
+            </item>					
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Rouge TV[/B][/COLOR]</title>
+                <link>rtmp://rtmp.infomaniak.ch/livecast/rougetv</link>
+                <thumbnail>http://ch.wiiz.tv/wp-content/uploads/2016/04/rougetv.jpg</thumbnail>
+            </item>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Super Sonic TV[/B][/COLOR]</title>
+                <link>http://str103.setplex.net:1935/228/stv_online/playlist.m3u8</link>
+                <thumbnail>http://www.roomy-tv.com/images/681.png</thumbnail>
+            </item>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Telemusica[/B][/COLOR]</title>
+                <link>rtmp://186.155.200.118:1935/live/telemusica</link>
+                <thumbnail>http://okteve.com/wp-content/uploads/media/8367e3343fd31283bc149c5fae84ca6e.jpeg</thumbnail>
+            </item>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Utv[/B][/COLOR]</title>
+                <link>http://82.76.40.76/utvedge/utvlivehls/index.m3u8</link>
+                <thumbnail>http://vignette1.wikia.nocookie.net/dreamlogos/images/0/0c/U_tv.png/revision/latest?cb=20140626073519</thumbnail>
+            </item>					
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Vibee TV[/B][/COLOR]</title>
+                <link>http://46.101.21.42:8081/live/live2/playlist.m3u8</link>
+                <thumbnail>http://spellsolutions.net/assets/images/tv/vibe.png</thumbnail>
+            </item>					
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]XITE TV[/B][/COLOR]</title>
+                <link>http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8</link>
+                <thumbnail>https://pbs.twimg.com/profile_images/492320102964940800/lRlpYdus_400x400.png</thumbnail>
+            </item>					
+		</items>
+	</channel>
+</channels>	
