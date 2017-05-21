@@ -1,0 +1,2359 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+  <channels_info> <!-- this is opitonal -->
+  <title>[COLOR yellow]•[/COLOR]    [COLOR purple][B]HLS/[/B] [/COLOR][COLOR orange]Zagraniczne[/COLOR]</title> 
+  <thumbnail>http://portal.iptvnet.org/wp-content/uploads/2016/05/logo-bldddue_1.jpg</thumbnail>
+  <fanart>http://static.prsa.pl/images/8129729f-5db3-425e-8eee-1098c7485cb4.jpg</fanart>
+  </channels_info> 
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]akamaihd.net[/B][/COLOR]</name>
+      <thumbnail>http://efreshersjobs.com/wp-content/uploads/2015/05/Akamai-Technologies-Logo.jpg</thumbnail>
+      <fanart>http://www.bassvisuals.com/wordpress_bv/preview/Bass_Visuals_Networks_Blue_Shorter_HD_1920x1080_30p.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Al Kass Sports 1[/B][/COLOR]</name>
+          <thumbnail>http://speedtv.ps/img/posters/alkass-one.png</thumbnail>
+          <fanart>http://media.148apps.com/screenshots/1084174695/us-appletv-4-al-kass-sport-channels.png</fanart>
+            <subitems>
+				    <subitem>
+                      <title>[COLOR lightyellow]576p[/COLOR]</title>
+                      <thumbnail>http://speedtv.ps/img/posters/alkass-one.png</thumbnail>
+				      <link>http://alkass-i.akamaihd.net/hls/live/205534/online/live_1s.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+					  <link>http://alkass-i.akamaihd.net/hls/live/205534/online/live_1s20.m3u8$$lsname=LINK 2</link>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]480p[/COLOR]</title>
+                      <thumbnail>http://speedtv.ps/img/posters/alkass-one.png</thumbnail>
+					  <link>http://alkass-i.akamaihd.net/hls/live/205534/online/live_1s12.m3u8</link>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]360p[/COLOR]</title>
+                      <thumbnail>http://speedtv.ps/img/posters/alkass-one.png</thumbnail>
+					  <link>http://alkass-i.akamaihd.net/hls/live/205534/online/live_1s8.m3u8</link>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]270p[/COLOR]</title>
+                      <thumbnail>http://speedtv.ps/img/posters/alkass-one.png</thumbnail>
+					  <link>http://alkass-i.akamaihd.net/hls/live/205534/online/live_1s4.m3u8</link>
+                    </subitem>
+            </subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Al Kass Sports 2[/B][/COLOR]</name>
+          <thumbnail>http://speedtv.ps/img/posters/alkass-two.png</thumbnail>
+          <fanart>http://media.148apps.com/screenshots/1084174695/us-appletv-4-al-kass-sport-channels.png</fanart>
+            <subitems>
+				    <subitem>
+                      <title>[COLOR lightyellow]576p[/COLOR]</title>
+                      <thumbnail>http://speedtv.ps/img/posters/alkass-two.png</thumbnail>
+				      <link>http://alkass-i.akamaihd.net/hls/live/205534/2/live_43s.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+					  <link>http://alkass-i.akamaihd.net/hls/live/205534/online/live_43s20.m3u8$$lsname=LINK 2</link>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]480p[/COLOR]</title>
+                      <thumbnail>http://speedtv.ps/img/posters/alkass-two.png</thumbnail>
+					  <link>http://alkass-i.akamaihd.net/hls/live/205534/online/live_43s12.m3u8</link>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]360p[/COLOR]</title>
+                      <thumbnail>http://speedtv.ps/img/posters/alkass-two.png</thumbnail>
+					  <link>http://alkass-i.akamaihd.net/hls/live/205534/online/live_43s8.m3u8</link>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]270p[/COLOR]</title>
+                      <thumbnail>http://speedtv.ps/img/posters/alkass-two.png</thumbnail>
+					  <link>http://alkass-i.akamaihd.net/hls/live/205534/online/live_43s4.m3u8</link>
+                    </subitem>
+            </subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Al Kass Sports 4[/B][/COLOR]</name>
+          <thumbnail>https://1.bp.blogspot.com/-pQpus8UIOzU/WJsdqXXGD4I/AAAAAAAACTo/_E4MUjKTE2UuOCNAlLePly7I6zX9nEirwCLcB/s320/Al%2BKass%2BFour%2BLogo.PNG</thumbnail>
+          <fanart>http://media.148apps.com/screenshots/1084174695/us-appletv-4-al-kass-sport-channels.png</fanart>
+            <subitems>
+				    <subitem>
+                      <title>[COLOR lightyellow]576p[/COLOR]</title>
+                      <thumbnail>https://1.bp.blogspot.com/-pQpus8UIOzU/WJsdqXXGD4I/AAAAAAAACTo/_E4MUjKTE2UuOCNAlLePly7I6zX9nEirwCLcB/s320/Al%2BKass%2BFour%2BLogo.PNG</thumbnail>
+				      <link>http://alkass-i.akamaihd.net/hls/live/205534/4/live_44s.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+					  <link>http://alkass-i.akamaihd.net/hls/live/205534/4/live_44s20.m3u8$$lsname=LINK 2</link>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]480p[/COLOR]</title>
+                      <thumbnail>https://1.bp.blogspot.com/-pQpus8UIOzU/WJsdqXXGD4I/AAAAAAAACTo/_E4MUjKTE2UuOCNAlLePly7I6zX9nEirwCLcB/s320/Al%2BKass%2BFour%2BLogo.PNG</thumbnail>
+					  <link>http://alkass-i.akamaihd.net/hls/live/205534/4/live_44s12.m3u8</link>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]360p[/COLOR]</title>
+                      <thumbnail>https://1.bp.blogspot.com/-pQpus8UIOzU/WJsdqXXGD4I/AAAAAAAACTo/_E4MUjKTE2UuOCNAlLePly7I6zX9nEirwCLcB/s320/Al%2BKass%2BFour%2BLogo.PNG</thumbnail>
+					  <link>http://alkass-i.akamaihd.net/hls/live/205534/4/live_44s8.m3u8</link>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]270p[/COLOR]</title>
+                      <thumbnail>https://1.bp.blogspot.com/-pQpus8UIOzU/WJsdqXXGD4I/AAAAAAAACTo/_E4MUjKTE2UuOCNAlLePly7I6zX9nEirwCLcB/s320/Al%2BKass%2BFour%2BLogo.PNG</thumbnail>
+					  <link>http://alkass-i.akamaihd.net/hls/live/205534/4/live_44s4.m3u8</link>
+                    </subitem>
+            </subitems>	
+        </subchannel>				
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ARD[/B][/COLOR]</name>
+          <thumbnail>http://addons.kodi.tv/addon-data/cache/Addons/plugin.video.ardmediathek_de/icon.png</thumbnail>
+          <fanart>http://www.ard.de/image/55056/16x9/4788584338065477984/1280</fanart>
+            <subitems>
+				    <subitem>
+                      <title>[COLOR lightyellow]540p[/COLOR]</title>
+                      <thumbnail>http://addons.kodi.tv/addon-data/cache/Addons/plugin.video.ardmediathek_de/icon.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>2691000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]540p[/COLOR]</title>
+                      <thumbnail>http://addons.kodi.tv/addon-data/cache/Addons/plugin.video.ardmediathek_de/icon.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>1992000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]360p[/COLOR]</title>
+                      <thumbnail>http://addons.kodi.tv/addon-data/cache/Addons/plugin.video.ardmediathek_de/icon.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>1216000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]288p[/COLOR]</title>
+                      <thumbnail>http://addons.kodi.tv/addon-data/cache/Addons/plugin.video.ardmediathek_de/icon.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>608000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]270p[/COLOR]</title>
+                      <thumbnail>http://addons.kodi.tv/addon-data/cache/Addons/plugin.video.ardmediathek_de/icon.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>320000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]180p[/COLOR]</title>
+                      <thumbnail>http://addons.kodi.tv/addon-data/cache/Addons/plugin.video.ardmediathek_de/icon.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>184000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+            </subitems>	
+        </subchannel>	  
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Capital TV[/B][/COLOR]</name>
+          <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
+          <fanart>http://www.siwallpaperhd.com/wp-content/uploads/2015/10/music_best_wallpaper.jpg</fanart>
+            <subitems>
+				    <subitem>
+                      <title>[COLOR lightyellow]720p[/COLOR]</title>
+                      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>1096000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8</page>
+                        </regex>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]432p[/COLOR]</title>
+                      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>664000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]360p[/COLOR]</title>
+                      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>640000.*\s*(http.*m3u8)</expres>
+                          <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
+                        </regex>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]270p[/COLOR]</title>
+                      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>398000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]224p[/COLOR]</title>
+                      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>440000.*\s*(http.*m3u8)</expres>
+                          <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]224p[/COLOR]</title>
+                      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>240000.*\s*(http.*m3u8)</expres>
+                          <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]224p[/COLOR]</title>
+                      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>150000.*\s*(http.*m3u8)</expres>
+                          <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]Audio[/COLOR]</title>
+                      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>48000.*\s*(http.*m3u8)</expres>
+                          <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
+                        </regex>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]Audio[/COLOR]</title>
+                      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>48000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8</page>
+                        </regex>
+                    </subitem>
+            </subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Das Erste[/B][/COLOR]</name>
+          <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/210px-Das_Erste-Logo_klein.svg.png</thumbnail>
+          <fanart>http://mediathek.daserste.de/image/00/22/65/14/96/-1852531467/16x9/512</fanart>
+            <subitems>
+				    <subitem>
+                      <title>[COLOR lightyellow]540p[/COLOR]</title>
+                      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/210px-Das_Erste-Logo_klein.svg.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>2691000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]540p[/COLOR]</title>
+                      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/210px-Das_Erste-Logo_klein.svg.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>1992000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]360p[/COLOR]</title>
+                      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/210px-Das_Erste-Logo_klein.svg.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>1216000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]288p[/COLOR]</title>
+                      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/210px-Das_Erste-Logo_klein.svg.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>608000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]270p[/COLOR]</title>
+                      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/210px-Das_Erste-Logo_klein.svg.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>320000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]180p[/COLOR]</title>
+                      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/210px-Das_Erste-Logo_klein.svg.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>184000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+            </subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	   
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Eurosport 1[/B][/COLOR]</name>
+          <thumbnail>http://www.designtagebuch.de/wp-content/uploads/mediathek//2015/11/eurosport-1-logo.jpg</thumbnail>
+          <fanart>https://i.ytimg.com/vi/kx0tBt2yyGY/maxresdefault.jpg</fanart>
+            <subitems>
+				    <subitem>
+                      <title>[COLOR lightyellow]720p[/COLOR]</title>
+                      <thumbnail>http://www.designtagebuch.de/wp-content/uploads/mediathek//2015/11/eurosport-1-logo.jpg</thumbnail>
+				      <link>http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+					  <link>http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master720_20170325.m3u8$$lsname=LINK 2</link>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]576p[/COLOR]</title>
+                      <thumbnail>http://www.designtagebuch.de/wp-content/uploads/mediathek//2015/11/eurosport-1-logo.jpg</thumbnail>
+					  <link>http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master576_20170325.m3u8</link>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]432p[/COLOR]</title>
+                      <thumbnail>http://www.designtagebuch.de/wp-content/uploads/mediathek//2015/11/eurosport-1-logo.jpg</thumbnail>
+					  <link>http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master432_20170325.m3u8</link>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]360p[/COLOR]</title>
+                      <thumbnail>http://www.designtagebuch.de/wp-content/uploads/mediathek//2015/11/eurosport-1-logo.jpg</thumbnail>
+					  <link>http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master360_20170325.m3u8</link>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]288p[/COLOR]</title>
+                      <thumbnail>http://www.designtagebuch.de/wp-content/uploads/mediathek//2015/11/eurosport-1-logo.jpg</thumbnail>
+					  <link>http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master288_20170325.m3u8</link>
+                    </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	   
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Eurosport 2[/B][/COLOR]</name>
+          <thumbnail>http://naszosie.pl/wp-content/uploads/2016/02/Eurosport-2.jpg</thumbnail>
+          <fanart>https://i.ytimg.com/vi/kx0tBt2yyGY/maxresdefault.jpg</fanart>
+            <subitems>
+				    <subitem>
+                      <title>[COLOR lightyellow]720p[/COLOR]</title>
+                      <thumbnail>http://naszosie.pl/wp-content/uploads/2016/02/Eurosport-2.jpg</thumbnail>
+				      <link>http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+					  <link>http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master720_20170325.m3u8$$lsname=LINK 2</link>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]576p[/COLOR]</title>
+                      <thumbnail>http://naszosie.pl/wp-content/uploads/2016/02/Eurosport-2.jpg</thumbnail>
+					  <link>http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master576_20170325.m3u8</link>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]432p[/COLOR]</title>
+                      <thumbnail>http://naszosie.pl/wp-content/uploads/2016/02/Eurosport-2.jpg</thumbnail>
+					  <link>http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master432_20170325.m3u8</link>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]360p[/COLOR]</title>
+                      <thumbnail>http://naszosie.pl/wp-content/uploads/2016/02/Eurosport-2.jpg</thumbnail>
+					  <link>http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master360_20170325.m3u8</link>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]288p[/COLOR]</title>
+                      <thumbnail>http://naszosie.pl/wp-content/uploads/2016/02/Eurosport-2.jpg</thumbnail>
+					  <link>http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master288_20170325.m3u8</link>
+                    </subitem>
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	   
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Heart TV[/B][/COLOR]</name>
+          <thumbnail>http://www.getmemedia.com/public/ideas/Opp/13389/heart-tv.jpg</thumbnail>
+          <fanart>http://www.siwallpaperhd.com/wp-content/uploads/2015/10/music_best_wallpaper.jpg</fanart>
+            <subitems>
+				    <subitem>
+                      <title>[COLOR lightyellow]720p[/COLOR]</title>
+                      <thumbnail>http://www.getmemedia.com/public/ideas/Opp/13389/heart-tv.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>1096000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]432p[/COLOR]</title>
+                      <thumbnail>http://www.getmemedia.com/public/ideas/Opp/13389/heart-tv.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>664000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]270p[/COLOR]</title>
+                      <thumbnail>http://www.getmemedia.com/public/ideas/Opp/13389/heart-tv.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>398000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]Audio[/COLOR]</title>
+                      <thumbnail>http://www.getmemedia.com/public/ideas/Opp/13389/heart-tv.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>48000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8</page>
+                        </regex>
+                    </subitem>
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	   
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Insight TV[/B][/COLOR]</name>
+          <thumbnail>http://summit.realscreen.com/Content/Image_Sponsors/Medium/10518_IN_LOGO%20METAL_CMYK_BLACK%20UPDATED.jpg</thumbnail>
+          <fanart>https://i.ytimg.com/vi/h_Sldf6XZ1c/maxresdefault.jpg</fanart>
+            <subitems>
+			        <subitem>
+                      <title>[COLOR lightyellow]HD[/COLOR]</title>
+                      <thumbnail>http://summit.realscreen.com/Content/Image_Sponsors/Medium/10518_IN_LOGO%20METAL_CMYK_BLACK%20UPDATED.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>5096000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8</page>
+                        </regex>
+                    </subitem>
+			
+				    <subitem>
+                      <title>[COLOR lightyellow]720p[/COLOR]</title>
+                      <thumbnail>http://summit.realscreen.com/Content/Image_Sponsors/Medium/10518_IN_LOGO%20METAL_CMYK_BLACK%20UPDATED.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>2496000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]480p[/COLOR]</title>
+                      <thumbnail>http://summit.realscreen.com/Content/Image_Sponsors/Medium/10518_IN_LOGO%20METAL_CMYK_BLACK%20UPDATED.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>1696000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]360p[/COLOR]</title>
+                      <thumbnail>http://summit.realscreen.com/Content/Image_Sponsors/Medium/10518_IN_LOGO%20METAL_CMYK_BLACK%20UPDATED.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>1196000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]288p[/COLOR]</title>
+                      <thumbnail>http://summit.realscreen.com/Content/Image_Sponsors/Medium/10518_IN_LOGO%20METAL_CMYK_BLACK%20UPDATED.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>596000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]144p[/COLOR]</title>
+                      <thumbnail>http://summit.realscreen.com/Content/Image_Sponsors/Medium/10518_IN_LOGO%20METAL_CMYK_BLACK%20UPDATED.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>346000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8</page>
+                        </regex>
+                    </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]M20 TV[/B][/COLOR]</name>
+          <thumbnail>http://oi48.tinypic.com/15gxz5y.jpg</thumbnail>
+          <fanart>http://www.siwallpaperhd.com/wp-content/uploads/2015/10/music_best_wallpaper.jpg</fanart>
+            <subitems>
+				    <subitem>
+                      <title>[COLOR lightyellow]360p[/COLOR]</title>
+                      <thumbnail>http://oi48.tinypic.com/15gxz5y.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>640000.*\s*(http.*m3u8)</expres>
+                          <page>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8</page>
+                        </regex>
+                    </subitem>
+
+					<subitem>
+                      <title>[COLOR lightyellow]224p[/COLOR]</title>
+                      <thumbnail>http://oi48.tinypic.com/15gxz5y.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>440000.*\s*(http.*m3u8)</expres>
+                          <page>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8</page>
+                        </regex>
+                    </subitem>
+
+					<subitem>
+                      <title>[COLOR lightyellow]224p[/COLOR]</title>
+                      <thumbnail>http://oi48.tinypic.com/15gxz5y.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>240000.*\s*(http.*m3u8)</expres>
+                          <page>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8</page>
+                        </regex>
+                    </subitem>	
+					
+					<subitem>
+                      <title>[COLOR lightyellow]224p[/COLOR]</title>
+                      <thumbnail>http://oi48.tinypic.com/15gxz5y.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>150000.*\s*(http.*m3u8)</expres>
+                          <page>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8</page>
+                        </regex>
+                    </subitem>	
+					
+					<subitem>
+                      <title>[COLOR lightyellow]Audio[/COLOR]</title>
+                      <thumbnail>http://oi48.tinypic.com/15gxz5y.jpg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>48000.*\s*(http.*m3u8)</expres>
+                          <page>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8</page>
+                        </regex>
+                    </subitem>	
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]NBC GOLF[/B][/COLOR]</name>
+          <thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/07/2014-new-golfchannel-logo.jpg</thumbnail>
+          <fanart>http://wallpoper.com/images/00/43/24/53/golf_00432453.jpg</fanart>
+            <subitems>
+				    <subitem>
+                      <title>[COLOR lightyellow]HD[/COLOR]</title>
+                      <thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/07/2014-new-golfchannel-logo.jpg</thumbnail>
+				      <f4m>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</f4m>
+                    </subitem>
+
+					<subitem>
+                      <title>[COLOR lightyellow]720p[/COLOR]</title>
+                      <thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/07/2014-new-golfchannel-logo.jpg</thumbnail>
+				      <f4m>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</f4m>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]SD[/COLOR]</title>
+                      <thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/07/2014-new-golfchannel-logo.jpg</thumbnail>
+				      <f4m>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104</f4m>
+                    </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Poker Central[/B][/COLOR]</name>
+          <thumbnail>http://www.americancable.org/files/images/Poker%20Central%20Dec%202015_0.png</thumbnail>
+          <fanart>http://www.freewallpaperfullhd.com/wp-content/uploads/2015/03/wallpapers/poker___winning-wallpaper-1920x1080.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]720p[/COLOR]</title>
+			      <thumbnail>http://www.americancable.org/files/images/Poker%20Central%20Dec%202015_0.png</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>2464000.*\s*(http.*m3u8)</expres>
+                      <page>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8</page>
+                    </regex>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+			      <thumbnail>http://www.americancable.org/files/images/Poker%20Central%20Dec%202015_0.png</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>1664000.*\s*(http.*m3u8)</expres>
+                      <page>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8</page>
+                    </regex>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://www.americancable.org/files/images/Poker%20Central%20Dec%202015_0.png</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>1163000.*\s*(http.*m3u8)</expres>
+                      <page>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8</page>
+                    </regex>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]288p[/COLOR]</title>
+			      <thumbnail>http://www.americancable.org/files/images/Poker%20Central%20Dec%202015_0.png</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>564000.*\s*(http.*m3u8)</expres>
+                      <page>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8</page>
+                    </regex>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]144p[/COLOR]</title>
+			      <thumbnail>http://www.americancable.org/files/images/Poker%20Central%20Dec%202015_0.png</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>314000.*\s*(http.*m3u8)</expres>
+                      <page>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8</page>
+                    </regex>
+                </subitem>	
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Real Madryt TV[/B][/COLOR]</name>
+          <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg</thumbnail>
+          <fanart>http://wallpapercave.com/wp/ZchCfV1.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]404p[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>1050000.*\s*(http.*m3u8)</expres>
+                      <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
+                    </regex>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]404p[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>1055000.*\s*(http.*m3u8)</expres>
+                      <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
+                    </regex>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>750000.*\s*(http.*m3u8)</expres>
+                      <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
+                    </regex>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>500000.*\s*(http.*m3u8)</expres>
+                      <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
+                    </regex>
+                </subitem>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Sevilla FC TV[/B][/COLOR]</name>
+          <thumbnail>http://www.tdf-group.com/sites/default/files/focus/tv.jpg</thumbnail>
+          <fanart>http://orig14.deviantart.net/cf8e/f/2016/023/d/b/sevilla_fc_wallpaper_by_szwejzi-d9p1es7.png</fanart>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://www.tdf-group.com/sites/default/files/focus/tv.jpg</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>757000.*\s*(http.*m3u8)</expres>
+                      <page>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8</page>
+                    </regex>
+                </subitem>	
+			
+                <subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://www.tdf-group.com/sites/default/files/focus/tv.jpg</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>765000.*\s*(http.*m3u8)</expres>
+                      <page>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8</page>
+                    </regex>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>http://www.tdf-group.com/sites/default/files/focus/tv.jpg</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>362000.*\s*(http.*m3u8)</expres>
+                      <page>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8</page>
+                    </regex>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>http://www.tdf-group.com/sites/default/files/focus/tv.jpg</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>365000.*\s*(http.*m3u8)</expres>
+                      <page>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8</page>
+                    </regex>
+                </subitem>	
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]TRT Spor[/B][/COLOR]</name>
+          <thumbnail>http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=392</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]720p[/COLOR]</title>
+			      <thumbnail>http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=392</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>2192000.*\s*(http.*m3u8)</expres>
+                      <page>http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8</page>
+                    </regex>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]720p[/COLOR]</title>
+			      <thumbnail>http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=392</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>1792000.*\s*(http.*m3u8)</expres>
+                      <page>http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8</page>
+                    </regex>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+			      <thumbnail>http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=392</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>1492000.*\s*(http.*m3u8)</expres>
+                      <page>http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8</page>
+                    </regex>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=392</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>1092000.*\s*(http.*m3u8)</expres>
+                      <page>http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8</page>
+                    </regex>
+                </subitem>	
+			</subitems>	
+        </subchannel>				
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<item>
+          <title>[COLOR lightyellow]Racing New South Wales[/COLOR]</title>
+          <thumbnail>http://www.xbmc.expatiptv.net/ozzytv/logos/hrc.png</thumbnail>
+		  <fanart>https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/winner-1920x1080.jpg</fanart>
+          <link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw.m3u8|X-Forwarded-For=101.175.18.124</link>
+        </item>
+
+        <item>
+          <title>[COLOR lightyellow]Fox Sport News HD[/COLOR]</title>
+          <thumbnail>http://www.xbmc.expatiptv.net/ozzytv/logos/fsn.png</thumbnail>
+		  <fanart>http://images.performgroup.com/di/library/sporting_news/c2/5a/nfl-announcers-fox-011416-fox-ftrjpg_168krfskb8h7y14ammj2jyw52i.jpg?t=1582090483</fanart>
+          <link>http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75</link>
+        </item>	
+	</channel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	 
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	 
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Rus[/B][/COLOR]</name>
+      <thumbnail>http://besnet.at.ua/LOGOTIPY_SOFTA/iptv_logo.gif</thumbnail>
+      <fanart>https://i.ytimg.com/vi/hhoYO7PVaLE/maxresdefault.jpg</fanart>	 
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]51.254.39.37[/B][/COLOR]</name>
+          <thumbnail>http://besnet.at.ua/LOGOTIPY_SOFTA/iptv_logo.gif</thumbnail>
+		  <fanart>http://weneedfun.com/wp-content/uploads/2016/12/Ukraine-Flag-12.jpg</fanart>
+            <subitems>
+				<subitem>
+                  <title>[COLOR lightyellow]Bridge TV[/COLOR]</title>
+			      <thumbnail>http://static.beeline.ru/upload/contents/338/logo/BRIDGEtvV2_195.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=192$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=424$$lsname=LINK 2</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=691$$lsname=LINK 3</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Deutsche Welle[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_(TV)_Logo_2012.png</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=311$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=393$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Eurosport 1[/COLOR]</title>
+			      <thumbnail>http://www.designtagebuch.de/wp-content/uploads/mediathek//2015/11/eurosport-1-logo.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=406</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Europa Plus TV[/COLOR]</title>
+			      <thumbnail>http://www.logotypes101.com/logos/541/BF2430B52CB8E7F7C736BB06A84975B1/europaplus.png</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=95$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=422$$lsname=LINK 2</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=677$$lsname=LINK 3</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Extreme Sports[/COLOR]</title>
+			      <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/d/dd/EXTREME_SPORT_CHANNEL_HD_2013.jpg/revision/latest?cb=20150310175059</thumbnail>
+                  <link>http://51.254.39.37/TV/FLASH-TV/playlist.m3u8?ch=144</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]HL[/COLOR]</title>
+			      <thumbnail>http://www.hlpatelcollege.com/images/logo.png</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=159$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=293$$lsname=LINK 2</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=318$$lsname=LINK 3</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Mezzo[/COLOR]</title>
+			      <thumbnail>http://www.frosat.net/images/logotv/original/mezzoHD.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=206$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=300$$lsname=LINK 2</link>
+				 <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=699$$lsname=LINK 3</link> 
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Mezzo Live HD[/COLOR]</title>
+			      <thumbnail>https://www.telekarta.tv/u/images/channels/b/mezzo_live_hd_1.png</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=164</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]MTV[/COLOR]</title>
+			      <thumbnail>http://digitalt.tv/wp-content/uploads/2014/01/mtv_logo.png</thumbnail>
+                  <link>http://51.254.39.37/TV/FLASH-TV/playlist.m3u8?ch=142</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МTV Hits[/COLOR]</title>
+			      <thumbnail>http://teve.ba/img/content/mtv-hits.gif</thumbnail>
+                  <link>http://51.254.39.37/TV/FLASH-TV/playlist.m3u8?ch=153</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Russian Extreme[/COLOR]</title>
+			      <thumbnail>https://edem.tv/public/images/163.png</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=145$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=501$$lsname=LINK 2</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=671$$lsname=LINK 3</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Russian Musicbox[/COLOR]</title>
+			      <thumbnail>http://live.moldova9.com/wp-content/uploads/music-box1.png</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=421$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=728$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]TNT Music[/COLOR]</title>
+			      <thumbnail>https://static.beeline.ru/upload/contents/338/logo/tntmusic_195.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=144$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=586$$lsname=LINK 2</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=675$$lsname=LINK 3</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Viasat Sport[/COLOR]</title>
+			      <thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0023/0116/brand.gif?itok=svqCxM-a</thumbnail>
+                  <link>http://51.254.39.37/TV/FLASH-TV/playlist.m3u8?ch=160</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]VH1[/COLOR]</title>
+			      <thumbnail>https://tsdrsec.uspto.gov/ts/cd/standardimages/85749032/webcontent</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=416$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=712$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Боец[/COLOR]</title>
+			      <thumbnail>http://boectv.advera.ru/logo.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=581$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=670$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]ФУТБОЛ 1[/COLOR]</title>
+			      <thumbnail>http://www.glaz.tv/images/logos/tv/big/futbol-1.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=550</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]ФУТБОЛ 2[/COLOR]</title>
+			      <thumbnail>http://www.glaz.tv/images/logos/tv/big/futbol-2.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=553</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]KXЛ[/COLOR]</title>
+			      <thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/2183/brand.gif?itok=oRdwdY6J</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=343$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=446$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]KXЛ HD[/COLOR]</title>
+			      <thumbnail>https://satsis.info/uploads/posts/2010-09/1284222363_www.satsis.info_kxl-copy.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=661</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МАТЧ![/COLOR]</title>
+			      <thumbnail>http://logosklad.ru/photo/logos/492/1443812419.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=394$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=450$$lsname=LINK 2</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=527$$lsname=LINK 3</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МАТЧ! APEHA[/COLOR]</title>
+			      <thumbnail>http://www.oreol.tv/template/img2/Arena_HD.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=448$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=534$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МАТЧ! APEHA HD[/COLOR]</title>
+			      <thumbnail>http://tuchkasport.com/uploads/posts/2016-06/1465476876_mahd.png</thumbnail>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=540</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МАТЧ! ФУТБОЛ 1[/COLOR]</title>
+			      <thumbnail>http://www.oreol.tv/template/img2/Fut_1_HD.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=750</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МАТЧ! ФУТБОЛ 1 HD[/COLOR]</title>
+			      <thumbnail>http://myttk.ru/upload/iblock/b98/b98b44d480bbe18cc7c4b0df766e55ce.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=616</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МАТЧ! ФУТБОЛ 2[/COLOR]</title>
+			      <thumbnail>http://www.oreol.tv/template/img2/Fut_2_HD.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=755</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МАТЧ! ФУТБОЛ 2 HD[/COLOR]</title>
+			      <thumbnail>http://www.oreol.tv/template/img2/Fut_2_HD.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=617</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МАТЧ! ФУТБОЛ 3[/COLOR]</title>
+			      <thumbnail>http://www.oreol.tv/template/img2/Fut_3_HD.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=516</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МАТЧ! ФУТБОЛ 3 HD[/COLOR]</title>
+			      <thumbnail>http://tuchkasport.com/uploads/posts/2016-06/1465232516_mf3hd.png</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=618</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МАТЧ! Игра[/COLOR]</title>
+			      <thumbnail>http://opsmedia.ru/wp-content/uploads/2016/01/match-igra-logo-400x225-400x225.png</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=370$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=533$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МАТЧ! Игра HD[/COLOR]</title>
+			      <thumbnail>http://tuchkasport.com/uploads/posts/2016-06/1465477524_mihd.png</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=618</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МАТЧ! Наш Спорт[/COLOR]</title>
+			      <thumbnail>http://new.real.su/data/images/custom_pages/a9b02d5ccb73d2f949e1dc6adf2026a5.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=102$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=227$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МАТЧ! ПЛАНЕТА[/COLOR]</title>
+			      <thumbnail>http://www.globaltv.ge/img/machplaneta.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/FLASH-TV/playlist.m3u8?ch=123</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Музыка Первого[/COLOR]</title>
+			      <thumbnail>http://www.karabakhtelecom.com/files/uploads/yntanekan/channel_icons/Music/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE.gif</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=160$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=588$$lsname=LINK 2</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=676$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МУЗ ТВ[/COLOR]</title>
+			      <thumbnail>http://www.russkayaispania.com/media/muz_tv_2009.png20111122141133.png</thumbnail>
+                  <link>http://51.254.39.37/TV/FLASH-TV/playlist.m3u8?ch=116</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Haш ФУТБОЛ[/COLOR]</title>
+			      <thumbnail>http://8-themes.com/wp-content/uploads/2016/02/logo-nash-futbol-600x425.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=537</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Haш ФУТБОЛ HD[/COLOR]</title>
+			      <thumbnail>http://8-themes.com/wp-content/uploads/2016/02/logo-nash-futbol-600x425.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=665</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Rusong TV[/COLOR]</title>
+			      <thumbnail>http://k-tv.ru/wp-content/uploads/2011/09/RusongTV.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=185$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=190$$lsname=LINK 2</link>
+				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=292$$lsname=LINK 3</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Телеканал Футбол[/COLOR]</title>
+			      <thumbnail>http://www.football-tv.ru/images/logo.png</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=100</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]жapа[/COLOR]</title>
+			      <thumbnail>https://logopond.com/logos/2e53916e736559e55974bcf902b36bf8.png</thumbnail>
+                  <link>http://51.254.39.37/TV/FLASH-TV/playlist.m3u8?ch=105</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]wstip-1.dyndns-free.com[/B][/COLOR]</name>
+          <thumbnail>http://besnet.at.ua/LOGOTIPY_SOFTA/iptv_logo.gif</thumbnail>
+		  <fanart>http://www.artsfon.com/pic/201409/1920x1080/artsfon.com-10787.jpg</fanart>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]Egoist TV[/COLOR]</title>
+			      <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/egoist_tv.jpg</thumbnail>
+                  <link>http://wstip-1.dyndns-free.com:1400/0121</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Europa Plus TV[/COLOR]</title>
+			      <thumbnail>http://www.logotypes101.com/logos/541/BF2430B52CB8E7F7C736BB06A84975B1/europaplus.png</thumbnail>
+                  <link>http://wstip-1.dyndns-free.com:1400/0103</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]МАТЧ! ПЛАНЕТА[/COLOR]</title>
+			      <thumbnail>http://www.globaltv.ge/img/machplaneta.jpg</thumbnail>
+                  <link>http://wstip-1.dyndns-free.com:1400/0112</link>
+                </subitem>
+			
+                <subitem>
+                  <title>[COLOR lightyellow]ФУТБОЛ 1[/COLOR]</title>
+			      <thumbnail>http://www.glaz.tv/images/logos/tv/big/futbol-1.jpg</thumbnail>
+                  <link>http://wstip-1.dyndns-free.com:1100/0155</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]ФУТБОЛ 2[/COLOR]</title>
+			      <thumbnail>http://www.glaz.tv/images/logos/tv/big/futbol-2.jpg</thumbnail>
+                  <link>http://wstip-1.dyndns-free.com:1100/0156</link>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]жapа[/COLOR]</title>
+			      <thumbnail>https://logopond.com/logos/2e53916e736559e55974bcf902b36bf8.png</thumbnail>
+                  <link>http://wstip-1.dyndns-free.com:1400/0123</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>	
+	</channel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Sport[/B][/COLOR]</name>
+      <thumbnail>http://www.clicanddeco.com/img/p/506-821-large.jpg</thumbnail>
+      <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>	 
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Abu Dhabi Sports 1[/B][/COLOR]</name>
+          <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-1-live.png</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-1-live.png</thumbnail>
+                  <link>http://adtv.ercdn.net/adsport1/adsport1.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8$$lsname=LINK 2</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+			      <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-1-live.png</thumbnail>
+				  <link>http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-1-live.png</thumbnail>
+				  <link>http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Abu Dhabi Sports 2[/B][/COLOR]</name>
+          <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-2-live.png</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-2-live.png</thumbnail>
+                  <link>http://adtv.ercdn.net/adsport1/adsport2.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://adtv.ercdn.net/adsport1/adsport2_720p.m3u8$$lsname=LINK 2</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+			      <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-2-live.png</thumbnail>
+				  <link>http://adtv.ercdn.net/adsport1/adsport2_480p.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-2-live.png</thumbnail>
+				  <link>http://adtv.ercdn.net/adsport1/adsport2_360p.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]beIN Sports[/B][/COLOR]</name>
+          <thumbnail>http://assets.beinsports.com/2.6.60/images/logo-locator.png</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+<subitem>
+<title>• BEIN SPORTS 1 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports1</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://sabonner.beinsports.com/wp-content/uploads/2015/06/beINSPORTSHD1.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• BEIN SPORTS 2 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports2</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://sabonner.beinsports.com/wp-content/uploads/2015/06/beINSPORTSHD2.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• BEIN SPORTS 3 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports3</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://sabonner.beinsports.com/wp-content/uploads/2015/06/beINSPORTSHD3.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• BEIN SPORTS 4 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports4/page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• BEIN SPORTS 5 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports5</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/beinsports5.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• BEIN SPORTS 6 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports6</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/beinsports6.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• BEIN SPORTS 7 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports7</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/beinsports7.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• BEIN SPORTS 8 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports8</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/beinsports8.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• BEIN SPORTS 9 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports9</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/beinsports9.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• BEIN SPORTS 10 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports10</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/beinsports10.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• BEIN SPORTS 11 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports11</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/beinsports11.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• BEIN SPORTS 12 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports12</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/beinsports12.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• BEIN SPORTS 1 FR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports1france</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://sabonner.beinsports.com/wp-content/uploads/2015/06/beINSPORTSHD1.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• BEIN SPORTS 2 FR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports2france</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://sabonner.beinsports.com/wp-content/uploads/2015/06/beINSPORTSHD2.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• BEIN SPORTS 3 FR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports3france</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://sabonner.beinsports.com/wp-content/uploads/2015/06/beINSPORTSHD3.png</thumbnail>
+</subitem>	
+	        </subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]BT Sports[/B][/COLOR]</name>
+          <thumbnail>http://ebbsfleetunited.co.uk/wp-content/uploads/2015/07/btsport.png</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>	
+                <subitem>
+                <title>[COLOR lightyellow]BT Mosaic[/COLOR]</title>
+                <link>http://5.135.139.19:1935/server7/stream5.stream/playlist.m3u8?token=</link>
+                <thumbnail>https://static.wixstatic.com/media/6fed74_a2c55e4a2afa42849e8673da611f2053~mv2.jpg_srz_503_267_85_22_0.50_1.20_0.00_jpg_srz</thumbnail>
+                </subitem>	
+			
+				<subitem>
+                <title>[COLOR lightyellow]BT Mosaic[/COLOR]</title>
+                <link>http://5.135.139.19:1935/server7/stream6.stream/playlist.m3u8?token=</link>
+                <thumbnail>https://static.wixstatic.com/media/6fed74_a2c55e4a2afa42849e8673da611f2053~mv2.jpg_srz_503_267_85_22_0.50_1.20_0.00_jpg_srz</thumbnail>
+                </subitem>	
+				
+				<subitem>
+                <title>[COLOR lightyellow]BT Mosaic[/COLOR]</title>
+                <link>http://5.135.139.19:1935/server7/stream7.stream/playlist.m3u8?token=</link>
+                <thumbnail>https://static.wixstatic.com/media/6fed74_a2c55e4a2afa42849e8673da611f2053~mv2.jpg_srz_503_267_85_22_0.50_1.20_0.00_jpg_srz</thumbnail>
+                </subitem>
+				
+				<subitem>
+                <title>[COLOR lightyellow]BT Mosaic[/COLOR]</title>
+                <link>http://5.135.139.19:1935/server7/stream8.stream/playlist.m3u8?token=</link>
+                <thumbnail>https://static.wixstatic.com/media/6fed74_a2c55e4a2afa42849e8673da611f2053~mv2.jpg_srz_503_267_85_22_0.50_1.20_0.00_jpg_srz</thumbnail>
+                </subitem>
+				
+				<subitem>
+                <title>[COLOR lightyellow]BT Mosaic[/COLOR]</title>
+                <title>[COLOR lightyellow]BT Mosaic[/COLOR]</title>
+                <link>http://5.135.139.19:1935/server7/stream9.stream/playlist.m3u8?token=</link>
+                <thumbnail>https://static.wixstatic.com/media/6fed74_a2c55e4a2afa42849e8673da611f2053~mv2.jpg_srz_503_267_85_22_0.50_1.20_0.00_jpg_srz</thumbnail>
+                </subitem>
+				
+<subitem>
+<title>• BT Sport 1</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=btsport1</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://api.iptvapi.com/img/0/5/3/8/538.jpg</thumbnail>
+</subitem>	
+
+<subitem>
+<title>• BT Sport 2</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=btsport2</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://tventretenimiento.es/images/bt-sport2.jpg</thumbnail>
+</subitem>	
+	
+				<subitem>
+                <title>[COLOR lightyellow]BT Sports Extra 1[/COLOR]</title>
+                <link>http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=</link>
+                <thumbnail>http://sport-onthebox.com/wp-content/uploads/2014/09/BT-Sport-Extra-red-350x210.png</thumbnail>
+                </subitem>
+				
+				<subitem>
+                <title>[COLOR lightyellow]BT Sports Extra 2[/COLOR]</title>
+                <link>http://5.135.139.19:1935/server7/stream11.stream/playlist.m3u8?token=</link>
+                <thumbnail>http://sport-onthebox.com/wp-content/uploads/2014/09/BT-Sport-Extra-red-350x210.png</thumbnail>
+                </subitem>
+				
+				<subitem>
+                <title>[COLOR lightyellow]BT Sports Extra 3[/COLOR]</title>
+                <link>http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=</link>
+                <thumbnail>http://sport-onthebox.com/wp-content/uploads/2014/09/BT-Sport-Extra-red-350x210.png</thumbnail>
+                </subitem>
+				
+				<subitem>
+                <title>[COLOR lightyellow]BT Sports Extra 4[/COLOR]</title>
+                <link>http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=</link>
+                <thumbnail>http://sport-onthebox.com/wp-content/uploads/2014/09/BT-Sport-Extra-red-350x210.png</thumbnail>
+                </subitem>
+			</subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Dubai Racing[/B][/COLOR]</name>
+          <thumbnail>http://tv-tv.in/wp-content/uploads/2014/11/Dubai-Racing-live-streaming.gif</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>http://tv-tv.in/wp-content/uploads/2014/11/Dubai-Racing-live-streaming.gif</thumbnail>
+                  <link>http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+			      <thumbnail>http://tv-tv.in/wp-content/uploads/2014/11/Dubai-Racing-live-streaming.gif</thumbnail>
+                  <link>http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b750000.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]240p[/COLOR]</title>
+			      <thumbnail>http://tv-tv.in/wp-content/uploads/2014/11/Dubai-Racing-live-streaming.gif</thumbnail>
+                  <link>http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b190000.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Dubai Sports[/B][/COLOR]</name>
+          <thumbnail>http://www.sat-address.com/f/pics/logotipi/Dubai-Sports-2_o.jpg</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+		  <info>http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8</info>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
+			      <thumbnail>http://www.sat-address.com/f/pics/logotipi/Dubai-Sports-2_o.jpg</thumbnail>
+                  <link>http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://www.sat-address.com/f/pics/logotipi/Dubai-Sports-2_o.jpg</thumbnail>
+                  <link>http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b480000.m3u8</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]DXTV[/B][/COLOR]</name>
+          <thumbnail>http://assets2.domestika.org/project-items/001/455/682/6-big.jpg?1447856048</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]432p[/COLOR]</title>
+			      <thumbnail>http://assets2.domestika.org/project-items/001/455/682/6-big.jpg?1447856048</thumbnail>
+                  <link>http://186.33.227.200/DXTV/smil:DXTV.smil/chunklist_w2066162898_b800000_slesp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E</link>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]432p[/COLOR]</title>
+			      <thumbnail>http://assets2.domestika.org/project-items/001/455/682/6-big.jpg?1447856048</thumbnail>
+                  <link>http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/master.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]288p[/COLOR]</title>
+			      <thumbnail>http://assets2.domestika.org/project-items/001/455/682/6-big.jpg?1447856048</thumbnail>
+                  <link>http://186.33.227.200/DXTV/smil:DXTV.smil/chunklist_w2066162898_b542000_slesp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E</link>
+                </subitem>	
+
+				<subitem>
+                  <title>[COLOR lightyellow]144p[/COLOR]</title>
+			      <thumbnail>http://assets2.domestika.org/project-items/001/455/682/6-big.jpg?1447856048</thumbnail>
+                  <link>http://186.33.227.200/DXTV/smil:DXTV.smil/chunklist_w2066162898_b358000_slesp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]144p[/COLOR]</title>
+			      <thumbnail>http://assets2.domestika.org/project-items/001/455/682/6-big.jpg?1447856048</thumbnail>
+                  <link>http://186.33.227.200/DXTV/smil:DXTV.smil/chunklist_w2066162898_b200000_slesp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]KazSport[/B][/COLOR]</name>
+          <thumbnail>http://asylmiras.org/assets/images/smi/KazSport.jpg</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+			      <thumbnail>http://asylmiras.org/assets/images/smi/KazSport.jpg</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/04/plst.m3u8</link>
+                </subitem>
+			
+                <subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://asylmiras.org/assets/images/smi/KazSport.jpg</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/03/plst.m3u8</link>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]240p[/COLOR]</title>
+			      <thumbnail>http://asylmiras.org/assets/images/smi/KazSport.jpg</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/02/plst.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]livesport.pw[/B][/COLOR]</name>
+          <thumbnail>https://pbs.twimg.com/profile_images/714392063358464000/47FGXBpB.jpg</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+			    <subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]ARENA SPORT 1</title>
+<sportsdevil>http://livesport.pw/arenaSport1.html</sportsdevil>
+<referer>http://livesport.pw/arenaSport1.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/Arena_sport_logo.jpg</thumbnail>
+<fanart></fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]ARENA SPORT 2</title>
+<sportsdevil>http://livesport.pw/arenaSport2.html</sportsdevil>
+<referer>http://livesport.pw/arenaSport2.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/Arena_sport_logo.jpg</thumbnail>
+<fanart></fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]ARENA SPORT 3</title>
+<sportsdevil>http://livesport.pw/arenaSport3.html</sportsdevil>
+<referer>http://livesport.pw/arenaSport3.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/Arena_sport_logo.jpg</thumbnail>
+<fanart></fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]ARENA SPORT 4</title>
+<sportsdevil>http://livesport.pw/arenaSport4.html</sportsdevil>
+<referer>http://livesport.pw/arenaSport4.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/Arena_sport_logo.jpg</thumbnail>
+<fanart></fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]ARENA SPORT 5</title>
+<sportsdevil>http://livesport.pw/arenaSport5.html</sportsdevil>
+<referer>http://livesport.pw/arenaSport5.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/Arena_sport_logo.jpg</thumbnail>
+<fanart></fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]Aspor</title>
+<sportsdevil>http://livesport.pw/aSPOR.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://2.bp.blogspot.com/-YH5sETI69hA/VCPWQeouEAI/AAAAAAAAanE/SnuYqYmK1c0/s1600/a%2Bspor.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/bt.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]BT Sport 1</title>
+<sportsdevil>http://livesport.pw/BTSport1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/BT-Sport-HDv2.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/bt.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>BT Sport 2</title>
+<sportsdevil>http://livesport.pw/BTSport2.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://i.imgur.com/JofpI6x.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/bt.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]BT SPORT 3</title>
+<sportsdevil>http://livesport.pw/BTSport3.html</sportsdevil>
+<referer>http://livesport.pw/BTSport3.html</referer>
+<thumbnail>https://www.pitv.co.za/wp-content/uploads/2016/11/bt-sport-3-hd.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/bt.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]BT Sport / ESPN</title>
+<sportsdevil>http://livesport.pw/btsportespn.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.satandpcguy.com/wp-content/uploads/2015/11/bt-sport-espn-300x75.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/bt.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]DIGI SPORT 1</title>
+<sportsdevil>http://livesport.pw/DigiSport1.html</sportsdevil>
+<referer>http://livesport.pw/DigiSport1.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/Digi%20Sport%20logo%202012.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]DIGI SPORT 2</title>
+<sportsdevil>http://livesport.pw/DigiSport2.html</sportsdevil>
+<referer>http://livesport.pw/DigiSport2.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/Digi%20Sport%20logo%202012.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]Eurosport 1</title>
+<sportsdevil>http://livesport.pw/Eurosport.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]Eurosport 2</title>
+<sportsdevil>http://livesport.pw/Eurosport2.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]KazSport</title>
+<sportsdevil>http://livesport.pw//Kazsport.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://asylmiras.org/assets/images/smi/KazSport.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]NBA TV</title>
+<sportsdevil>http://livesport.pw/NBA.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.liveonlinetv247.info/images/nbatv.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]NBCSN</title>
+<sportsdevil>http://livesport.pw/NBCSN.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.broadcastingcable.com/photo/266/266263-nbcsn_logo_jpg.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]NHL NETWORK</title>
+<sportsdevil>http://livesport.pw/KHLHD.html</sportsdevil>
+<referer>http://livesport.pw/KHLHD.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/NHL.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORred]ONLINE:[/COLOR]NTV Spor</title>
+<sportsdevil>http://livesport.pw/ntvSPOR.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.myvideo.az/v3_imgs/tv/tv_ntvspor_100.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SETANTA SPORTS</title>
+<sportsdevil>http://livesport.pw/Setanta.html</sportsdevil>
+<referer>http://livesport.pw/Setanta.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/setanta-sports-logo.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SETANTA SPORTS PLUS</title>
+<sportsdevil>http://livesport.pw/SETPLUS.html</sportsdevil>
+<referer>http://livesport.pw/SETPLUS.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/setanta-sports-logo.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SKY SPORTS 1</title>
+<sportsdevil>http://livesport.pw/SkySports1.html</sportsdevil>
+<referer>http://livesport.pw/SkySports1.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/sky_sports_1.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/SkySports.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SKY SPORTS 2</title>
+<sportsdevil>http://livesport.pw/SkySports2.html</sportsdevil>
+<referer>http://livesport.pw/SkySports2.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/sky_sports_2.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/SkySports.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SKY SPORTS 3</title>
+<sportsdevil>http://livesport.pw/SkySports3.html</sportsdevil>
+<referer>http://livesport.pw/SkySports3.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/sky_sports_3.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/SkySports.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]Sky Sports 4</title>
+<sportsdevil>http://livesport.pw/SkySports4.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/sky_sports_4.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/SkySports.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SKY SPORTS 5</title>
+<sportsdevil>http://livesport.pw/SkySports5.html</sportsdevil>
+<referer>http://livesport.pw/SkySports5.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/sky_sports_5.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/SkySports.jpg</fanart>
+</subitem>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]Sport 1</title>
+<sportsdevil>http://livesport.pw/sport1-de.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.sportsbusinessdaily.com/Global/Issues/2013/07/04/Media/~/media/D6DCD1CD01C747BF93EB8A7E7ED1AB6E.ashx</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORTKLUB 1</title>
+<sportsdevil>http://livesport.pw/SportKlub1.html</sportsdevil>
+<referer>http://livesport.pw/SportKlub1.html</referer>
+<thumbnail>http://tvkanaliuzivo.rs/images/gallery/baneri/Sport Klub 1 online stream - tv SK1 prenos uzivo online.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORTKLUB 2</title>
+<sportsdevil>http://livesport.pw/SportKlub2.html</sportsdevil>
+<referer>http://livesport.pw/SportKlub2.html</referer>
+<thumbnail>http://www.mntvlive.com/wp-content/uploads/2016/05/Sport-Klub-2.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORTKLUB 3</title>
+<sportsdevil>http://livesport.pw/SportKlub3.html</sportsdevil>
+<referer>http://livesport.pw/SportKlub3.html</referer>
+<thumbnail>http://www.mntvlive.com/wp-content/uploads/2016/05/Sport-Klub-3.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SportKlub 4</title>
+<sportsdevil>http://livesport.pw/SportKlub4.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.mntvlive.com/wp-content/uploads/2016/05/Sport-Klub-4-300x155.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SportKlub 5</title>
+<sportsdevil>http://livesport.pw/SportKlub5.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.mntvlive.com/wp-content/uploads/2016/05/Sport-Klub-5.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SportKlub 6</title>
+<sportsdevil>http://livesport.pw/SportKlub6.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.mntvlive.com/wp-content/uploads/2016/05/Sport-Klub-6.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORT TV 1</title>
+<sportsdevil>http://livesport.pw//Sport1PT.html</sportsdevil>
+<referer>http://livesport.pw//Sport1PT.html</referer>
+<thumbnail>http://weblinks.altervista.org/LOGHI/sptv1.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORT TV 2</title>
+<sportsdevil>http://livesport.pw//Sport2PT.html</sportsdevil>
+<referer>http://livesport.pw//Sport2PT.html</referer>
+<thumbnail>http://weblinks.altervista.org/LOGHI/sptv2.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORT TV 3</title>
+<sportsdevil>http://livesport.pw//Sport3PT.html</sportsdevil>
+<referer>http://livesport.pw//Sport3PT.html</referer>
+<thumbnail>http://weblinks.altervista.org/LOGHI/sptv3.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORT TV 4</title>
+<sportsdevil>http://livesport.pw//Sport4PT.html</sportsdevil>
+<referer>http://livesport.pw//Sport4PT.html</referer>
+<thumbnail>http://weblinks.altervista.org/LOGHI/sptv4.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORT TV 5</title>
+<sportsdevil>http://livesport.pw//Sport5PT.html</sportsdevil>
+<referer>http://livesport.pw//Sport5PT.html</referer>
+<thumbnail>http://www.mntvlive.com/wp-content/uploads/2016/05/SPORT.TV5_.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]Super Sport 1</title>
+<sportsdevil>http://livesport.pw/ss1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://trailermania.org/uploads/images/images%20(1).jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]Super Sport 2</title>
+<sportsdevil>http://livesport.pw/ss2.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://trailermania.org/uploads/images/images%20(2).jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]Super Sport 3</title>
+<sportsdevil>http://livesport.pw/ss3.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://trailermania.org/uploads/images/images%20(3).jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]Super Sport 4</title>
+<sportsdevil>http://livesport.pw/ss4.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://trailermania.org/uploads/images/images%20(4).jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]SUPER TENNIS</title>
+<sportsdevil>http://livesport.pw/supertennis.html</sportsdevil>
+<referer>http://livesport.pw/supertennis.html</referer>
+<thumbnail>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/SUPERTENNIS.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]TSN 5</title>
+<sportsdevil>http://livesport.pw/TSN5.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://channelguides.ca/images/tsn5.png</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]VIASAT FOOTBALL</title>
+<sportsdevil>http://livesport.pw/ViasatFootball.html</sportsdevil>
+<referer>http://livesport.pw/ViasatFootball.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/Viasat-Sport.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]VIASAT HOCKEY</title>
+<sportsdevil>http://livesport.pw/ViasatHockey.html</sportsdevil>
+<referer>http://livesport.pw/ViasatHockey.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/Viasat-Sport.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]VIASAT SPORT BALTIC</title>
+<sportsdevil>http://livesport.pw/ViasatSportBaltic.html</sportsdevil>
+<referer>http://livesport.pw/ViasatSportBaltic.html</referer>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/Viasat-Sport.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]Беларусь 5</title>
+<sportsdevil>http://livesport.pw//BEL5.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.nord.by/images/tv/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C-5.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]KXЛ</title>
+<sportsdevil>http://livesport.pw/KHLHD.html</sportsdevil>
+<referer>http://livesport.pw/KHLHD.html</referer>
+<thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/2183/brand.gif?itok=oRdwdY6J</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>[COLORgreen]ONLINE:[/COLOR]МАТЧ!</title>
+<sportsdevil>http://livesport.pw//KHL.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://logosklad.ru/photo/logos/492/1443812419.jpg</thumbnail>
+<fanart>http://kodeeresurrection.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</subitem>
+
+			</subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]SKY Sports[/B][/COLOR]</name>
+          <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Sky_Sports_logo_2015.svg/1024px-Sky_Sports_logo_2015.svg.png</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+<subitem>
+<title>• SKY Sports 1</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=skysports1</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://www.tvlive.org.uk/media/resources/skysports1.png</thumbnail>
+</subitem>	
+
+<subitem>
+<title>• SKY Sports 2</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=skysports2</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://www.tvlive.org.uk/media/resources/skysports2.png</thumbnail>
+</subitem>	
+
+<subitem>
+<title>• SKY Sports 3</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=skysports3</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://www.tvlive.org.uk/media/resources/skysports3.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>• SKY Sports 4</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=skysports4</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://www.tvlive.org.uk/media/resources/skysports4.png</thumbnail>
+</subitem>	
+
+<subitem>
+<title>• SKY Sports 5</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=skysports5</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>http://kazisports.com/wp-content/uploads/2017/03/Sky-Sports-5-Logo.png</thumbnail>
+</subitem>		
+	        </subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Sports TV[/B][/COLOR]</name>
+          <thumbnail>http://www.giniko.com/logos/190x110/215.png</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]488p[/COLOR]</title>
+			      <thumbnail>http://www.giniko.com/logos/190x110/215.png</thumbnail>
+                  <link>http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w1488575796_b800000.m3u8</link>
+                </subitem>
+			
+                <subitem>
+                  <title>[COLOR lightyellow]288p[/COLOR]</title>
+			      <thumbnail>http://www.giniko.com/logos/190x110/215.png</thumbnail>
+                  <link>http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w1488575796_b200000.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]144p[/COLOR]</title>
+			      <thumbnail>http://www.giniko.com/logos/190x110/215.png</thumbnail>
+                  <link>http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w1488575796_b64000.m3u8</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Super Sport[/B][/COLOR]</name>
+          <thumbnail>http://www.supersport.al/wp-content/uploads/2015/04/SUPERSPORT-COLOUR11.png</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]Super Sport 1[/COLOR]</title>
+			      <thumbnail>http://2streamking.co/images/channels/supersport.png</thumbnail>
+                  <link>http://81.7.13.162/hls/ss1/index.m3u8</link>
+                </subitem>
+			
+                <subitem>
+                  <title>[COLOR lightyellow]Super Sport 2[/COLOR]</title>
+			      <thumbnail>http://2streamking.co/images/channels/supersport2.png</thumbnail>
+                  <link>http://81.7.13.162/hls/ss2/index.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Super Sport 3[/COLOR]</title>
+			      <thumbnail>http://2streamking.co/images/channels/supersport3.png</thumbnail>
+                  <link>http://81.7.13.162/hls/ss3/index.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Super Sport 4[/COLOR]</title>
+			      <thumbnail>http://2streamking.co/images/channels/supersport4.png</thumbnail>
+                  <link>http://81.7.13.162/hls/ss4/index.m3u8</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>				
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]TRT Spor[/B][/COLOR]</name>
+          <thumbnail>http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=392</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+		  <info>http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8</info>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>http://oklivetv.com/wp-content/uploads/2015/05/TRTSPORHD-800x540.jpg</thumbnail>
+                  <link>http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/chunklist_w356745935_b153600.m3u8</link>
+                </subitem>
+			
+                <subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+			      <thumbnail>http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=392</thumbnail>
+                  <link>http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/chunklist_w356745935_b409600.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=392</thumbnail>
+                  <link>http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/chunklist_w356745935_b665600.m3u8</link>
+                </subitem>	
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Viasat Sport[/B][/COLOR]</name>
+          <thumbnail>http://www.spelaspel.se/wp-content/uploads/2014/04/Viasatsport.png</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+			      <thumbnail>http://www.spelaspel.se/wp-content/uploads/2014/04/Viasatsport.png</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id73_KTR_SG--ViasatSport/04/plst.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://www.spelaspel.se/wp-content/uploads/2014/04/Viasatsport.png</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id73_KTR_SG--ViasatSport/03/plst.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]240p[/COLOR]</title>
+			      <thumbnail>http://www.spelaspel.se/wp-content/uploads/2014/04/Viasatsport.png</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id73_KTR_SG--ViasatSport/02/plst.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]YAS Sports TV[/B][/COLOR]</name>
+          <thumbnail>https://lh3.googleusercontent.com/bJ64ckjd1CKpkiyQX-T_nqEQsTbeXLcqRitkTOhqZ0cwc9vRbDzFTQ3t072fUx6MiaA=w300</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-2-live.png</thumbnail>
+                  <link>http://adtv.ercdn.net/adsportextra/adsportextra.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8$$lsname=LINK 2</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+			      <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-2-live.png</thumbnail>
+				  <link>http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-2-live.png</thumbnail>
+				  <link>http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]МАТЧ! ПЛАНЕТА[/B][/COLOR]</name>
+          <thumbnail>http://www.sat-address.com/f/pics/Stations/Match-TV-Planeta_o.jpg</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]540p[/COLOR]</title>
+			      <thumbnail>http://www.sat-address.com/f/pics/Stations/Match-TV-Planeta_o.jpg</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id34_KTR_SG--boec/03/plst.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://www.sat-address.com/f/pics/Stations/Match-TV-Planeta_o.jpg</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id34_KTR_SG--boec/02/plst.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]240p[/COLOR]</title>
+			      <thumbnail>http://www.sat-address.com/f/pics/Stations/Match-TV-Planeta_o.jpg</thumbnail>
+                  <link>http://vs7.cdn.ott.otautv.kz/dtv/id34_KTR_SG--boec/01/plst.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<items>
+		    <item>
+                <title>[COLOR lightyellow]Alpha 1 Sports[/COLOR]</title>
+                <link>http://109.236.91.150:8080/A1Sport/index.m3u8</link>
+                <thumbnail>http://www.a1-sys.com/wp-content/uploads/2015/05/a1_logo3.png</thumbnail>
+            </item>
+			
+		    <item>
+                <title>[COLOR lightyellow]BURSASPORT TV[/COLOR]</title>
+                <link>http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8</link>
+                <thumbnail>https://4.bp.blogspot.com/-oEyMyseCIPg/V5DC6zpMLPI/AAAAAAAATJI/FMw2lPI4nIU2b9jywLdRIV_PN2i70VJeQCLcB/s1600/bstv1.png</thumbnail>
+            </item>
+
+			<item>
+                <title>[COLOR lightyellow]Motorsport[/COLOR]</title>
+                <link>http://motorsport.hopto.org:8080/</link>
+                <thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/032011/untitled-1_400.png?itok=9kPAEjPN</thumbnail>
+            </item> 
+			
+			<item>
+                <title>[COLOR lightyellow]SPORT1[/COLOR]</title>
+                <link>http://178.172.245.155:8121/sport1</link>
+                <thumbnail>http://www.cgates.lt/userfiles/images/naujienos/sport1-hd-logo.png</thumbnail>
+            </item> 
+			
+			<item>
+                <title>[COLOR lightyellow]sportal.bg[/COLOR]</title>
+                <link>http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8</link>
+                <thumbnail>http://legionrun.com/media/dow_pic_logo.gif</thumbnail>
+            </item> 
+			
+			<item>
+                <title>[COLOR lightyellow]SUPERSPOR[/COLOR]</title>
+                <link>http://46.105.161.243:8085/lighd</link>
+                <thumbnail>http://www.dream-box.tv/_Media/Images/ProjectBlock/Works/SportPack/SuperSport/Big7.jpg</thumbnail>
+            </item> 
+			
+			<item>
+                <title>[COLOR lightyellow]TileSport[/COLOR]</title>
+                <link>http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8</link>
+                <thumbnail>http://tvtvtv.ru/icons/logo_5550.png</thumbnail>
+            </item> 
+		</items>	
+	</channel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <channel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]wtyczki[/B][/COLOR]</name>
+          <thumbnail>http://www.dubaiinternetmarketing.com/wp-content/uploads/2010/12/Plug-Ins-Electronix-The-Dubai-Mall-Dubai-UAE.jpg</thumbnail>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <subchannel>
+			  <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]SportsDevil[/B][/COLOR]</name>
+			  <thumbnail>https://www.tvaddons.ag/kodi-addons/cache/images/23029629e9d01862f74053683ccc93_icon.png</thumbnail>
+                <subitems>
+				  <subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR yellow][B] Live TV - [/B][/COLOR][COLOR lightyellow][B]CinesTrenosTV[/B][/COLOR]</title>
+	              <thumbnail>http://i.imgur.com/Ks5htzb.jpg</thumbnail>
+                  <link>ignorme</link>
+                  <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/cinestrenostv.tv.cfg&amp;mode=1</jsonrpc>
+                  </subitem>
+			
+				  <subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR yellow][B] Live TV - [/B][/COLOR][COLOR lightyellow][B]Live Online TV 24/7[/B][/COLOR]</title>
+	              <thumbnail>https://lh3.googleusercontent.com/_QDQuHHm1aj1wyBTRVBoemhvttNZ5fF4RhLG4BWoYpx0z69OKsbvg568hxup5oBqsyrJs7XV-w=s640-h400-e365</thumbnail>
+                  <link>ignorme</link>
+                  <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/liveonlinetv247.net.cfg&amp;mode=1</jsonrpc>
+                  </subitem>
+				  
+				  <subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR yellow][B] Live TV - [/B][/COLOR][COLOR lightyellow][B]ShadowNet[/B][/COLOR]</title>
+	              <thumbnail>http://www.shadow-net.org/product_images/logon.png</thumbnail>
+                  <link>ignorme</link>
+                  <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/shadownet.ro.cfg&amp;mode=1</jsonrpc>
+                  </subitem>
+
+				  <subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR yellow][B] Live TV - [/B][/COLOR][COLOR lightyellow][B]verdirectotv[/B][/COLOR]</title>
+	              <thumbnail>https://pbs.twimg.com/profile_images/480554792196907009/iYJ595I6_400x400.png</thumbnail>
+                  <link>ignorme</link>
+                  <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/verdirectotv.cfg&amp;mode=1</jsonrpc>
+                  </subitem>
+                </subitems>	
+            </subchannel>
+		</channel>	
+</channels>	
