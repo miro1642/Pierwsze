@@ -82,16 +82,25 @@
 			      <link>http://ignorame</link>
 			      <thumbnail>http://sharetv.blutu.pl/images/logo.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/iptv/Playlisty/m3u/pl_mix.m3u</externallink>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/pl_mix.m3u</externallink>
 			      <page></page>
               </item>
 			  
-			  <item>
+			 <item>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Wojtu[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>http://sharetv.blutu.pl/images/logo.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://sharejunior.c0.pl/playlist/pff.m3u</externallink>
+                  <externallink>http://sharetv.blutu.pl/lista/listy/listawojtu.php?uname=pchelka&amp;upass=Kodiczek1%21</externallink>
+			      <page></page>
+              </item>
+			  
+			  <item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]GoldVod[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://sd-xbmc.org/repository/xbmc-addons/goldvod.png</thumbnail>
+				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>http://sharetv.blutu.pl/lista/listy/listagold.php?uname=pchelka&amp;upass=Kodiczek1%21</externallink>
 			      <page></page>
               </item>
 			</items> 
