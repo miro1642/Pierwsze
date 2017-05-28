@@ -87,7 +87,7 @@
               </item>
 			  
 			 <item>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Wojtu[/B][/COLOR]</title>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Wojtu 1[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>http://sharetv.blutu.pl/images/logo.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
@@ -96,7 +96,25 @@
               </item>
 			  
 			  <item>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]GoldVod[/B][/COLOR]</title>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Wojtu 2[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://sharetv.blutu.pl/images/logo.png</thumbnail>
+				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>http://sharetv.blutu.pl/lista/listy/listawojtu.php?uname=pchelka&amp;upass=Kodiczek1%21</externallink>
+			      <page></page>
+              </item>
+			  
+			  <item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]GoldVod 1[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://sd-xbmc.org/repository/xbmc-addons/goldvod.png</thumbnail>
+				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>http://sharetv.blutu.pl/lista/listy/listagold.php?uname=pchelka&amp;upass=Kodiczek1%21</externallink>
+			      <page></page>
+              </item>
+			  
+			  <item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]GoldVod 2[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>http://sd-xbmc.org/repository/xbmc-addons/goldvod.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
@@ -150,24 +168,7 @@
               <page>http://217.182.138.85:7000/get.php?username=torsten&amp;password=torsten&amp;type=m3u</page>
               <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
             </regex>
-          </subitem>		  
-<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-		  <subitem>
-		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 217.182.138.85:yasin[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
-		  <thumbnail>http://vexavi19.webd.pl/adam/adam_komputery/images/iptv/nowwatchtvlive_co_tv_poland.png</thumbnail>
-           <link>$doregex[makelist]</link>
-            <regex>
-              <name>makelist</name>
-              <listrepeat><![CDATA[
-                <title>[makelist.param1]</title>
-                <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name= [makelist.param1]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&Icy-MetaData=1&Buffer=20971520 live=1 timeout=30</link>
-                <thumbnail>NA</thumbnail>
-                ]]></listrepeat>
-              <expres>#EXTINF:-1.*,PL VIP(.*?)\n(.*)</expres>
-              <page>http://217.182.138.85:7000/get.php?username=yasin&amp;password=yasin&amp;type=m3u</page>
-              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-            </regex>
-          </subitem> 		  
+          </subitem>		  	  
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 		  <subitem>
 		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 217.182.138.85:wolfgang[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
@@ -209,17 +210,7 @@
 ]]></listrepeat>
 <expres><![CDATA["(.*?)\s+--\s+(.*?)\s+--\s+(.*?)\s+--\s+(.*?)\s+--\s+(.*?)"]]></expres>
 <page>"clientportal.link -- philip -- philip --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal/philip[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clientportal.link:8080 -- philip -- philip --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal:8080/philip[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clients.clientportal.link -- philip -- philip --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal/philip[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clients.clientportal.link:8080 -- philip -- philip --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal:8080/philip[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clientportal.link -- RavG1TngER -- V1PlFFXNMv --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal/RavG1TngER[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clientportal.link:8080 -- RavG1TngER -- V1PlFFXNMv --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal:8080/RavG1TngER[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clients.clientportal.link -- RavG1TngER -- V1PlFFXNMv --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal/RavG1TngER[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clients.clientportal.link:8080 -- RavG1TngER -- V1PlFFXNMv --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal:8080/RavG1TngER[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clientportal.link -- vi -- vi --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal/vi[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clientportal.link:8080 -- vi -- vi --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal.link:vi[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clients.clientportal.link -- vi -- vi --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal/vi[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clients.clientportal.link:8080 -- vi -- vi --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal:8080/vi[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"</page>
+</page>
 <agent>VLC/2.2.1 LibVLC/2.2.17</agent>
 </regex>
 <regex>
@@ -242,9 +233,9 @@
 <fanart>https://i.ytimg.com/vi/It9OqZTgbfY/0.jpg</fanart>
 </subitem>
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-		  <subitem>
-		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vip.groupiptv.com:admin[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
-		  <thumbnail>http://orig14.deviantart.net/660b/f/2008/073/0/2/vip_group_logo_female_by_vip_group.jpg</thumbnail>
+          <subitem>
+		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] tv24serwis2.eu[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
+		  <thumbnail>http://3.bp.blogspot.com/-iNkR6y85Ung/VPYrvk2vZaI/AAAAAAAAAhU/jcLohLtT3DE/s1600/10371447_1513212508907563_7503735114464157097_n.png</thumbnail>
            <link>$doregex[makelist]</link>
             <regex>
               <name>makelist</name>
@@ -253,28 +244,11 @@
                 <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name= [makelist.param1]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&Icy-MetaData=1&Buffer=20971520 live=1 timeout=30</link>
                 <thumbnail>NA</thumbnail>
                 ]]></listrepeat>
-              <expres>#EXTINF:-1.*,PL VIP(.*?)\n(.*)</expres>
-              <page>http://vip.groupiptv.com:7000/get.php?username=admin&amp;password=admin&amp;type=m3u</page>
+              <expres>#EXTINF:-1.*,(.*?)\n(.*)</expres>
+              <page>http://tv24serwis2.eu:8000/get.php?username=demo&amp;password=demo&amp;type=m3u</page>
               <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
             </regex>
           </subitem> 
-<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-		  <subitem>
-		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 4kip.tv:showmax24[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
-		  <thumbnail>http://orig14.deviantart.net/660b/f/2008/073/0/2/vip_group_logo_female_by_vip_group.jpg</thumbnail>
-           <link>$doregex[makelist]</link>
-            <regex>
-              <name>makelist</name>
-              <listrepeat><![CDATA[
-                <title>[makelist.param1]</title>
-                <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name= [makelist.param1]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&Icy-MetaData=1&Buffer=20971520 live=1 timeout=30</link>
-                <thumbnail>NA</thumbnail>
-                ]]></listrepeat>
-              <expres>#EXTINF:-1.*,PL:(.*?)\n(.*)</expres>
-              <page>http://4kip.tv:1795/get.php?username=showmax24&amp;password=46bc8v&amp;type=m3u</page>
-              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-            </regex>
-          </subitem> 	  
 	    <subitems>
 		</subchannel>   
 </channel>	
