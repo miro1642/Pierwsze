@@ -1,31 +1,9 @@
 ﻿#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,TVP2
-rtmp://31.220.0.13:1935/live?keys=nWv8M0hhxXhSokcF8l6J8g?keys=dvkLoulmR3Ez6cjBzlgCqw&keyt=1493649169 playpath=gdhkyuioyui?keys=nWv8M0hhxXhSokcF8l6J8g?keys=dvkLoulmR3Ez6cjBzlgCqw&keyt=1493649169 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=gdhkyuioyui?keys=nWv8M0hhxXhSokcF8l6J8g&width=900&height=510
-#EXTINF:-1,tvn
-rtmp://31.220.40.59:1935/live?keys=qbCI5-UibDMlJg5y7Nij7w?keys=AM_yBs49sEjLBkev_H0c0g&keyt=1493649243 playpath=ghkghkgk?keys=qbCI5-UibDMlJg5y7Nij7w?keys=AM_yBs49sEjLBkev_H0c0g&keyt=1493649243 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=ghkghkgk?keys=qbCI5-UibDMlJg5y7Nij7w&width=900&height=510
-#EXTINF:-1,tvn7
-rtmp://31.220.0.13:1935/privatestream?keys=kMqiRc_Ty3ehJUJA08S5KA?keys=-IMMuYubghOHjnEUWrha5Q&keyt=1493649277 playpath=dsdssdsdsd?keys=kMqiRc_Ty3ehJUJA08S5KA?keys=-IMMuYubghOHjnEUWrha5Q&keyt=1493649277 swfUrl=http://privatestream.tv/clappr/RTMP.swf live=1 pageUrl=http://privatestream.tv/player?streamname=dsdssdsdsd?keys=kMqiRc_Ty3ehJUJA08S5KA&width=900&height=510
-#EXTINF:-1,Canal+
-rtmp://31.220.2.87:1935/live?keys=7p_lsBKt9HwpgMe337MVzQ?keys=nOMtXOT54kKufD18ww1kgw&keyt=1493649412 playpath=gjfjkgfjghjgh?keys=7p_lsBKt9HwpgMe337MVzQ?keys=nOMtXOT54kKufD18ww1kgw&keyt=1493649412 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=gjfjkgfjghjgh?keys=7p_lsBKt9HwpgMe337MVzQ&width=900&height=510
 #EXTINF:-1,Canal+Film
 rtmp://31.220.40.59:1935/live?keys=wgfNkdQHDoXuBIIWHvnzMw?keys=6Nxcmsi_gq7PQ6ysiu7cYA&keyt=1493649450 playpath=nfygjuryfyjgyj?keys=wgfNkdQHDoXuBIIWHvnzMw?keys=6Nxcmsi_gq7PQ6ysiu7cYA&keyt=1493649450 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=nfygjuryfyjgyj?keys=wgfNkdQHDoXuBIIWHvnzMw&width=900&height=510
-#EXTINF:-1,Canal+Family
-rtmp://31.220.0.201:1935/live?keys=xk95g0nW0SliyoQnbbek9w?keys=gak_d3SYHDqHUuzNMdYAvQ&keyt=1493649487 playpath=canalffffaaa?keys=xk95g0nW0SliyoQnbbek9w?keys=gak_d3SYHDqHUuzNMdYAvQ&keyt=1493649487 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=canalffffaaa?keys=xk95g0nW0SliyoQnbbek9w&width=900&height=510
 #EXTINF:-1,HBO
 rtmp://31.220.40.59:1935/live?keys=MKqan784aBNkMFMWD7JqxA?keys=vCmMIUu5RRzPQFBAmhBL_g&keyt=1493649520 playpath=fhkjgftiy?keys=MKqan784aBNkMFMWD7JqxA?keys=vCmMIUu5RRzPQFBAmhBL_g&keyt=1493649520 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=fhkjgftiy?keys=MKqan784aBNkMFMWD7JqxA&width=900&height=510
 #EXTINF:-1,HBO2
 rtmp://31.220.0.13:1935/live?keys=WuVKC5AEna_dTghDLeqAiA?keys=hkVwJi_eXiuIdBfPe4Qctw&keyt=1493649561 playpath=yuioyuyoyu?keys=WuVKC5AEna_dTghDLeqAiA?keys=hkVwJi_eXiuIdBfPe4Qctw&keyt=1493649561 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=yuioyuyoyu?keys=WuVKC5AEna_dTghDLeqAiA&width=900&height=510
-#EXTINF:-1,Canal+Sport
-rtmp://31.220.0.187:1935/live?keys=7u6X4t26YusyVMrItx013Q?keys=X9kbHvqYCRzfXKZ40KK4aw&keyt=1493649747 playpath=gjfjkgfghfgh?keys=7u6X4t26YusyVMrItx013Q?keys=X9kbHvqYCRzfXKZ40KK4aw&keyt=1493649747 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=gjfjkgfghfgh?keys=7u6X4t26YusyVMrItx013Q&width=880&height=510
-#EXTINF:-1,Canal+Sport2
-rtmp://31.220.40.59:1935/live?keys=uDXHDH_PYD1-i7RLow7aDQ?keys=VHqA4Qqtc3n8j3gZhjtV0g&keyt=1493649786 playpath=gjfjtykiyuioyu?keys=uDXHDH_PYD1-i7RLow7aDQ?keys=VHqA4Qqtc3n8j3gZhjtV0g&keyt=1493649786 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=gjfjtykiyuioyu?keys=uDXHDH_PYD1-i7RLow7aDQ&width=880&height=510
-#EXTINF:-1,Eleven
-rtmp://31.220.0.13:1935/privatestream?keys=E2QptkWSjdP6wnaOF3BWOQ?keys=X3UAo24T9AtA2kcQP7t4ug&keyt=1493649968 playpath=sdsdsdds?keys=E2QptkWSjdP6wnaOF3BWOQ?keys=X3UAo24T9AtA2kcQP7t4ug&keyt=1493649968 swfUrl=http://privatestream.tv/clappr/RTMP.swf live=1 pageUrl=http://privatestream.tv/player?streamname=sdsdsdds?keys=E2QptkWSjdP6wnaOF3BWOQ&width=880&height=510
-#EXTINF:-1,ElevenSport
-rtmp://31.220.40.60:1935/live?keys=XJfWBXdNL2d4A2pUgd7M1Q?keys=oCVXjic9E7fIIyAb1xbwbA&keyt=1493650007 playpath=ghghkhjk?keys=XJfWBXdNL2d4A2pUgd7M1Q?keys=oCVXjic9E7fIIyAb1xbwbA&keyt=1493650007 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=ghghkhjk?keys=XJfWBXdNL2d4A2pUgd7M1Q&width=880&height=510
-#EXTINF:-1,ElevenExtra
-rtmp://31.220.40.63:1935/live?keys=_sFt_m_F-MP8_2cpHyycLQ?keys=ZOVfdTmu08krSqOImP6HZg&keyt=1493650052 playpath=ghkghkghkhj?keys=_sFt_m_F-MP8_2cpHyycLQ?keys=ZOVfdTmu08krSqOImP6HZg&keyt=1493650052 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=ghkghkghkhj?keys=_sFt_m_F-MP8_2cpHyycLQ&width=880&height=510
-#EXTINF:-1,TVPSport
-rtmp://31.220.40.59:1935/live?keys=DyKi9DOaKQZBxNei_dulTw?keys=IKT7Nl5IpBGYwOhmnX6Qlw&keyt=1493650098 playpath=fgjghjkgk?keys=DyKi9DOaKQZBxNei_dulTw?keys=IKT7Nl5IpBGYwOhmnX6Qlw&keyt=1493650098 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=fgjghjkgk?keys=DyKi9DOaKQZBxNei_dulTw&width=880&height=510
 #EXTINF:-1,nSport
 rtmp://31.220.40.62:1935/live?keys=lNYmiuicEdy3QC8szPKf9g?keys=nQL33eyXaSCd4K4DLY31xQ&keyt=1493650139 playpath=gjfjkghkghkgh?keys=lNYmiuicEdy3QC8szPKf9g?keys=nQL33eyXaSCd4K4DLY31xQ&keyt=1493650139 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=gjfjkghkghkgh?keys=lNYmiuicEdy3QC8szPKf9g&width=880&height=510

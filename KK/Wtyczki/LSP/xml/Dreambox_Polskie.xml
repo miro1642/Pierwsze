@@ -251,6 +251,87 @@
 			</items>	
 		</subchannel>			
     </channel>	
+<!----------------------------------------------------------------END---------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------END---------------------------------------------------------------------------------------->
+	<channel>
+    <name>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| HD/480p | [/B][/COLOR][COLOR lightyellow][B]176.199.108.247[/B][/COLOR]</name>
+    <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+    <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+		    <items>
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	            <item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| HD | [/B][/COLOR][COLOR lightyellow][B]Polskie All[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/176.199.108.247/pl_dreambox_176.199.108.247_8001_Polskie_All.m3u</externallink>
+			      <page></page>
+                </item>	
+			
+	            <item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 480p | [/B][/COLOR][COLOR lightyellow][B]Polskie All[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/176.199.108.247/pl_dreambox_176.199.108.247_8002_Polskie_All.m3u</externallink>
+			      <page></page>
+                </item>
+
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 480p | [/B][/COLOR][COLOR lightyellow][B]Bajki[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/176.199.108.247/pl_dreambox_176.199.108.247_8002_Bajki.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 480p | [/B][/COLOR][COLOR lightyellow][B]Dokument[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/176.199.108.247/pl_dreambox_176.199.108.247_8002_Dokument.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 480p | [/B][/COLOR][COLOR lightyellow][B]Filmy[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/176.199.108.247/pl_dreambox_176.199.108.247_8002_Filmy.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 480p | [/B][/COLOR][COLOR lightyellow][B]Informacje[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/176.199.108.247/pl_dreambox_176.199.108.247_8002_Informacje.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 480p | [/B][/COLOR][COLOR lightyellow][B]Muzyka[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/176.199.108.247/pl_dreambox_176.199.108.247_8002_Muzyka.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 480p | [/B][/COLOR][COLOR lightyellow][B]Sport[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/176.199.108.247/pl_dreambox_176.199.108.247_8002_Sport.m3u</externallink>
+			      <page></page>
+                </item>
+			</items>			
+    </channel>			
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 	<channel>
@@ -578,6 +659,168 @@
                 </item>
 			</items>	
 		</subchannel>			
+    </channel>	
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	<channel>
+    <name>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| HD/224p | [/B][/COLOR][COLOR lightyellow][B]130.180.36.30[/B][/COLOR]</name>
+    <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+    <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+		    <items>
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	            <item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| HD | [/B][/COLOR][COLOR lightyellow][B]Polskie All[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/130.180.36.30/pl_dreambox_130.180.36.30_8001_Polskie_All.m3u</externallink>
+			      <page></page>
+                </item>	
+			
+	            <item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 224p | [/B][/COLOR][COLOR lightyellow][B]Polskie All[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/130.180.36.30/pl_dreambox_130.180.36.30_8002_Polskie_All.m3u</externallink>
+			      <page></page>
+                </item>
+
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 224p | [/B][/COLOR][COLOR lightyellow][B]Bajki[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/130.180.36.30/pl_dreambox_130.180.36.30_8002_Bajki.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 224p | [/B][/COLOR][COLOR lightyellow][B]Dokument[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/130.180.36.30/pl_dreambox_130.180.36.30_8002_Dokument.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 224p | [/B][/COLOR][COLOR lightyellow][B]Filmy[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/130.180.36.30/pl_dreambox_130.180.36.30_8002_Filmy.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 224p | [/B][/COLOR][COLOR lightyellow][B]Informacje[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/130.180.36.30/pl_dreambox_130.180.36.30_8002_Informacje.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 224p | [/B][/COLOR][COLOR lightyellow][B]Muzyka[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/130.180.36.30/pl_dreambox_130.180.36.30_8002_Muzyka.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 224p | [/B][/COLOR][COLOR lightyellow][B]Sport[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/130.180.36.30/pl_dreambox_130.180.36.30_8002_Sport.m3u</externallink>
+			      <page></page>
+                </item>
+			</items>	
+    </channel>
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	<channel>
+    <name>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| HD/224p | [/B][/COLOR][COLOR lightyellow][B]178.201.23.251[/B][/COLOR]</name>
+    <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+    <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+		    <items>
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	            <item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| HD | [/B][/COLOR][COLOR lightyellow][B]Polskie All[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/178.201.23.251/pl_dreambox_178.201.23.251_8001_Polskie_All.m3u</externallink>
+			      <page></page>
+                </item>	
+			
+	            <item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 224p | [/B][/COLOR][COLOR lightyellow][B]Polskie All[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/178.201.23.251/pl_dreambox_178.201.23.251_8002_Polskie_All.m3u</externallink>
+			      <page></page>
+                </item>
+
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 224p | [/B][/COLOR][COLOR lightyellow][B]Bajki[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/178.201.23.251/pl_dreambox_178.201.23.251_8002_Bajki.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 224p | [/B][/COLOR][COLOR lightyellow][B]Dokument[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/178.201.23.251/pl_dreambox_178.201.23.251_8002_Dokument.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 224p | [/B][/COLOR][COLOR lightyellow][B]Filmy[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/178.201.23.251/pl_dreambox_178.201.23.251_8002_Filmy.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 224p | [/B][/COLOR][COLOR lightyellow][B]Informacje[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/178.201.23.251/pl_dreambox_178.201.23.251_8002_Informacje.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 224p | [/B][/COLOR][COLOR lightyellow][B]Muzyka[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/178.201.23.251/pl_dreambox_178.201.23.251_8002_Muzyka.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
+                  <title>[COLOR lime][B]•[/B][/COLOR]    [COLOR deepskyblue][B]| 224p | [/B][/COLOR][COLOR lightyellow][B]Sport[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://www.deschotelshop.nl/image/catalog/Logo/logo_vu+.jpg</thumbnail>
+			      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/DreamBox/178.201.23.251/pl_dreambox_178.201.23.251_8002_Sport.m3u</externallink>
+			      <page></page>
+                </item>
+			</items>	
     </channel>			
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
