@@ -20,16 +20,23 @@
             <subitems>
 			    <subitem>
                   <title>[COLOR lime][B]Kołobrzeg[/B][/COLOR]    [COLOR lightyellow][B]Plaża i molo[/B][/COLOR]</title>
-                  <thumbnail>http://www.iconshock.com/img_jpg/BETA/general/jpg/256/webcam_icon.jpg</thumbnail>
+                  <thumbnail>http://www.polskiekrajobrazy.pl/images/stories/big/35099P.JPG</thumbnail>
                   <fanart>https://i.ytimg.com/vi/Yau7hEQQfGQ/maxresdefault.jpg</fanart>
                   <link>http://hls14.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream_audio/playlist.m3u8</link>	
 				</subitem> 
 				
 				<subitem>
                   <title>[COLOR lime][B]Kołobrzeg[/B][/COLOR]    [COLOR lightyellow][B]Plaża i Promenada[/B][/COLOR]</title>
-                  <thumbnail>http://www.iconshock.com/img_jpg/BETA/general/jpg/256/webcam_icon.jpg</thumbnail>
+                  <thumbnail>http://www.gawex.pl/kamery/id/27/Port-oraz-latarnia-morska-HD</thumbnail>
                   <fanart>https://i.ytimg.com/vi/Yau7hEQQfGQ/maxresdefault.jpg</fanart>
                   <link>https://cdn-3-go.toya.net.pl:8081/kamery/kolo_sulkowskiego.m3u8</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lime][B]Kołobrzeg[/B][/COLOR]    [COLOR lightyellow][B]Kołobrzeg - Port oraz latarnia morska[/B][/COLOR]</title>
+                  <thumbnail>http://www.gawex.pl/assets/img/kamery/gPWBmahiHKsyUpVOFvqNGJRkCocDMxnt.jpg</thumbnail>
+                  <fanart>http://static.panoramio.com/photos/original/42864878.jpg</fanart>
+                  <link>https://cdn-3-go.toya.net.pl:8081/kamery/kolo_port.m3u8</link>	
 				</subitem>
 			</subitems>
 		</subchannel>
