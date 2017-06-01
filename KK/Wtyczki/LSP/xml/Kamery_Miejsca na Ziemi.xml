@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+  <channels_info> <!-- this is opitonal -->
+  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Miejsca na Ziemi[/B][/COLOR]</title> 
+  <thumbnail>http://www.iconshock.com/img_jpg/BETA/general/jpg/256/webcam_icon.jpg</thumbnail>
+  <fanart>http://viralka.pl/wp-content/uploads/2015/08/hd-wallpaper-20.jpg</fanart>
+  </channels_info> 
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>Polska</name>
+      <thumbnail>http://www.iconshock.com/img_jpg/BETA/general/jpg/256/webcam_icon.jpg</thumbnail>
+      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Plaże[/B][/COLOR]</name>
+          <thumbnail>http://www.iconshock.com/img_jpg/BETA/general/jpg/256/webcam_icon.jpg</thumbnail>
+          <fanart>https://i.ytimg.com/vi/us3BZK7HQs4/maxresdefault.jpg</fanart>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lime]Kołobrzeg[/COLOR]    [COLOR lightyellow][B]Plaża i molo[/B][/COLOR]</title>
+                  <thumbnail>http://www.iconshock.com/img_jpg/BETA/general/jpg/256/webcam_icon.jpg</thumbnail>
+                  <fanart>https://i.ytimg.com/vi/Yau7hEQQfGQ/maxresdefault.jpg</fanart>
+                  <link>http://hls14.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream_audio/playlist.m3u8</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lime]Kołobrzeg[/COLOR]    [COLOR lightyellow][B]Plaża i Promenada[/B][/COLOR]</title>
+                  <thumbnail>http://www.iconshock.com/img_jpg/BETA/general/jpg/256/webcam_icon.jpg</thumbnail>
+                  <fanart>https://i.ytimg.com/vi/Yau7hEQQfGQ/maxresdefault.jpg</fanart>
+                  <link>https://cdn-3-go.toya.net.pl:8081/kamery/kolo_sulkowskiego.m3u8</link>	
+				</subitem>
+			</subitems>
+		</subchannel>
+	</channel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>Wodospad Niagara</name>
+      <thumbnail>http://www.iconshock.com/img_jpg/BETA/general/jpg/256/webcam_icon.jpg</thumbnail>
+      <fanart>https://wallpaperscraft.com/image/falls_niagara_from_above_look_steam_expensive_61106_1920x1080.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <items>
+		  <item>
+            <title>[COLOR lightblue]Hilton Hotel[/COLOR]</title>
+			<thumbnail>http://www.iconshock.com/img_jpg/BETA/general/jpg/256/webcam_icon.jpg</thumbnail>
+            <link>rtmp://edge2.tikilive.com:1935/unrestricted_tikilive/25548/6zvOnPaZw9lK</link>	
+		  </item>	
+				
+		  <item>
+            <title>[COLOR lightblue]Niagara[/COLOR]</title>
+			<thumbnail>http://www.iconshock.com/img_jpg/BETA/general/jpg/256/webcam_icon.jpg</thumbnail>
+            <link>rtmp://video4.earthcam.com:1935/fecnetwork playpath=4559.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150320 pageUrl=http://www.earthcam.com/canada/niagarafalls/?cam=niagarafalls_str</link>	
+		  </item>	
+	    </items>
+	</channel>
+</channels>		
