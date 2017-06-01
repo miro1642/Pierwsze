@@ -19,6 +19,27 @@
           <fanart>https://i.ytimg.com/vi/us3BZK7HQs4/maxresdefault.jpg</fanart>
             <subitems>
 			    <subitem>
+                  <title>[COLOR lime][B]Dziwnów[/B][/COLOR]    [COLOR lightyellow][B]Plaża[/B][/COLOR]</title>
+                  <thumbnail>http://imageserver.webcamera.pl/miniaturki/dziwnowum_cam_a4181f.jpg</thumbnail>
+                  <fanart>http://www.uziuty.pl/wp-content/uploads/2017/01/cropped-LOGO.jpg</fanart>
+                  <link>http://hls1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/playlist.m3u8</link>	
+				</subitem> 
+			
+			    <subitem>
+                  <title>[COLOR lime][B]Grzybowo[/B][/COLOR]    [COLOR lightyellow][B]Zejście przy ul. Plażowej[/B][/COLOR]</title>
+                  <thumbnail>http://www.gawex.pl/assets/img/kamery/gpxfyGAKQEYXZFTCpXlBFmsGjBNaUvcj.jpg</thumbnail>
+                  <fanart>https://i.ytimg.com/vi/Yau7hEQQfGQ/maxresdefault.jpg</fanart>
+                  <link>http://84.205.31.9/GrzybowoMolo/video.m3u8</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lime][B]Kąty Rybackie[/B][/COLOR]    [COLOR lightyellow][B]Plaża[/B][/COLOR]</title>
+                  <thumbnail>http://katyrybackie.webcamera.pl/webcamera_bignew.png</thumbnail>
+                  <fanart>http://www.katy-rybackie.pl/slider/katy-rybackie.jpg</fanart>
+                  <link>http://hls7.webcamera.pl/katyrybackie_cam_2d3c0c/katyrybackie_cam_2d3c0c.stream/playlist.m3u8</link>	
+				</subitem> 
+			
+			    <subitem>
                   <title>[COLOR lime][B]Kołobrzeg[/B][/COLOR]    [COLOR lightyellow][B]Plaża i molo[/B][/COLOR]</title>
                   <thumbnail>http://www.polskiekrajobrazy.pl/images/stories/big/35099P.JPG</thumbnail>
                   <fanart>http://digart.img.digart.pl/data/img/vol2/48/39/download/3118549.jpg</fanart>
@@ -27,16 +48,30 @@
 				
 				<subitem>
                   <title>[COLOR lime][B]Kołobrzeg[/B][/COLOR]    [COLOR lightyellow][B]Plaża i Promenada[/B][/COLOR]</title>
-                  <thumbnail>http://www.gawex.pl/kamery/id/27/Port-oraz-latarnia-morska-HD</thumbnail>
+                  <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/6b/c0/5f/6bc05f30b3af36b0ca4a86459735b1ba.jpg</thumbnail>
                   <fanart>https://i.ytimg.com/vi/Yau7hEQQfGQ/maxresdefault.jpg</fanart>
                   <link>https://cdn-3-go.toya.net.pl:8081/kamery/kolo_sulkowskiego.m3u8</link>	
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR lime][B]Kołobrzeg[/B][/COLOR]    [COLOR lightyellow][B]Kołobrzeg - Port oraz latarnia morska[/B][/COLOR]</title>
-                  <thumbnail>http://www.gawex.pl/assets/img/kamery/gPWBmahiHKsyUpVOFvqNGJRkCocDMxnt.jpg</thumbnail>
+                  <title>[COLOR lime][B]Kołobrzeg[/B][/COLOR]    [COLOR lightyellow][B]Plaża z hotelu Marine[/B][/COLOR]</title>
+                  <thumbnail>http://www.leksykonmasazu.pl/userfiles/image/O%C5%9BrodkiSPA/MarineUltra.png</thumbnail>
+                  <fanart>http://i.nocimg.pl/img/zdj_hd/d7/657/110-kolobrzeg-apartament-w-marine-hotel.jpg</fanart>
+                  <link>http://hls12.webcamera.pl/kolobrzeg_cam_c26ccc/kolobrzeg_cam_c26ccc.stream/playlist.m3u8</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lime][B]Kołobrzeg[/B][/COLOR]    [COLOR lightyellow][B]Port oraz latarnia morska[/B][/COLOR]</title>
+                  <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kolobrzeg_latarnia_w.jpg/167px-Kolobrzeg_latarnia_w.jpg</thumbnail>
                   <fanart>http://static.panoramio.com/photos/original/42864878.jpg</fanart>
                   <link>https://cdn-3-go.toya.net.pl:8081/kamery/kolo_port.m3u8</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lime][B]Pobierowo[/B][/COLOR]    [COLOR lightyellow][B]Plaża[/B][/COLOR]</title>
+                  <thumbnail>http://panel.netfactory.pl/img_obiekty_reklama/128-15.jpg</thumbnail>
+                  <fanart>https://i.ytimg.com/vi/_jgQ87SBzxg/maxresdefault.jpg</fanart>
+                  <link>http://hls14.webcamera.pl/pobierowo_cam_89b36a/pobierowo_cam_89b36a.stream_audio/playlist.m3u8</link>	
 				</subitem>
 			</subitems>
 		</subchannel>
