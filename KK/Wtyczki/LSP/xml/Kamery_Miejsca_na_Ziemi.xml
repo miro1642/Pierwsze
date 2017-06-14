@@ -19,10 +19,31 @@
           <fanart>https://i.ytimg.com/vi/us3BZK7HQs4/maxresdefault.jpg</fanart>
             <subitems>
 			    <subitem>
+                  <title>[COLOR lime][B]Chłopy[/B][/COLOR]    [COLOR lightyellow][B]Plaża[/B][/COLOR]</title>
+                  <thumbnail>http://www.webcamera.pl/tatry/camsbig/debki.jpg</thumbnail>
+                  <fanart>https://i.ytimg.com/vi/8jrEIbZCn-s/maxresdefault.jpg</fanart>
+                  <link>http://hls15.webcamera.pl/debki_cam_284a24/debki_cam_284a24.stream/playlist.m3u8</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lime][B]Dębki[/B][/COLOR]    [COLOR lightyellow][B]Plaża[/B][/COLOR]</title>
+                  <thumbnail>http://www.webcamera.pl/tatry/camsbig/chlopy.jpg</thumbnail>
+                  <fanart>https://i.ytimg.com/vi/2SLCgbCv_bc/maxresdefault.jpg</fanart>
+                  <link>http://hls13.webcamera.pl/chlopy_cam_73ac3a/chlopy_cam_73ac3a.stream/playlist.m3u8</link>	
+				</subitem> 
+			
+			    <subitem>
                   <title>[COLOR lime][B]Dziwnów[/B][/COLOR]    [COLOR lightyellow][B]Plaża[/B][/COLOR]</title>
                   <thumbnail>http://imageserver.webcamera.pl/miniaturki/dziwnowum_cam_a4181f.jpg</thumbnail>
                   <fanart>http://www.uziuty.pl/wp-content/uploads/2017/01/cropped-LOGO.jpg</fanart>
                   <link>http://hls1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/playlist.m3u8</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lime][B]Dźwirzyno[/B][/COLOR]    [COLOR lightyellow][B]Plaża[/B][/COLOR]</title>
+                  <thumbnail>http://www.webcamera.pl/tatry/camsbig/dzwirzyno-plaza.jpg</thumbnail>
+                  <fanart>http://www.dźwirzyno.pl/slider/dzwirzyno.jpg</fanart>
+                  <link>http://hls12.webcamera.pl/dzwirzyno_cam_59c728/dzwirzyno_cam_59c728.stream/playlist.m3u8</link>	
 				</subitem> 
 			
 			    <subitem>
@@ -34,7 +55,7 @@
 				
 				<subitem>
                   <title>[COLOR lime][B]Kąty Rybackie[/B][/COLOR]    [COLOR lightyellow][B]Plaża[/B][/COLOR]</title>
-                  <thumbnail>http://katyrybackie.webcamera.pl/webcamera_bignew.png</thumbnail>
+                  <thumbnail>http://www.webcamera.pl/tatry/camsbig/katyrybackie.jpg</thumbnail>
                   <fanart>http://www.katy-rybackie.pl/slider/katy-rybackie.jpg</fanart>
                   <link>http://hls7.webcamera.pl/katyrybackie_cam_2d3c0c/katyrybackie_cam_2d3c0c.stream/playlist.m3u8</link>	
 				</subitem> 
@@ -65,6 +86,55 @@
                   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kolobrzeg_latarnia_w.jpg/167px-Kolobrzeg_latarnia_w.jpg</thumbnail>
                   <fanart>http://static.panoramio.com/photos/original/42864878.jpg</fanart>
                   <link>https://cdn-3-go.toya.net.pl:8081/kamery/kolo_port.m3u8</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lime][B]Mielno[/B][/COLOR]    [COLOR lightyellow][B]Plaża[/B][/COLOR]</title>
+                  <thumbnail>http://www.webcamera.pl/tatry/camsbig/mielno.jpg</thumbnail>
+                  <fanart>http://www.mielno.biz/slider/mielno2.jpg</fanart>
+                  <link>http://hls13.webcamera.pl/mielno_cam_0e2e7c/mielno_cam_0e2e7c.stream/playlist.m3u8</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lime][B]Międzywodzie[/B][/COLOR]    [COLOR lightyellow][B]Plaża[/B][/COLOR]</title>
+                  <thumbnail>http://www.webcamera.pl/tatry/camsbig/miedzywodzie.jpg</thumbnail>
+                  <fanart>http://photobike.blox.pl/resource/find_a_waynot_an_excuse_79.jpg</fanart>
+                  <link>http://hls14.webcamera.pl/miedzywodzie_cam_6b6996/miedzywodzie_cam_6b6996.stream/playlist.m3u8</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lime][B]Międzyzdroje[/B][/COLOR]    [COLOR lightyellow][B]Deptak[/B][/COLOR]</title>
+                  <thumbnail>http://www.webcamera.pl/tatry/camsbig/miedzyzdroje.jpg</thumbnail>
+                  <fanart>https://i.ytimg.com/vi/YSoyTOUsqyA/maxresdefault.jpg</fanart>
+                  <link>http://hls1.webcamera.pl/miedzyzdroje_cam_613997/miedzyzdroje_cam_613997.stream/playlist.m3u8</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lime][B]Międzyzdroje[/B][/COLOR]    [COLOR lightyellow][B]Plaża[/B][/COLOR]</title>
+                  <thumbnail>http://www.webcamera.pl/tatry/camsbig/miedzyzdroje-plaza.jpg</thumbnail>
+                  <fanart>https://i.ytimg.com/vi/YSoyTOUsqyA/maxresdefault.jpg</fanart>
+                  <link>http://hls1.webcamera.pl/miedzyzdroje_cam_52898b/miedzyzdroje_cam_52898b.stream/playlist.m3u8</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lime][B]Międzyzdroje[/B][/COLOR]    [COLOR lightyellow][B]Plaża zachód[/B][/COLOR]</title>
+                  <thumbnail>http://www.webcamera.pl/tatry/camsbig/miedzyzdroje-plaza-zachod.jpg</thumbnail>
+                  <fanart>https://i.ytimg.com/vi/YSoyTOUsqyA/maxresdefault.jpg</fanart>
+                  <link>http://hls9.webcamera.pl/miedzyzdroje_cam_bcc4fd/miedzyzdroje_cam_bcc4fd.stream/playlist.m3u8</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lime][B]Mrzeżyno[/B][/COLOR]    [COLOR lightyellow][B]Plaża[/B][/COLOR]</title>
+                  <thumbnail>http://www.webcamera.pl/tatry/camsbig/mrzezyno-plaza.jpg</thumbnail>
+                  <fanart>https://i.ytimg.com/vi/H1zqBT7Hwg4/maxresdefault.jpg</fanart>
+                  <link>http://hls15.webcamera.pl/mrzezyno_cam_905068/mrzezyno_cam_905068.stream/playlist.m3u8</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lime][B]Niechorze[/B][/COLOR]    [COLOR lightyellow][B]Plaża[/B][/COLOR]</title>
+                  <thumbnail>http://www.webcamera.pl/tatry/camsbig/niechorze.jpg</thumbnail>
+                  <fanart>https://i.ytimg.com/vi/KVjj7G-IXVk/maxresdefault.jpg</fanart>
+                  <link>http://hls8.webcamera.pl/rewal_cam_003f77/rewal_cam_003f77.stream/playlist.m3u8</link>	
 				</subitem>
 				
 				<subitem>
