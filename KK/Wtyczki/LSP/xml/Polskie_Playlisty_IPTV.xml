@@ -15,15 +15,6 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	 
             <items>
 			  <item>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]46.249.62.20:1824[/B][/COLOR]</title>
-			      <link>http://ignorame</link>
-			      <thumbnail>https://lh4.ggpht.com/15soRMI9knGiymbjoHgJnPh6mCGV-lf1Z_aPjdLTKQOP9YfJxbZ-GiLtkN41CYfeJflp=w300</thumbnail>
-				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://46.249.62.20:1824/playlist.m3u8</externallink>
-			      <page></page>
-              </item>
-			  
-			  <item>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]85.219.133.18[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>https://www.vboxcomm.com/images/M3U_icon.png</thumbnail>
@@ -50,30 +41,12 @@
                   </regex>
               </item>
 
-			  <item>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]193.32.36.10:8081[/B][/COLOR]</title>
-			      <link>http://ignorame</link>
-			      <thumbnail>https://lh4.ggpht.com/15soRMI9knGiymbjoHgJnPh6mCGV-lf1Z_aPjdLTKQOP9YfJxbZ-GiLtkN41CYfeJflp=w300</thumbnail>
-				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://193.32.36.10:8081/playlist.m3u8</externallink>
-			      <page></page>
-              </item>
-			  
-			  <item>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]pl_mix[/B][/COLOR]</title>
-			      <link>http://ignorame</link>
-			      <thumbnail>http://sharetv.blutu.pl/images/logo.png</thumbnail>
-				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/pl_mix.m3u</externallink>
-			      <page></page>
-              </item>
-			  
 			 <item>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Wojtu[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>http://sharetv.blutu.pl/images/logo.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://sharetv.sldc.pl/lista/listy/listawojtu.php?uname=pchelka&amp;upass=Kodiczek1%21</externallink>
+                  <externallink>http://sharetv.pl/lista/listy/listawojtu.php?uname=pchelka&amp;upass=Kodiczek1%21</externallink>
 			      <page></page>
               </item>
 			  
@@ -82,7 +55,7 @@
 			      <link>http://ignorame</link>
 			      <thumbnail>http://sd-xbmc.org/repository/xbmc-addons/goldvod.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://sharetv.sldc.pl/lista/listy/listagold.php?uname=pchelka&amp;upass=Kodiczek1%21</externallink>
+                  <externallink>http://sharetv.pl/lista/listy/listagold.php?uname=pchelka&amp;upass=Kodiczek1%21</externallink>
 			      <page></page>
               </item>
 			</items> 
@@ -98,24 +71,7 @@
           <name> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 217.182.138.85[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</name>
           <thumbnail>http://vexavi19.webd.pl/adam/adam_komputery/images/iptv/nowwatchtvlive_co_tv_poland.png</thumbnail>
           <fanart>http://www.derolen.com/wp-content/uploads/2015/06/hosting_full.jpg</fanart>
-		  <subitems>
-<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-		  <subitem>
-		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 217.182.138.85:steph[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
-		  <thumbnail>http://vexavi19.webd.pl/adam/adam_komputery/images/iptv/nowwatchtvlive_co_tv_poland.png</thumbnail>
-           <link>$doregex[makelist]</link>
-            <regex>
-              <name>makelist</name>
-              <listrepeat><![CDATA[
-                <title>[makelist.param1]</title>
-                <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name= [makelist.param1]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&Icy-MetaData=1&Buffer=20971520 live=1 timeout=30</link>
-                <thumbnail>NA</thumbnail>
-                ]]></listrepeat>
-              <expres>#EXTINF:-1.*,PL VIP(.*?)\n(.*)</expres>
-              <page>http://217.182.138.85:7000/get.php?username=steph&amp;password=steph&amp;type=m3u</page>
-              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-            </regex>
-          </subitem> 		  
+		  <subitems>  
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 		  <subitem>
 		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 217.182.138.85:torsten[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
