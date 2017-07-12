@@ -14,28 +14,28 @@
       <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
 		    <items>
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-              <item>
-                <title>[COLOR lightyellow]8TV[/COLOR]</title>
-                <link>http://193.32.36.27:14931</link>
-                <thumbnail>http://cdn11.se.smcloud.net/t/photos/558124/telewizja-8tv.jpg</thumbnail>
+			  <item>
+                <title>[COLOR lightyellow]Crime Investigation Polsat[/COLOR]</title>
+                <link>http://193.32.36.27:8022</link>
+                <thumbnail>http://satkurier.pl/uploads/47010.jpg</thumbnail>
               </item>
-
+			  
 			  <item>
                 <title>[COLOR lightyellow]HGTV[/COLOR]</title>
-                <link>http://193.32.36.27:15846</link>
+                <link>http://193.32.36.27:2222</link>
                 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/1d/69/aa/1d69aafc4314a961ebbf63f35695ef01.jpg</thumbnail>
               </item>	
 			  
-				<item>
-                <title>[COLOR lightyellow]Nowa TV[/COLOR]</title>
-                <link>http://193.32.36.27:15731</link>
-                <thumbnail>http://telewizja-cyfrowa.com/wp-content/uploads/2016/09/nowa-tv-logo.png</thumbnail>
-                </item>	
-				
 			  <item>
                   <title>[COLOR lightyellow]TVP Polonia[/COLOR]</title>
 			      <thumbnail>http://mediafm.net/media/images/original/md5/2/7/27ca504434c67f22de1a9e08ee457b48/TVP_Polonia_Logo_3.jpg</thumbnail>
                   <link>http://193.32.36.27:8005</link>
+              </item>
+			  
+			  <item>
+                  <title>[COLOR lightyellow]TVP Polonia[/COLOR]</title>
+			      <thumbnail>http://mediafm.net/media/images/original/md5/2/7/27ca504434c67f22de1a9e08ee457b48/TVP_Polonia_Logo_3.jpg</thumbnail>
+                  <link>http://185.97.148.168:8000/1</link>
               </item>
 			</items>  
 	</channel>  
