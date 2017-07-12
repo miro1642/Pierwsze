@@ -35,7 +35,7 @@
 			  <item>
                   <title>[COLOR lightyellow]TVP Polonia[/COLOR]</title>
 			      <thumbnail>http://mediafm.net/media/images/original/md5/2/7/27ca504434c67f22de1a9e08ee457b48/TVP_Polonia_Logo_3.jpg</thumbnail>
-                  <link>http://185.97.148.168:8000/1</link>
+                  <f4m>http://185.97.148.168:8000/1</f4m>
               </item>
 			</items>  
 	</channel>  
