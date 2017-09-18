@@ -900,7 +900,12 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		    <item>
                 <title>[COLOR lightyellow][B]XITE TV[/B][/COLOR]</title>
-                <link>http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8</link>
+                <link>http://highvolume03.streampartner.nl:1935/vleugels_hd/livestream/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				<link>http://highvolume03.streampartner.nl:1935/vleugels_hd2/livestream/playlist.m3u8$$lsname=LINK 2</link>
+				<link>http://highvolume03.streampartner.nl:1935/vleugels_hd3/livestream/playlist.m3u8$$lsname=LINK 3</link>
+				<link>http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8$$lsname=LINK 4</link>
+				<link>http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/playlist.m3u8$$lsname=LINK 5</link>
+				<link>http://highvolume03.streampartner.nl:1935/vleugels_hd6/livestream/playlist.m3u8$$lsname=LINK 6</link>
                 <thumbnail>https://pbs.twimg.com/profile_images/492320102964940800/lRlpYdus_400x400.png</thumbnail>
             </item>					
 		</items>
