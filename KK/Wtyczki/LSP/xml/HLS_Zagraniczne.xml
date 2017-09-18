@@ -721,7 +721,7 @@
                   <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
                     <regex>
                       <name>getURL</name>
-                      <expres>1050000.*\s*(http.*m3u8)</expres>
+                      <expres>1057000.*\s*(http.*m3u8)</expres>
                       <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
                     </regex>
                 </subitem>
@@ -732,7 +732,7 @@
                   <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
                     <regex>
                       <name>getURL</name>
-                      <expres>1055000.*\s*(http.*m3u8)</expres>
+                      <expres>1047000.*\s*(http.*m3u8)</expres>
                       <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
                     </regex>
                 </subitem>
@@ -743,7 +743,18 @@
                   <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
                     <regex>
                       <name>getURL</name>
-                      <expres>750000.*\s*(http.*m3u8)</expres>
+                      <expres>745000.*\s*(http.*m3u8)</expres>
+                      <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
+                    </regex>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>747000.*\s*(http.*m3u8)</expres>
                       <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
                     </regex>
                 </subitem>
@@ -754,7 +765,18 @@
                   <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
                     <regex>
                       <name>getURL</name>
-                      <expres>500000.*\s*(http.*m3u8)</expres>
+                      <expres>495000.*\s*(http.*m3u8)</expres>
+                      <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
+                    </regex>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg</thumbnail>
+                  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                    <regex>
+                      <name>getURL</name>
+                      <expres>497000.*\s*(http.*m3u8)</expres>
                       <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
                     </regex>
                 </subitem>
