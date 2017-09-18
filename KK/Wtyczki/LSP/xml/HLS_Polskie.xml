@@ -2792,7 +2792,8 @@
 
 				<item>
                 <title>[COLOR lightyellow]Czwórka Polskie Radio[/COLOR]</title>
-                <link>rtmp://stream85.polskieradio.pl/video/czworka.sdp</link>
+                <link>http://stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				<link>http://stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8$$lsname=LINK 2</link>
                 <thumbnail>http://static.prsa.pl/images/a6f944fc-fdc9-47b9-8afe-fc505b16a14c.jpg</thumbnail>
                 </item>	
 				
