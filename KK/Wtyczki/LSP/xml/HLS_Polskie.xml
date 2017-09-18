@@ -2607,13 +2607,20 @@
                 <subitem>
                   <title>[COLOR lightyellow]HD[/COLOR]</title>
 				  <thumbnail>http://i.wpimg.pl/250-187/MFT/tech/1/png_32041_stars-tv-logo.png.jpg</thumbnail>
-                  <link>http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1100000.m3u8</link>
+                  <link>http://starstv.live.e55-po.insyscd.net/starstvhd.smil/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b2300000.m3u8$$lsname=LINK 2</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+				  <thumbnail>http://i.wpimg.pl/250-187/MFT/tech/1/png_32041_stars-tv-logo.png.jpg</thumbnail>
+                  <link>http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1600000.m3u8</link>
                 </subitem>	
 				
 				<subitem>
                   <title>[COLOR lightyellow]360p[/COLOR]</title>
 				  <thumbnail>http://i.wpimg.pl/250-187/MFT/tech/1/png_32041_stars-tv-logo.png.jpg</thumbnail>
-                  <link>http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b3400000.m3u8</link>
+                  <link>http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b900000.m3u8</link>
                 </subitem>	
 			</subitems>	
             </subchannel>
@@ -2775,6 +2782,12 @@
                 <title>[COLOR lightyellow]AMC[/COLOR]</title>
                 <link>http://185.165.168.210:81/mgm/index.m3u8</link>
                 <thumbnail>https://pbs.twimg.com/profile_images/767977724010987520/NWGeXXv9.jpg</thumbnail>
+                </item>	
+				
+				<item>
+                <title>[COLOR lightyellow]CW24 TV[/COLOR]</title>
+                <link>http://cdn4.stream360.pl:1935/CW24/transmisja_live/playlist.m3u8</link>
+                <thumbnail>http://sharejunior.c0.pl/ico/CW24_TV_1.png?1011?1011</thumbnail>
                 </item>	
 
 				<item>
