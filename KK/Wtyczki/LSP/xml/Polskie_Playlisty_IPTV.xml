@@ -46,7 +46,7 @@
 			      <link>http://ignorame</link>
 			      <thumbnail>http://sharetv.blutu.pl/images/logo.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://sharetv.pl/lista/listy/listawojtu.php?uname=pchelka&amp;upass=Kodiczek1%21</externallink>
+                  <externallink>http://sharetv.pl/listy/lista.m3u?uname=pchelka&amp;upass=Kodiczek1%21&amp;ulist=wojtu</externallink>
 			      <page></page>
               </item>
 			  
@@ -55,7 +55,16 @@
 			      <link>http://ignorame</link>
 			      <thumbnail>http://sd-xbmc.org/repository/xbmc-addons/goldvod.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://sharetv.pl/lista/listy/listagold.php?uname=pchelka&amp;upass=Kodiczek1%21</externallink>
+                  <externallink>http://sharetv.pl/listy/lista.m3u?uname=pchelka&amp;upass=Kodiczek1%21&amp;ulist=gold</externallink>
+			      <page></page>
+              </item>
+			  
+			  <item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Koti[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://wp.iqbroadcast.net/wp-content/uploads/2015/03/IPTV.png</thumbnail>
+				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>http://sharetv.pl/listy/lista.m3u?uname=pchelka&amp;upass=Kodiczek1%21&amp;ulist=koti</externallink>
 			      <page></page>
               </item>
 			</items> 

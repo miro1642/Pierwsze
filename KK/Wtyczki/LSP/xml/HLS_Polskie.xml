@@ -48,6 +48,12 @@
 	              <thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_de_4fun.tv.jpg</thumbnail>
                   <link>http://hls.redefine.pl/894619ED/1579/0/hls576/masterlist.m3u8</link>
                 </subitem>
+				
+				<subitem>
+                  <title>320p</title>
+	              <thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_de_4fun.tv.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/47F846B7/1579/0/hls/masterlist.m3u8</link>
+                </subitem>
 			</subitems>	
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
@@ -60,6 +66,12 @@
 	              <thumbnail>http://n-5-6.dcs.redcdn.pl/file/o2/redefine/redb/fa/fa14an26pr63ua78czwj9rp3oar51trs.jpg</thumbnail>
                   <link>http://hls.redefine.pl/99520853/1576/0/hls576/masterlist.m3u8</link>
                 </subitem>
+				
+				<subitem>
+                  <title>320p</title>
+	              <thumbnail>http://n-5-6.dcs.redcdn.pl/file/o2/redefine/redb/fa/fa14an26pr63ua78czwj9rp3oar51trs.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/31D299AA/1576/0/hls/masterlist.m3u8</link>
+                </subitem>
 			</subitems>	
 		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
@@ -71,6 +83,12 @@
                   <title>576p</title>
 	              <thumbnail>http://satinfo24.pl/wp-content/uploads/2015/06/1434050636082.png</thumbnail>
                   <link>http://hls.redefine.pl/25670764/1580/0/hls576/masterlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>320p</title>
+	              <thumbnail>http://satinfo24.pl/wp-content/uploads/2015/06/1434050636082.png</thumbnail>
+                  <link>http://hls.redefine.pl/98EFF74F/1580/0/hls/masterlist.m3u8</link>
                 </subitem>
 			</subitems>	
 		</subchannel>		
@@ -86,18 +104,6 @@
                 </subitem>
 			</subitems>	
 		</subchannel>			
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>Animal Planet HD</name>
-          <thumbnail>https://www.brandeps.com/logo-download/A/Animal-Planet-HD-01.png</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>https://www.brandeps.com/logo-download/A/Animal-Planet-HD-01.png</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/animal_planet_hd_1/11394/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>
-			</subitems>	
-		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>AXN</name>
@@ -228,77 +234,11 @@
 	              <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/disco-polo-music-630x355.png?bc=white&w=575</thumbnail>
                   <link>http://hls.redefine.pl/E33F843E/10260/0/hls576/masterlist.m3u8</link>
                 </subitem>
-			</subitems>	
-		</subchannel>			
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>Discovery Channel HD</name>
-          <thumbnail>http://muizre.ru/_dr/47/36424139.png</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://muizre.ru/_dr/47/36424139.png</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/discovery_channel_hd_1/11399/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>
-			</subitems>	
-		</subchannel>	
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>Discovery Historia</name>
-          <thumbnail>http://n-3-16.dcs.redcdn.pl/file/o2/redefine/redb/zr/zrh3fmrh41vt2kqhvbddzejj3m97ag99.jpg</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://n-3-16.dcs.redcdn.pl/file/o2/redefine/redb/zr/zrh3fmrh41vt2kqhvbddzejj3m97ag99.jpg</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/discovery_historia_1/11316/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>
-			</subitems>	
-		</subchannel>
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>Discovery Investigation</name>
-          <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/id_hd-630x355.png?bc=white&w=575</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/id_hd-630x355.png?bc=white&w=575</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/ID_HD_1/11375/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>
-			</subitems>	
-		</subchannel>		
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>Discovery Life HD</name>
-          <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/discovery_life_1/11315/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>
-			</subitems>	
-		</subchannel>
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>Discovery Science HD</name>
-          <thumbnail>http://static.wirtualnemedia.pl/media/top/Discovery_Science_HD_duze_logo.jpg</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://static.wirtualnemedia.pl/media/top/Discovery_Science_HD_duze_logo.jpg</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/Discovery_Science_HD_1/11396/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>
-			</subitems>	
-		</subchannel>
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>Discovery Turbo Xtra</name>
-          <thumbnail>http://tele-wizja.com/logo/xtra.gif</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://tele-wizja.com/logo/xtra.gif</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/discovery_turbo_xtra_hd_2/11401/0/tv-ss/live.isml/playlist.m3u8</link>
+				
+				<subitem>
+                  <title>320p</title>
+	              <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/disco-polo-music-630x355.png?bc=white&w=575</thumbnail>
+                  <link>http://hls.redefine.pl/E0F58044/10260/0/hls/masterlist.m3u8</link>
                 </subitem>
 			</subitems>	
 		</subchannel>			
@@ -361,43 +301,7 @@
                   <link>http://hls.redefine.pl/1CAD6ACA/4325/0/hls576/masterlist.m3u8</link>
                 </subitem>
 			</subitems>	
-		</subchannel>		
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>Eurosport 1</name>
-          <thumbnail>http://naszosie.pl/wp-content/uploads/2016/02/Eurosport-1.jpg</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://naszosie.pl/wp-content/uploads/2016/02/Eurosport-1.jpg</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/eurosport_hd_2/1712/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>
-			</subitems>	
-		</subchannel>
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>Eurosport 2</name>
-          <thumbnail>http://naszosie.pl/wp-content/uploads/2016/02/Eurosport-2.jpg</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://naszosie.pl/wp-content/uploads/2016/02/Eurosport-2.jpg</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/eurosport2_hd_1/1713/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>
-			</subitems>	
-		</subchannel>			
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>Extreme Sports Channel HD</name>
-          <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/d/dd/EXTREME_SPORT_CHANNEL_HD_2013.jpg/revision/latest?cb=20150310175059</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/d/dd/EXTREME_SPORT_CHANNEL_HD_2013.jpg/revision/latest?cb=20150310175059</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/extreme_sports_channel_hd_1/11388/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>
-			</subitems>	
-		</subchannel>	
+		</subchannel>					
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>E!</name>
@@ -408,17 +312,35 @@
 	              <thumbnail>http://www.temporadafinal.com/gallery/resizes_53da610daec7ceen.jpg</thumbnail>
                   <link>http://hls.redefine.pl/C9A7A544/11314/0/hls576/masterlist.m3u8</link>
                 </subitem>
+				
+				<subitem>
+                  <title>320p</title>
+	              <thumbnail>http://www.temporadafinal.com/gallery/resizes_53da610daec7ceen.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/A6312659/11314/0/hls/masterlist.m3u8</link>
+                </subitem>
 			</subitems>	
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
-          <name>FightBox</name>
+          <name>FightBox HD</name>
           <thumbnail>https://de.magine.com/content/uploads/2016/06/FightBoxHD.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
 	              <thumbnail>https://de.magine.com/content/uploads/2016/06/FightBoxHD.jpg</thumbnail>
                   <link>http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>576p</title>
+	              <thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/9/92/Fightbox_Logo.png/revision/latest?cb=20160116195657</thumbnail>
+                  <link>http://hls.redefine.pl/595E57F9/1573/0/hls576/576p/list.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>480p</title>
+	              <thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/9/92/Fightbox_Logo.png/revision/latest?cb=20160116195657</thumbnail>
+                  <link>http://hls.redefine.pl/7F3D20CE/1573/0/hls/masterlist.m3u8</link>
                 </subitem>
 			</subitems>	
 		</subchannel>		
@@ -514,18 +436,6 @@
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
-          <name>GOLF CHANNEL POLSKA</name>
-          <thumbnail>http://dwiptv.cba.pl/ico/Fox_Comedy_1.png</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>720p</title>
-	              <thumbnail>http://satkurier.pl/uploads/49520.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/5A7CCEC8/13561/0/hls720/masterlist.m3u8</link>
-                </subitem>
-			</subitems>	
-		</subchannel>			
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
           <name>History</name>
 	      <thumbnail>http://dns-trick.com/img/pictures/history-channel-logo.png</thumbnail>
             <subitems>
@@ -545,13 +455,12 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>H2 HD</name>
-	      <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/7d/7d3ptoe47q5mzwz47srsnrbxf1so14s6.jpg</thumbnail>
+	      <thumbnail>http://my-hd.tv/shared/img/channels/H2-HD.png</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/7d/7d3ptoe47q5mzwz47srsnrbxf1so14s6.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/BB4D1F8E/11387/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/BB4D1F8E/11387/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
+	              <thumbnail>http://my-hd.tv/shared/img/channels/H2-HD.png</thumbnail>
+				  <link>http://hls.redefine.pl/BB4D1F8E/11387/0/hls720/masterlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
@@ -561,7 +470,7 @@
                 </subitem>
 				
 				<subitem>
-                  <title>288p</title>
+                  <title>320p</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/7d/7d3ptoe47q5mzwz47srsnrbxf1so14s6.jpg</thumbnail>
                   <link>http://hls.redefine.pl/CDFA8AD3/11387/0/hls/masterlist.m3u8</link>
                 </subitem>
@@ -593,12 +502,11 @@
 			    <subitem>
                   <title>576p</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3g/3gxi1b1bn91798ayn1y8k688hcm4c8tf.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/B34FB49D/1567/0/hls576/576p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/B34FB49D/1567/0/hls576/masterlist.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/B34FB49D/1567/0/hls576/masterlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
-                  <title>288p</title>
+                  <title>320p</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3g/3gxi1b1bn91798ayn1y8k688hcm4c8tf.jpg</thumbnail>
                   <link>http://hls.redefine.pl/3952CD7C/1567/0/hls/masterlist.m3u8</link>
                 </subitem>				
@@ -607,13 +515,12 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>LIFETIME HD</name>
-	      <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/8p/8pvx961exn3bbxrwn1ypau9ku47sdt32.jpg</thumbnail>
+	      <thumbnail>http://www.logovaults.com/stock_thumb/big-lifetime-hd-OTM5MA==.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/8p/8pvx961exn3bbxrwn1ypau9ku47sdt32.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/BF9ACBBA/11376/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/BF9ACBBA/11376/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
+	              <thumbnail>http://www.logovaults.com/stock_thumb/big-lifetime-hd-OTM5MA==.jpg</thumbnail>
+				  <link>http://hls.redefine.pl/BF9ACBBA/11376/0/hls720/masterlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
@@ -629,79 +536,6 @@
                 </subitem>				
 			</subitems>	
 		</subchannel>	
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>MTV Dance</name>
-	      <thumbnail>https://www.brandeps.com/logo-download/M/MTV-Dance-01.png</thumbnail>
-            <subitems>
-				<subitem>
-                  <title>576p</title>
-	              <thumbnail>https://www.brandeps.com/logo-download/M/MTV-Dance-01.png</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_dance_1/10257/0/tv-ss/live.isml/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/D2BBE43D/10257/0/hls576/masterlist.m3u8$$lsname=LINK 2</link>
-                </subitem>				
-			</subitems>	
-		</subchannel>			
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>MTV Hits</name>
-	      <thumbnail>http://teve.ba/img/content/mtv-hits.gif</thumbnail>
-            <subitems>
-				<subitem>
-                  <title>576p</title>
-	              <thumbnail>http://teve.ba/img/content/mtv-hits.gif</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_hits_1/10256/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>				
-			</subitems>	
-		</subchannel>	
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>MTV Music 24</name>
-	      <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7b/MTV_Music_24_logo.jpg</thumbnail>
-            <subitems>
-				<subitem>
-                  <title>576p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7b/MTV_Music_24_logo.jpg</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_music_24_1/11753/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>				
-			</subitems>	
-		</subchannel>
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>MTV Live HD</name>
-	      <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/mtvlife.png?bc=white&w=575</thumbnail>
-            <subitems>
-				<subitem>
-                  <title>576p</title>
-	              <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/mtvlife.png?bc=white&w=575</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_live_hd_1/10254/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>				
-			</subitems>	
-		</subchannel>	
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>MTV Polska</name>
-	      <thumbnail>http://png-1.vector.me/files/images/7/6/764155/mtv_thumb.png</thumbnail>
-            <subitems>
-				<subitem>
-                  <title>576p</title>
-	              <thumbnail>http://png-1.vector.me/files/images/7/6/764155/mtv_thumb.png</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_polska__1/10253/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>				
-			</subitems>	
-		</subchannel>			
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>MTV Rocks</name>
-	      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png</thumbnail>
-            <subitems>
-				<subitem>
-                  <title>576p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_rocks_1/11309/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>				
-			</subitems>	
-		</subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>Muzo TV</name>
@@ -722,22 +556,22 @@
 				<subitem>
                   <title>576p</title>
 	              <thumbnail>https://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/03/nat-geo-wild-200x106.jpg</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/nat_geo_wild_1/11308/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>				
-			</subitems>	
-		</subchannel>	
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>National Geographic</name>
-	      <thumbnail>http://img.taobaocdn.com/imgextra/i4/92378220/T2hXlNXedaXXXXXXXX_!!92378220.gif</thumbnail>
-            <subitems>
+                  <link>http://hls.redefine.pl/AF34819E/11308/0/hls576/576p/list.m3u8</link>
+                </subitem>
+
+				<subitem>
+                  <title>320p</title>
+	              <thumbnail>https://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/03/nat-geo-wild-200x106.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/27654727/11308/0/hls/masterlist.m3u8</link>
+                </subitem>	
+				
 				<subitem>
                   <title>576p</title>
-	              <thumbnail>http://img.taobaocdn.com/imgextra/i4/92378220/T2hXlNXedaXXXXXXXX_!!92378220.gif</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/national_geographic_channel_1/11307/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>				
+	              <thumbnail>https://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/03/nat-geo-wild-200x106.jpg</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/nat_geo_wild_1/11308/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>	
 			</subitems>	
-		</subchannel>				
+		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>Nickelodeon</name>
@@ -773,45 +607,7 @@
                   <link>http://hls.redefine.pl/AD5867A1/12261/0/hls576/masterlist.m3u8</link>
                 </subitem>				
 			</subitems>	
-		</subchannel>		
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>POLSAT 2 HD</name>
-	      <thumbnail>http://dwiptv.cba.pl/ico/Polsat_2_HD.png</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>HD</title>
-	              <thumbnail>http://dwiptv.cba.pl/ico/Polsat_2_HD.png</thumbnail>
-                  <link>http://hls.redefine.pl/E30464E3/10258/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/E30464E3/10258/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
-                </subitem>		
-			</subitems>	
-		</subchannel>		
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>POLSAT CAFE HD</name>
-	      <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/9r/9r3t31n1sw818wy3kqi62oyq9qy21e56.jpg</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>HD</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/9r/9r3t31n1sw818wy3kqi62oyq9qy21e56.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/66C13FD2/11441/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/66C13FD2/11441/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
-                </subitem>
-				
-				<subitem>
-                  <title>576p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/9r/9r3t31n1sw818wy3kqi62oyq9qy21e56.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/93FAC5A4/11441/0/hls576/masterlist.m3u8</link>
-                </subitem>	
-
-				<subitem>
-                  <title>288p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/9r/9r3t31n1sw818wy3kqi62oyq9qy21e56.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/219CA1E9/11441/0/hls/masterlist.m3u8</link>
-                </subitem>				
-			</subitems>	
-		</subchannel>
+		</subchannel>			
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>POLSAT Crime & Investigation</name>
@@ -820,12 +616,11 @@
 				<subitem>
                   <title>576p</title>
 	              <thumbnail>https://i.ytimg.com/i/lfRkTSTSVnrl_XvDnqY1DA/mq1.jpg?v=5354c595</thumbnail>
-                  <link>http://hls.redefine.pl/4C97F3A2/11306/0/hls576/576p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/4C97F3A2/11306/0/hls576/masterlist.m3u8</link>
                 </subitem>		
 				
 				<subitem>
-                  <title>288p</title>
+                  <title>320p</title>
 	              <thumbnail>https://i.ytimg.com/i/lfRkTSTSVnrl_XvDnqY1DA/mq1.jpg?v=5354c595</thumbnail>
                   <link>http://hls.redefine.pl/238AEE3E/11306/0/hls/masterlist.m3u8</link>
                 </subitem>				
@@ -833,17 +628,28 @@
 		</subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
-          <name>Polsat Food Network</name>
-	      <thumbnail>http://www.tvpolsat.info/forum/attachments/polsat_food_hd2.png</thumbnail>
+          <name>Polsat Music HD</name>
+	      <thumbnail>http://satkurier.pl/uploads/52028.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>http://www.tvpolsat.info/forum/attachments/polsat_food_hd2.png</thumbnail>
-                  <link>http://hls.redefine.pl/B350B1D9/11389/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/B350B1D9/11389/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
-                </subitem>		
+	              <thumbnail>http://satkurier.pl/uploads/52028.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/DE26C65E/10259/0/hls720/masterlist.m3u8</link>
+                </subitem>	
+
+				<subitem>
+                  <title>576p</title>
+	              <thumbnail>http://e-cho.pl/wp-content/uploads/2017/05/pm-245x140.png</thumbnail>
+                  <link>http://hls.redefine.pl/1E68CF8B/10259/0/hls576/576p/list.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>320p</title>
+	              <thumbnail>http://e-cho.pl/wp-content/uploads/2017/05/pm-245x140.png</thumbnail>
+                  <link>http://hls.redefine.pl/5925C99C/10259/0/hls/masterlist.m3u8</link>
+                </subitem>
 			</subitems>	
-		</subchannel>				
+		</subchannel>			
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>POLSAT NEWS HD</name>
@@ -852,19 +658,18 @@
 			    <subitem>
                   <title>HD</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/xz/xzg453mrixbfj8f5gtq2ej4o6jwwfz14.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/3C93EDDB/1574/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/3C93EDDB/1574/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/3C93EDDB/1574/0/hls720/masterlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>576p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/xz/xzg453mrixbfj8f5gtq2ej4o6jwwfz14.jpg</thumbnail>
+	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/7b/Polsat_News_Logo.svg</thumbnail>
                   <link>http://hls.redefine.pl/0D0E8FFA/1574/0/hls576/masterlist.m3u8</link>
                 </subitem>	
 				
 				<subitem>
-                  <title>288p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/xz/xzg453mrixbfj8f5gtq2ej4o6jwwfz14.jpg</thumbnail>
+                  <title>320p</title>
+	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/7b/Polsat_News_Logo.svg</thumbnail>
                   <link>http://hls.redefine.pl/EB90C47B/1574/0/hls/masterlist.m3u8</link>
                 </subitem>				
 			</subitems>	
@@ -877,16 +682,13 @@
 			    <subitem>
                   <title>576p</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/av/avf3ra9tds7de8h38v64m1tem6kxty57.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/20C4EB56/1575/0/hls576/576p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
-                  <title>288p</title>
+                  <title>320p</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/av/avf3ra9tds7de8h38v64m1tem6kxty57.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/25EC3B9E/1575/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/25EC3B9E/1575/0/hls/mob1/list.m3u8$$lsname=LINK 2</link>
-				  <link>http://hls.redefine.pl/25EC3B9E/1575/0/hls/mob3/list.m3u8$$lsname=LINK 3</link>
+                  <link>http://hls.redefine.pl/25EC3B9E/1575/0/hls/masterlist.m3u8</link>
                 </subitem>				
 			</subitems>	
 		</subchannel>	
@@ -898,19 +700,18 @@
 			    <subitem>
                   <title>HD</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/q3/q3rxb6jkopn5qd1ibn7h53k7327xe361.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/66EB39A9/11379/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/66EB39A9/11379/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/66EB39A9/11379/0/hls720/masterlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>576p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/q3/q3rxb6jkopn5qd1ibn7h53k7327xe361.jpg</thumbnail>
+	              <thumbnail>http://www.conect.net.pl/wp-content/uploads/2015/09/Polsat_Play.png</thumbnail>
                   <link>http://hls.redefine.pl/1D4A3CBE/11379/0/hls576/masterlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
-                  <title>288p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/q3/q3rxb6jkopn5qd1ibn7h53k7327xe361.jpg</thumbnail>
+                  <title>320p</title>
+	              <thumbnail>http://www.conect.net.pl/wp-content/uploads/2015/09/Polsat_Play.png</thumbnail>
                   <link>http://hls.redefine.pl/7848AE70/11379/0/hls/masterlist.m3u8</link>
                 </subitem>				
 			</subitems>	
@@ -918,16 +719,27 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>POLSAT Sport HD</name>
-	      <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/7/78/Polsat_Sport_2016_Logo.png</thumbnail>
+	      <thumbnail>http://www.cyfrowypolsat.pl/img/homepage/logo/big/polsat-sport-hd.jpg;jsessionid=10FF97E07BCF9D1DE8A45E83D53EF8F5.node3</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
+	              <thumbnail>http://www.cyfrowypolsat.pl/img/homepage/logo/big/polsat-sport-hd.jpg;jsessionid=10FF97E07BCF9D1DE8A45E83D53EF8F5.node3</thumbnail>
+                  <link>http://hls.redefine.pl/FF8EFB29/1503/0/hls720/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>576p</title>
 	              <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/7/78/Polsat_Sport_2016_Logo.png</thumbnail>
-                  <link>http://hls.redefine.pl/FF8EFB29/1503/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/FF8EFB29/1503/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
+                  <link>http://hls.redefine.pl/A4EF8103/1503/0/hls576/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>320p</title>
+	              <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/7/78/Polsat_Sport_2016_Logo.png</thumbnail>
+                  <link>http://hls.redefine.pl/77EB8E18/1503/0/hls/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36</link>
                 </subitem>	
 			</subitems>	
-		</subchannel>	
+		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>POLSAT Sport Fight HD</name>
@@ -936,8 +748,19 @@
 			    <subitem>
                   <title>HD</title>
 	              <thumbnail>http://lipsko.net/wp-content/uploads/2017/01/polsatsportfight-logo655.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/1A4514F5/12311/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/1A4514F5/12311/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
+                  <link>http://hls.redefine.pl/1A4514F5/12311/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36</link>
+                </subitem>
+
+				<subitem>
+                  <title>576p</title>
+	              <thumbnail>http://lipsko.net/wp-content/uploads/2017/01/polsatsportfight-logo655.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/6B9594B6/12311/0/hls576/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>320p</title>
+	              <thumbnail>http://lipsko.net/wp-content/uploads/2017/01/polsatsportfight-logo655.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/929FF773/12311/0/hls/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36</link>
                 </subitem>	
 			</subitems>	
 		</subchannel>		
@@ -949,15 +772,13 @@
 			    <subitem>
                   <title>576p</title>
 	              <thumbnail>http://telewizjarepublika.pl/imgcache/860x400/c/uploads/news/rep_20.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/93F156C9/2643/0/hls576/576p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/93F156C9/2643/0/hls576/masterlist.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/93F156C9/2643/0/hls576/masterlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>288p</title>
 	              <thumbnail>http://telewizjarepublika.pl/imgcache/860x400/c/uploads/news/rep_20.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/D1AA8965/2643/0/hls/mob1/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/D1AA8965/2643/0/hls/masterlist.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/D1AA8965/2643/0/hls/masterlist.m3u8</link>
                 </subitem>
 			</subitems>	
 		</subchannel>	
@@ -1012,28 +833,14 @@
 			    <subitem>
                   <title>576p</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/g4/g4mf6zehns8xqdjagz652qox39xg51sr.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/97100F84/1577/0/hls576/masterlist.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/97100F84/1577/0/hls576/masterlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
-                  <title>288p</title>
+                  <title>320p</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/g4/g4mf6zehns8xqdjagz652qox39xg51sr.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/4209289C/1577/0/hls/mob1/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/4209289C/1577/0/hls/masterlist.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/4209289C/1577/0/hls/masterlist.m3u8</link>
                 </subitem>				
-			</subitems>	
-		</subchannel>
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>TLC</name>
-	      <thumbnail>http://www.cinematicut.com/images/tlc.png</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://www.cinematicut.com/images/tlc.png</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/tlc_2/11391/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>			
 			</subitems>	
 		</subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
@@ -1046,6 +853,12 @@
 	              <thumbnail>http://totv.com.pl/images/animacja/LOGO_TOTV.jpg</thumbnail>
                   <link>http://hls.redefine.pl/4EBCDDAE/1578/0/hls576/masterlist.m3u8</link>
                 </subitem>			
+				
+				<subitem>
+                  <title>320p</title>
+	              <thumbnail>http://totv.com.pl/images/animacja/LOGO_TOTV.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/5376CBE7/1578/0/hls/masterlist.m3u8</link>
+                </subitem>		
 			</subitems>	
 		</subchannel>			
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
@@ -1062,18 +875,6 @@
 		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
-          <name>Travel Channel HD</name>
-	      <thumbnail>http://www.timberlinelodge.com/wp-content/uploads/2015/06/TravelChannel_logo-prime-1.jpg</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://www.timberlinelodge.com/wp-content/uploads/2015/06/TravelChannel_logo-prime-1.jpg</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/travel_hd_1/11393/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>			
-			</subitems>	
-		</subchannel>	
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
           <name>Universal Channel HD</name>
 	      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/200px-Universal_Channel_2013.png</thumbnail>
             <subitems>
@@ -1086,37 +887,24 @@
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
-          <name>VH1</name>
-	      <thumbnail>http://tmsimg.video.cdn.charter.com/h3/NowShowing/11218/s11218_h3_aa.png</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://tmsimg.video.cdn.charter.com/h3/NowShowing/11218/s11218_h3_aa.png</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/vh1_1/10255/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>			
-			</subitems>	
-		</subchannel>			
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
           <name>VIASAT Explore HD</name>
 	      <thumbnail>http://cyfrowypolsatnews.pl/images/news/exp.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
 	              <thumbnail>http://cyfrowypolsatnews.pl/images/news/exp.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/00643E2B/4196/0/hls720//720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/00643E2B/4196/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/00643E2B/4196/0/hls720/masterlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>576p</title>
-	              <thumbnail>http://cyfrowypolsatnews.pl/images/news/exp.jpg</thumbnail>
+	              <thumbnail>http://mediafm.net/media/images/original/md5/5/5/5546e5811f480babc6913af56867d51a/Viasat_Explore_Polsat.png</thumbnail>
                   <link>http://hls.redefine.pl/A3352C50/4196/0/hls576/masterlist.m3u8</link>
                 </subitem>	
 				
 				<subitem>
-                  <title>288p</title>
-	              <thumbnail>http://cyfrowypolsatnews.pl/images/news/exp.jpg</thumbnail>
+                  <title>320p</title>
+	              <thumbnail>http://mediafm.net/media/images/original/md5/5/5/5546e5811f480babc6913af56867d51a/Viasat_Explore_Polsat.png</thumbnail>
                   <link>http://hls.redefine.pl/42C2265D/4196/0/hls/masterlist.m3u8</link>
                 </subitem>				
 			</subitems>	
@@ -1129,19 +917,18 @@
 			    <subitem>
                   <title>HD</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/rv/rvxwvnc9azcz4jevgi4ai3yb88rwb48u.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/C1F25A0A/4194/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/C1F25A0A/4194/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/C1F25A0A/4194/0/hls720/masterlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>576p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/rv/rvxwvnc9azcz4jevgi4ai3yb88rwb48u.jpg</thumbnail>
+	              <thumbnail>https://media2.pl/g/300/38959.jpg</thumbnail>
                   <link>http://hls.redefine.pl/E70219FB/4194/0/hls576/masterlist.m3u8</link>
                 </subitem>	
 				
 				<subitem>
-                  <title>288p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/rv/rvxwvnc9azcz4jevgi4ai3yb88rwb48u.jpg</thumbnail>
+                  <title>320p</title>
+	              <thumbnail>https://media2.pl/g/300/38959.jpg</thumbnail>
                   <link>http://hls.redefine.pl/3D960CEA/4194/0/hls/masterlist.m3u8</link>
                 </subitem>				
 			</subitems>	
@@ -1154,12 +941,11 @@
 			    <subitem>
                   <title>576p</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/zb/zbm187amhx2bdf6fxa1u9tpiqxszz4fa.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/27D4F385/4195/0/hls576/576p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/27D4F385/4195/0/hls576/masterlist.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/27D4F385/4195/0/hls576/masterlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
-                  <title>288p</title>
+                  <title>320p</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/zb/zbm187amhx2bdf6fxa1u9tpiqxszz4fa.jpg</thumbnail>
                   <link>http://hls.redefine.pl/60508455/4195/0/hls/masterlist.m3u8</link>
                 </subitem>				
@@ -1176,7 +962,335 @@
                   <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/viva_polska_1/11299/0/tv-ss/live.isml/playlist.m3u8</link>
                 </subitem>				
 			</subitems>	
+		</subchannel>					
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Wellbeing Newtork</name>
+	      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a6/Wellbinglogo.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>576p</title>
+	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a6/Wellbinglogo.png</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/wellbeing_1/11298/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>				
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Animal Planet HD</name>
+          <thumbnail>https://www.brandeps.com/logo-download/A/Animal-Planet-HD-01.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>576p</title>
+	              <thumbnail>https://www.brandeps.com/logo-download/A/Animal-Planet-HD-01.png</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/animal_planet_hd_1/11394/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
 		</subchannel>				
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Discovery Channel HD</name>
+          <thumbnail>http://muizre.ru/_dr/47/36424139.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>576p</title>
+	              <thumbnail>http://muizre.ru/_dr/47/36424139.png</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/discovery_channel_hd_1/11399/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Discovery Historia</name>
+          <thumbnail>http://n-3-16.dcs.redcdn.pl/file/o2/redefine/redb/zr/zrh3fmrh41vt2kqhvbddzejj3m97ag99.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>576p</title>
+	              <thumbnail>http://n-3-16.dcs.redcdn.pl/file/o2/redefine/redb/zr/zrh3fmrh41vt2kqhvbddzejj3m97ag99.jpg</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/discovery_historia_1/11316/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Discovery Investigation</name>
+          <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/id_hd-630x355.png?bc=white&w=575</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>576p</title>
+	              <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/id_hd-630x355.png?bc=white&w=575</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/ID_HD_1/11375/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+		</subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Discovery Life HD</name>
+          <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>576p</title>
+	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/discovery_life_1/11315/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Discovery Science HD</name>
+          <thumbnail>http://static.wirtualnemedia.pl/media/top/Discovery_Science_HD_duze_logo.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>576p</title>
+	              <thumbnail>http://static.wirtualnemedia.pl/media/top/Discovery_Science_HD_duze_logo.jpg</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/Discovery_Science_HD_1/11396/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Discovery Turbo Xtra</name>
+          <thumbnail>http://tele-wizja.com/logo/xtra.gif</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>576p</title>
+	              <thumbnail>http://tele-wizja.com/logo/xtra.gif</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/discovery_turbo_xtra_hd_2/11401/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+		</subchannel>					
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Eurosport 1</name>
+          <thumbnail>http://naszosie.pl/wp-content/uploads/2016/02/Eurosport-1.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>576p</title>
+	              <thumbnail>http://naszosie.pl/wp-content/uploads/2016/02/Eurosport-1.jpg</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/eurosport_hd_2/1712/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Eurosport 2</name>
+          <thumbnail>http://naszosie.pl/wp-content/uploads/2016/02/Eurosport-2.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>576p</title>
+	              <thumbnail>http://naszosie.pl/wp-content/uploads/2016/02/Eurosport-2.jpg</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/eurosport2_hd_1/1713/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Extreme Sports Channel HD</name>
+          <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/d/dd/EXTREME_SPORT_CHANNEL_HD_2013.jpg/revision/latest?cb=20150310175059</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>576p</title>
+	              <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/d/dd/EXTREME_SPORT_CHANNEL_HD_2013.jpg/revision/latest?cb=20150310175059</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/extreme_sports_channel_hd_1/11388/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>GOLF CHANNEL POLSKA</name>
+          <thumbnail>http://dwiptv.cba.pl/ico/Fox_Comedy_1.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>720p</title>
+	              <thumbnail>http://satkurier.pl/uploads/49520.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/5A7CCEC8/13561/0/hls720/masterlist.m3u8</link>
+                </subitem>
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>MTV Dance</name>
+	      <thumbnail>https://www.brandeps.com/logo-download/M/MTV-Dance-01.png</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>576p</title>
+	              <thumbnail>https://www.brandeps.com/logo-download/M/MTV-Dance-01.png</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_dance_1/10257/0/tv-ss/live.isml/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/D2BBE43D/10257/0/hls576/masterlist.m3u8$$lsname=LINK 2</link>
+                </subitem>				
+			</subitems>	
+		</subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>MTV Hits</name>
+	      <thumbnail>http://teve.ba/img/content/mtv-hits.gif</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>576p</title>
+	              <thumbnail>http://teve.ba/img/content/mtv-hits.gif</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_hits_1/10256/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>				
+			</subitems>	
+		</subchannel>						
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>MTV Live HD</name>
+	      <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/mtvlife.png?bc=white&w=575</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>576p</title>
+	              <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/mtvlife.png?bc=white&w=575</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_live_hd_1/10254/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>				
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>MTV Music 24</name>
+	      <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7b/MTV_Music_24_logo.jpg</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>576p</title>
+	              <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7b/MTV_Music_24_logo.jpg</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_music_24_1/11753/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>				
+			</subitems>	
+		</subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>MTV Polska</name>
+	      <thumbnail>http://png-1.vector.me/files/images/7/6/764155/mtv_thumb.png</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>576p</title>
+	              <thumbnail>http://png-1.vector.me/files/images/7/6/764155/mtv_thumb.png</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_polska__1/10253/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>				
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>MTV Rocks</name>
+	      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>576p</title>
+	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_rocks_1/11309/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>				
+			</subitems>	
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>National Geographic</name>
+	      <thumbnail>http://img.taobaocdn.com/imgextra/i4/92378220/T2hXlNXedaXXXXXXXX_!!92378220.gif</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>576p</title>
+	              <thumbnail>http://img.taobaocdn.com/imgextra/i4/92378220/T2hXlNXedaXXXXXXXX_!!92378220.gif</thumbnail>
+                  <link>http://hls.redefine.pl/7026AC86/11307/0/hls576/masterlist.m3u8</link>
+                </subitem>		
+				
+				<subitem>
+                  <title>320p</title>
+	              <thumbnail>http://img.taobaocdn.com/imgextra/i4/92378220/T2hXlNXedaXXXXXXXX_!!92378220.gif</thumbnail>
+                  <link>http://hls.redefine.pl/AFE098B1/11307/0/hls/masterlist.m3u8</link>
+                </subitem>
+
+				<subitem>
+                  <title>576p</title>
+	              <thumbnail>http://img.taobaocdn.com/imgextra/i4/92378220/T2hXlNXedaXXXXXXXX_!!92378220.gif</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/national_geographic_channel_1/11307/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+		</subchannel>					
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>POLSAT 2 HD</name>
+	      <thumbnail>http://dwiptv.cba.pl/ico/Polsat_2_HD.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>HD</title>
+	              <thumbnail>http://dwiptv.cba.pl/ico/Polsat_2_HD.png</thumbnail>
+                  <link>http://hls.redefine.pl/E30464E3/10258/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/E30464E3/10258/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
+                </subitem>		
+			</subitems>	
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>POLSAT CAFE HD</name>
+	      <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/9r/9r3t31n1sw818wy3kqi62oyq9qy21e56.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>HD</title>
+	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/9r/9r3t31n1sw818wy3kqi62oyq9qy21e56.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/66C13FD2/11441/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/66C13FD2/11441/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>576p</title>
+	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/9r/9r3t31n1sw818wy3kqi62oyq9qy21e56.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/93FAC5A4/11441/0/hls576/masterlist.m3u8</link>
+                </subitem>	
+
+				<subitem>
+                  <title>288p</title>
+	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/9r/9r3t31n1sw818wy3kqi62oyq9qy21e56.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/219CA1E9/11441/0/hls/masterlist.m3u8</link>
+                </subitem>				
+			</subitems>	
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Polsat Food Network</name>
+	      <thumbnail>http://www.tvpolsat.info/forum/attachments/polsat_food_hd2.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>HD</title>
+	              <thumbnail>http://www.tvpolsat.info/forum/attachments/polsat_food_hd2.png</thumbnail>
+                  <link>http://hls.redefine.pl/B350B1D9/11389/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/B350B1D9/11389/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
+                </subitem>		
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>TLC</name>
+	      <thumbnail>http://www.cinematicut.com/images/tlc.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>576p</title>
+	              <thumbnail>http://www.cinematicut.com/images/tlc.png</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/tlc_2/11391/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>			
+			</subitems>	
+		</subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Travel Channel HD</name>
+	      <thumbnail>http://www.timberlinelodge.com/wp-content/uploads/2015/06/TravelChannel_logo-prime-1.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>576p</title>
+	              <thumbnail>http://www.timberlinelodge.com/wp-content/uploads/2015/06/TravelChannel_logo-prime-1.jpg</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/travel_hd_1/11393/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>			
+			</subitems>	
+		</subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>VH1</name>
+	      <thumbnail>http://tmsimg.video.cdn.charter.com/h3/NowShowing/11218/s11218_h3_aa.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>576p</title>
+	              <thumbnail>http://tmsimg.video.cdn.charter.com/h3/NowShowing/11218/s11218_h3_aa.png</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/vh1_1/10255/0/tv-ss/live.isml/playlist.m3u8</link>
+                </subitem>			
+			</subitems>	
+		</subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>Water Planet</name>
@@ -1195,19 +1309,7 @@
                   <link>http://hls.redefine.pl/5F1C2D96/11286/0/hls/masterlist.m3u8</link>
                 </subitem>				
 			</subitems>	
-		</subchannel>				
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>Wellbeing Newtork</name>
-	      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a6/Wellbinglogo.png</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a6/Wellbinglogo.png</thumbnail>
-                  <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/wellbeing_1/11298/0/tv-ss/live.isml/playlist.m3u8</link>
-                </subitem>				
-			</subitems>	
-		</subchannel>				
+		</subchannel>					
 	</channel>	
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
