@@ -2558,22 +2558,34 @@
             <thumbnail>http://img.lechpoznan.pl/lechcup/layout2014/images/lech-tv.png</thumbnail>
               <subitems>
 			    <subitem>
-                  <title>[COLOR lightyellow]432p[/COLOR]</title>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
 			      <thumbnail>http://img.lechpoznan.pl/lechcup/layout2014/images/lech-tv.png</thumbnail>
-                  <link>http://wtk.live-ext.rd.insyscd.net/lechtv.smil/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://wtk.live-ext.rd.insyscd.net/lechtv.smil/chunklist_b1004100_slpl.m3u8$$lsname=LINK 2</link>
-                </subitem>	
-				
+                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-b-lechtv/live.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-b-lechtv/live-wtk-b-lechtv-3600k.m3u8$$lsname=LINK 2</link>
+                </subitem>
+
 				<subitem>
-                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
 			      <thumbnail>http://img.lechpoznan.pl/lechcup/layout2014/images/lech-tv.png</thumbnail>
-                  <link>http://wtk.live-ext.rd.insyscd.net/lechtv.smil/chunklist_b684100_slpl.m3u8</link>
+                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-b-lechtv/live-wtk-b-lechtv-2400k.m3u8</link>
                 </subitem>
 				
 				<subitem>
-                  <title>[COLOR lightyellow]272p[/COLOR]</title>
+                  <title>[COLOR lightyellow]404p[/COLOR]</title>
 			      <thumbnail>http://img.lechpoznan.pl/lechcup/layout2014/images/lech-tv.png</thumbnail>
-                  <link>http://wtk.live-ext.rd.insyscd.net/lechtv.smil/chunklist_b524100_slpl.m3u8</link>
+                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-b-lechtv/live-wtk-b-lechtv-1700k.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]288p[/COLOR]</title>
+			      <thumbnail>http://img.lechpoznan.pl/lechcup/layout2014/images/lech-tv.png</thumbnail>
+                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-b-lechtv/live-wtk-b-lechtv-900k.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]288p[/COLOR]</title>
+			      <thumbnail>http://img.lechpoznan.pl/lechcup/layout2014/images/lech-tv.png</thumbnail>
+                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-b-lechtv/live-wtk-b-lechtv-450k.m3u8</link>
                 </subitem>
 			  </subitems>	
             </subchannel>
