@@ -799,7 +799,13 @@
                 <title>[COLOR lightyellow][B]Melody Channel[/B][/COLOR]</title>
                 <link>rtmp://186.155.200.118:1935/live/MelodyChannel</link>
                 <thumbnail>http://ulango.tv/uploads/channels/27274/logo_melody%20channel1.png</thumbnail>
-            </item>				
+            </item>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]MIMUSICA HD[/B][/COLOR]</title>
+                <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8</link>
+                <thumbnail>http://condista.com/wp-content/uploads/2015/09/mi-musica-300x225.jpg</thumbnail>
+            </item>							
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		    <item>
                 <title>[COLOR lightyellow][B]Music Box[/B][/COLOR]</title>
@@ -872,7 +878,13 @@
                 <title>[COLOR lightyellow][B]Telemusica[/B][/COLOR]</title>
                 <link>rtmp://186.155.200.118:1935/live/telemusica</link>
                 <thumbnail>http://okteve.com/wp-content/uploads/media/8367e3343fd31283bc149c5fae84ca6e.jpeg</thumbnail>
-            </item>			
+            </item>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		    <item>
+                <title>[COLOR lightyellow][B]Tigo Music[/B][/COLOR]</title>
+                <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8</link>
+                <thumbnail>https://www.tigo.com.sv/sites/tigo.com.sv/files/styles/destacado_153-147/public/boton_153x153.png?itok=mXyDXj9u</thumbnail>
+            </item>				
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		    <item>
                 <title>[COLOR lightyellow][B]Utv[/B][/COLOR]</title>
