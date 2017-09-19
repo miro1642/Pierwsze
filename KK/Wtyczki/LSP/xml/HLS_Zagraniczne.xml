@@ -10,7 +10,7 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	<channel>
       <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]akamaihd.net[/B][/COLOR]</name>
-      <thumbnail>http://efreshersjobs.com/wp-content/uploads/2015/05/Akamai-Technologies-Logo.jpg</thumbnail>
+      <thumbnail>http://www.logovaults.com/stock_thumbs/thumb-akamai-OTM4Nw==.jpg</thumbnail>
       <fanart>http://www.bassvisuals.com/wordpress_bv/preview/Bass_Visuals_Networks_Blue_Shorter_HD_1920x1080_30p.jpg</fanart>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
         <subchannel>
@@ -961,6 +961,92 @@
           <link>http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75</link>
         </item>	
 	</channel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]pojedyncze[/B][/COLOR]</name>
+      <thumbnail>http://soft-library.com/wp-content/uploads/simple-iptv-player.jpg</thumbnail>
+	  <fanart>https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/LiveTV/fanart.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]BABESTATION[/B][/COLOR]</name>
+          <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Babestation_Logo.jpg</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>[COLOR lightyellow]24hrs[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/06/Babestation24_Logo_-_Wappen_und_Schriftzug.jpg</thumbnail>
+                  <link>http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Unleashed 2[/COLOR]</title>
+			      <thumbnail>http://www.sexstationtv.com/images/unleashed-logo.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast//livestream_two1/playlist.m3u8</link>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]Xtra[/COLOR]</title>
+			      <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>		  
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]JASMIN TV[/B][/COLOR]</name>
+          <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
+                  <link>http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8</link>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]720p[/COLOR]</title>
+			      <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
+                  <link>http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Miami TV[/B][/COLOR]</name>
+          <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/6/5/6/4/65648/65648_miamitv3jpg_1326327621,192x192,r:1.jpg</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/6/5/6/4/65648/65648_miamitv3jpg_1326327621,192x192,r:1.jpg</thumbnail>
+                  <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w132905680_b2592000.m3u8$$lsname=LINK 2</link>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]540p[/COLOR]</title>
+			      <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/6/5/6/4/65648/65648_miamitv3jpg_1326327621,192x192,r:1.jpg</thumbnail>
+                  <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w132905680_b1592000.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/6/5/6/4/65648/65648_miamitv3jpg_1326327621,192x192,r:1.jpg</thumbnail>
+                  <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w132905680_b742000.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+			  <item>
+                <title>[COLOR lightyellow]ID Fashion[/COLOR]</title>
+				<thumbnail>http://realtexpo.com.ua/_bd/1/84674906.jpg</thumbnail>
+				<link>http://95.67.8.22/hls/idfashion/index.m3u8</link>
+              </item>
+			  
+			  <item>
+                <title>[COLOR lightyellow]NUART[/COLOR]</title>
+				<thumbnail>https://ulango.tv/uploads/channels/61694/logo_nuart%20tv.png</thumbnail>
+				<link>http://78.111.176.132:8080/</link>
+              </item>
+	</channel> 	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	 
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	 
 	<channel>
@@ -980,7 +1066,7 @@
 				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=424$$lsname=LINK 2</link>
 				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=691$$lsname=LINK 3</link>
                 </subitem>
-				
+		http://51.254.39.37/TV/RUS/n/406.m3u8		
 				<subitem>
                   <title>[COLOR lightyellow]Deutsche Welle[/COLOR]</title>
 			      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_(TV)_Logo_2012.png</thumbnail>
