@@ -1738,21 +1738,9 @@
 		    <items>
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 			  <item>
-                <title>[COLOR lightyellow]Discovery Science[/COLOR]</title>
-				<thumbnail>http://static.wirtualnemedia.pl/media/top/Discovery_Science_HD_duze_logo.jpg</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/discoverysciencehd</link>
-              </item>
-			  
-			  <item>
-                <title>[COLOR lightyellow]Mini Mini+[/COLOR]</title>
-				<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/7/78/Minimini_.png/revision/latest?cb=20110927114301</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/miniminihd</link>
-              </item>
-			  
-			  <item>
-                <title>[COLOR lightyellow]Nat Geo Wild[/COLOR]</title>
-				<thumbnail>https://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/03/nat-geo-wild-200x106.jpg</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/natgeowildhd</link>
+                <title>[COLOR lightyellow]Canal+[/COLOR]</title>
+				<thumbnail>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042012/canal.png?itok=J2v_XG21</thumbnail>
+				<link>rtmp://192.99.31.176:1935/standard/canalhd</link>
               </item>
 			  
 			  <item>
@@ -1761,30 +1749,24 @@
 				<link>rtmp://192.99.31.176:1935/standard/polsathd</link>
               </item>
 			  
+			 <item>
+                <title>[COLOR lightyellow]Polsat News[/COLOR]</title>
+				<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/7b/Polsat_News_Logo.svg</thumbnail>
+				<link>rtmp://192.99.31.176:1935/standard/polsatnewshd</link>
+              </item> 
+			  
 			  <item>
                 <title>[COLOR lightyellow]TVN[/COLOR]</title>
 				<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tvn_Logo.svg/300px-Tvn_Logo.svg.png</thumbnail>
 				<link>rtmp://192.99.31.176:1935/standard/tvnhd</link>
               </item>
-			  
+			 
 			  <item>
-                <title>[COLOR lightyellow]TVN 24[/COLOR]</title>
-				<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/80/TVN_24_Logo.png</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/tvn24hd</link>
+                <title>[COLOR lightyellow]TVN Turbo[/COLOR]</title>
+				<thumbnail>http://iti.pl/userfiles/logolibrary/TVN_%20TURBO.png</thumbnail>
+				<link>rtmp://192.99.31.176:1935/standard/tvnturbohd</link>
               </item>
-			  
-			  <item>
-                <title>[COLOR lightyellow]TVN Style[/COLOR]</title>
-				<thumbnail>http://www.kempinsky.pl/wp-content/uploads/2014/02/TVN-Style-logo.jpg</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/tvnstylehd</link>
-              </item>
-			  
-	          <item>
-                <title>[COLOR lightyellow]TVP 1[/COLOR]</title>
-				<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TVP1_logo.svg/240px-TVP1_logo.svg.png</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/tvp1hd</link>
-              </item>
-			  
+
 			  <item>
                 <title>[COLOR lightyellow]TVP 2[/COLOR]</title>
 				<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TVP2_logo.svg/240px-TVP2_logo.svg.png</thumbnail>
@@ -1795,6 +1777,12 @@
                 <title>[COLOR lightyellow]TVP Info[/COLOR]</title>
 				<thumbnail>http://www.jambox.pl/sites/default/files/tvpinfologo.gif</thumbnail>
 				<link>rtmp://192.99.31.176:1935/standard/tvpinfo</link>
+              </item>
+			  
+			  <item>
+                <title>[COLOR lightyellow]TVP Seriale[/COLOR]</title>
+				<thumbnail>http://s.tvp.pl/images/a/c/5/uid_ac515a895e3a08b13d44c64439a6284d1356263757789_width_700_play_0_pos_3_gs_0.jpg</thumbnail>
+				<link>rtmp://192.99.31.176:1935/standard/tvpseriale</link>
               </item>
 			</items>  
 	</channel> 		
