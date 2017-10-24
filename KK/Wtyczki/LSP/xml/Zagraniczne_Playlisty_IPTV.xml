@@ -350,11 +350,11 @@
 	<fanart>[makelist1.param5]</fanart>
 ]]></listrepeat>
 <expres><![CDATA["(.*?)\s+--\s+(.*?)\s+--\s+(.*?)\s+--\s+(.*?)\s+--\s+(.*?)"]]></expres>
-<page>"clientportal.link -- RavG1TngER -- V1PlFFXNMv --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal/RavG1TngER[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clientportal.link:8080 -- RavG1TngER -- V1PlFFXNMv --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal:8080/RavG1TngER[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clients.clientportal.link -- RavG1TngER -- V1PlFFXNMv --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal/RavG1TngER[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clients.clientportal.link:8080 -- RavG1TngER -- V1PlFFXNMv --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal:8080/RavG1TngER[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"51.15.3.165:8000 -- adriano -- adriano --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 51.15.3.165/adriano[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+<page>"clientportal.link -- abc123 -- 321cba --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal/abc123[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"clientportal.link:8080 -- abc123 -- 321cba --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal:8080/abc123[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"clients.clientportal.link -- abc123 -- 321cba --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal/abc123[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"clients.clientportal.link:8080 -- abc123 -- 321cba --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal:8080/abc123[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"sekoiptv.ddns.net:8080 -- ramazan1 -- ramazan1 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] sekoiptv.ddns.net/ramazan1[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
 "4kip.tv:1795 -- showmax24 -- 46bc8v --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 4kip.tv/showmax24[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
 "p1.iptvprivateserver.tv -- 653270232840 -- 653270232840 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] p1.iptvprivateserver.tv/653270232840[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
 "iptv.srbija.stream:25461 -- fastskype -- iptvskype --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] iptv.srbija.stream/fastskype[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
@@ -416,21 +416,21 @@
 </subitem>	
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 		  <subitem>
-		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 217.182.138.85:yasin[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
-		  <thumbnail>http://3.bp.blogspot.com/-iNkR6y85Ung/VPYrvk2vZaI/AAAAAAAAAhU/jcLohLtT3DE/s1600/10371447_1513212508907563_7503735114464157097_n.png</thumbnail>
-           <link>$doregex[makelist]</link>
-            <regex>
-              <name>makelist</name>
-              <listrepeat><![CDATA[
-                <title>[makelist.param1]</title>
-                <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name= [makelist.param1]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&Icy-MetaData=1&Buffer=20971520 live=1 timeout=30</link>
-                <thumbnail>NA</thumbnail>
-                ]]></listrepeat>
-              <expres>#EXTINF:-1.*,(.*?)\n(.*)</expres>
-              <page>http://217.182.138.85:7000/get.php?username=yasin&amp;password=yasin&amp;type=m3u</page>
-              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-            </regex>
-          </subitem> 
+<title>[COLOR yellow] -IPTV 16-5-2017 ---------------[/COLOR][COLOR salmon] KIKO - http://clientportal.link:8080 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>http://fondos.fondoshd.com/images/800/galaxia-roja-5209b6db7e89e.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://clientportal.link:8080/get.php?username=abc123&password=321cba&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</subitem>
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 		  <subitem>
 		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 217.182.138.85:steph[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>

@@ -568,9 +568,8 @@
 				  <link>rtmp://stream.smcdn.pl/8tv2-t/8tv_360p$$lsname=LINK 3</link>
 				</subitem>
 			</subitems>	
-        </subchannel>	
--->		
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        </subchannel>			
+	
 	    <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Eska TV[/B][/COLOR]</name>
           <thumbnail>http://c03.common.smcloud.net/s/9842636Oos.jpg</thumbnail>
@@ -596,7 +595,21 @@
                   <referer>http://www.eskago.pl/tv/eska-tv</referer>
 				</subitem>
 			</subitems>	
-        </subchannel>	
+        </subchannel>
+-->		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]eskaGO z wtyczki mrknow[/B][/COLOR]</name>
+          <thumbnail>http://c03.common.smcloud.net/s/9842636Oos.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]eskago.pl[/B][/COLOR]</title>
+	              <thumbnail>http://t-eska.cdn.smcloud.net/common/9/3/s/930528E0k3.jpg/ru-0-r-650,0-n-930528E0k3.jpg</thumbnail>
+                  <link>ignorme</link>
+                  <jsonrpc>plugin://plugin.video.mrknow/?item=url=tv/eskago.pl.cfg&amp;mode=110</jsonrpc>
+                  </subitem>
+			</subitems>	
+        </subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Eska Best Music TV[/B][/COLOR]</name>

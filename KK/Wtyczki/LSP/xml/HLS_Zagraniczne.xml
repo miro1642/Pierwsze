@@ -1059,53 +1059,62 @@
           <thumbnail>http://besnet.at.ua/LOGOTIPY_SOFTA/iptv_logo.gif</thumbnail>
 		  <fanart>http://weneedfun.com/wp-content/uploads/2016/12/Ukraine-Flag-12.jpg</fanart>
             <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]Bridge TV RUS[/COLOR]</title>
+			      <thumbnail>http://static.beeline.ru/upload/contents/338/logo/BRIDGEtvV2_195.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/n/190.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/n/292.m3u8$$lsname=LINK 2</link>
+				  <link>http://51.254.39.37/TV/RUS/n/691.m3u8$$lsname=LINK 3</link>
+                </subitem>
+			
 				<subitem>
                   <title>[COLOR lightyellow]Bridge TV[/COLOR]</title>
 			      <thumbnail>http://static.beeline.ru/upload/contents/338/logo/BRIDGEtvV2_195.jpg</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=192$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=424$$lsname=LINK 2</link>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=691$$lsname=LINK 3</link>
+                  <link>http://51.254.39.37/TV/RUS/n/192.m3u8</link>
                 </subitem>
-		http://51.254.39.37/TV/RUS/n/406.m3u8		
+		
 				<subitem>
                   <title>[COLOR lightyellow]Deutsche Welle[/COLOR]</title>
 			      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_(TV)_Logo_2012.png</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=311$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=393$$lsname=LINK 2</link>
+                  <link>http://51.254.39.37/TV/RUS/n/311.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]Eurosport 1[/COLOR]</title>
 			      <thumbnail>http://www.designtagebuch.de/wp-content/uploads/mediathek//2015/11/eurosport-1-logo.jpg</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=406</link>
+                  <link>http://51.254.39.37/TV/RUS/n/752.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Eurosport 2[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/n/554.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]Europa Plus TV[/COLOR]</title>
 			      <thumbnail>http://www.logotypes101.com/logos/541/BF2430B52CB8E7F7C736BB06A84975B1/europaplus.png</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=95$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=422$$lsname=LINK 2</link>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=677$$lsname=LINK 3</link>
+                  <link>http://51.254.39.37/TV/RUS/n/95.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/n/677.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]Extreme Sports[/COLOR]</title>
 			      <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/d/dd/EXTREME_SPORT_CHANNEL_HD_2013.jpg/revision/latest?cb=20150310175059</thumbnail>
-                  <link>http://51.254.39.37/TV/FLASH-TV/playlist.m3u8?ch=144</link>
+                  <link></link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]HL[/COLOR]</title>
 			      <thumbnail>http://www.hlpatelcollege.com/images/logo.png</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=159$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=293$$lsname=LINK 2</link>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=318$$lsname=LINK 3</link>
+                  <link>http://51.254.39.37/TV/RUS/n/159.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/n/293.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]Mezzo[/COLOR]</title>
 			      <thumbnail>http://www.frosat.net/images/logotv/original/mezzoHD.jpg</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=206$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://51.254.39.37/TV/RUS/n/164.m3u8</link>
 				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=300$$lsname=LINK 2</link>
 				 <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=699$$lsname=LINK 3</link> 
                 </subitem>
@@ -1113,7 +1122,7 @@
 				<subitem>
                   <title>[COLOR lightyellow]Mezzo Live HD[/COLOR]</title>
 			      <thumbnail>https://www.telekarta.tv/u/images/channels/b/mezzo_live_hd_1.png</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=164</link>
+                  <link>http://51.254.39.37/TV/RUS/n/164.m3u8</link>
                 </subitem>
 				
 				<subitem>
@@ -1139,16 +1148,14 @@
 				<subitem>
                   <title>[COLOR lightyellow]Russian Musicbox[/COLOR]</title>
 			      <thumbnail>http://live.moldova9.com/wp-content/uploads/music-box1.png</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=421$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=728$$lsname=LINK 2</link>
+                  <link>http://51.254.39.37/TV/RUS/n/728.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]TNT Music[/COLOR]</title>
 			      <thumbnail>https://static.beeline.ru/upload/contents/338/logo/tntmusic_195.jpg</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=144$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=586$$lsname=LINK 2</link>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=675$$lsname=LINK 3</link>
+                  <link>http://51.254.39.37/TV/RUS/n/144.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/n/675.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
@@ -1160,14 +1167,13 @@
 				<subitem>
                   <title>[COLOR lightyellow]VH1[/COLOR]</title>
 			      <thumbnail>https://tsdrsec.uspto.gov/ts/cd/standardimages/85749032/webcontent</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=416$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=712$$lsname=LINK 2</link>
+                  <link>http://51.254.39.37/TV/RUS/n/712.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]Боец[/COLOR]</title>
 			      <thumbnail>http://boectv.advera.ru/logo.jpg</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=581$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://51.254.39.37/TV/RUS/n/670.m3u8</link>
 				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=670$$lsname=LINK 2</link>
                 </subitem>
 				
@@ -1180,20 +1186,20 @@
 				<subitem>
                   <title>[COLOR lightyellow]ФУТБОЛ 2[/COLOR]</title>
 			      <thumbnail>http://www.glaz.tv/images/logos/tv/big/futbol-2.jpg</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=553</link>
+                  <link>http://51.254.39.37/TV/RUS/n/553.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]KXЛ[/COLOR]</title>
 			      <thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/2183/brand.gif?itok=oRdwdY6J</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=343$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://51.254.39.37/TV/RUS/n/343.m3u8</link>
 				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=446$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]KXЛ HD[/COLOR]</title>
 			      <thumbnail>https://satsis.info/uploads/posts/2010-09/1284222363_www.satsis.info_kxl-copy.jpg</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=661</link>
+                  <link>http://51.254.39.37/TV/RUS/n/661.m3u8</link>
                 </subitem>
 				
 				<subitem>
@@ -1207,63 +1213,62 @@
 				<subitem>
                   <title>[COLOR lightyellow]МАТЧ! APEHA[/COLOR]</title>
 			      <thumbnail>http://www.oreol.tv/template/img2/Arena_HD.jpg</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=448$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=534$$lsname=LINK 2</link>
+                  <link>http://51.254.39.37/TV/RUS/n/534.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]МАТЧ! APEHA HD[/COLOR]</title>
 			      <thumbnail>http://tuchkasport.com/uploads/posts/2016-06/1465476876_mahd.png</thumbnail>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=540</link>
+				  <link>http://51.254.39.37/TV/RUS/n/540.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]МАТЧ! ФУТБОЛ 1[/COLOR]</title>
 			      <thumbnail>http://www.oreol.tv/template/img2/Fut_1_HD.jpg</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=750</link>
+                  <link>http://51.254.39.37/TV/RUS/n/750.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]МАТЧ! ФУТБОЛ 1 HD[/COLOR]</title>
 			      <thumbnail>http://myttk.ru/upload/iblock/b98/b98b44d480bbe18cc7c4b0df766e55ce.jpg</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=616</link>
+                  <link>http://51.254.39.37/TV/RUS/n/616.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]МАТЧ! ФУТБОЛ 2[/COLOR]</title>
 			      <thumbnail>http://www.oreol.tv/template/img2/Fut_2_HD.jpg</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=755</link>
+                  <link>http://51.254.39.37/TV/RUS/n/755.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]МАТЧ! ФУТБОЛ 2 HD[/COLOR]</title>
 			      <thumbnail>http://www.oreol.tv/template/img2/Fut_2_HD.jpg</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=617</link>
+                  <link>http://51.254.39.37/TV/RUS/n/617.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]МАТЧ! ФУТБОЛ 3[/COLOR]</title>
 			      <thumbnail>http://www.oreol.tv/template/img2/Fut_3_HD.jpg</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=516</link>
+                  <link>http://51.254.39.37/TV/RUS/n/516.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]МАТЧ! ФУТБОЛ 3 HD[/COLOR]</title>
 			      <thumbnail>http://tuchkasport.com/uploads/posts/2016-06/1465232516_mf3hd.png</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=618</link>
+                  <link>http://51.254.39.37/TV/RUS/n/618.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]МАТЧ! Игра[/COLOR]</title>
 			      <thumbnail>http://opsmedia.ru/wp-content/uploads/2016/01/match-igra-logo-400x225-400x225.png</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=370$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://51.254.39.37/TV/RUS/n/370.m3u8</link>
 				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=533$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]МАТЧ! Игра HD[/COLOR]</title>
 			      <thumbnail>http://tuchkasport.com/uploads/posts/2016-06/1465477524_mihd.png</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=618</link>
+                  <link>http://51.254.39.37/TV/RUS/n/625.m3u8</link>
                 </subitem>
 				
 				<subitem>
@@ -1282,9 +1287,8 @@
 				<subitem>
                   <title>[COLOR lightyellow]Музыка Первого[/COLOR]</title>
 			      <thumbnail>http://www.karabakhtelecom.com/files/uploads/yntanekan/channel_icons/Music/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE.gif</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=160$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=588$$lsname=LINK 2</link>
-				  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=676$$lsname=LINK 2</link>
+                  <link>http://51.254.39.37/TV/RUS/n/160.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/n/676.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
@@ -1296,7 +1300,19 @@
 				<subitem>
                   <title>[COLOR lightyellow]Haш ФУТБОЛ[/COLOR]</title>
 			      <thumbnail>http://8-themes.com/wp-content/uploads/2016/02/logo-nash-futbol-600x425.jpg</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=537</link>
+                  <link>http://51.254.39.37/TV/RUS/n/537.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Haш ФУТБОЛ HD[/COLOR]</title>
+			      <thumbnail>http://8-themes.com/wp-content/uploads/2016/02/logo-nash-futbol-600x425.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/n/665.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Haш CПОPT[/COLOR]</title>
+			      <thumbnail>http://8-themes.com/wp-content/uploads/2016/02/logo-nash-futbol-600x425.jpg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/n/102.m3u8</link>
                 </subitem>
 				
 				<subitem>
@@ -1316,7 +1332,8 @@
 				<subitem>
                   <title>[COLOR lightyellow]Телеканал Футбол[/COLOR]</title>
 			      <thumbnail>http://www.football-tv.ru/images/logo.png</thumbnail>
-                  <link>http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=100</link>
+                  <link>http://51.254.39.37/TV/RUS/n/100.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://51.254.39.37/TV/RUS/n/705.m3u8$$lsname=LINK 2</link>
                 </subitem>	
 				
 				<subitem>

@@ -83,7 +83,7 @@
 		  <subitems>  
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 		  <subitem>
-		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 217.182.138.85:torsten[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
+		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal.link:abc123[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
 		  <thumbnail>http://vexavi19.webd.pl/adam/adam_komputery/images/iptv/nowwatchtvlive_co_tv_poland.png</thumbnail>
            <link>$doregex[makelist]</link>
             <regex>
@@ -93,8 +93,8 @@
                 <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name= [makelist.param1]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&Icy-MetaData=1&Buffer=20971520 live=1 timeout=30</link>
                 <thumbnail>NA</thumbnail>
                 ]]></listrepeat>
-              <expres>#EXTINF:-1.*,PL VIP(.*?)\n(.*)</expres>
-              <page>http://217.182.138.85:7000/get.php?username=torsten&amp;password=torsten&amp;type=m3u</page>
+              <expres>#EXTINF:-1.*,(.*?),PL\n(.*)</expres>
+              <page>http://clientportal.link/get.php?username=abc123&amp;password=321cba&amp;type=m3u</page>
               <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
             </regex>
           </subitem>		  	  
@@ -110,8 +110,8 @@
                 <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name= [makelist.param1]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&Icy-MetaData=1&Buffer=20971520 live=1 timeout=30</link>
                 <thumbnail>NA</thumbnail>
                 ]]></listrepeat>
-              <expres>#EXTINF:-1.*,PL VIP(.*?)\n(.*)</expres>
-              <page>http://217.182.138.85:7000/get.php?username=wolfgang&amp;password=wolfgang&amp;type=m3u</page>
+              <expres>#EXTINF:-1.*,Polnish(.*?)\n(.*)</expres>
+              <page>http://no1dadicated.tk:8000/get.php?username=add&amp;password=add&amp;type=m3u</page>
               <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
             </regex>
           </subitem>
@@ -138,7 +138,8 @@
 	<fanart>[makelist1.param5]</fanart>
 ]]></listrepeat>
 <expres><![CDATA["(.*?)\s+--\s+(.*?)\s+--\s+(.*?)\s+--\s+(.*?)\s+--\s+(.*?)"]]></expres>
-<page>"clientportal.link -- demo -- 12345 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal/demo[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+<page>"major2.ipfox.co:8080 -- winsor_ZdtMSC -- GhAUwb3w --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] major2.ipfox.co:8080[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"xc.cobra-iptv.com:25461 -- polonia-v2 -- QgCj3B6VSz --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] xc.cobra-iptv.com[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
 </page>
 <agent>VLC/2.2.1 LibVLC/2.2.17</agent>
 </regex>
@@ -163,7 +164,7 @@
 </subitem>
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
           <subitem>
-		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] tv24serwis2.eu[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
+		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] xc.cobra-iptv.com[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
 		  <thumbnail>http://3.bp.blogspot.com/-iNkR6y85Ung/VPYrvk2vZaI/AAAAAAAAAhU/jcLohLtT3DE/s1600/10371447_1513212508907563_7503735114464157097_n.png</thumbnail>
            <link>$doregex[makelist]</link>
             <regex>
@@ -174,10 +175,34 @@
                 <thumbnail>NA</thumbnail>
                 ]]></listrepeat>
               <expres>#EXTINF:-1.*,(.*?)\n(.*)</expres>
-              <page>http://tv24serwis2.eu:8000/get.php?username=demo&amp;password=demo&amp;type=m3u</page>
+              <page>http://xc.cobra-iptv.com:25461/get.php?username=polonia-v2&amp;password=QgCj3B6VSz&amp;type=m3u</page>
               <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
             </regex>
           </subitem> 
+
+          <subitem>
+		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] major2.ipfox.co:8080[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
+		  <thumbnail>http://3.bp.blogspot.com/-iNkR6y85Ung/VPYrvk2vZaI/AAAAAAAAAhU/jcLohLtT3DE/s1600/10371447_1513212508907563_7503735114464157097_n.png</thumbnail>
+           <link>$doregex[makelist]</link>
+            <regex>
+              <name>makelist</name>
+              <listrepeat><![CDATA[
+                <title>[makelist.param1]</title>
+                <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name= [makelist.param1]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&Icy-MetaData=1&Buffer=20971520 live=1 timeout=30</link>
+                <thumbnail>NA</thumbnail>
+                ]]></listrepeat>
+              <expres>#EXTINF:-1.*,(.*?)\n(.*)</expres>
+              <page>http://major2.ipfox.co:8080/get.php?username=winsor_ZdtMSC&amp;password=GhAUwb3w&amp;type=m3u</page>
+              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+            </regex>
+          </subitem> 
+		  
+		  <subitem>
+<title>[COLOR lightblue]ARENASPORT 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/417.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
+</subitem>
+		  
 	    <subitems>
 		</subchannel>   
 </channel>	
