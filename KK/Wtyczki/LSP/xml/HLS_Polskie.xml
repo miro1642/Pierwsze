@@ -31,18 +31,18 @@
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
-          <name>4FUN TV Fit & Dance</name>
-          <thumbnail>http://n-5-6.dcs.redcdn.pl/file/o2/redefine/redb/fa/fa14an26pr63ua78czwj9rp3oar51trs.jpg</thumbnail>
+          <name>4FUN TV Fit&amp;Dance</name>
+          <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/14/4fun_fit_and_dance_logo_2015.png</thumbnail>
             <subitems>
 			    <subitem>
                   <title>576p</title>
-	              <thumbnail>http://n-5-6.dcs.redcdn.pl/file/o2/redefine/redb/fa/fa14an26pr63ua78czwj9rp3oar51trs.jpg</thumbnail>
+	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/14/4fun_fit_and_dance_logo_2015.png</thumbnail>
                   <link>http://hls.redefine.pl/99520853/1576/0/hls576/masterlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>320p</title>
-	              <thumbnail>http://n-5-6.dcs.redcdn.pl/file/o2/redefine/redb/fa/fa14an26pr63ua78czwj9rp3oar51trs.jpg</thumbnail>
+	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/14/4fun_fit_and_dance_logo_2015.png</thumbnail>
                   <link>http://hls.redefine.pl/31D299AA/1576/0/hls/masterlist.m3u8</link>
                 </subitem>
 			</subitems>	
@@ -993,6 +993,30 @@
             </subchannel>				
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
             <items>
+			    <item>
+                <title>[COLOR lightyellow]4FUN TV[/COLOR]</title>
+                <link>https://edge5.popler.tv/popler_publishlive/4funtv/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+                <regex>
+                <name>tok</name>
+                <expres>wmsAuthSign=(.*)</expres>
+                <page>https://www.popler.tv/live/4funtv</page>
+                <referer>https://www.popler.tv</referer>
+                </regex>
+                <thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_de_4fun.tv.jpg</thumbnail>
+                </item>
+				
+				<item>
+                <title>[COLOR lightyellow]4FUN FIT&amp;DANCE[/COLOR]</title>
+                <link>https://edge5.popler.tv/popler_publishlive/tvdisco/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+                <regex>
+                <name>tok</name>
+                <expres>wmsAuthSign=(.*)</expres>
+                <page>https://www.popler.tv/live/tvdisco</page>
+                <referer>https://www.popler.tv</referer>
+                </regex>
+                <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/14/4fun_fit_and_dance_logo_2015.png</thumbnail>
+                </item>
+			
 				<item>
                 <title>[COLOR lightyellow]CW24 TV[/COLOR]</title>
                 <link>http://cdn4.stream360.pl:1935/CW24/transmisja_live/playlist.m3u8</link>
@@ -1013,10 +1037,34 @@
                 </item>	
 				
 				<item>
+                <title>[COLOR lightyellow]Opoka TV[/COLOR]</title>
+                <link>https://edge5.popler.tv/popler_publishlive/Opokatv/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+                <regex>
+                <name>tok</name>
+                <expres>wmsAuthSign=(.*)</expres>
+                <page>https://www.popler.tv/live/Opokatv</page>
+                <referer>https://www.popler.tv</referer>
+                </regex>
+                <thumbnail>http://www.fta.strefa.pl/net/opokatv.png</thumbnail>
+                </item>
+				
+				<item>
                 <title>[COLOR lightyellow]Puls TV[/COLOR]</title>
                 <link>http://wolverine.castto.me:6081/live/dGxYpIXaGlS5Fyro5MRa/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari</link>
                 <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/a/af/Logo_TV_Puls_HD.jpg/revision/latest?cb=20160210125923</thumbnail>
                 </item>	
+				
+				<item>
+                <title>[COLOR lightyellow]rbl.tv[/COLOR]</title>
+                <link>https://edge5.popler.tv/popler_publishlive/rebeltv/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+                <regex>
+                <name>tok</name>
+                <expres>wmsAuthSign=(.*)</expres>
+                <page>https://www.popler.tv/live/rebeltv</page>
+                <referer>https://www.popler.tv</referer>
+                </regex>
+                <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/RBL-TV-30-10-2012.png/240px-RBL-TV-30-10-2012.png</thumbnail>
+                </item>
 				
 				<item>
                 <title>[COLOR lightyellow]STELLA[/COLOR]</title>

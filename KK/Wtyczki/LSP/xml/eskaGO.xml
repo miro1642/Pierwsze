@@ -599,14 +599,14 @@
 -->		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]eskaGO z wtyczki mrknow[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Eska TV[/B][/COLOR]</name>
           <thumbnail>http://c03.common.smcloud.net/s/9842636Oos.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]eskago.pl[/B][/COLOR]</title>
-	              <thumbnail>http://t-eska.cdn.smcloud.net/common/9/3/s/930528E0k3.jpg/ru-0-r-650,0-n-930528E0k3.jpg</thumbnail>
-                  <link>ignorme</link>
-                  <jsonrpc>plugin://plugin.video.mrknow/?item=url=tv/eskago.pl.cfg&amp;mode=110</jsonrpc>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]HD[/B][/COLOR]</title>
+	              <thumbnail>http://c03.common.smcloud.net/s/9842636Oos.jpg</thumbnail>
+                  <link>https://stream.smcdn.pl/eskatv-t/eskatv_720p/playlist.m3u8?wowzatokenendtime=1509133020&amp;wowzatokenstarttime=0&amp;wowzatokenhash=SNzWiWkRSYSPfr0pr43RUPo-YMuVzHc7izFCacaWobY=|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Eska TV HD[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/eskatv-t/eskatv_720p/chunklist_w84593737_tkd293emF0b2tlbmVuZHRpbWU9MTUwOTEzMDkyMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9NXVOdkZLNlZ3MFlKdm5Xcy1KVUJKd0NjY1I0dVR1VUM4QW9OaEg5ajZpWT0=.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36$$lsname=[COLOR lightyellow][B](2) Eska Best Music TV HD[/B][/COLOR]</link>
                   </subitem>
 			</subitems>	
         </subchannel>		
