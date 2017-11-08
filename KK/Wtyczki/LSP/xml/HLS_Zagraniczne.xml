@@ -1123,6 +1123,12 @@
                 </subitem>
 				
 				<subitem>
+                  <title>[COLOR lightyellow]Fashion TV[/COLOR]</title>
+			      <thumbnail>http://www.gmkfreelogos.com/logos/F/img/FTV.gif</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/n/729.m3u8</link>
+                </subitem>
+				
+				<subitem>
                   <title>[COLOR lightyellow]HL[/COLOR]</title>
 			      <thumbnail>http://www.hlpatelcollege.com/images/logo.png</thumbnail>
                   <link>http://51.254.39.37/TV/RUS/n/159.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
@@ -1141,6 +1147,12 @@
                   <title>[COLOR lightyellow]Mezzo Live HD[/COLOR]</title>
 			      <thumbnail>https://www.telekarta.tv/u/images/channels/b/mezzo_live_hd_1.png</thumbnail>
                   <link>http://51.254.39.37/TV/RUS/n/164.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Nebiset[/COLOR]</title>
+			      <thumbnail>https://pbs.twimg.com/profile_images/556104390226894849/MGkDTe20_400x400.jpeg</thumbnail>
+                  <link>http://51.254.39.37/TV/RUS/n/428.m3u8</link>
                 </subitem>
 				
 				<subitem>

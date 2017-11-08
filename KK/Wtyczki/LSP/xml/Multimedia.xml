@@ -14,6 +14,14 @@
       <fanart>http://www.wallpapers4u.org/wp-content/uploads/film_photos_colorful_bright_11059_1920x1080.jpg</fanart>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
           <items>
+		    <item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Filmy[/B][/COLOR]</title>
+              <link>http://ignorame</link>
+              <thumbnail>http://www.telesatellite.com/images/logos/vod.gif</thumbnail>
+              <fanart>https://superrepo.org/static/images/fanart/original/plugin.video.polishtv.live.jpg</fanart>
+              <externallink>http://adryanlist.org/adryan/Filmy.xml</externallink>	
+			</item> 
+		  
 			<item>
               <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Servisy VOD[/B][/COLOR]</title>
               <link>http://ignorame</link>
