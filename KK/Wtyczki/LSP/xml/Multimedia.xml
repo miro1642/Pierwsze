@@ -21,6 +21,14 @@
               <fanart>https://superrepo.org/static/images/fanart/original/plugin.video.polishtv.live.jpg</fanart>
               <externallink>http://adryanlist.org/adryan/Filmy.xml</externallink>	
 			</item> 
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Seriale[/B][/COLOR]</title>
+              <link>http://ignorame</link>
+              <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/54/The_Serial_Logo.png</thumbnail>
+              <fanart>http://filmowo.net/wp-content/uploads/2017/07/wspolczesneseriale.jpg</fanart>
+              <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/Seriale.xml</externallink>	
+			</item> 
 		  
 			<item>
               <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Servisy VOD[/B][/COLOR]</title>
