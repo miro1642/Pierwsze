@@ -15,16 +15,10 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]01x00 Pilot[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR yellow][B][s01e00][/B][/COLOR]     [COLOR lightyellow][B]Pilot[/B][/COLOR]</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
           <fanart>https://www.walldevil.com/wallpapers/a46/battlestar-galactica-last-supper.jpg</fanart>
             <subitems>
-			    <subitem>
-                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  freedisc.pl[/B][/COLOR]</title>
-			      <thumbnail>https://freedisc.pl/streaming/logo.png?i=0</thumbnail>
-                  <link>https://stream.freedisc.pl/video/9895879/battlestar-galactica-s01e00-dvdrip-lektor-pl.mp4</link>	
-				</subitem>
-				
 				<subitem>
                   <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
 			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
@@ -47,15 +41,6 @@
                   <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
 			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
                   <urlsolve>https://openload.co/embed/t0EIrz2oKFk</urlsolve>	
-				</subitem>
-				
-				<subitem>
-                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co mp4[/B][/COLOR]</title>
-			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
-                  <link>https://oqt1pi.oloadcdn.net/dl/l/UgrsLta9r7sVQU9P/Qx6U63pwRXk/Battlestar.Galactica.S01E00.PL.BRRip.480p.XviD.AC3-LTN.mifumindo.mp4$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Pilot[/B][/COLOR]</link>
-				  <link>https://oqt1pi.oloadcdn.net/dl/l/UpjjSafP6aGPLMhX/SmzmRZXWI1M/Battlestar.Galactica.S01E00.PL.BRRip.480p.XviD.AC3-LTN.mifumindo.mp4$$lsname=[COLOR lightyellow][B](2) Pilot[/B][/COLOR]</link>
-				  <link>https://1fgm8r3.oloadcdn.net/dl/l/4ltDjCwWxCvHHH8z/OWbOnPl26Z8/Battlestar+Galactica+S01E00+PL+BRRip+480p+XviD+AC3-LTN+shooker.mp4$$lsname=[COLOR lightyellow][B](3) Pilot[/B][/COLOR]</link>
-				  <link>https://1fgm8jp.oloadcdn.net/dl/l/PwPlHRw_k5GrLGzZ/t0EIrz2oKFk/Battlestar+Galactica+S01E00+PL+BRRip+480p+XviD+AC3-LTN+shooker.mp4$$lsname=[COLOR lightyellow][B](4) Pilot[/B][/COLOR]</link>
 				</subitem>
 				
 			    <subitem>
@@ -83,15 +68,6 @@
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com mp4[/B][/COLOR]</title>
-			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
-                  <link>https://aprium.fruithosted.net/dl/n/2Mms6T9bmSuEeOxi/klnctmdleanalbmt/8py8A8lowL3UkULLr1RAlmWxi8oETx18uLJnPFqmAj-G-JhHbId82MCrVjmexYYd_V2hdbdkDPqkDFytbiTzQJtmvk5YjBnpqROHkdTMY9yquB_rcPr_7Glbvi0C67FBjuRrzJDDgFrUmTBvB4C7wo2mXNFrlR67ooNYT_mB7KGEK1w9M7-EwyXkoqCPtPBPkyXGikOPs4hRRV7XJZLeN_DtRRs6ckD79PQ4NL9fBEGXni8UfpIeWgLTaOh7gvXcXmD6TYE8nYHByU3-cksgG1rTYlFHIpR2zVN24_GqjZu_ZAoa71Kw00KEosIzDIa4eY7e2RjA6W0EpKnjTB_6RznA5SRJ42DuPZLVDPm0AxrdBk3xgjDPcSPngc1gXph2ln8xwxiX6gxwih0RhIjcriin8g5Z_6tOGfCKY3TQALUeOXm-zQAP6e8ESh8Yj6sL8QqLqR5ePHNbP3UgBcGnU0slZ8BnKrjLAfxgcICnDlY/Battlestar+Galactica+S01E00+PL+BRRip+480p+XviD+AC3-LTN+shooker$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Pilot[/B][/COLOR]</link>
-				  <link>https://aprium.fruithosted.net/dl/n/OQ40o2GwXy5mineM/qlmokotpnaeassds/8hX7k94-fURm7NOpnPbIq6ZJgjuiFkmqIyBrlQAnKFaSeO5nkBLaBviWv8eRy_9YNd8WI6i4BZzHOXxJVPfaDGKbVXnCsJ6HaIPI5pfrXZKOwPn3ddYIYsCw1dqgtit8KADbMHZCVzsaq53OBA8xsQLbwYJDKEM3tdRQ2FUpAD-JFenHRV6E4T4BrZo9AFVTwcJjwNOmM0wY5o8jeoyLvho6idwD4Fc3t-SAT-HFwJ6n7m6MAIyZLVKyLQWi_EfP2HXgMXpAfb1ssaJDknKkz5nf1O24-c0hbJJ7nFCojyTvRoPuQqefmgvatlagXyhFQZH9zWcnnOfbV3ywlzi7JpzxjosGhO148E0puRozcxzac3M2pcA-72M1lUbGu-7eU1PFBE3yLnF4lkn0Gzz1MltqWdKasv7gMD6ylgcEy4vGzVLEFSXqVooHx6RXJIjF9ryFrD54Veoo2onETxhpJnl3e92m9gCOAzHCfKSsV74/Battlestar.Galactica.S01E00.PL.BRRip.480p.XviD.AC3-LTN.mifumindo.mp4$$lsname=[COLOR lightyellow][B](2) Pilot[/B][/COLOR]</link>
-				  <link>https://aprium.fruithosted.net/dl/n/nYd-LiSr2e9Lc3Lp/sqdrcebdcnosedar/rKCsYAfvL9rhLwrJx_EbXijRkScXPC_BPoQ_ynfmdXXzH9ICvkPDhqBnZfBTqqStfnjt6erdyTuqTZvHvJdxDuJSDTrSA4BSmxPpzcsJNNN3KBVf9r9YfUqLbuHsW5Z-dIrbaGDoTme2JMjhPT6ZJt1aoC3mLGhJhxDG3Na_qHiweAm83HwNta9ArDdu6g3StoXo4uZbOIfwAyc3K8irHHOqvVbyP0qIDlX44K8tITwOgTve_Sl_BD3Pu1DX29tcpddh3tsC9tidODn3p8v_mqtSOxI93jZUxXcuFE22-K5Ok-B9upmj57tQWcycZpj8NXn7kD1stvKaLCgnSy98SUWgtaGHuAEQt2lJz0ijH3k28dkwWgeFmsQCg-tD6ZAGHkb_B_0c8dXibM12AUjyMq15bajchABm7bi6CPyih5EQLyFPpTxBKHpEiCzGJfS71S1MB1H_qTYhMP2gZg0LrKOLxohvZc-1KNLK5g1Jtog/Battlestar.Galactica.S01E00.PL.BRRip.480p.XviD.AC3-LTN.mifumindo.mp4$$lsname=[COLOR lightyellow][B](3) Pilot[/B][/COLOR]</link>
-				  <link>https://aprium.fruithosted.net/dl/n/OEdnRmR5Zc2IgpAJ/aafqmfprlnpaalqb/MXGczRBwhaMg7anOvYWpHovlZITxVJEP7Ss3CBzQErqye-lzgJ_g-z_nwiTBxqHzTLlbPKBGRK2FXJWE0cQz6jso7v7mvroIgM254DpMQAU7kcVX6ZCtS5yGslWC_iBL5zv9Sua6hbr4b_vBtBeGm3m3fNsbOTaQ5r7C_E5hHO35n0kjmdJwtLwmp3BrZhyyN7ES44Vp3CymOF63b0X8iEU59ekDRCRra7fV7wCMbwc6Lv2hSpOpN6ZGbY7HecQPs5Z_hg3O1WEBRGxgqfHbV3lXK-td6CtHa8sV4hAU5Afi2EbfuNA4Il9_T3Xw9Po-WGeEIMb3qzRLece8dB85Rgz5fWx61ebLZlc9_AngOruEGuRtE1XMuQBC8gOUQ0TqdoC_uTzeyD1-ZquHqRnnWLvNRr8ggNnNT90dEXJpOwzQWqpbn8dFx2gLIhLS2KYRCwXf6ACx7foB83UFllU79tesgqVwwMNMi9rUP4SnsUc/Battlestar+Galactica+S01E00+PL+BRRip+480p+XviD+AC3-LTN+shooker$$lsname=[COLOR lightyellow][B](4) Pilot[/B][/COLOR]</link>
-				</subitem>
-				
-				<subitem>
                   <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
 			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
                   <urlsolve>http://streamcherry.com/embed/cpomnlfncattacqm</urlsolve>	
@@ -113,15 +89,6 @@
                   <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
 			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
                   <urlsolve>http://streamcherry.com/embed/cestdlkbqpeqnpcm</urlsolve>	
-				</subitem>
-				
-				<subitem>
-                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com mp4[/B][/COLOR]</title>
-			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
-                  <link>https://aprium.fruithosted.net/dl/n/sgzS9RiuHMtRPqDc/cpomnlfncattacqm/UUv7omgcMyhRkdT8XsdaaIMK0MKLK-cOc0XsK9bKKv87vFXer6RhUwlPaPxEFau1qrtWr2KhIUhBF-maM8AChJ7c8h_5__P6WtCLP7CryhVip-Mt8hb8FR4wBQymj0wdAFQ_dGZcTtFaNra0woUXgjw-eBcDBXAUi1VoiZIIQNmmxAhNoh90kVTIqOoYQ2u3Xv4IU_nG2W5OcughP3G9w3_86-zMvkhpwkFdAHutEm-VynPq-JSk9Z7QCY6LsogNzNSWI03kktNQwhdH1Ogs2FY8bH5RuuXNjkbLCn8r5YxHiDVBRfosL-wAn9VsunISKiXnxPOW6QRIFbC15rnKGAk9CtZNWyLWbvbmlfKhcq-D0V1u_wQFqUEtXVMH8xx_zUu6r287VuBL2kLN--W8YTAR65dlv7gMgkTv5f_EoiTcDQOTLdqk88blLSIOeXJ3xyIRHVJzA5UHgkDr93aF5pCUeQ9xFga5LtIsJNbaChI/Battlestar+Galactica+S01E00+PL+BRRip+480p+XviD+AC3-LTN+shooker$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Pilot[/B][/COLOR]</link>
-				  <link>https://aprium.fruithosted.net/dl/n/TlO3MctlISF9YBl-/ratqotefkftnfnpq/dV6y-IMWLRAIUNGGMdlvgDlFF3eSI-H-S2qpXi12VbsotC6j6xqFPxe0CwaqKRABTaXGwtPKcl5LeNS7oWkWUO53lDekIJyPeQyxxsH7qMYEcUtpsJHvgGAS-wDe9epPA-Kt-ZcY_WGbIiANFhLsFfQrMOBen3XB4t6PmsbvLqI5wij212SCESvid_DMKQy0UuHQ8LRkfXO-75yrTueJHflyJd-ZTCN4hS9_5somudqUVlUpj1k4gEwR4Y795lUeFcDrMo9bzXWv5klJFLtLgtKD_c94Z_ngWZIW8jQ2_ao12j3uYSJvtYQb2si99B79nGgzpmnBQ4dXEFwuEzEJtZ20D3bQaL-M5Jx44i2kaZEE8xaW_PPO2cJ8esyZb8HaqrOaVhPN4AWSe4iLDCbKZh7fSYvT3Rvr6rhY2PsvzT2PUY_lFcEF9rdFCuT2URq6m928oq1u-czQj2C8siakNUK6o-8ABKmTMMZ7hGVs8hM/Battlestar+Galactica+S01E00+PL+BRRip+480p+XviD+AC3-LTN+shooker$$lsname=[COLOR lightyellow][B](2) Pilot[/B][/COLOR]</link>
-				  <link>https://aprium.fruithosted.net/dl/n/ok4toOwLzwGFcrMZ/orsbcpoedmndocfq/z9W0gxXOYFp_mrCViuWTYIb7m6fB6V0O2KNKH_PGLo9505Bex4Hh9EizlQ-x9HlFLRb8hh77dCjz8IPLQ_0KpPl67kMDCYwOXBxO5NbAiU7nC-bLnnLzZOrDnnA6abqKMfbQ_BpyGlrvpcp32eoLc5tyQ-DssHbCp4LqHbgW3O6WzxpEP6HOf1yv-KjBAJq7nYYsPfX0jEkfZMVxZhOQcHDHYdLsuwZ3dbXPtmC7G3aMhmrS8YvJ85gn1C5u7hMR-GCoJd0a1U4EJR7E_jDV5Vxm1e4DqctaSGVMfNwp5dEUP97Rdvt00N1DEKdJn0nlo7U4oGyDyLPxGrwfh5vIRiSgvHisnQjRnZMZbRq_NMK_uxazh_F0B9J3-DbI05CMX_bmKY8Fs1P4ovYmnrJ6HNGZ4AVn8tXZ_bwZVIX5HK4wC5MNgMR8HTD7powDbuoG_q68_SuJhxGrmgtPCGcCSac_FdRXYHY9oy84W3jXoX8/Battlestar.Galactica.S01E00.PL.BRRip.480p.XviD.AC3-LTN.mifumindo.mp4$$lsname=[COLOR lightyellow][B](3) Pilot[/B][/COLOR]</link>
-				  <link>https://aprium.fruithosted.net/dl/n/1KhKDp0EIz3cOpRH/cestdlkbqpeqnpcm/UBKpMOkYjAUFsihUhXI4vBaSGp3ds-nuUYEEg5jusdK0k4ODcDZ5kLJkQwRmrPaKCkwiBlHiPFSuXNzWQ_sv7ufy4ozcumZSQPee3sEr-Ix1jMgxXcwOCCo-Ae6zt_w_G5asceCpJx8NVUWmbLCWXvFFtLtF8MzL0NVontamY-dJsoYj84sZ59FHWpDSZ_gmhI5sHBUV6YG2BLPRANKxMMI4M3_1HvBdIyOHyfiXjr-79r1xB1rcJfteo1no52Y1lQ3xYTID5_WFIyr8N9tmgnI7UF04uBNQ-vJpeeNpfJusDTluIDT_j_NWGZwCOVVVlRfFRykSGg_gADDlS6UMLYlrXJXvdzdIN3ojmfJKHVXB38Ljzp_fME_54EkazrMaUVgGtrzuAMb0lm4jquIogyD7ZSdQiIJCrEBQf7Vo1cBMaGAIridQ45yGf5qBlUs6JAMBvF2XvZR400OD46rujuXTWvU9z0HSAjCYbyFsx04/Battlestar.Galactica.S01E00.PL.BRRip.480p.XviD.AC3-LTN.mifumindo.mp4$$lsname=[COLOR lightyellow][B](4) Pilot[/B][/COLOR]</link>
 				</subitem>
 				
 				<subitem>
@@ -149,69 +116,342 @@
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net mp4[/B][/COLOR]</title>
-			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
-                  <link>https://str09.vidoza.net/kipkhedmrkmthhxdumge7gqnqlwvpif5o45mbyjypvoh4ov6heftjgc5rxvq/v.mp4$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Pilot[/B][/COLOR]</link>	
-				  <link>https://str09.vidoza.net/kipkhctnrkmthhxdumge7gqnqlyrpqmaypgiaqmmx4gkkdnk3bfn2sb6fczq/v.mp4$$lsname=[COLOR lightyellow][B](2) Pilot[/B][/COLOR]</link>
-				  <link>https://str09.vidoza.net/kipkh6lnrkmthhxdumge7gqnqjunaoxefoe4xndpaq56iu7wa5mvcmt6i7la/v.mp4$$lsname=[COLOR lightyellow][B](3) Pilot[/B][/COLOR]</link>
-				  <link>https://str18.vidoza.net/kipkwctnrkmthhxdumge7xcktvexqstrpeakijnsmkomztasew74vurpysqa/v.mp4$$lsname=[COLOR lightyellow][B](4) Pilot[/B][/COLOR]</link>
-				</subitem>
-				
-				<subitem>
                   <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidto.me[/B][/COLOR]</title>
 			      <thumbnail>http://static.vidto.me/static/images/header-logo.png</thumbnail>
                   <urlsolve>http://vidto.me/embed-7z9xadr8e50z-693x495.html</urlsolve>	
-				</subitem>
-				
-				<subitem>
-                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidto.me mp4[/B][/COLOR]</title>
-			      <thumbnail>http://static.vidto.me/static/images/header-logo.png</thumbnail>
-                  <link>http://198.16.106.58/zzjxaglaauqwws4phubd6m6iwuuhekbsz3qbmzwajxuqvdveeixoqtf2ndca/video.mp4</link>	
 				</subitem>
 			</subitems>
 		</subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]01x01 33[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR yellow][B][s01e01][/B][/COLOR]     [COLOR lightyellow][B] 33[/B][/COLOR]</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
           <fanart>https://www.walldevil.com/wallpapers/a46/battlestar-galactica-last-supper.jpg</fanart>
             <subitems>
-                <subitem>
-                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  freedisc.pl[/B][/COLOR]</title>
-			      <thumbnail>https://freedisc.pl/streaming/logo.png?i=0</thumbnail>
-                  <link>https://stream.freedisc.pl/video/9895911/battlestar-galactica-s01e01-dvdrip-lektor-pl.mp4</link>	
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/EH9Q_f7g7UA</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/FLa1KXN-skY</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/wmAMdMwXY5w</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/-YydlRnWHFI</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/dksmoebsfpsemamc</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/remntnalnloenpon</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/ttnscdcnobsspekb</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/qkebmffabtfbqfps</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://streamcherry.com/embed/dacemmcmmprssrat</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>http://streamcherry.com/embed/nlcctobplarlpare</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://streamcherry.com/embed/ttkfeckatctdmtot</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://streamcherry.com/embed/kokcbrbpoqmccfqt</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net[/B][/COLOR]</title>
+			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
+                  <urlsolve>https://vidoza.net/embed-fiaoyxktpyiz.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net[/B][/COLOR]</title>
+			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
+                  <urlsolve>https://vidoza.net/embed-1lkmbc1zf9ld.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net[/B][/COLOR]</title>
+			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
+                  <urlsolve>https://vidoza.net/embed-vnfx104dknkr.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net[/B][/COLOR]</title>
+			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
+                  <urlsolve>https://vidoza.net/embed-sqhx4fery42m.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidto.me[/B][/COLOR]</title>
+			      <thumbnail>http://static.vidto.me/static/images/header-logo.png</thumbnail>
+                  <urlsolve>http://vidto.me/embed-8f6amsgo2n4r-693x495.html</urlsolve>	
 				</subitem>
 			</subitems>
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]01x02 Water[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR yellow][B][s01e02][/B][/COLOR]     [COLOR lightyellow][B] Water[/B][/COLOR]</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
           <fanart>https://www.walldevil.com/wallpapers/a46/battlestar-galactica-last-supper.jpg</fanart>
             <subitems>
                 <subitem>
-                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  freedisc.pl[/B][/COLOR]</title>
-			      <thumbnail>https://freedisc.pl/streaming/logo.png?i=0</thumbnail>
-                  <link>https://stream.freedisc.pl/video/9902519/battlestar-galactica-s01e02-dvdrip-lektor-pl.mp4</link>	
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/IUuUHTXbukU</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/j5ccDG9G8lw</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/AcMX3I8q-Wg</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/3173-3vqCQ0</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/lofcbmprlkcfkflk</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/pdssnfndtnosoltt</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/ofblobmspcmeqcpb</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/msadrsetktmtdepc</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>http://streamcherry.com/embed/qoabnqannalkbekm</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>http://streamcherry.com/embed/alrpdqbnprfaccre</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>http://streamcherry.com/embed/lpopmlepbanptqck</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>http://streamcherry.com/embed/eqnnstepopaobqsm</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net[/B][/COLOR]</title>
+			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
+                  <urlsolve>https://vidoza.net/embed-1ulatiip6o10.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net[/B][/COLOR]</title>
+			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
+                  <urlsolve>https://vidoza.net/embed-4d1w71rosyuk.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net[/B][/COLOR]</title>
+			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
+                  <urlsolve>https://vidoza.net/embed-8n06rnz2tl7w.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net[/B][/COLOR]</title>
+			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
+                  <urlsolve>https://vidoza.net/embed-pwnq3pargiv4.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidto.me[/B][/COLOR]</title>
+			      <thumbnail>http://static.vidto.me/static/images/header-logo.png</thumbnail>
+                  <urlsolve>http://vidto.me/embed-hbh0eaauj8ug-693x495.html</urlsolve>	
 				</subitem>
 			</subitems>
 		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]01x03 Bastille Day[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR yellow][B][s01e03][/B][/COLOR]     [COLOR lightyellow][B] Bastille Day[/B][/COLOR]</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
           <fanart>https://www.walldevil.com/wallpapers/a46/battlestar-galactica-last-supper.jpg</fanart>
             <subitems>
                 <subitem>
-                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  freedisc.pl[/B][/COLOR]</title>
-			      <thumbnail>https://freedisc.pl/streaming/logo.png?i=0</thumbnail>
-                  <link>https://stream.freedisc.pl/video/9902803/battlestar-galactica-s01e03-dvdrip-lektor-pl.mp4</link>	
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/t03XN6auqpM</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/EqLvoP_9jYw</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/2qLYE_DJBxQ</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/iN9RSrnaEtY</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/ttrftrtqabtctcqn</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/plmaafqnlfnbonfl</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/dtblrlmbaacfattq</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/coffslabestpstrn</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>http://streamcherry.com/embed/lescnapqsdrqdqcq</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>http://streamcherry.com/embed/kokofqbeltcqneds</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>http://streamcherry.com/embed/ceqrtookcqdnmaqq</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>http://streamcherry.com/embed/kfnpdklkmsdrslll</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net[/B][/COLOR]</title>
+			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
+                  <urlsolve>https://vidoza.net/embed-av3u1y0nylt5.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net[/B][/COLOR]</title>
+			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
+                  <urlsolve>https://vidoza.net/embed-wekmtg7g4n58.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net[/B][/COLOR]</title>
+			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
+                  <urlsolve>https://vidoza.net/embed-9yvfnkwmp9c9.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net[/B][/COLOR]</title>
+			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
+                  <urlsolve>https://vidoza.net/embed-e7ug47nvvnjs.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidto.me[/B][/COLOR]</title>
+			      <thumbnail>http://static.vidto.me/static/images/header-logo.png</thumbnail>
+                  <urlsolve>http://vidto.me/embed-xo6j33fu617v-693x495.html</urlsolve>	
 				</subitem>
 			</subitems>
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]01x04 Act of Contrition[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR yellow][B][s01e04][/B][/COLOR]     [COLOR lightyellow][B] Act of Contrition[/B][/COLOR]</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
           <fanart>https://www.walldevil.com/wallpapers/a46/battlestar-galactica-last-supper.jpg</fanart>
             <subitems>
@@ -224,7 +464,7 @@
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]01x05 You Can't Go Home Again[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR yellow][B][s01e05][/B][/COLOR]     [COLOR lightyellow][B] You Can't Go Home Again[/B][/COLOR]</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
           <fanart>https://www.walldevil.com/wallpapers/a46/battlestar-galactica-last-supper.jpg</fanart>
             <subitems>
@@ -237,7 +477,7 @@
 		</subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]01x06 Litmus[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR yellow][B][s01e06][/B][/COLOR]     [COLOR lightyellow][B] Litmus[/B][/COLOR]</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
           <fanart>https://www.walldevil.com/wallpapers/a46/battlestar-galactica-last-supper.jpg</fanart>
             <subitems>
@@ -250,7 +490,7 @@
 		</subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]01x07 Six Degrees Of Separation[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR yellow][B][s01e07][/B][/COLOR]     [COLOR lightyellow][B] Six Degrees Of Separation[/B][/COLOR]</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
           <fanart>https://www.walldevil.com/wallpapers/a46/battlestar-galactica-last-supper.jpg</fanart>
             <subitems>
@@ -263,7 +503,7 @@
 		</subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]01x08 Flesh And Bone[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR yellow][B][s01e08][/B][/COLOR]     [COLOR lightyellow][B] Flesh And Bone[/B][/COLOR]</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
           <fanart>https://www.walldevil.com/wallpapers/a46/battlestar-galactica-last-supper.jpg</fanart>
             <subitems>
@@ -276,7 +516,7 @@
 		</subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]01x09 Tigh Me Up, Tigh Me Down[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR yellow][B][s01e09][/B][/COLOR]     [COLOR lightyellow][B] Tigh Me Up, Tigh Me Down[/B][/COLOR]</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
           <fanart>https://www.walldevil.com/wallpapers/a46/battlestar-galactica-last-supper.jpg</fanart>
             <subitems>
@@ -289,7 +529,7 @@
 		</subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]01x10 The Hand Of God[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR yellow][B][s01e10][/B][/COLOR]     [COLOR lightyellow][B] The Hand Of God[/B][/COLOR]</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
           <fanart>https://www.walldevil.com/wallpapers/a46/battlestar-galactica-last-supper.jpg</fanart>
             <subitems>
@@ -302,7 +542,7 @@
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]01x11 Colonial Day[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR yellow][B][s01e11][/B][/COLOR]     [COLOR lightyellow][B] Colonial Day[/B][/COLOR]</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
           <fanart>https://www.walldevil.com/wallpapers/a46/battlestar-galactica-last-supper.jpg</fanart>
             <subitems>
@@ -315,7 +555,7 @@
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]01x12 Kobol's Last Gleaming – Part 1[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR yellow][B][s01e12][/B][/COLOR]     [COLOR lightyellow][B] Kobol's Last Gleaming – Part 1[/B][/COLOR]</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
           <fanart>https://www.walldevil.com/wallpapers/a46/battlestar-galactica-last-supper.jpg</fanart>
             <subitems>
@@ -328,7 +568,7 @@
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]01x13 Kobol's Last Gleaming – Part 2[/B][/COLOR]</name>
+          <name>[COLOR lime]•[/COLOR]    [COLOR yellow][B][s01e13][/B][/COLOR]     [COLOR lightyellow][B] Kobol's Last Gleaming – Part 2[/B][/COLOR]</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
           <fanart>https://www.walldevil.com/wallpapers/a46/battlestar-galactica-last-supper.jpg</fanart>
             <subitems>
