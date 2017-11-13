@@ -197,18 +197,6 @@
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR green][B]HD[/B][/COLOR] [COLOR lightyellow][B]  speedvid.net[/B][/COLOR]</title>
-			      <thumbnail>http://neo.speedvid.net/cdn/images/logo.png</thumbnail>
-                  <urlsolve>http://www.speedvid.net/embed-cvxfzpdstb9h-693x495.html</urlsolve>	
-				</subitem>
-				
-				<subitem>
-                  <title>[COLOR green][B]HD[/B][/COLOR] [COLOR lightyellow][B]  speedvid.net[/B][/COLOR]</title>
-			      <thumbnail>http://neo.speedvid.net/cdn/images/logo.png</thumbnail>
-                  <urlsolve>http://www.speedvid.net/embed-c3j2y1mwx7sx-693x495.html</urlsolve>	
-				</subitem>
-				
-				<subitem>
                   <title>[COLOR green][B]HD[/B][/COLOR] [COLOR lightyellow][B]  raptu.com[/B][/COLOR]</title>
 			      <thumbnail>http://www.raptsoftware.com/rapt.gif</thumbnail>
                   <urlsolve>http://www.raptu.com/embed/vvnlRPHt</urlsolve>	
@@ -223,35 +211,47 @@
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]The Plan 2009[/B][/COLOR]</name>
-          <thumbnail>http://1.fwcdn.pl/po/37/52/493752/7479445.6.jpg</thumbnail>
-          <fanart>http://film.org.pl/wp-content/uploads/2017/06/637745.jpg</fanart>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Część II - Atak klonów / Star Wars: Episode II - Attack of the Clones 2002[/B][/COLOR]</name>
+          <thumbnail>http://alltube.tv/static/normal/7zrn9ukzlxbk.jpg</thumbnail>
+          <fanart>http://www.wallpapers13.com/wp-content/uploads/2016/03/Star-Wars-Episode-2-Attack-of-the-Clones-widescreen-free-download-1920x1080.jpg</fanart>
             <subitems>
-                <subitem>
-                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+				<subitem>
+                  <title>[COLOR green][B]HD[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
 			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
-                  <urlsolve>https://openload.co/embed/WglSDMl5B9Y</urlsolve>	
+                  <urlsolve>https://openload.co/embed/mC66MpE1M1s</urlsolve>	
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+                  <title>[COLOR green][B]HD[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
 			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
-                  <urlsolve>https://openload.co/embed/qC2De2xY-Kk</urlsolve>	
+                  <urlsolve>https://openload.co/embed/dw4petK-05A</urlsolve>	
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+                  <title>[COLOR green][B]HD[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
 			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
-                  <urlsolve>https://openload.co/embed/IIE0RfpYEVo</urlsolve>	
+                  <urlsolve>https://openload.co/embed/DO-js7Dpza4</urlsolve>	
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+                  <title>[COLOR green][B]HD[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
 			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
-                  <urlsolve>https://openload.co/embed/vwrTXYONluk</urlsolve>	
+                  <urlsolve>https://openload.co/embed/Occgqo_DfJU</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  rapidvideo.com[/B][/COLOR]</title>
+			      <thumbnail>https://www.rapidvideo.com/images/rapidvideo.png</thumbnail>
+                  <urlsolve>http://www.rapidvideo.com/embed/FK1RKXFY6V</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  rapidvideo.com[/B][/COLOR]</title>
+			      <thumbnail>https://www.rapidvideo.com/images/rapidvideo.png</thumbnail>
+                  <urlsolve>http://www.rapidvideo.com/embed/FG3X0FPRSE</urlsolve>	
 				</subitem>
 			</subitems>
-		</subchannel>		
+		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Krew i chrom 2012[/B][/COLOR]</name>
