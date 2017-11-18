@@ -219,6 +219,19 @@
 		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
         <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Anissa Kate Prefers DPs[/B][/COLOR]</name>
+          <thumbnail>http://www.web-starlets.com/wp-content/uploads/2016/08/22/Anissa-Kate-5.jpg</thumbnail>
+		  <fanart>https://www.dorcelvision.com/images/slideshow1200/745567-russian-institute-medical-exam.jpg</fanart>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR green][B]HD[/B][/COLOR] [COLOR lightyellow][B]  vidlox.tv[/B][/COLOR]</title>
+			      <thumbnail>https://i.ytimg.com/vi/e5YHYvAemvo/maxresdefault.jpg</thumbnail>
+                  <urlsolve>https://vidlox.tv/embed-ek7fym5f3pw7.html</urlsolve>	
+				</subitem> 
+			</subitems>
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+        <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Lana's story part five double penetration[/B][/COLOR]</name>
           <thumbnail>https://img2.adultdvdtalk.com/abc2ec8670744b2296d69ed94b8d</thumbnail>
 		  <fanart>https://i8.fuskator.com/large/fecr7e2mUho/Shaved-Brunette-Lana-Rhoades-Enjoying-Double-Penetration-6.jpg</fanart>
@@ -235,7 +248,7 @@
                   <urlsolve>https://openload.co/embed/s65K1EKlHCY</urlsolve>	
 				</subitem> 
 			</subitems>
-		</subchannel>		
+		</subchannel>				
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Manon Martin - Banged By 4 Masked Men[/B][/COLOR]</name>
@@ -295,8 +308,14 @@
 				<subitem>
                   <title>[COLOR green][B]540p[/B][/COLOR] [COLOR lightyellow][B]  yourporn.sexy[/B][/COLOR]</title>
 			      <thumbnail>https://yourporn.sexy/css/logo7.png</thumbnail>
-                  <link>https://s8-1.trafficdeposit.com/bvideo/hCwZwkigYBsShcn4qZ-DYg/1510149441/3363005651/57f7efa05d8ff.mp4</link>
-				</subitem> 	
+                  <urlsolve>https://vidlox.tv/embed-ek7fym5f3pw7.html</urlsolve>
+				</subitem> 
+
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  speedvid.net[/B][/COLOR]</title>
+			      <thumbnail>http://neo.speedvid.net/cdn/images/logo.png</thumbnail>
+                  <yt-dl>https://vidlox.tv/embed-ek7fym5f3pw7.html</yt-dl>	
+				</subitem>
 			</subitems>	
         </subchannel>		
 	</channel>
@@ -341,11 +360,65 @@
 			      <thumbnail>https://scontent-sea1-1.cdninstagram.com/t51.2885-19/13129594_117099138697751_1029473028_a.jpg</thumbnail>
                   <link>http://stream.visit-x.tv/vxtv/live/playlist.m3u8</link>
                 </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Babestation 1[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Babestation_Logo.jpg</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/livestream1/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Babestation 2[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Babestation_Logo.jpg</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Babestation 3[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Babestation_Logo.jpg</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder31/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Babestation 4[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Babestation_Logo.jpg</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder51/playlist.m3u8</link>
+                </subitem>
 
 				<subitem>
                   <title>[COLOR lightyellow]Xtra[/COLOR]</title>
 			      <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
                   <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Live Sex latinas[/COLOR]</title>
+			      <thumbnail>http://1.bp.blogspot.com/-CgX9yk5CGDI/VQAJyK_2_sI/AAAAAAAADj0/5KSMoWjwZoM/s1600/live%2Bsex%2Blatinas.jpg</thumbnail>
+                  <link>http://publish.thewebstream.co:1935/leved/_definst_/livesexlatinas/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Studio 66 TV 1[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel11/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Studio 66 TV 2[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel21/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Studio 66 TV 3[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Studio 66 TV 4[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
@@ -418,9 +491,256 @@
               </item>
 			  
 			  <item>
+                <title>[COLOR lightyellow]FunDorado TV[/COLOR]</title>
+			    <thumbnail>https://sat-one.info/news-imeg/99298.png</thumbnail>
+                <link>http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8</link>
+              </item>
+			  
+			  <item>
                 <title>[COLOR lightyellow]NUART[/COLOR]</title>
 				<thumbnail>https://ulango.tv/uploads/channels/61694/logo_nuart%20tv.png</thumbnail>
 				<link>http://78.111.176.132:8080/</link>
-              </item>		
+              </item>
+			  
+<item>
+<title>[COLOR green][B] EROTIC [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/pink-erotic-online/</sportsdevil>
+<referer>http://adult-channels.com</referer>
+<thumbnail>http://tvprofil.net/img/kanali-logo/erotic-logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] EROTIC 2 [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/pink-erotic-2-online/</sportsdevil>
+<referer>http://adult-channels.com</referer>
+<thumbnail>http://tvprofil.net/img/kanali-logo/erotic2-logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] EROTIC 3 [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/pink-erotic-3-online/</sportsdevil>
+<referer>http://adult-channels.com</referer>
+<thumbnail>http://tvprofil.net/img/kanali-logo/erotic3.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] EROTIC 4 [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/pink-erotic-4-online/</sportsdevil>
+<referer>http://adult-channels.com</referer>
+<thumbnail>http://tvprofil.net/img/kanali-logo/erotic4.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] EROTIC 5 [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/pink-erotic-5-online/</sportsdevil>
+<referer>http://adult-channels.com</referer>
+<thumbnail>http://tvprofil.net/img/kanali-logo/pink_erotic_5_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] EROTIC 6 [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/pink-erotic-6-online/</sportsdevil>
+<referer>http://adult-channels.com</referer>
+<thumbnail>http://tvprofil.net/img/kanali-logo/pink_erotic_6_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] EROTIC 7 [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/pink-erotic-7-online/</sportsdevil>
+<referer>http://adult-channels.com</referer>
+<thumbnail>http://tvprofil.net/img/kanali-logo/pink_erotic_7_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] EROTIC 8 [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/pink-erotic-8-online/</sportsdevil>
+<referer>http://adult-channels.com</referer>
+<thumbnail>http://tvprofil.net/img/kanali-logo/pink_erotic_8_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] VISIT-X TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>https://www.visit-x.tv/static/vx/1053/premium/livetv120516.html</sportsdevil>
+<referer>https://www.visit-x.tv/</referer>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Visit-X_o.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] BRAZZERS TV EUROPE [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/passionxxx-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xwrxss1433355385.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] XXL [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/xxl-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/tywuqr1442927239.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] DORCEL [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/dorcel-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxwrur1462994411.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] EROX LESBIAN [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/erox-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/yquqps1469455173.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] EROXXX [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/eroxxx-hd-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/yquqps1469455173.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] HOT [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/hot-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/vspttw1436844639.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] SCT TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/sct-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] BRAZZERS TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/brazzers-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] PENTHOUSE TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/penthouse-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/yryuup1433943998.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] CENTO X CENTO TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/cento-x-cento-tv/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uysvts1478964805.png</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] FRENCH LOVER TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/french-lover-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] OLA LA [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/o-la-la-tv/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] JASMIN TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/jasmin-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Jasmin-TV-LU_o.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] BLUE HUSTKER [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/blue-hustler-tv/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] RUSSIAN NUGHT [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/russian-night-tv/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] NUART TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/nuart-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] RUSSIAN NUGHT [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/nochnoy-club-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] VIVID TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/vivid-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] DARING TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/daring-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] PRIVEETV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/priveetv-it-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] CANDY TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/candy-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] HOT [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/bangu-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] BUT GO TV TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/butgo-tv/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] SEXY HOT TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/sexy-hot-tv/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] PLATINUM TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/platinum-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] EXOTICA TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/exotica-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] VIKI ENJOY TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/viki-enjoy-premium-tv/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] DEEP TOUCH TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/deep-touch-tv-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] PLAYY 19+ ONLINE [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/play-19-online/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR green][B] THE O HD [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
+<sportsdevil>http://adult-channels.com/the-o-hd/</sportsdevil>
+<referer>http://adult-channels.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+			  <item>
+                <title>[COLOR lightyellow]Sex Zone[/COLOR]</title>
+				<thumbnail>https://skyassineonline.com.br/img/channels/lg-155-canal-sex-zone-hd.png</thumbnail>
+				<link>http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8</link>
+              </item>	
 	</channel>	
 </channels>		  
