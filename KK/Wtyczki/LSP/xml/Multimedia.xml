@@ -9,6 +9,21 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Intro[/B][/COLOR]</name>
+      <thumbnail>http://3d-pro.pl/wp-content/uploads/2017/05/intro-1.png</thumbnail>
+      <fanart>https://i.imgur.com/q2NIeON.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+          <items>
+		    <item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Intro[/B][/COLOR]</title>
+			  <thumbnail>http://3d-pro.pl/wp-content/uploads/2017/05/intro-1.png</thumbnail>
+              <link>https://archive.org/download/tecnotv/spot.mp4</link>
+			</item> 
+		  </items>
+	</channel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
       <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Filmy[/B][/COLOR]</name>
       <thumbnail>https://yt3.ggpht.com/-jQYPezMrJ5I/AAAAAAAAAAI/AAAAAAAAAAA/hpaSUMEZQpE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
       <fanart>http://www.wallpapers4u.org/wp-content/uploads/film_photos_colorful_bright_11059_1920x1080.jpg</fanart>
@@ -326,5 +341,5 @@
               <externallink>http://adryanlist.org/adryan/evento.xml</externallink>	
 			</item> 
 		  </items>
-	</channel>		
-</channels>		  
+	</channel>
+</channels>	

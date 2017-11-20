@@ -328,118 +328,315 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]BABESTATION[/B][/COLOR]</name>
-          <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Babestation_Logo.jpg</thumbnail>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]BABESTATION 1[/B][/COLOR]</name>
+          <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
             <subitems>
-				<subitem>
-                  <title>[COLOR lightyellow]24hrs[/COLOR]</title>
-			      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/06/Babestation24_Logo_-_Wappen_und_Schriftzug.jpg</thumbnail>
-                  <link>http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8</link>
-                </subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow]HUSTLER TV[/COLOR]</title>
-			      <thumbnail>http://www.logovaults.com/stock_thumb/preview-hustler-tv-ODExOQ==.jpg</thumbnail>
-                  <link>http://78.111.176.132:8081</link>
-                </subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow]SexStation[/COLOR]</title>
-			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/0d/Sex_station_tv_logo.jpg</thumbnail>
-                  <link>http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist.m3u8</link>
-                </subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow]Unleashed 2[/COLOR]</title>
-			      <thumbnail>http://www.sexstationtv.com/images/unleashed-logo.png</thumbnail>
-                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast//livestream_two1/playlist.m3u8</link>
-                </subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow]Visit-X TV[/COLOR]</title>
-			      <thumbnail>https://scontent-sea1-1.cdninstagram.com/t51.2885-19/13129594_117099138697751_1029473028_a.jpg</thumbnail>
-                  <link>http://stream.visit-x.tv/vxtv/live/playlist.m3u8</link>
-                </subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow]Babestation 1[/COLOR]</title>
-			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Babestation_Logo.jpg</thumbnail>
-                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/livestream1/playlist.m3u8</link>
-                </subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow]Babestation 2[/COLOR]</title>
-			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Babestation_Logo.jpg</thumbnail>
+			    <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
                   <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
-                  <title>[COLOR lightyellow]Babestation 3[/COLOR]</title>
-			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Babestation_Logo.jpg</thumbnail>
+                  <title>[COLOR lightyellow]450p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder22/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder23/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]BABESTATION 2[/B][/COLOR]</name>
+          <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
                   <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder31/playlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
-                  <title>[COLOR lightyellow]Babestation 4[/COLOR]</title>
-			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Babestation_Logo.jpg</thumbnail>
+                  <title>[COLOR lightyellow]450p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder32/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder33/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]BABESTATION 3[/B][/COLOR]</name>
+          <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder41/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder42/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder43/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]BABESTATION 4[/B][/COLOR]</name>
+          <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]450p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
                   <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder51/playlist.m3u8</link>
                 </subitem>
-
+				
 				<subitem>
-                  <title>[COLOR lightyellow]Xtra[/COLOR]</title>
-			      <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
+                  <title>[COLOR lightyellow]450p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder52/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder53/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]BABESTATION 5[/B][/COLOR]</name>
+          <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]450p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
                   <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
-                  <title>[COLOR lightyellow]Live Sex latinas[/COLOR]</title>
-			      <thumbnail>http://1.bp.blogspot.com/-CgX9yk5CGDI/VQAJyK_2_sI/AAAAAAAADj0/5KSMoWjwZoM/s1600/live%2Bsex%2Blatinas.jpg</thumbnail>
-                  <link>http://publish.thewebstream.co:1935/leved/_definst_/livesexlatinas/playlist.m3u8</link>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder72/playlist.m3u8</link>
                 </subitem>
 				
 				<subitem>
-                  <title>[COLOR lightyellow]Studio 66 TV 1[/COLOR]</title>
-			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
-                  <link>http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel11/playlist.m3u8</link>
-                </subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow]Studio 66 TV 2[/COLOR]</title>
-			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
-                  <link>http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel21/playlist.m3u8</link>
-                </subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow]Studio 66 TV 3[/COLOR]</title>
-			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
-                  <link>http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8</link>
-                </subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow]Studio 66 TV 4[/COLOR]</title>
-			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
-                  <link>http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8</link>
-                </subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow]AnySex1[/COLOR]</title>
-			      <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
-                  <link>http://anysex.com/get_file/1/e14c8e773b9a3ed22ce42000db76a91a/203000/203211/203211.mp4/</link>
-                </subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow]AnySex2[/COLOR]</title>
-			      <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
-                  <link>http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4/</link>
-                </subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow]AnySex2[/COLOR]</title>
-			      <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
-                  <link>http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/</link>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder73/playlist.m3u8</link>
                 </subitem>
 			</subitems>	
-        </subchannel>		  
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]BABESTATION 6[/B][/COLOR]</name>
+          <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]404p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder81/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]404p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder82/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder83/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]BABESTATION 7[/B][/COLOR]</name>
+          <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/_definst_/livestream1/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/_definst_/livestream2/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]404p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/_definst_/livestream3/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]BABESTATION 8[/B][/COLOR]</name>
+          <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/_definst_/livestream_two1/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]450p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/_definst_/livestream_two2/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/_definst_/livestream_two3/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]BABESTATION 24 Live[/B][/COLOR]</name>
+          <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]404p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/_definst_/bsgermany1/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]404p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/_definst_/bsgermany2/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]404p[/COLOR]</title>
+			      <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
+                  <link>http://publish2.firestormmedia.tv:1935/ingest_cellcast/_definst_/bsgermany3/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Studio 66 TV 1[/B][/COLOR]</name>
+          <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]406p[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://149.202.215.61:1935/studio66tv/_definst_/studio66tv_channel11/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]406p[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://149.202.215.61:1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://149.202.215.61:1935/studio66tv/_definst_/studio66tv_channel13/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Studio 66 TV 2[/B][/COLOR]</name>
+          <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]406p[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://149.202.215.61:1935/studio66tv/_definst_/studio66tv_channel21/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]406p[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://149.202.215.61:1935/studio66tv/_definst_/studio66tv_channel22/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://149.202.215.61:1935/studio66tv/_definst_/studio66tv_channel23/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Studio 66 TV 3[/B][/COLOR]</name>
+          <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]406p[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://149.202.215.61:1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]406p[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://149.202.215.61:1935/studio66tv/_definst_/studio66tv_channel32/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://149.202.215.61:1935/studio66tv/_definst_/studio66tv_channel33/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Studio 66 TV 4[/B][/COLOR]</name>
+          <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]406p[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://149.202.215.61:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]406p[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://149.202.215.61:1935/studio66tv/_definst_/studio66tv_channel42/playlist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>http://livetvcentral.com/imgs/imgs/3206.jpg</thumbnail>
+                  <link>http://149.202.215.61:1935/studio66tv/_definst_/studio66tv_channel43/playlist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>	  
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]JASMIN TV[/B][/COLOR]</name>
@@ -484,7 +681,95 @@
 			</subitems>	
         </subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-              <item>
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]adult-channels.com[/B][/COLOR]</name>
+          <thumbnail>http://www.frocus.net/images/logotv/the_adult_channel.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]BUT GO TV[/COLOR]</title>
+                  <sportsdevil>http://adult-channels.com/butgo-tv/</sportsdevil>
+                  <referer>http://adult-channels.com/</referer>
+                  <thumbnail>http://1.bp.blogspot.com/-PtpA9jRY4lE/VK27qkoKX0I/AAAAAAAAC78/BFiXtMWDEQ0/w1200-h630-p-nu/But-GO-tv.jpg</thumbnail>
+                </subitem>
+	
+				<subitem>
+                  <title>[COLOR lightyellow]CENTO X CENTO TV[/COLOR]</title>
+                  <sportsdevil>http://adult-channels.com/cento-x-cento-tv/</sportsdevil>
+                  <referer>http://adult-channels.com/</referer>
+                  <thumbnail>http://www.thelogodb.com/images/media/logo/uysvts1478964805.png</thumbnail>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]EROXXX[/COLOR]</title>
+                  <sportsdevil>http://adult-channels.com/eroxxx-hd-online/</sportsdevil>
+                  <referer>http://adult-channels.com/</referer>
+                  <thumbnail>https://www.thelogodb.com/images/media/logo/yquqps1469455173.png</thumbnail>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]FRENCH LOVER TV[/COLOR]</title>
+                  <sportsdevil>http://adult-channels.com/french-lover-tv-online/</sportsdevil>
+                  <referer>http://adult-channels.com/</referer>
+                  <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/7/78/FRENCH_LOVER_TV.jpg/revision/latest?cb=20150311153759</thumbnail>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]Hustler HD[/COLOR]</title>
+                  <sportsdevil>http://adult-channels.com/sct-tv-online/</sportsdevil>
+                  <referer>http://adult-channels.com/</referer>
+                  <thumbnail>https://reziztek2018.files.wordpress.com/2017/01/hustlertv.png</thumbnail>
+                </subitem>
+	
+				<subitem>
+                  <title>[COLOR lightyellow]JASMIN TV[/COLOR]</title>
+                  <sportsdevil>http://adult-channels.com/jasmin-tv-online/</sportsdevil>
+                  <referer>http://adult-channels.com/</referer>
+                  <thumbnail>http://www.sat-address.com/f/pics/logotipi/Jasmin-TV-LU_o.jpg</thumbnail>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]PassieXXX[/COLOR]</title>
+                  <sportsdevil>http://adult-channels.com/penthouse-tv-online/</sportsdevil>
+                  <referer>http://adult-channels.com/</referer>
+                  <thumbnail>http://www.passiexxx.nl/img/logo@2x.png</thumbnail>
+                </subitem>
+	
+				<subitem>
+                  <title>[COLOR lightyellow]PassionXXX[/COLOR]</title>
+                  <sportsdevil>http://adult-channels.com/passionxxx-tv-online/</sportsdevil>
+                  <referer>http://adult-channels.com/</referer>
+                  <thumbnail>http://verplusonline.com/wp-content/uploads/2016/03/Passion-XXX-TV_o.jpg</thumbnail>
+                </subitem>
+		
+				<subitem>
+                  <title>[COLOR lightyellow]RUSSIAN NIGHT[/COLOR]</title>
+                  <sportsdevil>http://adult-channels.com/russian-night-tv/</sportsdevil>
+                  <referer>http://adult-channels.com/</referer>
+                  <thumbnail>https://www.red-media.ru/wp-content/uploads/2011/08/RussianNighte-200x200.gif</thumbnail>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]XXL[/COLOR]</title>
+			      <sportsdevil>http://adult-channels.com/xxl-tv-online/</sportsdevil>
+                  <referer>http://adult-channels.com/</referer>
+                  <thumbnail>https://www.thelogodb.com/images/media/logo/tywuqr1442927239.png</thumbnail>
+                </subitem>
+	
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/6/5/6/4/65648/65648_miamitv3jpg_1326327621,192x192,r:1.jpg</thumbnail>
+                  <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w132905680_b742000.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+                <item>
+                  <title>[COLOR lightyellow]24hrs[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/06/Babestation24_Logo_-_Wappen_und_Schriftzug.jpg</thumbnail>
+                  <link>http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8</link>
+                </item>
+
+			  <item>
                 <title>[COLOR lightyellow]DREAMPORN[/COLOR]</title>
 			    <thumbnail>http://www.sibila.si/image/small/587?img=1505924693.12362200</thumbnail>
                 <link>http://62.210.113.177:19000/udp/238.0.100.6:5000</link>
@@ -496,12 +781,54 @@
                 <link>http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8</link>
               </item>
 			  
+			    <item>
+                  <title>[COLOR lightyellow]Live Sex latinas[/COLOR]</title>
+			      <thumbnail>http://1.bp.blogspot.com/-CgX9yk5CGDI/VQAJyK_2_sI/AAAAAAAADj0/5KSMoWjwZoM/s1600/live%2Bsex%2Blatinas.jpg</thumbnail>
+                  <link>http://publish.thewebstream.co:1935/leved/_definst_/livesexlatinas/playlist.m3u8</link>
+                </item>
+			  
 			  <item>
                 <title>[COLOR lightyellow]NUART[/COLOR]</title>
 				<thumbnail>https://ulango.tv/uploads/channels/61694/logo_nuart%20tv.png</thumbnail>
 				<link>http://78.111.176.132:8080/</link>
               </item>
 			  
+			    <item>
+                <title>[COLOR lightyellow]Sex Zone[/COLOR]</title>
+				<thumbnail>https://skyassineonline.com.br/img/channels/lg-155-canal-sex-zone-hd.png</thumbnail>
+				<link>http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8</link>
+                </item>	
+				
+				<item>
+                  <title>[COLOR lightyellow]Visit-X TV[/COLOR]</title>
+			      <thumbnail>https://scontent-sea1-1.cdninstagram.com/t51.2885-19/13129594_117099138697751_1029473028_a.jpg</thumbnail>
+                  <link>http://stream.visit-x.tv/vxtv/live/playlist.m3u8</link>
+                </item>
+
+                <item>
+                  <title>[COLOR lightyellow]t[/COLOR]</title>
+			      <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
+                  <yt-dl>https://m.anysex.com/333913/</yt-dl>
+                </item>
+
+				<item>
+                  <title>[COLOR lightyellow]t[/COLOR]</title>
+			      <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
+                  <yt-dl>https://ru.m.anysex.com/333913/</yt-dl>
+                </item> 
+				
+				<item>
+                  <title>[COLOR lightyellow]t[/COLOR]</title>
+			      <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
+                  <yt-dl>https://ru.anysex.com/333913/</yt-dl>
+                </item> 
+				
+				<item>
+                  <title>[COLOR lightyellow]t[/COLOR]</title>
+			      <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
+                  <yt-dl>https://anysex.com/333913/</yt-dl>
+                </item> 
+
 <item>
 <title>[COLOR green][B] EROTIC [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
 <sportsdevil>http://adult-channels.com/pink-erotic-online/</sportsdevil>
@@ -556,18 +883,8 @@
 <referer>https://www.visit-x.tv/</referer>
 <thumbnail>http://www.sat-address.com/f/pics/logotipi/Visit-X_o.jpg</thumbnail>
 </item>
-<item>
-<title>[COLOR green][B] BRAZZERS TV EUROPE [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
-<sportsdevil>http://adult-channels.com/passionxxx-tv-online/</sportsdevil>
-<referer>http://adult-channels.com/</referer>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xwrxss1433355385.png</thumbnail>
-</item>
-<item>
-<title>[COLOR green][B] XXL [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
-<sportsdevil>http://adult-channels.com/xxl-tv-online/</sportsdevil>
-<referer>http://adult-channels.com/</referer>
-<thumbnail>https://www.thelogodb.com/images/media/logo/tywuqr1442927239.png</thumbnail>
-</item>
+
+
 <item>
 <title>[COLOR green][B] DORCEL [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
 <sportsdevil>http://adult-channels.com/dorcel-tv-online/</sportsdevil>
@@ -580,72 +897,37 @@
 <referer>http://adult-channels.com/</referer>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yquqps1469455173.png</thumbnail>
 </item>
-<item>
-<title>[COLOR green][B] EROXXX [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
-<sportsdevil>http://adult-channels.com/eroxxx-hd-online/</sportsdevil>
-<referer>http://adult-channels.com/</referer>
-<thumbnail>https://www.thelogodb.com/images/media/logo/yquqps1469455173.png</thumbnail>
-</item>
+
 <item>
 <title>[COLOR green][B] HOT [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
 <sportsdevil>http://adult-channels.com/hot-tv-online/</sportsdevil>
 <referer>http://adult-channels.com/</referer>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vspttw1436844639.png</thumbnail>
 </item>
-<item>
-<title>[COLOR green][B] SCT TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
-<sportsdevil>http://adult-channels.com/sct-tv-online/</sportsdevil>
-<referer>http://adult-channels.com/</referer>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>[COLOR green][B] BRAZZERS TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
 <sportsdevil>http://adult-channels.com/brazzers-tv-online/</sportsdevil>
 <referer>http://adult-channels.com/</referer>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR green][B] PENTHOUSE TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
-<sportsdevil>http://adult-channels.com/penthouse-tv-online/</sportsdevil>
-<referer>http://adult-channels.com/</referer>
-<thumbnail>https://www.thelogodb.com/images/media/logo/yryuup1433943998.png</thumbnail>
-</item>
-<item>
-<title>[COLOR green][B] CENTO X CENTO TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
-<sportsdevil>http://adult-channels.com/cento-x-cento-tv/</sportsdevil>
-<referer>http://adult-channels.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uysvts1478964805.png</thumbnail>
-</item>
-<item>
-<title>[COLOR green][B] FRENCH LOVER TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
-<sportsdevil>http://adult-channels.com/french-lover-tv-online/</sportsdevil>
-<referer>http://adult-channels.com/</referer>
-<thumbnail></thumbnail>
-</item>
+
+
+
 <item>
 <title>[COLOR green][B] OLA LA [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
 <sportsdevil>http://adult-channels.com/o-la-la-tv/</sportsdevil>
 <referer>http://adult-channels.com/</referer>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR green][B] JASMIN TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
-<sportsdevil>http://adult-channels.com/jasmin-tv-online/</sportsdevil>
-<referer>http://adult-channels.com/</referer>
-<thumbnail>http://www.sat-address.com/f/pics/logotipi/Jasmin-TV-LU_o.jpg</thumbnail>
-</item>
+
 <item>
 <title>[COLOR green][B] BLUE HUSTKER [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
 <sportsdevil>http://adult-channels.com/blue-hustler-tv/</sportsdevil>
 <referer>http://adult-channels.com/</referer>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR green][B] RUSSIAN NUGHT [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
-<sportsdevil>http://adult-channels.com/russian-night-tv/</sportsdevil>
-<referer>http://adult-channels.com/</referer>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>[COLOR green][B] NUART TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
 <sportsdevil>http://adult-channels.com/nuart-tv-online/</sportsdevil>
@@ -688,12 +970,7 @@
 <referer>http://adult-channels.com/</referer>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR green][B] BUT GO TV TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
-<sportsdevil>http://adult-channels.com/butgo-tv/</sportsdevil>
-<referer>http://adult-channels.com/</referer>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>[COLOR green][B] SEXY HOT TV [/B][/COLOR] [COLOR red][B]SPORT DEVIL[/B][/COLOR]</title>
 <sportsdevil>http://adult-channels.com/sexy-hot-tv/</sportsdevil>
@@ -737,10 +1014,6 @@
 <thumbnail></thumbnail>
 </item>
 
-			  <item>
-                <title>[COLOR lightyellow]Sex Zone[/COLOR]</title>
-				<thumbnail>https://skyassineonline.com.br/img/channels/lg-155-canal-sex-zone-hd.png</thumbnail>
-				<link>http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8</link>
-              </item>	
+			  
 	</channel>	
 </channels>		  

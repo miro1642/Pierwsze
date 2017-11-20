@@ -1437,20 +1437,20 @@
                 <subitem>
                   <title>[COLOR lightyellow]HD[/COLOR]</title>
 			      <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-2-live.png</thumbnail>
-                  <link>http://adtv.ercdn.net/adsport1/adsport2.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://adtv.ercdn.net/adsport1/adsport2_720p.m3u8$$lsname=LINK 2</link>
+                  <link>http://adtv.ercdn.net/adsport2/adsport2.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8$$lsname=LINK 2</link>
                 </subitem>	
 				
 				<subitem>
                   <title>[COLOR lightyellow]480p[/COLOR]</title>
 			      <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-2-live.png</thumbnail>
-				  <link>http://adtv.ercdn.net/adsport1/adsport2_480p.m3u8</link>
+				  <link>http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8</link>
                 </subitem>	
 				
 				<subitem>
                   <title>[COLOR lightyellow]360p[/COLOR]</title>
 			      <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-2-live.png</thumbnail>
-				  <link>http://adtv.ercdn.net/adsport1/adsport2_360p.m3u8</link>
+				  <link>http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8</link>
                 </subitem>
 			</subitems>	
         </subchannel>		

@@ -1087,212 +1087,6 @@
                 </item>
 			</items>	
         </channel>
-<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-	    <channel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]toya GO[/B][/COLOR]</name>
-          <thumbnail>https://go.toya.net.pl/public/images/top_menu/logo-4.png?t=1507895527</thumbnail>
-<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-	        <subchannel>
-            <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Nowa TV[/B][/COLOR]</name>
-            <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/197?big=1</thumbnail>
-              <subitems>
-			    <subitem>
-                  <title>[COLOR lightyellow]544p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/197?big=1</thumbnail>
-                  <link>https://video-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509114443/078_e8iees_hls/index.m3u8?p=474f545600110bc2.9434a284a46c7056b21000637374$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Nowa TV[/B][/COLOR]</link>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509114443/078_e8iees_hls/03.m3u8?p=474f545600110bc2.9434a284a46c7056b21000637374$$lsname=[COLOR lightyellow][B](2) Nowa TV[/B][/COLOR]</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]368p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/197?big=1</thumbnail>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509114443/078_e8iees_hls/02.m3u8?p=474f545600110bc2.9434a284a46c7056b21000637374</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]272p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/197?big=1</thumbnail>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509114443/078_e8iees_hls/01.m3u8?p=474f545600110bc2.9434a284a46c7056b21000637374</link>
-                </subitem>
-			  </subitems>	
-            </subchannel>
-<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-	        <subchannel>
-            <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Polsat News[/B][/COLOR]</name>
-            <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/49?big=1</thumbnail>
-              <subitems>
-			    <subitem>
-                  <title>[COLOR lightyellow]544p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/49?big=1</thumbnail>
-                  <link>https://video-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509111492/069_miy6pf_hls/index.m3u8?p=474f545600110bc2.6346048f0619611eefd800637374$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Polsat News[/B][/COLOR]</link>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509111492/069_miy6pf_hls/03.m3u8?p=474f545600110bc2.6346048f0619611eefd800637374$$lsname=[COLOR lightyellow][B](2) Polsat News[/B][/COLOR]</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]368p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/49?big=1</thumbnail>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509111492/069_miy6pf_hls/02.m3u8?p=474f545600110bc2.6346048f0619611eefd800637374</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]272p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/49?big=1</thumbnail>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509111492/069_miy6pf_hls/01.m3u8?p=474f545600110bc2.6346048f0619611eefd800637374</link>
-                </subitem>
-			  </subitems>	
-            </subchannel>			
-<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-	        <subchannel>
-            <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Polsat News 2[/B][/COLOR]</name>
-            <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/62?big=1</thumbnail>
-              <subitems>
-			    <subitem>
-                  <title>[COLOR lightyellow]544p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/62?big=1</thumbnail>
-                  <link>https://video-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509112021/070_aqij65_hls/index.m3u8?p=474f545600110bc2.4c6153dcf6b2682d744c00637374$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Polsat News 2[/B][/COLOR]</link>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509112021/070_aqij65_hls/03.m3u8?p=474f545600110bc2.4c6153dcf6b2682d744c00637374$$lsname=[COLOR lightyellow][B](2) Polsat News 2[/B][/COLOR]</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]368p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/62?big=1</thumbnail>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509112021/070_aqij65_hls/02.m3u8?p=474f545600110bc2.4c6153dcf6b2682d744c00637374</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]272p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/62?big=1</thumbnail>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509112021/070_aqij65_hls/01.m3u8?p=474f545600110bc2.4c6153dcf6b2682d744c00637374</link>
-                </subitem>
-			  </subitems>	
-            </subchannel>
-<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-	        <subchannel>
-            <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Superstacja[/B][/COLOR]</name>
-            <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/33?big=1</thumbnail>
-              <subitems>
-			    <subitem>
-                  <title>[COLOR lightyellow]544p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/33?big=1</thumbnail>
-                  <link>https://video-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509113833/029_9fiurr_hls/index.m3u8?p=474f545600110bc2.b191c16b6f056ae8daeb00637374$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Superstacja[/B][/COLOR]</link>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509113833/029_9fiurr_hls/03.m3u8?p=474f545600110bc2.b191c16b6f056ae8daeb00637374$$lsname=[COLOR lightyellow][B](2) Superstacja[/B][/COLOR]</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]368p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/33?big=1</thumbnail>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509113833/029_9fiurr_hls/02.m3u8?p=474f545600110bc2.b191c16b6f056ae8daeb00637374</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]272p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/33?big=1</thumbnail>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509113833/029_9fiurr_hls/01.m3u8?p=474f545600110bc2.b191c16b6f056ae8daeb00637374</link>
-                </subitem>
-			  </subitems>	
-            </subchannel>			
-<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-	        <subchannel>
-            <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Toya TV[/B][/COLOR]</name>
-            <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/1?big=1</thumbnail>
-              <subitems>
-			    <subitem>
-                  <title>[COLOR lightyellow]544p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/1?big=1</thumbnail>
-                  <link>https://video-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509107688/001_toyahd_hls/index.m3u8?p=474f545600110bc2.77b77f020801c3b4998500637374$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Toya TV[/B][/COLOR]</link>
-				  <link>https://cdn-2-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509107688/001_toyahd_hls/03.m3u8?p=474f545600110bc2.77b77f020801c3b4998500637374$$lsname=[COLOR lightyellow][B](2) Toya TV[/B][/COLOR]</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]368p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/1?big=1</thumbnail>
-				  <link>https://cdn-2-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509107688/001_toyahd_hls/02.m3u8?p=474f545600110bc2.77b77f020801c3b4998500637374</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]272p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/1?big=1</thumbnail>
-				  <link>https://cdn-2-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509107688/001_toyahd_hls/01.m3u8?p=474f545600110bc2.77b77f020801c3b4998500637374</link>
-                </subitem>
-			  </subitems>	
-            </subchannel>
-<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-	        <subchannel>
-            <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]TVN 24[/B][/COLOR]</name>
-            <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/68?big=1</thumbnail>
-              <subitems>
-			    <subitem>
-                  <title>[COLOR lightyellow]544p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/68?big=1</thumbnail>
-                  <link>https://video-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509113072/101_dohnln_hls/index.m3u8?p=474f545600110bc2.dd28b32a5193aeb76e6b00637374$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) TVN 24[/B][/COLOR]</link>
-				  <link>https://cdn-2-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509113072/101_dohnln_hls/03.m3u8?p=474f545600110bc2.dd28b32a5193aeb76e6b00637374$$lsname=[COLOR lightyellow][B](2) TVN 24[/B][/COLOR]</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]368p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/68?big=1</thumbnail>
-				  <link>https://cdn-2-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509113072/101_dohnln_hls/02.m3u8?p=474f545600110bc2.dd28b32a5193aeb76e6b00637374</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]272p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/68?big=1</thumbnail>
-				  <link>https://cdn-2-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509113072/101_dohnln_hls/01.m3u8?p=474f545600110bc2.dd28b32a5193aeb76e6b00637374</link>
-                </subitem>
-			  </subitems>	
-            </subchannel>	
-<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-	        <subchannel>
-            <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]TVN 24 BiS[/B][/COLOR]</name>
-            <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/88?big=1</thumbnail>
-              <subitems>
-			    <subitem>
-                  <title>[COLOR lightyellow]544p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/88?big=1</thumbnail>
-                  <link>https://video-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509113521/102_zjnme7_hls/index.m3u8?p=474f545600110bc2.caeab3865ac1899835c700637374$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) TVN 24 BiS[/B][/COLOR]</link>
-				  <link>https://cdn-2-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509113521/102_zjnme7_hls/03.m3u8?p=474f545600110bc2.caeab3865ac1899835c700637374$$lsname=[COLOR lightyellow][B](2) TVN 24 BiS[/B][/COLOR]</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]368p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/88?big=1</thumbnail>
-				  <link>https://cdn-2-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509113521/102_zjnme7_hls/02.m3u8?p=474f545600110bc2.caeab3865ac1899835c700637374</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]272p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/88?big=1</thumbnail>
-				  <link>https://cdn-2-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509113521/102_zjnme7_hls/01.m3u8?p=474f545600110bc2.caeab3865ac1899835c700637374</link>
-                </subitem>
-			  </subitems>	
-            </subchannel>
-<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-	        <subchannel>
-            <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Zoom TV[/B][/COLOR]</name>
-            <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/194?big=1</thumbnail>
-              <subitems>
-			    <subitem>
-                  <title>[COLOR lightyellow]544p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/194?big=1</thumbnail>
-                  <link>https://video-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509114249/077_uiscy7_hls/index.m3u8?p=474f545600110bc2.13b5ee65c558a4fd7ffa00637374$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Zoom TV[/B][/COLOR]</link>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509114249/077_uiscy7_hls/03.m3u8?p=474f545600110bc2.13b5ee65c558a4fd7ffa00637374$$lsname=[COLOR lightyellow][B](2) Zoom TV[/B][/COLOR]</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]368p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/194?big=1</thumbnail>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509114249/077_uiscy7_hls/02.m3u8?p=474f545600110bc2.13b5ee65c558a4fd7ffa00637374</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]272p[/COLOR]</title>
-			      <thumbnail>https://toya.net.pl/telewizja/kanaly/logo/sid/194?big=1</thumbnail>
-				  <link>https://cdn-1-go.toya.net.pl:8081/live/6omJTmkd2HHkAfG8j1x5xQ/1509114249/077_uiscy7_hls/01.m3u8?p=474f545600110bc2.13b5ee65c558a4fd7ffa00637374</link>
-                </subitem>
-			  </subitems>	
-            </subchannel>			
-		</channel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <channel>
@@ -1316,7 +1110,7 @@
                 <item>
                   <title>[COLOR lightyellow][B]TVP Info[/B][/COLOR]</title>
 				  <thumbnail>http://www.jambox.pl/sites/default/files/tvpinfologo.gif</thumbnail>
-                  <link>http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo</link>
+                  <link>http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo</link>
 				  <fanart>https://u.cubeupload.com/XTaSyG.png</fanart>
                 </item>
 				
@@ -1459,26 +1253,12 @@
                   </subitem>
 				  
 				  <subitem>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]inatv.pl[/B][/COLOR]</title>
-	              <thumbnail>http://inatv.pl/wp-content/themes/ana-directory/img/logo-2-1.png</thumbnail>
-                  <link>ignorme</link>
-                  <jsonrpc>plugin://plugin.video.mrknow/?item=url=tv/inatv.pl.cfg&amp;mode=110</jsonrpc>
-                  </subitem>
-
-				  <subitem>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]meczelive.tv[/B][/COLOR]</title>
 	              <thumbnail>https://lh5.ggpht.com/7_CoV4rOYryQtlU5Z-aEJZgXM7LmNbnF97uKc_POWJzl5wvY4ZHmqLlXMjRDaxbUOoAV=w300</thumbnail>
                   <link>ignorme</link>
                   <jsonrpc>plugin://plugin.video.mrknow/?item=url=sport/meczelive.tv.cfg&amp;mode=110</jsonrpc>
                   </subitem>
 				
-				  <subitem>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]meczyki.pl[/B][/COLOR]</title>
-	              <thumbnail>http://www.meczyki.pl/images/fblogo1.jpg</thumbnail>
-                  <link>ignorme</link>
-                  <jsonrpc>plugin://plugin.video.mrknow/?item=url=sport/meczyki.pl.cfg&amp;mode=110</jsonrpc>
-                  </subitem>
-				  
 				  <subitem>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]MrknowTV[/B][/COLOR]</title>
 	              <thumbnail>http://filmkodi.com/wp-content/uploads/2016/05/icon_small.png</thumbnail>
@@ -1493,20 +1273,6 @@
                   <jsonrpc>plugin://plugin.video.mrknow/?mode=9010&amp;service=tvn</jsonrpc>
                   </subitem>
 				  
-				  <subitem>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]telewizja-live.com[/B][/COLOR]</title>
-	              <thumbnail>https://static.wixstatic.com/media/580a47_114cb75b647c439db2c96874680cf258~mv2.png</thumbnail>
-                  <link>ignorme</link>
-                  <jsonrpc>plugin://plugin.video.mrknow/?item=url=tv/telewizja-live.com.cfg&amp;mode=110</jsonrpc>
-                  </subitem>
-				  
-				  <subitem>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]tele-miki.pl[/B][/COLOR]</title>
-	              <thumbnail>http://www.tele-miki.pl/TV.png</thumbnail>
-                  <link>ignorme</link>
-                  <jsonrpc>plugin://plugin.video.mrknow/?item=url=tv/tele-miki.pl.cfg&amp;mode=110</jsonrpc>
-                  </subitem>
-				
 				  <subitem>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]FilmON[/B][/COLOR]</title>
 	              <thumbnail>https://static.filmon.com/theme/images/logo/FilmOn-90x90.png</thumbnail>
