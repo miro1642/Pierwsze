@@ -205,6 +205,12 @@
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]KroneHit TV[/B][/COLOR]</name>
           <thumbnail>https://lh3.ggpht.com/f1jp_0zjMVgt56RDadEnEGWLMM-p14bQxULSASkgfFC6HdFms3MzPuSUTsby-8lvLw=w300</thumbnail>
             <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]HD[/B][/COLOR]</title>
+				  <thumbnail>https://lh3.ggpht.com/f1jp_0zjMVgt56RDadEnEGWLMM-p14bQxULSASkgfFC6HdFms3MzPuSUTsby-8lvLw=w300</thumbnail>
+                  <f4m>http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8</f4m>
+                </subitem>
+			
                 <subitem>
                   <title>[COLOR lightyellow][B]HD[/B][/COLOR]</title>
 				  <thumbnail>https://lh3.ggpht.com/f1jp_0zjMVgt56RDadEnEGWLMM-p14bQxULSASkgfFC6HdFms3MzPuSUTsby-8lvLw=w300</thumbnail>

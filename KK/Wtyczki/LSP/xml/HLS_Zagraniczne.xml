@@ -188,7 +188,18 @@
           <fanart>http://www.siwallpaperhd.com/wp-content/uploads/2015/10/music_best_wallpaper.jpg</fanart>
             <subitems>
 				    <subitem>
-                      <title>[COLOR lightyellow]720p[/COLOR]</title>
+                      <title>[COLOR lightyellow]HD[/COLOR]</title>
+                      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>2596000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]HD[/COLOR]</title>
                       <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
 				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
                         <regex>
@@ -231,50 +242,6 @@
                         </regex>
                     </subitem>
 					
-					<subitem>
-                      <title>[COLOR lightyellow]224p[/COLOR]</title>
-                      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
-				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
-                        <regex>
-                          <name>getURL</name>
-                          <expres>440000.*\s*(http.*m3u8)</expres>
-                          <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
-                        </regex>
-                    </subitem>
-					
-					<subitem>
-                      <title>[COLOR lightyellow]224p[/COLOR]</title>
-                      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
-				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
-                        <regex>
-                          <name>getURL</name>
-                          <expres>240000.*\s*(http.*m3u8)</expres>
-                          <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
-                        </regex>
-                    </subitem>
-					
-					<subitem>
-                      <title>[COLOR lightyellow]224p[/COLOR]</title>
-                      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
-				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
-                        <regex>
-                          <name>getURL</name>
-                          <expres>150000.*\s*(http.*m3u8)</expres>
-                          <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
-                        </regex>
-                    </subitem>
-					
-					<subitem>
-                      <title>[COLOR lightyellow]Audio[/COLOR]</title>
-                      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
-				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
-                        <regex>
-                          <name>getURL</name>
-                          <expres>48000.*\s*(http.*m3u8)</expres>
-                          <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
-                        </regex>
-                    </subitem>
-				
 				    <subitem>
                       <title>[COLOR lightyellow]Audio[/COLOR]</title>
                       <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL._AC_US200_.png</thumbnail>
@@ -287,6 +254,68 @@
                     </subitem>
             </subitems>	
         </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Chelsea TV[/B][/COLOR]</name>
+          <thumbnail>https://d24j9r7lck9cin.cloudfront.net/l/o/1/1163.1405279215.png</thumbnail>
+          <fanart>http://cf.c.ooyala.com/1wMjY0eTq3ejWL_p_BZAiB1Z0o_98CF7/promo272733064</fanart>
+            <subitems>
+				    <subitem>
+                      <title>[COLOR lightyellow]720p[/COLOR]</title>
+                      <thumbnail>https://d24j9r7lck9cin.cloudfront.net/l/o/1/1163.1405279215.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>2528000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8</page>
+                        </regex>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]480p[/COLOR]</title>
+                      <thumbnail>https://d24j9r7lck9cin.cloudfront.net/l/o/1/1163.1405279215.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>1728000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]360p[/COLOR]</title>
+                      <thumbnail>https://d24j9r7lck9cin.cloudfront.net/l/o/1/1163.1405279215.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>1228000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8</page>
+                        </regex>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]288p[/COLOR]</title>
+                      <thumbnail>https://d24j9r7lck9cin.cloudfront.net/l/o/1/1163.1405279215.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>628000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]144p[/COLOR]</title>
+                      <thumbnail>https://d24j9r7lck9cin.cloudfront.net/l/o/1/1163.1405279215.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>378000.*\s*(http.*m3u8)</expres>
+                          <page>http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8</page>
+                        </regex>
+                    </subitem>
+            </subitems>	
+        </subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
         <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Das Erste[/B][/COLOR]</name>
@@ -770,6 +799,68 @@
                     </regex>
                 </subitem>	
 			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio Capital TV[/B][/COLOR]</name>
+          <thumbnail>http://okteve.com/wp-content/uploads/media/399554af147aa5a13a63125f87c3fb13.jpeg</thumbnail>
+          <fanart>http://www.siwallpaperhd.com/wp-content/uploads/2015/10/music_best_wallpaper.jpg</fanart>
+            <subitems>
+				    <subitem>
+                      <title>[COLOR lightyellow]360p[/COLOR]</title>
+                      <thumbnail>http://okteve.com/wp-content/uploads/media/399554af147aa5a13a63125f87c3fb13.jpeg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>640000.*\s*(http.*m3u8)</expres>
+                          <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]224p[/COLOR]</title>
+                      <thumbnail>http://okteve.com/wp-content/uploads/media/399554af147aa5a13a63125f87c3fb13.jpeg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>440000.*\s*(http.*m3u8)</expres>
+                          <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
+                        </regex>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]224p[/COLOR]</title>
+                      <thumbnail>http://okteve.com/wp-content/uploads/media/399554af147aa5a13a63125f87c3fb13.jpeg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>240000.*\s*(http.*m3u8)</expres>
+                          <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]224p[/COLOR]</title>
+                      <thumbnail>http://okteve.com/wp-content/uploads/media/399554af147aa5a13a63125f87c3fb13.jpeg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>150000.*\s*(http.*m3u8)</expres>
+                          <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
+                        </regex>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]Audio[/COLOR]</title>
+                      <thumbnail>http://okteve.com/wp-content/uploads/media/399554af147aa5a13a63125f87c3fb13.jpeg</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>48000.*\s*(http.*m3u8)</expres>
+                          <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
+                        </regex>
+                    </subitem>
+            </subitems>	
         </subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
@@ -783,7 +874,7 @@
                   <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
                     <regex>
                       <name>getURL</name>
-                      <expres>1057000.*\s*(http.*m3u8)</expres>
+                      <expres>1054000.*\s*(http.*m3u8)</expres>
                       <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
                     </regex>
                 </subitem>
@@ -794,7 +885,7 @@
                   <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
                     <regex>
                       <name>getURL</name>
-                      <expres>1047000.*\s*(http.*m3u8)</expres>
+                      <expres>1052000.*\s*(http.*m3u8)</expres>
                       <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
                     </regex>
                 </subitem>
@@ -805,7 +896,7 @@
                   <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
                     <regex>
                       <name>getURL</name>
-                      <expres>745000.*\s*(http.*m3u8)</expres>
+                      <expres>752000.*\s*(http.*m3u8)</expres>
                       <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
                     </regex>
                 </subitem>
@@ -816,7 +907,7 @@
                   <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
                     <regex>
                       <name>getURL</name>
-                      <expres>747000.*\s*(http.*m3u8)</expres>
+                      <expres>751000.*\s*(http.*m3u8)</expres>
                       <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
                     </regex>
                 </subitem>
@@ -827,7 +918,7 @@
                   <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
                     <regex>
                       <name>getURL</name>
-                      <expres>495000.*\s*(http.*m3u8)</expres>
+                      <expres>502000.*\s*(http.*m3u8)</expres>
                       <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
                     </regex>
                 </subitem>
@@ -838,7 +929,7 @@
                   <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
                     <regex>
                       <name>getURL</name>
-                      <expres>497000.*\s*(http.*m3u8)</expres>
+                      <expres>496000.*\s*(http.*m3u8)</expres>
                       <page>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</page>
                     </regex>
                 </subitem>
@@ -2318,19 +2409,23 @@
 			    <subitem>
                   <title>[COLOR lightyellow]488p[/COLOR]</title>
 			      <thumbnail>http://www.giniko.com/logos/190x110/215.png</thumbnail>
-                  <link>http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w1488575796_b800000.m3u8</link>
+				  <link>http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w1095552735_b800000.m3u8$$lsname=LINK 2</link>
+                  <link>http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8$$lsname=LINK 3</link>
                 </subitem>
 			
                 <subitem>
                   <title>[COLOR lightyellow]288p[/COLOR]</title>
 			      <thumbnail>http://www.giniko.com/logos/190x110/215.png</thumbnail>
-                  <link>http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w1488575796_b200000.m3u8</link>
+                  <link>http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w1095552735_b200000.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://stream.sportstv.com.tr:1935/sportstv/SportsTV2/playlist.m3u8$$lsname=LINK 2</link>
                 </subitem>	
 				
 				<subitem>
                   <title>[COLOR lightyellow]144p[/COLOR]</title>
 			      <thumbnail>http://www.giniko.com/logos/190x110/215.png</thumbnail>
-                  <link>http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w1488575796_b64000.m3u8</link>
+                  <link>http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w1095552735_b64000.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://stream.sportstv.com.tr:1935/sportstv/SportsTV1/playlist.m3u8$$lsname=LINK 2</link>
                 </subitem>	
 			</subitems>	
         </subchannel>
@@ -2479,6 +2574,24 @@
                 <title>[COLOR lightyellow]BURSASPORT TV[/COLOR]</title>
                 <link>http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8</link>
                 <thumbnail>https://4.bp.blogspot.com/-oEyMyseCIPg/V5DC6zpMLPI/AAAAAAAATJI/FMw2lPI4nIU2b9jywLdRIV_PN2i70VJeQCLcB/s1600/bstv1.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow]FOX SPORTS[/COLOR]</title>
+                <link>http://113.161.66.38:4022/rtp/232.84.1.11:8040</link>
+                <thumbnail>https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585-354x200.jpg</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow]FOX SPORTS 2[/COLOR]</title>
+                <link>http://113.161.66.38:4022/rtp/232.84.1.12:8046</link>
+                <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow]LUNA SPORT[/COLOR]</title>
+                <link>http://vs2.streamcaster.net:1935/test_live/lunasport/playlist.m3u8</link>
+                <thumbnail>http://www.napolisoccer.net/wp-content/uploads/image/loghi/luna_sport.jpg</thumbnail>
             </item>
 
 			<item>

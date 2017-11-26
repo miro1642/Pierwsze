@@ -158,16 +158,120 @@
         </subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Mix[/B][/COLOR]</name>
-		  <thumbnail>http://iptv.slynet.pw/wp-content/uploads/2016/02/10300x300.png</thumbnail>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]qapps.newgooder.com[/B][/COLOR]</name>
+		  <thumbnail>http://qapps.newgooder.com/upload/2015/03/23/thumbnail/TN-20150323145522-c9d334c4.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]178.196.220.26[/B][/COLOR]</title>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ListTVProApp1[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
-			      <thumbnail>http://www.satboerse24.de/images/dreambox_logo-1.jpg</thumbnail>
-                  <externallink>http://178.196.220.26:9981/playlist.m3u8</externallink>
+			      <thumbnail>http://www.zamzar.com/images/filetypes/ts.png</thumbnail>
+                  <externallink>http://qapps.newgooder.com/plugintv/ListTVProApp1.m3u$$TSDOWNLOADER$$</externallink>
 			      <page></page>
-                </subitem>	
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ListTVProApp2[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.zamzar.com/images/filetypes/ts.png</thumbnail>
+                  <externallink>http://qapps.newgooder.com/plugintv/ListTVProApp2.m3u$$TSDOWNLOADER$$</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ListTVProApp3[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.zamzar.com/images/filetypes/ts.png</thumbnail>
+                  <externallink>http://qapps.newgooder.com/plugintv/ListTVProApp3.m3u$$TSDOWNLOADER$$</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ListTVProApp4[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.zamzar.com/images/filetypes/ts.png</thumbnail>
+                  <externallink>http://qapps.newgooder.com/plugintv/ListTVProApp4.m3u$$TSDOWNLOADER$$</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ListTVProApp5[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.zamzar.com/images/filetypes/ts.png</thumbnail>
+                  <externallink>http://qapps.newgooder.com/plugintv/ListTVProApp5.m3u$$TSDOWNLOADER$$</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ListTVProApp6[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.zamzar.com/images/filetypes/ts.png</thumbnail>
+                  <externallink>http://qapps.newgooder.com/plugintv/ListTVProApp6.m3u$$TSDOWNLOADER$$</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ListTVProApp7[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.zamzar.com/images/filetypes/ts.png</thumbnail>
+                  <externallink>http://qapps.newgooder.com/plugintv/ListTVProApp7.m3u$$TSDOWNLOADER$$</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ListTVProApp8[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.zamzar.com/images/filetypes/ts.png</thumbnail>
+                  <externallink>http://qapps.newgooder.com/plugintv/ListTVProApp8.m3u$$TSDOWNLOADER$$</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ListTVProApp9[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.zamzar.com/images/filetypes/ts.png</thumbnail>
+                  <externallink>http://qapps.newgooder.com/plugintv/ListTVProApp9.m3u$$TSDOWNLOADER$$</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ListTVProApp10[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.zamzar.com/images/filetypes/ts.png</thumbnail>
+                  <externallink>http://qapps.newgooder.com/plugintv/ListTVProApp10.m3u$$TSDOWNLOADER$$</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ListTVProApp11[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.zamzar.com/images/filetypes/ts.png</thumbnail>
+                  <externallink>http://qapps.newgooder.com/plugintv/ListTVProApp11.m3u$$TSDOWNLOADER$$</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ListTVProApp12[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.zamzar.com/images/filetypes/ts.png</thumbnail>
+                  <externallink>http://qapps.newgooder.com/plugintv/ListTVProApp12.m3u$$TSDOWNLOADER$$</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ProIPTVApple1[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.zamzar.com/images/filetypes/ts.png</thumbnail>
+                  <externallink>http://dgimedia.ddns.net:9898/get.php?username=tiago1&amp;password=tiago1&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+			      <page></page>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ProIPTVApple2[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.zamzar.com/images/filetypes/ts.png</thumbnail>
+                  <externallink>http://bigiptv.ovh:8000/get.php?username=oussema&amp;password=oussema&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+			      <page></page>
+                </subitem>
 			</subitems>	
         </subchannel>	
 	</channel>			  

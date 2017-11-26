@@ -795,7 +795,26 @@
                   <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-b-lechtv/live-wtk-b-lechtv-450k.m3u8</link>
                 </subitem>
 			  </subitems>	
-            </subchannel>		 		
+            </subchannel>
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	        <subchannel>
+            <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Sfera TV[/B][/COLOR]</name>
+            <thumbnail>http://www.sferatv.pl/images/loga/logo_tlo_sfera.jpg</thumbnail>
+              <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]480p[/COLOR]</title>
+			      <thumbnail>http://www.sferatv.pl/images/loga/logo_tlo_sfera.jpg</thumbnail>
+                  <link>http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist_w1644841133_b1128000_slpl.m3u8$$lsname=LINK 2</link>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://www.sferatv.pl/images/loga/logo_tlo_sfera.jpg</thumbnail>
+				  <link>http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist_w1644841133_b628000_slpl.m3u8</link>
+                </subitem>
+			  </subitems>	
+            </subchannel>			
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 			<subchannel>
             <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Stars TV[/B][/COLOR]</name>
@@ -1084,6 +1103,12 @@
 			      <thumbnail>http://www.sfin.biz.pl/media/aktualnosci/2014/12/11/tv_kujawy/5489f9a166870_tv_kujawy.jpeg</thumbnail>
                   <link>rtmp://stream.tvkujawy.pl/live/broadcast$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://stream.tvkujawy.pl:8080/live/broadcast.m3u8$$lsname=LINK 2</link>
+                </item>
+				
+				<item>
+                  <title>[COLOR lightyellow]TVP Polonia[/COLOR]</title>
+			      <thumbnail>http://93.159.131.123/gabi/insert/img/programy/tvppolonia.png</thumbnail>
+                  <link>http://193.32.36.27:8005</link>
                 </item>
 			</items>	
         </channel>

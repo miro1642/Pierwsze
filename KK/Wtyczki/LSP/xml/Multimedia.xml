@@ -316,6 +316,23 @@
               <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/Radio_Zagraniczne.xml</externallink>	
 			</item> 
 		  </items>
+	</channel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Wtyczki[/B][/COLOR]</name>
+      <thumbnail>https://i.ytimg.com/vi/KVIYuGmcC4Y/hqdefault.jpg</thumbnail>
+      <fanart>http://ftp.vim.org/ftp/mediaplayer/xbmc/addons/gotham/script.artwork.downloader/fanart.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+          <items>
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]AdryanList[/B][/COLOR]</title>
+              <link>http://ignorame</link>
+              <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/adryanlist.png</thumbnail>
+              <fanart>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/fanart.jpg</fanart>
+              <externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/list.xml</externallink>	
+			</item> 
+		  </items>
 	</channel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	

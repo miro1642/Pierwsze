@@ -645,13 +645,15 @@
 				<subitem>
                   <title>[COLOR lightyellow]HD[/COLOR]</title>
 			      <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
-                  <link>http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8</link>
+                  <link>http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>rtmp://109.71.162.112:1935/live/hd.jasminchannel.stream$$lsname=LINK 2</link>
                 </subitem>
 
 				<subitem>
                   <title>[COLOR lightyellow]720p[/COLOR]</title>
 			      <thumbnail>http://i.imgur.com/lHlpCn9.jpg</thumbnail>
-                  <link>http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8</link>
+                  <link>http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream$$lsname=LINK 2</link>
                 </subitem>
 			</subitems>	
         </subchannel>	
@@ -665,18 +667,22 @@
 			      <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/6/5/6/4/65648/65648_miamitv3jpg_1326327621,192x192,r:1.jpg</thumbnail>
                   <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w132905680_b2592000.m3u8$$lsname=LINK 2</link>
+				  <link>http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/master.m3u8$$lsname=LINK 3</link>
+				  <link>http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w142370279_b1896000.m3u8$$lsname=LINK 4</link>
                 </subitem>
 
 				<subitem>
                   <title>[COLOR lightyellow]540p[/COLOR]</title>
 			      <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/6/5/6/4/65648/65648_miamitv3jpg_1326327621,192x192,r:1.jpg</thumbnail>
-                  <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w132905680_b1592000.m3u8</link>
+                  <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w132905680_b1592000.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w142370279_b996000.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]360p[/COLOR]</title>
 			      <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/6/5/6/4/65648/65648_miamitv3jpg_1326327621,192x192,r:1.jpg</thumbnail>
-                  <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w132905680_b742000.m3u8</link>
+                  <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w132905680_b742000.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w142370279_b596000.m3u8$$lsname=LINK 2</link>
                 </subitem>
 			</subitems>	
         </subchannel>
@@ -780,7 +786,7 @@
 			    <thumbnail>https://sat-one.info/news-imeg/99298.png</thumbnail>
                 <link>http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8</link>
               </item>
-			  
+		
 			    <item>
                   <title>[COLOR lightyellow]Live Sex latinas[/COLOR]</title>
 			      <thumbnail>http://1.bp.blogspot.com/-CgX9yk5CGDI/VQAJyK_2_sI/AAAAAAAADj0/5KSMoWjwZoM/s1600/live%2Bsex%2Blatinas.jpg</thumbnail>
