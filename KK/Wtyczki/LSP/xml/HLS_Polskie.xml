@@ -10,7 +10,8 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
     <channel>
       <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ipla.tv[/B][/COLOR]</name>
-      <thumbnail>http://n-3-1.dcs.redcdn.pl/file/o2/redefine/iplatv-assets/common/site_logo-c027a90efb6bd76a4da398dcb8ded1da.png</thumbnail>  
+      <thumbnail>http://3.bp.blogspot.com/-n-OTMmvPCl8/TaqVhYDVeoI/AAAAAAAAAOw/1L8zBTxUcRo/s1600/logo_iplapl.jpg</thumbnail>
+	  <fanart>https://cdn.polscygracze.pl/uploads/2016/06/IPLA.jpg</fanart>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>4FUN TV</name>
@@ -180,19 +181,6 @@
 		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
-          <name>FilmBox Extra HD</name>
-          <thumbnail>http://www.digiprijem.cz/wp-content/uploads/filmbox_extra_hd.jpg</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>HD</title>
-	              <thumbnail>http://www.digiprijem.cz/wp-content/uploads/filmbox_extra_hd.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/9BAC29DD/1570/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/9BAC29DD/1570/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
-                </subitem>
-			</subitems>	
-		</subchannel>
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
           <name>FILMBOX Family</name>
           <thumbnail>http://korbank.pl/wp-content/uploads/2015/05/filmbox-07.jpg</thumbnail>
             <subitems>
@@ -298,42 +286,6 @@
                   <link>http://hls.redefine.pl/3952CD7C/1567/0/hls/masterlist.m3u8</link>
                 </subitem>				
 			</subitems>	
-		</subchannel>	
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>LIFETIME HD</name>
-	      <thumbnail>http://www.logovaults.com/stock_thumb/big-lifetime-hd-OTM5MA==.jpg</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>HD</title>
-	              <thumbnail>http://www.logovaults.com/stock_thumb/big-lifetime-hd-OTM5MA==.jpg</thumbnail>
-				  <link>http://hls.redefine.pl/BF9ACBBA/11376/0/hls720/masterlist.m3u8</link>
-                </subitem>
-				
-				<subitem>
-                  <title>576p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/8p/8pvx961exn3bbxrwn1ypau9ku47sdt32.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/4FE12451/11376/0/hls576/masterlist.m3u8</link>
-                </subitem>
-				
-				<subitem>
-                  <title>288p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/8p/8pvx961exn3bbxrwn1ypau9ku47sdt32.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/BABE681B/11376/0/hls/masterlist.m3u8</link>
-                </subitem>				
-			</subitems>	
-		</subchannel>	
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>Muzo TV</name>
-	      <thumbnail>http://static.wirtualnemedia.pl/media/150x110/Muzo.tv_logo_150x150.jpg</thumbnail>
-            <subitems>
-				<subitem>
-                  <title>576p</title>
-	              <thumbnail>http://static.wirtualnemedia.pl/media/150x110/Muzo.tv_logo_150x150.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/1E68CF8B/10259/0/hls576/masterlist.m3u8</link>
-                </subitem>				
-			</subitems>	
 		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
@@ -364,7 +316,20 @@
                   <link>http://hls.redefine.pl/AD5867A1/12261/0/hls576/masterlist.m3u8</link>
                 </subitem>				
 			</subitems>	
-		</subchannel>			
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>POLSAT 2 HD</name>
+	      <thumbnail>http://dwiptv.cba.pl/ico/Polsat_2_HD.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>HD</title>
+	              <thumbnail>http://dwiptv.cba.pl/ico/Polsat_2_HD.png</thumbnail>
+                  <link>http://hls.redefine.pl/E30464E3/10258/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/E30464E3/10258/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
+                </subitem>		
+			</subitems>	
+		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>POLSAT Crime & Investigation</name>
@@ -399,7 +364,7 @@
 	              <thumbnail>http://e-cho.pl/wp-content/uploads/2017/05/pm-245x140.png</thumbnail>
                   <link>http://hls.redefine.pl/1E68CF8B/10259/0/hls576/576p/list.m3u8</link>
                 </subitem>
-				
+			
 				<subitem>
                   <title>320p</title>
 	              <thumbnail>http://e-cho.pl/wp-content/uploads/2017/05/pm-245x140.png</thumbnail>
@@ -514,19 +479,7 @@
 				  <link>http://hls.redefine.pl/D1AA8965/2643/0/hls/masterlist.m3u8</link>
                 </subitem>
 			</subitems>	
-		</subchannel>	
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>Sundance TV</name>
-	      <thumbnail>http://sharejunior.c0.pl/ico/Sundance_HD_1.png</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>720p</title>
-	              <thumbnail>http://sharejunior.c0.pl/ico/Sundance_HD_1.png</thumbnail>
-				  <link>http://hls.redefine.pl/E1BE2FA1/3245/0/hls720/720p/list.m3u8</link>
-                </subitem>			
-			</subitems>	
-		</subchannel>		
+		</subchannel>			
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>Superstacja</name>
@@ -628,84 +581,8 @@
                   <link>http://hls.redefine.pl/60508455/4195/0/hls/masterlist.m3u8</link>
                 </subitem>				
 			</subitems>	
-		</subchannel>				
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>POLSAT 2 HD</name>
-	      <thumbnail>http://dwiptv.cba.pl/ico/Polsat_2_HD.png</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>HD</title>
-	              <thumbnail>http://dwiptv.cba.pl/ico/Polsat_2_HD.png</thumbnail>
-                  <link>http://hls.redefine.pl/E30464E3/10258/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/E30464E3/10258/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
-                </subitem>		
-			</subitems>	
-		</subchannel>					
+		</subchannel>									
 	</channel>	
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-	<channel>
-      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]nadajemy.tv[/B][/COLOR]</name>
-      <thumbnail>http://soft-library.com/wp-content/uploads/simple-iptv-player.jpg</thumbnail>
-      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-		    <items>
-<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
-			  <item>
-                <title>[COLOR lightyellow]Canal+[/COLOR]</title>
-				<thumbnail>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042012/canal.png?itok=J2v_XG21</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/canalhd</link>
-              </item>
-			  
-			  <item>
-                <title>[COLOR lightyellow]Polsat[/COLOR]</title>
-				<thumbnail>http://fundacja.lexnostra.pl/wp-content/uploads/2012/06/polsat.jpg</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/polsathd</link>
-              </item>
-			  
-			 <item>
-                <title>[COLOR lightyellow]Polsat News[/COLOR]</title>
-				<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/7b/Polsat_News_Logo.svg</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/polsatnewshd</link>
-              </item> 
-			  
-			  <item>
-                <title>[COLOR lightyellow]Republika[/COLOR]</title>
-				<thumbnail>http://telewizjarepublika.pl/imgcache/860x400/c/uploads/news/rep_20.jpg</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/tvrepublika</link>
-              </item>
-			  
-			  <item>
-                <title>[COLOR lightyellow]TVN[/COLOR]</title>
-				<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tvn_Logo.svg/300px-Tvn_Logo.svg.png</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/tvnhd</link>
-              </item>
-			 
-			  <item>
-                <title>[COLOR lightyellow]TVN Turbo[/COLOR]</title>
-				<thumbnail>http://iti.pl/userfiles/logolibrary/TVN_%20TURBO.png</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/tvnturbohd</link>
-              </item>
-			  
-			  <item>
-                <title>[COLOR lightyellow]TVP 1[/COLOR]</title>
-				<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TVP1_logo.svg/240px-TVP1_logo.svg.png</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/tvp1hd</link>
-              </item>
-
-			  <item>
-                <title>[COLOR lightyellow]TVP 2[/COLOR]</title>
-				<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TVP2_logo.svg/240px-TVP2_logo.svg.png</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/tvp2hd</link>
-              </item>
-			  
-			  <item>
-                <title>[COLOR lightyellow]TVP Seriale[/COLOR]</title>
-				<thumbnail>http://s.tvp.pl/images/a/c/5/uid_ac515a895e3a08b13d44c64439a6284d1356263757789_width_700_play_0_pos_3_gs_0.jpg</thumbnail>
-				<link>rtmp://192.99.31.176:1935/standard/tvpseriale</link>
-              </item>
-			</items>  
-	</channel> 		
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 	    <channel>
@@ -1050,12 +927,6 @@
                 </item>	
 				
 				<item>
-                <title>[COLOR lightyellow]FOX[/COLOR]</title>
-                <link>http://wolverine.castto.me:6081/live/ST4Kl6wtN6jFC5Bkc4SZ/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</link>
-                <thumbnail>http://sharejunior.c0.pl/ico/Fox_HD_1.png?1011?1011</thumbnail>
-                </item>	
-				
-				<item>
                 <title>[COLOR lightyellow]Opoka TV[/COLOR]</title>
                 <link>https://edge5.popler.tv/popler_publishlive/Opokatv/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
                 <regex>
@@ -1066,12 +937,6 @@
                 </regex>
                 <thumbnail>http://www.fta.strefa.pl/net/opokatv.png</thumbnail>
                 </item>
-				
-				<item>
-                <title>[COLOR lightyellow]Puls TV[/COLOR]</title>
-                <link>http://wolverine.castto.me:6081/live/dGxYpIXaGlS5Fyro5MRa/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari</link>
-                <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/a/af/Logo_TV_Puls_HD.jpg/revision/latest?cb=20160210125923</thumbnail>
-                </item>	
 				
 				<item>
                 <title>[COLOR lightyellow]rbl.tv[/COLOR]</title>
