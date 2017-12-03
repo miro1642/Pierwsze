@@ -382,6 +382,107 @@
                 </subitem>	
 			</subitems>	
         </subchannel>				
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]thanh51[/B][/COLOR]</name>
+          <thumbnail>http://iptv.slynet.pw/wp-content/uploads/2016/02/10300x300.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]ADULT1[/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.satboerse24.de/images/dreambox_logo-1.jpg</thumbnail>
+                  <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/ADULT1.m3u</externallink>
+			      <page></page>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]ADULT2[/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.satboerse24.de/images/dreambox_logo-1.jpg</thumbnail>
+                  <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/ADULT2.m3u</externallink>
+			      <page></page>
+                </subitem>
+			</subitems>	
+        </subchannel>				
+	</channel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Torrent[/B][/COLOR]</name>
+      <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.playlistLoader.png.pagespeed.ic.cN3WazgAOp.png</thumbnail>
+      <fanart>https://i.pinimg.com/originals/8d/54/87/8d5487e477da1f20a530c14371707e4c.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+            <items>
+			    <item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ACESearch 1[/B][/COLOR]</title>
+			      <link>$doregex[makelist]</link>
+                  <regex>
+                  <name>makelist</name>
+                  <listrepeat><![CDATA[
+	                <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	                <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	                <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+                  ]]></listrepeat>
+                  <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+                  <page>http://pomoyka.lib.emergate.net/trash/ttv-list/as.erotic_18_plus.player.m3u</page>
+                  <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+                  </regex>
+                  <thumbnail>http://softpacket.net/wp-content/uploads/2015/08/torrent-stream.png</thumbnail>
+                </item>	
+				
+				<item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ACESearch 2[/B][/COLOR]</title>
+			      <link>$doregex[makelist]</link>
+                  <regex>
+                  <name>makelist</name>
+                  <listrepeat><![CDATA[
+	                <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	                <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	                <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+                  ]]></listrepeat>
+                  <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+                  <page>http://pomoyka.lib.emergate.net/trash/ttv-list/as.other_18_plus.player.m3u</page>
+                  <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+                  </regex>
+                  <thumbnail>http://softpacket.net/wp-content/uploads/2015/08/torrent-stream.png</thumbnail>
+                </item>	
+				
+				<item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]acestream.net[/B][/COLOR]</title>
+			      <link>$doregex[makelist]</link>
+                  <regex>
+                  <name>makelist</name>
+                  <listrepeat><![CDATA[
+	                <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	                <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	                <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+                  ]]></listrepeat>
+                  <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+                  <page>http://pomoyka.lib.emergate.net/trash/ttv-list/ace.erotic_18_plus.player.m3u</page>
+                  <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+                  </regex>
+                  <thumbnail>http://sportstream.site/wp-content/uploads/2017/10/acestreamlogo.png</thumbnail>
+                </item>	
+				
+				<item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]torrent-tv[/B][/COLOR]</title>
+			      <link>$doregex[makelist]</link>
+                  <regex>
+                  <name>makelist</name>
+                  <listrepeat><![CDATA[
+	                <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	                <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	                <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+                  ]]></listrepeat>
+                  <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+                  <page>http://pomoyka.lib.emergate.net/trash/ttv-list/ttv.porn.player.m3u</page>
+                  <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+                  </regex>
+                  <thumbnail>http://torrent-tv.ru/images/logo.png</thumbnail>
+                </item>	
+			</items>	
 	</channel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	

@@ -9,6 +9,141 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
     <channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ACESearch[/B][/COLOR]</name>
+      <thumbnail>http://softpacket.net/wp-content/uploads/2015/08/torrent-stream.png</thumbnail>
+      <fanart>https://i.ytimg.com/vi/OHmTOoKmNh4/maxresdefault.jpg</fanart>
+            <items>
+			  <item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]allfon[/B][/COLOR]</title>
+              <link>$doregex[makelist]</link>
+              <regex>
+              <name>makelist</name>
+              <listrepeat><![CDATA[
+	            <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	            <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	            <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+              ]]></listrepeat>
+              <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+              <page>http://pomoyka.lib.emergate.net/trash/ttv-list/as.webcam.player.m3u</page>
+              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+              </regex>
+              <thumbnail>https://s20.postimg.org/kep1wjypp/eu_Ere_Ccd5w6_Pp_DYXu_SC8ekjo0mqrey4t.jpg</thumbnail>
+              </item>
+			
+			  <item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Kids[/B][/COLOR]</title>
+              <link>$doregex[makelist]</link>
+              <regex>
+              <name>makelist</name>
+              <listrepeat><![CDATA[
+	            <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	            <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	            <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+              ]]></listrepeat>
+              <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+              <page>http://pomoyka.lib.emergate.net/trash/ttv-list/as.kids.player.m3u</page>
+              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+              </regex>
+              <thumbnail>http://softpacket.net/wp-content/uploads/2015/08/torrent-stream.png</thumbnail>
+              </item>
+			
+			  <item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Music[/B][/COLOR]</title>
+              <link>$doregex[makelist]</link>
+              <regex>
+              <name>makelist</name>
+              <listrepeat><![CDATA[
+	            <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	            <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	            <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+              ]]></listrepeat>
+              <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+              <page>http://pomoyka.lib.emergate.net/trash/ttv-list/as.music.player.m3u</page>
+              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+              </regex>
+              <thumbnail>http://softpacket.net/wp-content/uploads/2015/08/torrent-stream.png</thumbnail>
+              </item>
+
+			  <item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Sport[/B][/COLOR]</title>
+              <link>$doregex[makelist]</link>
+              <regex>
+              <name>makelist</name>
+              <listrepeat><![CDATA[
+	            <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	            <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	            <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+              ]]></listrepeat>
+              <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+              <page>http://pomoyka.lib.emergate.net/trash/ttv-list/as.sport.player.m3u</page>
+              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+              </regex>
+              <thumbnail>http://softpacket.net/wp-content/uploads/2015/08/torrent-stream.png</thumbnail>
+              </item>	
+			</items>	
+	</channel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+    <channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]acestream.net[/B][/COLOR]</name>
+      <thumbnail>http://sportstream.site/wp-content/uploads/2017/10/acestreamlogo.png</thumbnail>
+      <fanart>https://i.ytimg.com/vi/OHmTOoKmNh4/maxresdefault.jpg</fanart>
+            <items>
+			  <item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Kids[/B][/COLOR]</title>
+              <link>$doregex[makelist]</link>
+              <regex>
+              <name>makelist</name>
+              <listrepeat><![CDATA[
+	            <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	            <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	            <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+              ]]></listrepeat>
+              <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+              <page>http://pomoyka.lib.emergate.net/trash/ttv-list/ace.kids.player.m3u</page>
+              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+              </regex>
+              <thumbnail>http://sportstream.site/wp-content/uploads/2017/10/acestreamlogo.png</thumbnail>
+              </item>	
+			
+			  <item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Music[/B][/COLOR]</title>
+              <link>$doregex[makelist]</link>
+              <regex>
+              <name>makelist</name>
+              <listrepeat><![CDATA[
+	            <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	            <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	            <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+              ]]></listrepeat>
+              <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+              <page>http://pomoyka.lib.emergate.net/trash/ttv-list/ace.music.player.m3u</page>
+              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+              </regex>
+              <thumbnail>http://sportstream.site/wp-content/uploads/2017/10/acestreamlogo.png</thumbnail>
+              </item>
+			
+              <item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Sport[/B][/COLOR]</title>
+              <link>$doregex[makelist]</link>
+              <regex>
+              <name>makelist</name>
+              <listrepeat><![CDATA[
+	            <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	            <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	            <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+              ]]></listrepeat>
+              <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+              <page>http://pomoyka.lib.emergate.net/trash/ttv-list/ace.sport.player.m3u</page>
+              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+              </regex>
+              <thumbnail>http://sportstream.site/wp-content/uploads/2017/10/acestreamlogo.png</thumbnail>
+              </item>
+			</items>	
+	</channel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+    <channel>
       <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Arenavision[/B][/COLOR]</name>
       <thumbnail>http://arenavision.in/sites/default/files/logo_av2015.png</thumbnail>
       <fanart>https://i.ytimg.com/vi/OHmTOoKmNh4/maxresdefault.jpg</fanart>
@@ -79,41 +214,99 @@
       <thumbnail>http://torrent-tv.ru/images/logo.png</thumbnail>
       <fanart>https://i.ytimg.com/vi/OHmTOoKmNh4/maxresdefault.jpg</fanart>
             <items>
-<item>
-<title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Music[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-	<title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
-	<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
-	<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
-]]></listrepeat>
-<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
-<page>http://pomoyka.lib.emergate.net/trash/ttv-list/ttv.music.player.m3u</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>http://torrent-tv.ru/images/logo.png</thumbnail>
-</item>	
+              <item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Child[/B][/COLOR]</title>
+              <link>$doregex[makelist]</link>
+              <regex>
+              <name>makelist</name>
+              <listrepeat><![CDATA[
+	            <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	            <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	            <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+              ]]></listrepeat>
+              <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+              <page>http://pomoyka.lib.emergate.net/trash/ttv-list/ttv.child.player.m3u</page>
+              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+              </regex>
+              <thumbnail>http://torrent-tv.ru/images/logo.png</thumbnail>
+              </item>
 
-<item>
-<title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Sport[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-	<title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
-	<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
-	<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
-]]></listrepeat>
-<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
-<page>http://pomoyka.lib.emergate.net/trash/ttv-list/ttv.sport.player.m3u</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>http://torrent-tv.ru/images/logo.png</thumbnail>
-</item>
+			  <item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Music[/B][/COLOR]</title>
+              <link>$doregex[makelist]</link>
+              <regex>
+              <name>makelist</name>
+              <listrepeat><![CDATA[
+	            <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	            <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	            <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+              ]]></listrepeat>
+              <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+              <page>http://pomoyka.lib.emergate.net/trash/ttv-list/ttv.music.player.m3u</page>
+              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+              </regex>
+              <thumbnail>http://torrent-tv.ru/images/logo.png</thumbnail>
+              </item>	
+			  
+			  <item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Sport[/B][/COLOR]</title>
+              <link>$doregex[makelist]</link>
+              <regex>
+              <name>makelist</name>
+              <listrepeat><![CDATA[
+	            <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	            <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	            <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+              ]]></listrepeat>
+              <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+              <page>http://pomoyka.lib.emergate.net/trash/ttv-list/ttv.sport.player.m3u</page>
+              <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+              </regex>
+              <thumbnail>http://torrent-tv.ru/images/logo.png</thumbnail>
+              </item>	
 			</items>	
-	</channel>		
+	</channel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+    <channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]thanh51[/B][/COLOR]</name>
+      <thumbnail>http://www.kino1080.org/_nw/7/43235320.png</thumbnail>
+      <fanart>https://i.ytimg.com/vi/OHmTOoKmNh4/maxresdefault.jpg</fanart>
+            <items>
+			    <item>
+                <title>[COLOR green][B]Arenavision[/B][/COLOR]</title>
+                <link>http://ignorame</link>
+                <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Arenavision.xml</externallink>
+                <thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
+                <fanart>https://s1.postimg.org/rj8saq01b/image.jpg</fanart>
+                </item>
+				
+				<item>
+                <title>[COLOR green][B]SportAce[/B][/COLOR]</title>
+                <link>http://ignorame</link>
+                <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/SportAce.xml</externallink>
+                <thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
+                <fanart>https://s1.postimg.org/rj8saq01b/image.jpg</fanart>
+                </item>
+			
+				<item>
+                  <title>[COLOR lightblue]Ace(Sports)[/COLOR]</title>
+				  <thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+			      <link>$doregex[makelist]</link>
+                    <regex>
+                      <name>makelist</name>
+                      <listrepeat><![CDATA[
+	                    <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	                    <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=allfon.org</link>
+	                    <thumbnail>NA</thumbnail>
+                        ]]></listrepeat>
+                      <expres>EXTINF:-1(.*?)\nacestream://(.*)</expres>
+                      <page>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Ace(Sports).m3u</page>
+                      <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+                    </regex>
+                </item>
+			</items>	
+	</channel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
     <channel>
@@ -139,37 +332,4 @@
                 </item>
 			</items>	
 	</channel>	
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-    <channel>
-      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]thanh51[/B][/COLOR]</name>
-      <thumbnail>http://www.kino1080.org/_nw/7/43235320.png</thumbnail>
-      <fanart>https://i.ytimg.com/vi/OHmTOoKmNh4/maxresdefault.jpg</fanart>
-            <items>
-			    <item>
-                <title>[COLOR green][B]Arenavision[/B][/COLOR]</title>
-                <link>http://ignorame</link>
-                <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Arenavision.xml</externallink>
-                <thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
-                <fanart>https://s1.postimg.org/rj8saq01b/image.jpg</fanart>
-                </item>
-			
-				<item>
-                  <title>[COLOR lightblue]Ace(Sports)[/COLOR]</title>
-				  <thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
-			      <link>$doregex[makelist]</link>
-                    <regex>
-                      <name>makelist</name>
-                      <listrepeat><![CDATA[
-	                    <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
-	                    <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=allfon.org</link>
-	                    <thumbnail>NA</thumbnail>
-                        ]]></listrepeat>
-                      <expres>EXTINF:-1(.*?)\nacestream://(.*)</expres>
-                      <page>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Ace(Sports).m3u</page>
-                      <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-                    </regex>
-                </item>
-			</items>	
-	</channel>			  	
 </channels>	
