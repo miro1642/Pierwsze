@@ -205,6 +205,35 @@
                 <thumbnail>http://i.imgur.com/nMRDVIU.png</thumbnail>
                 <fanart></fanart>
                 </item>
+				
+				<item>
+                <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]arenavision.us[/B][/COLOR]</title>
+                <link>$doregex[makelist]</link>
+                <regex>
+                <name>makelist</name>
+                <listrepeat><![CDATA[
+                <item><title> [COLOR white] [makelist.param2][/COLOR]</title>
+                <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ArenaSports + [makelist.param2]</link>
+			    <regex>
+			    <name>hash</name> 
+			    <expres>this.loadPlayer\("(.*?)"</expres>
+			    <page>http://arenavision.us/[makelist.param1]</page>
+			    <referer>http://arenavision.us</referer>
+			    <setcookie>beget=begetok</setcookie>
+			    </regex>
+                <thumbnail>http://i.imgur.com/nMRDVIU.png</thumbnail>
+                <fanart></fanart>
+                </item>	
+                ]]></listrepeat>
+                <expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>
+                <page>http://arenavision.us</page>
+                <Agent>Mozilla</Agent>
+                <referer>http://arenavision.us</referer>
+                <setcookie>beget=begetok</setcookie>
+                </regex>
+                <thumbnail>http://i.imgur.com/nMRDVIU.png</thumbnail>
+                <fanart></fanart>
+                </item>
 			</items>	
 	</channel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
