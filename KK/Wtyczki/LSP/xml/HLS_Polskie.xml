@@ -1143,13 +1143,6 @@
                   </subitem>
 				  
 				  <subitem>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]meczelive.tv[/B][/COLOR]</title>
-	              <thumbnail>https://lh5.ggpht.com/7_CoV4rOYryQtlU5Z-aEJZgXM7LmNbnF97uKc_POWJzl5wvY4ZHmqLlXMjRDaxbUOoAV=w300</thumbnail>
-                  <link>ignorme</link>
-                  <jsonrpc>plugin://plugin.video.mrknow/?item=url=sport/meczelive.tv.cfg&amp;mode=110</jsonrpc>
-                  </subitem>
-				
-				  <subitem>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]MrknowTV[/B][/COLOR]</title>
 	              <thumbnail>http://filmkodi.com/wp-content/uploads/2016/05/icon_small.png</thumbnail>
                   <link>ignorme</link>

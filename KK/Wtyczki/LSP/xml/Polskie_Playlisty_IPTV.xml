@@ -14,33 +14,6 @@
       <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	 
             <items>
-			  <item>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]85.219.133.18[/B][/COLOR]</title>
-			      <link>http://ignorame</link>
-			      <thumbnail>https://www.vboxcomm.com/images/M3U_icon.png</thumbnail>
-				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://85.219.133.18/iptv.m3u</externallink>
-			      <page></page>
-              </item> 
-			  
-			  <item>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]188.127.9.78[/B][/COLOR]</title>
-			      <thumbnail>https://www.vboxcomm.com/images/M3U_icon.png</thumbnail>
-				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-				  <link>$doregex[makelist]</link>
-                  <regex>
-                    <name>makelist</name>
-                    <listrepeat><![CDATA[
-                    <title>[makelist.param1]</title>
-                    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name= [makelist.param1]|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1&Buffer=20971520 live=1 timeout=30</link>
-                    <thumbnail>NA</thumbnail>
-                    ]]></listrepeat>
-                    <expres>#EXTINF:-1.*,(.*?)\n(.*)</expres>
-                    <page>http://188.127.9.78:9981/playlist/channels</page>
-                    <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-                  </regex>
-              </item>
-
 			 <item>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Wojtu[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
