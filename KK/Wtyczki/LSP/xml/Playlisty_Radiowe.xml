@@ -359,11 +359,19 @@
       <thumbnail>http://www.vboxcomm.com/images/M3U_icon.png</thumbnail>
       <fanart>http://edge.alluremedia.com.au/m/g/2014/06/shutterstock_197261408_1080.jpg</fanart>	
             <items>
-				<item>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]potokovoe.ru[/B][/COLOR]</title>
+			    <item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]potokovoe.ru (1)[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>http://www.satboerse24.de/images/dreambox_logo-1.jpg</thumbnail>
-                  <externallink>http://potokovoe.ru:8008/list.xsl</externallink>
+                  <externallink>http://potokovoe.ru/playlists/list.m3u</externallink>
+			      <page></page>
+                </item>
+			
+				<item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]potokovoe.ru (2)[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.satboerse24.de/images/dreambox_logo-1.jpg</thumbnail>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/potokovoe.ru-09.03.2018.m3u</externallink>
 			      <page></page>
                 </item>
 			
