@@ -1,9 +1,0 @@
-﻿#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Canal+Film
-rtmp://31.220.40.59:1935/live?keys=wgfNkdQHDoXuBIIWHvnzMw?keys=6Nxcmsi_gq7PQ6ysiu7cYA&keyt=1493649450 playpath=nfygjuryfyjgyj?keys=wgfNkdQHDoXuBIIWHvnzMw?keys=6Nxcmsi_gq7PQ6ysiu7cYA&keyt=1493649450 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=nfygjuryfyjgyj?keys=wgfNkdQHDoXuBIIWHvnzMw&width=900&height=510
-#EXTINF:-1,HBO
-rtmp://31.220.40.59:1935/live?keys=MKqan784aBNkMFMWD7JqxA?keys=vCmMIUu5RRzPQFBAmhBL_g&keyt=1493649520 playpath=fhkjgftiy?keys=MKqan784aBNkMFMWD7JqxA?keys=vCmMIUu5RRzPQFBAmhBL_g&keyt=1493649520 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=fhkjgftiy?keys=MKqan784aBNkMFMWD7JqxA&width=900&height=510
-#EXTINF:-1,HBO2
-rtmp://31.220.0.13:1935/live?keys=WuVKC5AEna_dTghDLeqAiA?keys=hkVwJi_eXiuIdBfPe4Qctw&keyt=1493649561 playpath=yuioyuyoyu?keys=WuVKC5AEna_dTghDLeqAiA?keys=hkVwJi_eXiuIdBfPe4Qctw&keyt=1493649561 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=yuioyuyoyu?keys=WuVKC5AEna_dTghDLeqAiA&width=900&height=510
-#EXTINF:-1,nSport
-rtmp://31.220.40.62:1935/live?keys=lNYmiuicEdy3QC8szPKf9g?keys=nQL33eyXaSCd4K4DLY31xQ&keyt=1493650139 playpath=gjfjkghkghkgh?keys=lNYmiuicEdy3QC8szPKf9g?keys=nQL33eyXaSCd4K4DLY31xQ&keyt=1493650139 swfUrl=http://dotstream.tv/clappr/RTMP.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=gjfjkghkghkgh?keys=lNYmiuicEdy3QC8szPKf9g&width=880&height=510
