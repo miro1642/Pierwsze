@@ -9,6 +9,22 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
     <channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Playlisty[/B][/COLOR]</name>
+      <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.playlistLoader.png.pagespeed.ic.cN3WazgAOp.png</thumbnail>
+      <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>	
+            <items>
+			    <item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]RMF ON[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.rmfon.pl/img/logo.png</thumbnail>
+                  <externallink>https://files.kusmierz.be/rmf/all.m3u</externallink>
+			      <page></page>
+                </item>
+			</items>	
+	</channel>			  
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+    <channel>
       <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Pojedyncze[/B][/COLOR]</name>
       <thumbnail>http://gimnazjum-miloslaw.edu.pl/wp-content/uploads/2016/03/first-public-radio-broadcast.jpg</thumbnail>
       <fanart>http://hnzyzb.com/data/out/11/44349659-music-wallpapers.jpg</fanart>
