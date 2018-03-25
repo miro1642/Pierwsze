@@ -3,7 +3,7 @@
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/10" group-title="radio",#popularne
 http://gr-relay-12.gaduradio.pl/10
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/53" group-title="radio",00's Hits
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/72" group-title="radio",00's Hits
 http://gr-relay-12.gaduradio.pl/72
  
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/74" group-title="radio",Dobranoc
@@ -15,13 +15,13 @@ http://gr-relay-12.gaduradio.pl/198
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/135" group-title="radio",100% Depeche Mode
 http://gr-relay-12.gaduradio.pl/135
  
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/15" group-title="radio",100% D¿em
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/15" group-title="radio",100% Dzem
 http://gr-relay-12.gaduradio.pl/15
 
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/134" group-title="radio",100% Ed Sheeran
 http://gr-relay-12.gaduradio.pl/134
  
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/73" group-title="radio",100% Graba¿
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/73" group-title="radio",100% Grabaz
 http://gr-relay-12.gaduradio.pl/73
 
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/64" group-title="radio",100% Hits
@@ -84,7 +84,7 @@ http://gr-relay-12.gaduradio.pl/3
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/14" group-title="radio",90's Hits
 http://gr-relay-12.gaduradio.pl/14
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/34" group-title="radio",Alt Café
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/34" group-title="radio",Alt Cafe
 http://gr-relay-12.gaduradio.pl/34
  
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/43" group-title="radio",Alt Classic
@@ -102,7 +102,7 @@ http://gr-relay-12.gaduradio.pl/36
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/40" group-title="radio",American Rock
 http://gr-relay-12.gaduradio.pl/40
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/20" group-title="radio",Ballady Wszech Czasów
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/20" group-title="radio",Ballady Wszech Czasow
 http://gr-relay-12.gaduradio.pl/20
 
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/129" group-title="radio",Beata Pawlikowska
@@ -114,7 +114,7 @@ http://gr-relay-12.gaduradio.pl/116
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/59" group-title="radio",Biesiada
 http://gr-relay-12.gaduradio.pl/59
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/66" group-title="radio",Biesiada Œl¹ska
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/66" group-title="radio",Biesiada Slaska
 http://gr-relay-12.gaduradio.pl/66
 
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/159" group-title="radio",Britpop
@@ -126,7 +126,7 @@ http://gr-relay-12.gaduradio.pl/141
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/33" group-title="radio",Chillout
 http://gr-relay-12.gaduradio.pl/33
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/13" group-title="radio",Ciê¿kie Brzmienia
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/13" group-title="radio",Ciezkie Brzmienia
 http://gr-relay-12.gaduradio.pl/13
 
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/46" group-title="radio",Classic Hits
@@ -165,17 +165,17 @@ http://gr-relay-12.gaduradio.pl/114
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/113" group-title="radio",Do Auta Rock
 http://gr-relay-12.gaduradio.pl/113
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/137" group-title="radio",Dobry Wieczór
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/137" group-title="radio",Dobry Wieczor
 http://gr-relay-12.gaduradio.pl/137
-
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/69" group-title="radio",Dzieñ Dobry!
-http://gr-relay-12.gaduradio.pl/69
 
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/41" group-title="radio",Drum'n'Bass
 http://gr-relay-12.gaduradio.pl/41
  
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/68" group-title="radio",Dubstep
 http://gr-relay-12.gaduradio.pl/68
+
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/69" group-title="radio",Dzien Dobry!
+http://gr-relay-12.gaduradio.pl/69
 
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/65" group-title="radio",Fitness
 http://gr-relay-12.gaduradio.pl/65
@@ -219,7 +219,7 @@ http://gr-relay-12.gaduradio.pl/146
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/115" group-title="radio",Hot 20: Najnowsze hity
 http://gr-relay-12.gaduradio.pl/115
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/162" group-title="radio",Hot 100: Gor¹ca Setka Hitów
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/162" group-title="radio",Hot 100: Goraca Setka Hitow
 http://gr-relay-12.gaduradio.pl/162
 
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/5" group-title="radio",House
@@ -246,13 +246,13 @@ http://gr-relay-12.gaduradio.pl/16
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/8" group-title="radio",Klub 90
 http://gr-relay-12.gaduradio.pl/8
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/142" group-title="radio",Ko³ysanki
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/142" group-title="radio",Kolysanki
 http://gr-relay-12.gaduradio.pl/142
 
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/161" group-title="radio",Koncentracja
 http://gr-relay-12.gaduradio.pl/161
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/37" group-title="radio",Kraina £agodnoœci
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/37" group-title="radio",Kraina Lagodnosci
 http://gr-relay-12.gaduradio.pl/37
 
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/19" group-title="radio",Latino Hits
@@ -279,13 +279,13 @@ http://gr-relay-12.gaduradio.pl/67
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/143" group-title="radio",Muzyka Motywacyjna
 http://gr-relay-12.gaduradio.pl/143
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/163" group-title="radio",Najwiêksze Przeboje XX wieku
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/163" group-title="radio",Najwieksze Przeboje XX wieku
 http://gr-relay-12.gaduradio.pl/163
 
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/117" group-title="radio",Nauka
 http://gr-relay-12.gaduradio.pl/117
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/52" group-title="radio",Odg³osy Natury
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/52" group-title="radio",Odglosy Natury
 http://gr-relay-12.gaduradio.pl/52
 
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/1" group-title="radio",Po Polsku
@@ -330,7 +330,7 @@ http://gr-relay-12.gaduradio.pl/168
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/112" group-title="radio",Relaks
 http://gr-relay-12.gaduradio.pl/112
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/25" group-title="radio",Retro Café
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/25" group-title="radio",Retro Cafe
 http://gr-relay-12.gaduradio.pl/25
 
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/61" group-title="radio",Rock Ballady
@@ -387,16 +387,16 @@ http://gr-relay-12.gaduradio.pl/99
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/131" group-title="radio",Top 2017 Hits
 http://gr-relay-12.gaduradio.pl/131
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/152" group-title="radio",Top Wszech Czasów - Polska
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/152" group-title="radio",Top Wszech Czasow - Polska
 http://gr-relay-12.gaduradio.pl/152
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/153" group-title="radio",Top Wszech Czasów - Rock
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/153" group-title="radio",Top Wszech Czasow - Rock
 http://gr-relay-12.gaduradio.pl/153
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/151" group-title="radio",Top Wszech Czasów - Œwiat
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/151" group-title="radio",Top Wszech Czasow - Œwiat
 http://gr-relay-12.gaduradio.pl/151
 
-#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/176" group-title="radio",Top Wszech Czasów Polskiego Hip-Hopu
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/176" group-title="radio",Top Wszech Czasow Polskiego Hip-Hopu
 http://gr-relay-12.gaduradio.pl/176
 
 #EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/200x200/7" group-title="radio",Trance
