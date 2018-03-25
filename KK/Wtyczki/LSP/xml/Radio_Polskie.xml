@@ -14,6 +14,14 @@
       <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>	
             <items>
 			    <item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]radioparty.pl[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://radioparty.pl/images/radioparty2017.png</thumbnail>
+                  <externallink>http://www.radioparty.pl/all.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]RMF ON[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>http://www.rmfon.pl/img/logo.png</thumbnail>
