@@ -258,7 +258,7 @@ http://gr-relay-12.gaduradio.pl/28
 #EXTINF:-1 radio="true" tvg-logo="openfmteens.png" group-title="radio",Teens
 http://gr-relay-12.gaduradio.pl/69
 
-#EXTINF:-1 radio="true" tvg-logo="20topdiscopolo.png" group-title="radio",Top 20 Disco Polo
+#EXTINF:-1 radio="true" tvg-logo="http://open.fm/logo/55x55/53" group-title="radio",Top 20 Disco Polo
 http://gr-relay-12.gaduradio.pl/53
  
 #EXTINF:-1 radio="true" tvg-logo="20tophiphop.png" group-title="radio",TOP 20 Hip-Hop
