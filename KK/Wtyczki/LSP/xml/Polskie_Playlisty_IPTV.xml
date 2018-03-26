@@ -15,11 +15,11 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	 
             <items>
 			 <item>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Wojtu[/B][/COLOR]</title>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]onlybest.tv[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
-			      <thumbnail>http://sharetv.blutu.pl/images/logo.png</thumbnail>
+			      <thumbnail>http://onlybest.tv/images/logo_ru.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://sharetv.pl/8f75e2ac169cfb5c2dd1ee3fec7e072d/0331235b636c297615728e2e59ccb3b4/lista.m3u?ulist=wojtu</externallink>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/PL_playlist.onlybest.tv.m3u</externallink>
 			      <page></page>
               </item>
 			  
@@ -28,25 +28,16 @@
 			      <link>http://ignorame</link>
 			      <thumbnail>http://sd-xbmc.org/repository/xbmc-addons/goldvod.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://sharetv.pl/8f75e2ac169cfb5c2dd1ee3fec7e072d/0331235b636c297615728e2e59ccb3b4/lista.m3u?ulist=gold</externallink>
-			      <page></page>
-              </item>
-			  
-			  <item>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]GoldVod 2[/B][/COLOR]</title>
-			      <link>http://ignorame</link>
-			      <thumbnail>http://sd-xbmc.org/repository/xbmc-addons/goldvod.png</thumbnail>
-				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
                   <externallink>http://api.j.pl/goldvod</externallink>
 			      <page></page>
               </item>
 			  
 			  <item>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Koti[/B][/COLOR]</title>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]udp[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>http://wp.iqbroadcast.net/wp-content/uploads/2015/03/IPTV.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://sharetv.pl/8f75e2ac169cfb5c2dd1ee3fec7e072d/0331235b636c297615728e2e59ccb3b4/lista.m3u?ulist=koti</externallink>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/udp.m3u</externallink>
 			      <page></page>
               </item>
 			</items> 
