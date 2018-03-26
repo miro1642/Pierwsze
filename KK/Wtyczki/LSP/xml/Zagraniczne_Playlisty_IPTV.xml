@@ -85,6 +85,20 @@
                   </regex>>
                 </subitem>
 			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Różne listy[/B][/COLOR]</name>
+		  <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtTCcuAMR27C0oC70TIBO3cqSBn-W1Rax2LdZiOr0hy5olHich</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]onlybest.tv[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://onlybest.tv/images/logo_ru.png</thumbnail>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/PL_playlist.onlybest.tv.m3u</externallink>
+			      <page></page>
+                </subitem>
+			</subitems>	
         </subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
@@ -549,66 +563,6 @@
 
 
 
-<subitem>
-<title>[B][COLOR white]IPTVULTRA[/COLOR][/B]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[cats]</link>
-<regex>
-<name>cats</name>
-<listrepeat><![CDATA[
-<title>[cats.param2]</title>
-<link>$doregex[makelist]</link>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import cache,client,workers
-    import re,urllib,xbmc,xbmcgui
-    u = client.request('http://www.iptvultra.com/')
-    u = re.findall('(?s)<li>.+?f=\'([^\']*)\'>([^<]*)', u)
-    checks = ['label']; e =[]
-    for i in u:
-        if any(f for f in checks if f in i[0]): e.append((i[0],i[1]))
-    return e
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<link>$doregex[zodiac]</link>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import cache,client,workers
-    import re,urllib,xbmc,xbmcgui
-    u = client.request('[cats.param1]')
-    u = re.findall('(?s)hentry\'>.+?f=\'([^\']*).+?,\'([^\']*)', u)
-    checks = ['Files','Premium']; e =[]
-    for i in u:
-        if not any(f for f in checks if f in i[1]): e.append((i[0],i[1]))
-    return e
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>zodiac</name>
-<listrepeat><![CDATA[
-<title>[zodiac.param1][B][COLOR white] [zodiac.param2][/COLOR][/B]</title>
-<link>[zodiac.param3]</link>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import client
-    import re, urllib, base64, xbmcgui, json
-    u = client.request('[makelist.param1]')
-    e = re.findall('"\d+.+?\]([^\[]*).+?\d+x(.+?)\[@\]([^"]*)', u)
-    return e
-]]></expres>
-<page></page>
-</regex>
-</subitem>
 
 
 
