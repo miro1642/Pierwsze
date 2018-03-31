@@ -94,36 +94,37 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	<channel>
       <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Zet[/B][/COLOR]</name>
-      <thumbnail>http://gfx.radiozet.pl/design/radiozet/images/layout/logo.png</thumbnail>
+      <thumbnail>http://www.radiostacja.pl/images/logos/59b696f031363.png</thumbnail>
       <fanart>https://i.ytimg.com/vi/AmodMcA4Kc4/maxresdefault.jpg</fanart>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio ZET[/B][/COLOR]</name>
-          <thumbnail>http://gfx.radiozet.pl/design/radiozet/images/layout/logo.png</thumbnail>
+          <thumbnail>http://www.radiostacja.pl/images/logos/59b696f031363.png</thumbnail>
             <subitems>
 		    <subitem>
                 <title>[COLOR lightyellow]Radio ZET[/COLOR]</title>
-                <link>http://n-0-21.dcs.redcdn.pl/streams/o2/Eurozet/live/audio.livx$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				<link>http://radiozetmp3-07.eurozet.pl:8400$$lsname=LINK 2</link>
-                <thumbnail>http://gfx.radiozet.pl/design/radiozet/images/layout/logo.png</thumbnail>
+				<link>http://zet-tun.cdn.eurozet.pl:8080$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5$$lsname=LINK 2</link>
+                <thumbnail>http://www.radiostacja.pl/images/logos/59b696f031363.png</thumbnail>
             </subitem> 
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET 80[/COLOR]</title>
-                <link>http://zet080-01.cdn.eurozet.pl:8402</link>
-                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-80/66427-5-pol-PL/ZET-80_resize200x200.png</thumbnail>
+				<link>http://zet01.cdn.eurozet.pl:8402/ZET080.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://zet080-01.cdn.eurozet.pl:8402$$lsname=LINK 2</link>
+                <thumbnail>https://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-80/27923-1-pol-PL/ZET-80_channel-list180x180.png</thumbnail>
             </subitem> 
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET 90[/COLOR]</title>
-                <link>http://rds.eurozet.pl/reader/var/zet090_new.json?_=1469732916502</link>
-                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-90/66667-3-pol-PL/ZET-90_resize200x200.png</thumbnail>
+                <link>http://zet01.cdn.eurozet.pl:8404/ZET090.mp3</link>
+                <thumbnail>hhttps://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-90/28153-1-pol-PL/ZET-90_channel-list180x180.png</thumbnail>
             </subitem> 
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET 2000[/COLOR]</title>
                 <link>http://zet200-02.cdn.eurozet.pl:8406/;stream.nsv?seed=19074.504249729216</link>
-                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-2000/68879-3-pol-PL/ZET-2000_resize200x200.png</thumbnail>
+                <thumbnail>https://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-2000/28429-1-pol-PL/ZET-2000_channel-list180x180.png</thumbnail>
             </subitem> 
 			
 			<subitem>
@@ -134,74 +135,90 @@
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET Classic Rock[/COLOR]</title>
-                <link>http://zetcrk-01.cdn.eurozet.pl:8414/;stream.nsv?seed=8757.626144215465</link>
-                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-classic-rock/69597-3-pol-PL/ZET-Classic-Rock_resize200x200.png</thumbnail>
+				<link>http://zet01.cdn.eurozet.pl:8414/ZETCRK.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://zetcrk-01.cdn.eurozet.pl:8414/;stream.nsv?seed=8757.626144215465$$lsname=LINK 2</link>
+                <thumbnail></thumbnail>
             </subitem> 
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET Dance[/COLOR]</title>
-                <link>http://zetdan-01.cdn.eurozet.pl:8416/;stream.nsv?seed=386.8713928386569</link>
-                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-dance/66065-4-pol-PL/ZET-Dance_resize200x200.png</thumbnail>
+				<link>http://zet01.cdn.eurozet.pl:8416/ZETDAN.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://zetdan-01.cdn.eurozet.pl:8416/;stream.nsv?seed=386.8713928386569$$lsname=LINK 2</link>
+                <thumbnail>https://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-dance/27739-1-pol-PL/ZET-Dance_channel-list180x180.png</thumbnail>
             </subitem> 
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET Do Biegania[/COLOR]</title>
-                <link>http://zetrun-01.cdn.eurozet.pl:8452/;stream.nsv?seed=28066.115900874138</link>
+				<link>http://zet01.cdn.eurozet.pl:8452/ZETRUN.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://zetrun-01.cdn.eurozet.pl:8452/;stream.nsv?seed=28066.115900874138$$lsname=LINK 2</link>
                 <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-do-biegania/68831-4-pol-PL/ZET-Do-Biegania_resize200x200.png</thumbnail>
             </subitem> 
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET Film[/COLOR]</title>
-                <link>http://zetfil-01.cdn.eurozet.pl:8418/;stream.nsv?seed=26511.275111697614</link>
+				<link>http://zet01.cdn.eurozet.pl:8418/ZETFIL.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://zetfil-01.cdn.eurozet.pl:8418/;stream.nsv?seed=26511.275111697614$$lsname=LINK 2</link>
                 <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-film/66715-3-pol-PL/ZET-Film_resize200x200.png</thumbnail>
             </subitem> 
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET Fitness[/COLOR]</title>
-                <link>http://zetfit-01.cdn.eurozet.pl:8420/;stream.nsv?seed=7236.501784063876</link>
+				<link>http://zet01.cdn.eurozet.pl:8420/ZETFIT.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://zetfit-01.cdn.eurozet.pl:8420/;stream.nsv?seed=7236.501784063876$$lsname=LINK 2</link>
                 <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-fitness/66763-3-pol-PL/ZET-Fitness_resize200x200.png</thumbnail>
             </subitem> 
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET Hits[/COLOR]</title>
-                <link>http://zethit-01.cdn.eurozet.pl:8428/;stream.nsv?seed=9394.781738519669</link>
-                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-hits/66017-5-pol-PL/ZET-Hits_resize200x200.png</thumbnail>
+				<link>http://zet01.cdn.eurozet.pl:8428/ZETHIT.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://zethit-01.cdn.eurozet.pl:8428/;stream.nsv?seed=9394.781738519669$$lsname=LINK 2</link>
+                <thumbnail>https://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-hits/27693-1-pol-PL/ZET-Hits_channel-list180x180.png</thumbnail>
             </subitem> 
 			
 			<subitem>
-                <title>[COLOR lightyellow]ZET ZET Kids[/COLOR]</title>
-                <link>http://zetkid-02.cdn.eurozet.pl:8434/;stream.nsv?seed=18661.197409965098</link>
-                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-kids/66825-3-pol-PL/ZET-Kids_resize200x200.png</thumbnail>
+                <title>[COLOR lightyellow]ZET Hot[/COLOR]</title>
+				<link>http://zet01.cdn.eurozet.pl:8430/ZETHOT.mp3</link>
+                <thumbnail>https://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-hot/28337-1-pol-PL/ZET-Hot_channel-list180x180.png</thumbnail>
+            </subitem>
+			
+			<subitem>
+                <title>[COLOR lightyellow]ZET Kids[/COLOR]</title>
+				<link>http://zet01.cdn.eurozet.pl:8434/ZETKID.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://zetkid-02.cdn.eurozet.pl:8434/;stream.nsv?seed=18661.197409965098$$lsname=LINK 2</link>
+                <thumbnail>https://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-kids/28291-1-pol-PL/ZET-Kids_channel-list180x180.png</thumbnail>
             </subitem> 
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET Klasyka pop[/COLOR]</title>
-                <link>http://zetgol-01.cdn.eurozet.pl:8424/;stream.nsv?seed=29046.243550255895</link>
+				<link>http://zet01.cdn.eurozet.pl:8424/ZETGOL.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://zetgol-01.cdn.eurozet.pl:8424/;stream.nsv?seed=29046.243550255895$$lsname=LINK 2</link>
                 <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-klasyka-pop/66571-3-pol-PL/ZET-Klasyka-pop_resize200x200.png</thumbnail>
             </subitem> 
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET Love[/COLOR]</title>
-                <link>http://zetlov-01.cdn.eurozet.pl:8440/;stream.nsv?seed=20334.61867365986</link>
-                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-love/66523-3-pol-PL/ZET-Love_resize200x200.png</thumbnail>
+				<link>http://zet01.cdn.eurozet.pl:8440/ZETLOV.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://zetlov-01.cdn.eurozet.pl:8440/;stream.nsv?seed=20334.61867365986$$lsname=LINK 2</link>
+                <thumbnail>https://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-love/28015-1-pol-PL/ZET-Love_channel-list180x180.png</thumbnail>
             </subitem> 
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET Party[/COLOR]</title>
-                <link>http://zetpar-01.cdn.eurozet.pl:8444/;stream.nsv?seed=15991.938128136098</link>
-                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-party/66113-4-pol-PL/ZET-Party_resize200x200.png</thumbnail>
+				<link>http://zet01.cdn.eurozet.pl:8444/ZETPAR.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://zetpar-01.cdn.eurozet.pl:8444/;stream.nsv?seed=15991.938128136098$$lsname=LINK 2</link>
+                <thumbnail>https://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-party/27785-1-pol-PL/ZET-Party_channel-list180x180.png</thumbnail>
             </subitem> 
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET PL[/COLOR]</title>
                 <link>http://zetpl1-01.cdn.eurozet.pl:8446/;stream.nsv?seed=2536.0159249976277</link>
-                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-pl/66379-4-pol-PL/ZET-PL_resize200x200.png</thumbnail>
+                <thumbnail>https://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-pl/27877-1-pol-PL/ZET-PL_channel-list180x180.png</thumbnail>
             </subitem> 
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET Rock[/COLOR]</title>
                 <link>http://zetrok-01.cdn.eurozet.pl:8448/;stream.nsv?seed=18022.39343058318</link>
-                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-rock/66475-4-pol-PL/ZET-Rock_resize200x200.png</thumbnail>
+                <thumbnail>https://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-rock/27969-1-pol-PL/ZET-Rock_channel-list180x180.png</thumbnail>
             </subitem> 
 			
 			<subitem>
@@ -219,68 +236,76 @@
 	    </subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio ZET Chilli[/B][/COLOR]</name>
-          <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/redakcja/zet-chilli/328527-2-pol-PL/ZET-Chilli.jpg</thumbnail>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Chilli Zet[/B][/COLOR]</name>
+          <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Chillizet-logo-2017.png/revision/latest?cb=20170619092754</thumbnail>
 		  <fanart>https://i.ytimg.com/vi/t45h80Ax1n8/maxresdefault.jpg</fanart>
             <subitems>
 			    <subitem>
-                  <title>[COLOR lightyellow]ZET Chilli Biega[/COLOR]</title>
-			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-biega/3723-3-pol-PL/ZET-Chilli-Biega1_eplayer-channel.jpg</thumbnail>
-                  <link>http://chirun-01.cdn.eurozet.pl:8118/;channel.mp3</link>	
+                  <title>[COLOR lightyellow]Chilli Zet Biega[/COLOR]</title>
+			      <thumbnail>https://gfx.chillizet.pl/var/zetchilli/storage/images/radio/kanaly/chillizet-biega/3723-6-pol-PL/Chillizet-Biega_eplayer-channel.png</thumbnail>
+				  <link>https://ch.cdn.eurozet.pl/CHIRUN.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://chirun-01.cdn.eurozet.pl:8118/;channel.mp3$$lsname=LINK 2</link>	
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR lightyellow]ZET Chilli Covers[/COLOR]</title>
-			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-covers/3963-2-pol-PL/ZET-Chilli-Covers1_eplayer-channel.jpg</thumbnail>
-                  <link>http://chicov-01.cdn.eurozet.pl:8102/;channel.mp3</link>	
+                  <title>[COLOR lightyellow]Chilli Zet Covers[/COLOR]</title>
+			      <thumbnail>https://gfx.chillizet.pl/var/zetchilli/storage/images/radio/kanaly/chillizet-covers/3963-7-pol-PL/Chillizet-Covers_eplayer-channel.png</thumbnail>
+				  <link>https://ch.cdn.eurozet.pl/CHICOV.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://chicov-01.cdn.eurozet.pl:8102/;channel.mp3$$lsname=LINK 2</link>	
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR lightyellow]ZET Chilli Deep[/COLOR]</title>
-			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-deep/3867-2-pol-PL/ZET-Chilli-Deep1_eplayer-channel.jpg</thumbnail>
-                  <link>http://chidep-01.cdn.eurozet.pl:8104/;channel.mp3</link>	
+                  <title>[COLOR lightyellow]Chilli Zet Deep[/COLOR]</title>
+			      <thumbnail>https://gfx.chillizet.pl/var/zetchilli/storage/images/radio/kanaly/chillizet-deep/3867-6-pol-PL/Chillizet-Deep_eplayer-channel.png</thumbnail>
+				  <link>https://ch.cdn.eurozet.pl/CHIDEP.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://chidep-01.cdn.eurozet.pl:8104/;channel.mp3$$lsname=LINK 2</link>	
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR lightyellow]ZET Chilli Katowice[/COLOR]</title>
-			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-online-katowice/3675-2-pol-PL/ZET-Chilli-online-Katowice1_eplayer-channel.jpg</thumbnail>
-                  <link>http://chi-kat-01.cdn.eurozet.pl:8902/;channel.mp3</link>	
+                  <title>[COLOR lightyellow]Chilli Zet Katowice[/COLOR]</title>
+			      <thumbnail>https://gfx.chillizet.pl/var/zetchilli/storage/images/radio/kanaly/chillizet-online-katowice/3675-7-pol-PL/Chillizet-online-Katowice_eplayer-channel.png</thumbnail>
+				  <link>https://ch.cdn.eurozet.pl/chi-kat.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://chi-kat-01.cdn.eurozet.pl:8902/;channel.mp3$$lsname=LINK 2</link>	
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR lightyellow]ZET Chilli Kraków[/COLOR]</title>
-			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-online-krakow/3627-2-pol-PL/ZET-Chilli-online-Krakow1_eplayer-channel.jpg</thumbnail>
-                  <link>http://chi-net-01.cdn.eurozet.pl:8900/;channel.mp3</link>	
+                  <title>[COLOR lightyellow]Chilli Zet Kraków[/COLOR]</title>
+			      <thumbnail>https://gfx.chillizet.pl/var/zetchilli/storage/images/radio/kanaly/chillizet-online-krakow/3627-7-pol-PL/Chillizet-online-Krakow_eplayer-channel.png</thumbnail>
+				  <link>http://chi.cdn.eurozet.pl/chi-net.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://chi-net-01.cdn.eurozet.pl:8900/;channel.mp3$$lsname=LINK 2</link>	
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR lightyellow]ZET Chilli Ladies[/COLOR]</title>
-			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-ladies/4011-2-pol-PL/ZET-Chilli-Ladies1_eplayer-channel.jpg</thumbnail>
-                  <link>http://chilad-01.cdn.eurozet.pl:8108/;channel.mp3</link>	
+                  <title>[COLOR lightyellow]Chilli Zet Ladies[/COLOR]</title>
+			      <thumbnail>https://gfx.chillizet.pl/var/zetchilli/storage/images/radio/kanaly/chillizet-ladies/4011-7-pol-PL/Chillizet-Ladies_eplayer-channel.png</thumbnail>
+				  <link>https://ch.cdn.eurozet.pl/CHILAD.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://chilad-01.cdn.eurozet.pl:8108/;channel.mp3$$lsname=LINK 2</link>	
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR lightyellow]ZET Chilli PL[/COLOR]</title>
-			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-pl/3915-3-pol-PL/ZET-Chilli-PL1_eplayer-channel.jpg</thumbnail>
-                  <link>http://chipol-01.cdn.eurozet.pl:8110/;channel.mp3</link>	
+                  <title>[COLOR lightyellow]Chilli Zet PL[/COLOR]</title>
+			      <thumbnail>https://gfx.chillizet.pl/var/zetchilli/storage/images/radio/kanaly/chillizet-pl/3915-7-pol-PL/Chillizet-PL_eplayer-channel.png</thumbnail>
+                  <link>https://ch.cdn.eurozet.pl/CHIPOL.mp3</link>	
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR lightyellow]ZET Chilli Rafał Bryndal Jazz Quartet[/COLOR]</title>
+                  <title>[COLOR lightyellow]Chilli Zet Rafał Bryndal Jazz Quartet[/COLOR]</title>
 			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-jazz/3819-2-pol-PL/ZET-Chilli-Jazz1_eplayer-channel.jpg</thumbnail>
                   <link>http://chijaz-01.cdn.eurozet.pl:8106/;channel.mp3</link>	
 				</subitem>
 				
 				<subitem>
-                  <title>[COLOR lightyellow]ZET Chilli Soul[/COLOR]</title>
-			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-soul/4059-2-pol-PL/ZET-Chilli-Soul1_eplayer-channel.jpg</thumbnail>
-                  <link>http://chisou-01.cdn.eurozet.pl:8112/;channel.mp3</link>	
+                  <title>[COLOR lightyellow]Chilli Zet Soul[/COLOR]</title>
+			      <thumbnail>https://gfx.chillizet.pl/var/zetchilli/storage/images/radio/kanaly/chillizet-soul/4059-6-pol-PL/Chillizet-Soul_eplayer-channel.png</thumbnail>
+				  <link>https://ch.cdn.eurozet.pl/CHISOU.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://chisou-01.cdn.eurozet.pl:8112/;channel.mp3$$lsname=LINK 2</link>	
 				</subitem>
 			
 			    <subitem>
-                  <title>[COLOR lightyellow]ZET Chilli Wawarsza[/COLOR]</title>
-			      <thumbnail>http://gfx.zetchilli.pl/var/zetchilli/storage/images/muzyka/kanaly/zet-chilli-online-warszawa/3771-4-pol-PL/ZET-Chilli-online-Warszawa1_eplayer-channel.jpg</thumbnail>
-                  <link>http://n-6-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx?audio=5</link>	
+                  <title>[COLOR lightyellow]Chilli Zet Wawarsza[/COLOR]</title>
+			      <thumbnail>https://gfx.chillizet.pl/var/zetchilli/storage/images/radio/kanaly/chillizet-online-warszawa/3771-17-pol-PL/Chillizet-online-Warszawa_eplayer-channel.png</thumbnail>
+                  <link>http://r.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx?audio=5$$LSPlayOnlyOne$$$$lsname=LINK 1</link>	
+				  <link>http://n-6-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx?audio=5$$lsname=LINK 2</link>
 				</subitem>
 			</subitems>	
         </subchannel>	
