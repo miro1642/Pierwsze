@@ -30,6 +30,14 @@
                 </item>
 				
 				<item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]radiostacja.pl[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.radiostacja.pl/images/inne/logo-do-skasowania.png</thumbnail>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/radiostacja%2Cpl.m3u</externallink>
+			      <page></page>
+                </item>
+				
+				<item>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]RMF ON[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>http://www.rmfon.pl/img/logo.png</thumbnail>
@@ -123,7 +131,9 @@
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET 2000[/COLOR]</title>
-                <link>http://zet200-02.cdn.eurozet.pl:8406/;stream.nsv?seed=19074.504249729216</link>
+                <link></link>
+				<link>http://zet01.cdn.eurozet.pl:8406/ZET200.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://zet200-02.cdn.eurozet.pl:8406/;stream.nsv?seed=19074.504249729216$$lsname=LINK 2</link>
                 <thumbnail>https://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-2000/28429-1-pol-PL/ZET-2000_channel-list180x180.png</thumbnail>
             </subitem> 
 			
@@ -169,7 +179,7 @@
             </subitem> 
 			
 			<subitem>
-                <title>[COLOR lightyellow]ZET Hits[/COLOR]</title>
+                <title>[COLOR lightyellow]ZET Hit[/COLOR]</title>
 				<link>http://zet01.cdn.eurozet.pl:8428/ZETHIT.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
                 <link>http://zethit-01.cdn.eurozet.pl:8428/;stream.nsv?seed=9394.781738519669$$lsname=LINK 2</link>
                 <thumbnail>https://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-hits/27693-1-pol-PL/ZET-Hits_channel-list180x180.png</thumbnail>
@@ -211,13 +221,15 @@
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET PL[/COLOR]</title>
-                <link>http://zetpl1-01.cdn.eurozet.pl:8446/;stream.nsv?seed=2536.0159249976277</link>
+				<link>http://zet01.cdn.eurozet.pl:8446/ZETPL1.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://zetpl1-01.cdn.eurozet.pl:8446/;stream.nsv?seed=2536.0159249976277$$lsname=LINK 2</link>
                 <thumbnail>https://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-pl/27877-1-pol-PL/ZET-PL_channel-list180x180.png</thumbnail>
             </subitem> 
 			
 			<subitem>
                 <title>[COLOR lightyellow]ZET Rock[/COLOR]</title>
-                <link>http://zetrok-01.cdn.eurozet.pl:8448/;stream.nsv?seed=18022.39343058318</link>
+				<link>http://zet01.cdn.eurozet.pl:8448/ZETROK.mp3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                <link>http://zetrok-01.cdn.eurozet.pl:8448/;stream.nsv?seed=18022.39343058318$$lsname=LINK 2</link>
                 <thumbnail>https://gfx.radiozet.pl/var/radiozet/storage/images/radio/kanaly-muzyczne/zet-rock/27969-1-pol-PL/ZET-Rock_channel-list180x180.png</thumbnail>
             </subitem> 
 			
