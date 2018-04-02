@@ -88,6 +88,20 @@
         </subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Minha Lista[/B][/COLOR]</name>
+		  <thumbnail>https://cdn6.aptoide.com/imgs/4/f/a/4fa5cfd0536c89f491b78722b876bd99_icon.png?w=240</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]FUNERAL[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://cdn6.aptoide.com/imgs/4/f/a/4fa5cfd0536c89f491b78722b876bd99_icon.png?w=240</thumbnail>
+                  <externallink>https://minhalista.live/FUNERAL</externallink>
+			      <page></page>
+                </subitem>
+			</subitems>	
+        </subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Różne listy[/B][/COLOR]</name>
 		  <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtTCcuAMR27C0oC70TIBO3cqSBn-W1Rax2LdZiOr0hy5olHich</thumbnail>
             <subitems>
@@ -998,26 +1012,31 @@
 	<fanart>[makelist1.param5]</fanart>
 ]]></listrepeat>
 <expres><![CDATA["(.*?)\s+--\s+(.*?)\s+--\s+(.*?)\s+--\s+(.*?)\s+--\s+(.*?)"]]></expres>
-<page>"clientportal.link -- abc123 -- 321cba --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal/abc123[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clientportal.link:8080 -- abc123 -- 321cba --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal:8080/abc123[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clients.clientportal.link -- abc123 -- 321cba --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal/abc123[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clients.clientportal.link:8080 -- abc123 -- 321cba --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal:8080/abc123[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"sekoiptv.ddns.net:8080 -- ramazan1 -- ramazan1 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] sekoiptv.ddns.net/ramazan1[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"4kip.tv:1795 -- showmax24 -- 46bc8v --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 4kip.tv/showmax24[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"p1.iptvprivateserver.tv -- 653270232840 -- 653270232840 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] p1.iptvprivateserver.tv/653270232840[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"iptv.srbija.stream:25461 -- fastskype -- iptvskype --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] iptv.srbija.stream/fastskype[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"www.xa1q.com:8000 -- faicel.07 -- YyPXfqjUw3 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] www.xa1q.com/faicel.07[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"hdlivetv.de:8000 -- Puerkel -- SoTdHpMMR2 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] hdlivetv.de/Puerkel[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"151.80.35.29:25461 -- 2000 -- 2000 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 151.80.35.29/2000[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"ns3004967.ip-151-80-35.eu:25461 -- raul -- raul --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] ns3004967.ip-151-80-35.eu/raul[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clientportal.link:8080 -- philip -- philip --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal:8080/philip[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clients.clientportal.link -- philip -- philip --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal/philip[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clients.clientportal.link:8080 -- philip -- philip --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal:8080/philip[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clientportal.link -- vi -- vi --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal/vi[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clientportal.link:8080 -- vi -- vi --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal.link:vi[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clients.clientportal.link -- vi -- vi --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal/vi[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"clients.clientportal.link:8080 -- vi -- vi --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clients.clientportal:8080/vi[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"localhd.tv:8081 -- pedro -- skype --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] localhd.tv[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://yt3.ggpht.com/-tlF8cIOlxQ8/AAAAAAAAAAI/AAAAAAAAAAA/OqU8Y8UoaYo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"</page>
+<page>"142.44.212.105:8000 -- michael -- michael --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] michael[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- george -- george --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] george[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- anthony -- anthony --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] anthony[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- andrea -- andrea --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] andrea[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- johnson -- johnson --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] johnson[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- dennis -- dennis --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] dennis[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- green -- green --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] green[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- kevin -- kevin --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] kevin[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- frank -- frank --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] frank[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- paul -- paul --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] paul[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- eric -- eric --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] eric[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- sunday -- sunday --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] sunday[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- david1 -- david1 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] david1[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- dominic -- dominic --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] dominic[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- gilbert -- gilbert --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] gilbert[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- felix -- felix --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] felix[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- lucas -- lucas --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] lucas[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- samsam -- samsam --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] samsam[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- kenny -- kenny --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] kenny[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- kevin1 -- kevin1 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] kevin1[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- juliet -- juliet --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] juliet[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- alan -- alan --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] alan[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- gary -- gary --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] gary[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- steve1 -- steve1 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] steve1[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"142.44.212.105:8000 -- andrew1 -- andrew1 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] andrew1[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://yt3.ggpht.com/-tlF8cIOlxQ8/AAAAAAAAAAI/AAAAAAAAAAA/OqU8Y8UoaYo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"</page>
 <agent>VLC/2.2.1 LibVLC/2.2.17</agent>
 </regex>
 <regex>

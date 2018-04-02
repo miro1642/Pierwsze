@@ -150,7 +150,7 @@
           <thumbnail>http://satkurier.pl/uploads/54415.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>576p</title>
+                  <title>404p</title>
 	              <thumbnail>http://satkurier.pl/uploads/54415.jpg</thumbnail>
                   <link>http://hls.redefine.pl/2910C1B2/1563/0/hls576/576p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/2910C1B2/1563/0/hls576/masterlist.m3u8$$lsname=LINK 2</link>
@@ -257,16 +257,26 @@
 	      <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3d/3doyzx9npkd4brj8do5uvf8wqp8zw8vs.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>576p</title>
+                  <title>404p</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3d/3doyzx9npkd4brj8do5uvf8wqp8zw8vs.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/76929AC6/1571/0/hls576/576p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/76929AC6/1571/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
+                  <link>http://hls.redefine.pl/76929AC6/1571/0/hls576/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&amp;initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/76929AC6/1571/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
-				
+	
 				<subitem>
                   <title>288p</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3d/3doyzx9npkd4brj8do5uvf8wqp8zw8vs.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/62B2091C/1571/0/hls/masterlist.m3u8</link>
+				  <link>http://hls.redefine.pl/76929AC6/1571/0/hls576/mob1/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://hls.redefine.pl/62B2091C/1571/0/hls/masterlist.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/62B2091C/1571/0/hls/mob1/list.m3u8$$lsname=LINK 3</link>
+				  <link>http://hls.redefine.pl/62B2091C/1571/0/hls/mob2/list.m3u8$$lsname=LINK 4</link>
+                </subitem>
+				
+				<subitem>
+                  <title>72p</title>
+	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3d/3doyzx9npkd4brj8do5uvf8wqp8zw8vs.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/76929AC6/1571/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/62B2091C/1571/0/hls/mob4/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 			</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
@@ -422,7 +432,8 @@
 			    <subitem>
                   <title>HD</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/q3/q3rxb6jkopn5qd1ibn7h53k7327xe361.jpg</thumbnail>
-				  <link>http://hls.redefine.pl/66EB39A9/11379/0/hls720/masterlist.m3u8</link>
+				  <link>http://hls.redefine.pl/66EB39A9/11379/0/hls720/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/66EB39A9/11379/0/hls720/720p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
@@ -488,14 +499,25 @@
 			    <subitem>
                   <title>576p</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/g4/g4mf6zehns8xqdjagz652qox39xg51sr.jpg</thumbnail>
-				  <link>http://hls.redefine.pl/97100F84/1577/0/hls576/masterlist.m3u8</link>
+				  <link>http://hls.redefine.pl/97100F84/1577/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
-                  <title>320p</title>
+                  <title>288p</title>
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/g4/g4mf6zehns8xqdjagz652qox39xg51sr.jpg</thumbnail>
-				  <link>http://hls.redefine.pl/4209289C/1577/0/hls/masterlist.m3u8</link>
-                </subitem>				
+				  <link>http://hls.redefine.pl/97100F84/1577/0/hls576/mob1/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/4209289C/1577/0/hls/masterlist.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/4209289C/1577/0/hls/mob1/list.m3u8$$lsname=LINK 3</link>
+				  <link>http://hls.redefine.pl/4209289C/1577/0/hls/mob2/list.m3u8$$lsname=LINK 4</link>
+                </subitem>		
+
+				<subitem>
+                  <title>72p</title>
+	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/g4/g4mf6zehns8xqdjagz652qox39xg51sr.jpg</thumbnail>
+				  <link>http://hls.redefine.pl/97100F84/1577/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/4209289C/1577/0/hls/mob4/list.m3u8$$lsname=LINK 2</link>
+                </subitem>	
 			</subitems>	
 		</subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
@@ -582,7 +604,7 @@
                 </subitem>				
 			</subitems>	
 		</subchannel>									
-	</channel>	
+	</channel>
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 	    <channel>
@@ -635,60 +657,113 @@
                   <link>http://rtmp.hopechannel.pl/livetv/colombo/hope_low/index.m3u8</link>
                 </subitem>	
 			  </subitems>	
-            </subchannel>				
+            </subchannel>
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 	        <subchannel>
-            <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Lech TV[/B][/COLOR]</name>
-            <thumbnail>http://img.lechpoznan.pl/lechcup/layout2014/images/lech-tv.png</thumbnail>
+            <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Imperium TV[/B][/COLOR]</name>
+            <thumbnail>https://tvimperium.pl/wp-content/uploads/2017/08/Logo_site.png</thumbnail>
               <subitems>
 			    <subitem>
                   <title>[COLOR lightyellow]HD[/COLOR]</title>
-			      <thumbnail>http://img.lechpoznan.pl/lechcup/layout2014/images/lech-tv.png</thumbnail>
-                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-b-lechtv/live.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-b-lechtv/live-wtk-b-lechtv-3600k.m3u8$$lsname=LINK 2</link>
-                </subitem>
-
+			      <thumbnail>https://tvimperium.pl/wp-content/uploads/2017/08/Logo_site.png</thumbnail>
+                  <link>https://cdn1.mediasoftware.pl/ram/hls_adaptive/tvimperium.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://cdn1.mediasoftware.pl/ram/hls_adaptive/tvimperium_hi/index.m3u8$$lsname=LINK 2</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>https://tvimperium.pl/wp-content/uploads/2017/08/Logo_site.png</thumbnail>
+				  <link>https://cdn1.mediasoftware.pl/ram/hls_adaptive/tvimperium_med/index.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://tvimperium.pl/wp-content/uploads/2017/08/Logo_site.png</thumbnail>
+				  <link>https://cdn1.mediasoftware.pl/ram/hls_adaptive/tvimperium_low/index.m3u8</link>
+                </subitem>	
+			  </subitems>	
+            </subchannel>
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	        <subchannel>
+            <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Lech TV[/B][/COLOR]</name>
+            <thumbnail>http://lech.tv/graphics_new/all/lechtv_logo_top.png</thumbnail>
+              <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>http://lech.tv/graphics_new/all/lechtv_logo_top.png</thumbnail>
+                  <link>https://redir.cache.orange.pl/jupiter/o1-cl3/live/wtk-b-lechtv/live.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://redir.cache.orange.pl/jupiter/o1-cl3/live/wtk-b-lechtv/live-wtk-b-lechtv-3600k.m3u8$$lsname=LINK 2</link>
+                </subitem>	
+				
 				<subitem>
                   <title>[COLOR lightyellow]576p[/COLOR]</title>
-			      <thumbnail>http://img.lechpoznan.pl/lechcup/layout2014/images/lech-tv.png</thumbnail>
-                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-b-lechtv/live-wtk-b-lechtv-2400k.m3u8</link>
-                </subitem>
+			      <thumbnail>http://lech.tv/graphics_new/all/lechtv_logo_top.png</thumbnail>
+				  <link>https://redir.cache.orange.pl/jupiter/o1-cl3/live/wtk-b-lechtv/live-wtk-b-lechtv-2400k.m3u8</link>
+                </subitem>	
 				
 				<subitem>
                   <title>[COLOR lightyellow]404p[/COLOR]</title>
-			      <thumbnail>http://img.lechpoznan.pl/lechcup/layout2014/images/lech-tv.png</thumbnail>
-                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-b-lechtv/live-wtk-b-lechtv-1700k.m3u8</link>
+			      <thumbnail>http://lech.tv/graphics_new/all/lechtv_logo_top.png</thumbnail>
+				  <link>https://redir.cache.orange.pl/jupiter/o1-cl3/live/wtk-b-lechtv/live-wtk-b-lechtv-1700k.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]288p[/COLOR]</title>
-			      <thumbnail>http://img.lechpoznan.pl/lechcup/layout2014/images/lech-tv.png</thumbnail>
-                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-b-lechtv/live-wtk-b-lechtv-900k.m3u8</link>
-                </subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow]288p[/COLOR]</title>
-			      <thumbnail>http://img.lechpoznan.pl/lechcup/layout2014/images/lech-tv.png</thumbnail>
-                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-b-lechtv/live-wtk-b-lechtv-450k.m3u8</link>
+			      <thumbnail>http://lech.tv/graphics_new/all/lechtv_logo_top.png</thumbnail>
+				  <link>https://redir.cache.orange.pl/jupiter/o1-cl3/live/wtk-b-lechtv/live-wtk-b-lechtv-900k.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://redir.cache.orange.pl/jupiter/o1-cl3/live/wtk-b-lechtv/live-wtk-b-lechtv-450k.m3u8$$lsname=LINK 2</link>
+				  <link>https://redir.cache.orange.pl/jupiter/o1-cl3/live/wtk-b-lechtv/live-wtk-b-lechtv-120k.m3u8$$lsname=LINK 3</link>
                 </subitem>
 			  </subitems>	
-            </subchannel>
+		    </subchannel>
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+	        <subchannel>
+            <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Opoka TV[/B][/COLOR]</name>
+            <thumbnail>http://www.fta.strefa.pl/net/opokatv.png</thumbnail>
+              <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
+			      <thumbnail>http://www.fta.strefa.pl/net/opokatv.png</thumbnail>
+				  <link>http://94.130.255.149:8080/hls/opoka_tv_live.m3u8</link>
+                </subitem>	
+			  
+			    <subitem>
+                <title>[COLOR lightyellow]480p[/COLOR]</title>
+                <link>https://edge5.popler.tv/popler_publishlive/Opokatv/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+                <regex>
+                <name>tok</name>
+                <expres>wmsAuthSign=(.*)</expres>
+                <page>https://www.popler.tv/live/Opokatv</page>
+                <referer>https://www.popler.tv</referer>
+                </regex>
+                <thumbnail>http://www.fta.strefa.pl/net/opokatv.png</thumbnail>
+                </subitem>
+			  </subitems>	
+		    </subchannel>			
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 	        <subchannel>
             <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Sfera TV[/B][/COLOR]</name>
             <thumbnail>http://www.sferatv.pl/images/loga/logo_tlo_sfera.jpg</thumbnail>
               <subitems>
 			    <subitem>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
+			      <thumbnail>http://www.sferatv.pl/images/loga/logo_tlo_sfera.jpg</thumbnail>
+                  <link>rtmp://stream.sferatv.pl/sferalive/_definst_/mp4:live3</link>
+                </subitem>
+			  
+			    <subitem>
                   <title>[COLOR lightyellow]480p[/COLOR]</title>
 			      <thumbnail>http://www.sferatv.pl/images/loga/logo_tlo_sfera.jpg</thumbnail>
                   <link>http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist_w1644841133_b1128000_slpl.m3u8$$lsname=LINK 2</link>
-                </subitem>
+				  <link>rtmp://stream.sferatv.pl/sferalive/_definst_/mp4:live2$$lsname=LINK 3</link>
+                </subitem>    
 
 				<subitem>
                   <title>[COLOR lightyellow]360p[/COLOR]</title>
 			      <thumbnail>http://www.sferatv.pl/images/loga/logo_tlo_sfera.jpg</thumbnail>
-				  <link>http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist_w1644841133_b628000_slpl.m3u8</link>
+				  <link>http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist_w1644841133_b628000_slpl.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>rtmp://stream.sferatv.pl/sferalive/_definst_/mp4:live1$$lsname=LINK 3</link>
                 </subitem>
 			  </subitems>	
             </subchannel>			
@@ -759,18 +834,43 @@
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]TV Republika[/B][/COLOR]</name>
           <thumbnail>http://telewizjarepublika.pl/imgcache/860x400/c/uploads/news/rep_20.jpg</thumbnail>
             <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]FHD[/COLOR]</title>
+			      <thumbnail>http://satkurier.pl/uploads/56599.jpg</thumbnail>
+                  <link>https://redir.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://redir.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-6000k.m3u8$$lsname=LINK 2</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>http://satkurier.pl/uploads/56599.jpg</thumbnail>
+				  <link>https://redir.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-3600k.m3u8</link>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]576p[/COLOR]</title>
+			      <thumbnail>http://satkurier.pl/uploads/56599.jpg</thumbnail>
+				  <link>https://redir.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-2400k.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]404p[/COLOR]</title>
+			      <thumbnail>http://satkurier.pl/uploads/56599.jpg</thumbnail>
+				  <link>https://redir.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]288p[/COLOR]</title>
+			      <thumbnail>http://satkurier.pl/uploads/56599.jpg</thumbnail>
+				  <link>https://redir.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-900k.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://redir.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-450k.m3u8$$lsname=LINK 2</link>
+                </subitem>
+			
 				    <subitem>
                       <title>[COLOR lightyellow]540p[/COLOR]</title>
                       <thumbnail>http://telewizjarepublika.pl/imgcache/860x400/c/uploads/news/rep_20.jpg</thumbnail>
 				      <link>http://m1-tvrepublika.4vod.tv/smil:premium_abr.ism/playlist.m3u8?rep48020171022181500d5323ad127223f24cf3564e8aa2f7164$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 					  <link>http://m1-tvrepublika.4vod.tv/smil:premium_abr.ism/chunklist_b1600000.m3u8?rep48020171022181500d5323ad127223f24cf3564e8aa2f7164$$lsname=LINK 2</link>
-                    </subitem>
-					
-					<subitem>
-                      <title>[COLOR lightyellow]540p[/COLOR]</title>
-                      <thumbnail>http://telewizjarepublika.pl/imgcache/860x400/c/uploads/news/rep_20.jpg</thumbnail>
-				      <link>http://stream5.videostar.pl/999_tvrtest/smil:4321abr.ism/playlist.m3u8?key=$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-					  <link>http://stream5.videostar.pl/999_tvrtest/smil:4321abr.ism/chunklist_w1568596138_b1600000.m3u8?key=$$lsname=LINK 2</link>
                     </subitem>
 					
 				    <subitem>
@@ -780,21 +880,9 @@
                     </subitem>
 					
 					<subitem>
-                      <title>[COLOR lightyellow]360p[/COLOR]</title>
-                      <thumbnail>http://telewizjarepublika.pl/imgcache/860x400/c/uploads/news/rep_20.jpg</thumbnail>
-				      <link>http://stream5.videostar.pl/999_tvrtest/smil:4321abr.ism/chunklist_w1568596138_b950000.m3u8?key=</link>
-                    </subitem>
-					
-					<subitem>
                       <title>[COLOR lightyellow]188p[/COLOR]</title>
                       <thumbnail>http://telewizjarepublika.pl/imgcache/860x400/c/uploads/news/rep_20.jpg</thumbnail>
 				      <link>http://m1-tvrepublika.4vod.tv/smil:premium_abr.ism/chunklist_b400000.m3u8?rep48020171022181500d5323ad127223f24cf3564e8aa2f7164</link>
-                    </subitem>
-					
-					<subitem>
-                      <title>[COLOR lightyellow]360p[/COLOR]</title>
-                      <thumbnail>http://telewizjarepublika.pl/imgcache/860x400/c/uploads/news/rep_20.jpg</thumbnail>
-				      <link>http://stream5.videostar.pl/999_tvrtest/smil:4321abr.ism/chunklist_w1568596138_b400000.m3u8?key=</link>
                     </subitem>
             </subitems>	
         </subchannel>	  			
@@ -853,40 +941,35 @@
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 	        <subchannel>
             <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]WTK[/B][/COLOR]</name>
-            <thumbnail>http://www.grandpressphoto.pl/gallery/popup/wtk_color_logo_b1.jpg</thumbnail>
+            <thumbnail>https://wtkplay.pl/graphic/header/wtkplay_logo.png?theme=easter</thumbnail>
               <subitems>
 			    <subitem>
                   <title>[COLOR lightyellow]HD[/COLOR]</title>
-			      <thumbnail>http://www.grandpressphoto.pl/gallery/popup/wtk_color_logo_b1.jpg</thumbnail>
-                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-a-lechtv/live.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-a-lechtv/live-wtk-a-lechtv-3600k.m3u8$$lsname=LINK 2</link>
-                </subitem>	
+			      <thumbnail>https://wtkplay.pl/graphic/header/wtkplay_logo.png?theme=easter</thumbnail>
+                  <link>https://redir.cache.orange.pl/jupiter/o1-cl3/live/wtk-b-wtktv/live.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://redir.cache.orange.pl/jupiter/o1-cl3/live/wtk-b-wtktv/live-wtk-b-wtktv-3600k.m3u8$$lsname=LINK 2</link>
+                </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]576p[/COLOR]</title>
-			      <thumbnail>http://www.grandpressphoto.pl/gallery/popup/wtk_color_logo_b1.jpg</thumbnail>
-                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-a-lechtv/live-wtk-a-lechtv-2400k.m3u8</link>
-                </subitem>
+			      <thumbnail>https://wtkplay.pl/graphic/header/wtkplay_logo.png?theme=easter</thumbnail>
+				  <link>https://redir.cache.orange.pl/jupiter/o1-cl3/live/wtk-b-wtktv/live-wtk-b-wtktv-2400k.m3u8</link>
+                </subitem>	
 				
 				<subitem>
                   <title>[COLOR lightyellow]404p[/COLOR]</title>
-			      <thumbnail>http://www.grandpressphoto.pl/gallery/popup/wtk_color_logo_b1.jpg</thumbnail>
-                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-a-lechtv/live-wtk-a-lechtv-1700k.m3u8</link>
+			      <thumbnail>https://wtkplay.pl/graphic/header/wtkplay_logo.png?theme=easter</thumbnail>
+				  <link>https://redir.cache.orange.pl/jupiter/o1-cl3/live/wtk-b-wtktv/live-wtk-b-wtktv-1700k.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]288p[/COLOR]</title>
-			      <thumbnail>http://www.grandpressphoto.pl/gallery/popup/wtk_color_logo_b1.jpg</thumbnail>
-                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-a-lechtv/live-wtk-a-lechtv-900k.m3u8</link>
-                </subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow]288p[/COLOR]</title>
-			      <thumbnail>http://www.grandpressphoto.pl/gallery/popup/wtk_color_logo_b1.jpg</thumbnail>
-                  <link>https://redir.cache.orange.pl/jupiterecdn/o1-cl3//live/wtk-a-lechtv/live-wtk-a-lechtv-450k.m3u8</link>
+			      <thumbnail>https://wtkplay.pl/graphic/header/wtkplay_logo.png?theme=easter</thumbnail>
+				  <link>https://redir.cache.orange.pl/jupiter/o1-cl3/live/wtk-b-wtktv/live-wtk-b-wtktv-900k.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://redir.cache.orange.pl/jupiter/o1-cl3/live/wtk-b-wtktv/live-wtk-b-wtktv-450k.m3u8$$lsname=LINK 2</link>
                 </subitem>
 			  </subitems>	
-            </subchannel>				
+		</subchannel>
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
             <items>
 			    <item>
@@ -920,23 +1003,17 @@
                 </item>	
 				
 				<item>
-                <title>[COLOR lightyellow]Czwórka Polskie Radio[/COLOR]</title>
-                <link>http://stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				<link>http://stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8$$lsname=LINK 2</link>
-                <thumbnail>http://static.prsa.pl/images/a6f944fc-fdc9-47b9-8afe-fc505b16a14c.jpg</thumbnail>
+                <title>[COLOR lightyellow]Dla Ciebie TV TV[/COLOR]</title>
+                <link>http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8</link>
+                <thumbnail>http://www.dlaciebie.tv/assets/wysiwig/images/logo/logo_telewizji_dlaCiebietv_kolor.png</thumbnail>
                 </item>	
 				
 				<item>
-                <title>[COLOR lightyellow]Opoka TV[/COLOR]</title>
-                <link>https://edge5.popler.tv/popler_publishlive/Opokatv/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-                <regex>
-                <name>tok</name>
-                <expres>wmsAuthSign=(.*)</expres>
-                <page>https://www.popler.tv/live/Opokatv</page>
-                <referer>https://www.popler.tv</referer>
-                </regex>
-                <thumbnail>http://www.fta.strefa.pl/net/opokatv.png</thumbnail>
-                </item>
+                <title>[COLOR lightyellow]Czwórka Polskie Radio[/COLOR]</title>
+                <link>http://stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				<link>rtmp://stream85.polskieradio.pl/sat/streama.stream$$lsname=LINK 2</link>
+                <thumbnail>http://static.prsa.pl/images/a6f944fc-fdc9-47b9-8afe-fc505b16a14c.jpg</thumbnail>
+                </item>	
 				
 				<item>
                 <title>[COLOR lightyellow]rbl.tv[/COLOR]</title>
@@ -974,6 +1051,12 @@
                   <title>[COLOR lightyellow]TVP Polonia[/COLOR]</title>
 			      <thumbnail>http://93.159.131.123/gabi/insert/img/programy/tvppolonia.png</thumbnail>
                   <link>http://193.32.36.27:8005</link>
+                </item>
+				
+				<item>
+                  <title>[COLOR lightyellow]tvregionalna.pl[/COLOR]</title>
+			      <thumbnail>http://www.pzbad.pl/images/aktualnosci/2017/EMTC2017/tvregionalna_logo_CMYK.jpg</thumbnail>
+                  <link>http://tvregionalna.pl/regionalna/stream/index.m3u8</link>
                 </item>
 			</items>	
         </channel>
