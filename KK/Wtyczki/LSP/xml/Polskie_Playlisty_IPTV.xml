@@ -15,6 +15,15 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	 
             <items>
 			 <item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]156.67.95.21[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://onlybest.tv/images/logo_ru.png</thumbnail>
+				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>http://156.67.95.21:8000/playlist.m3u8</externallink>
+			      <page></page>
+              </item>
+			  
+			  <item>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]onlybest.tv[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>http://onlybest.tv/images/logo_ru.png</thumbnail>
@@ -28,18 +37,27 @@
 			      <link>http://ignorame</link>
 			      <thumbnail>http://sd-xbmc.org/repository/xbmc-addons/goldvod.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/goldvod.m3u</externallink>
+                  <externallink>http://api.j.pl/goldvod</externallink>
 			      <page></page>
-              </item>
+              </item> 
 			  
-			 <item>
+			  <item>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]GoldVod 2[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>http://sd-xbmc.org/repository/xbmc-addons/goldvod.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://api.j.pl/goldvod</externallink>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/goldvod.m3u</externallink>
 			      <page></page>
-              </item> 
+              </item>
+			  
+			  <item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]GoldVod 3[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://sd-xbmc.org/repository/xbmc-addons/goldvod.png</thumbnail>
+				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/goldvod.m3u</externallink>
+			      <page></page>
+              </item>
 			  
 			  <item>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]udp[/B][/COLOR]</title>

@@ -1016,6 +1016,17 @@
                 </item>	
 				
 				<item>
+                  <title>[COLOR lightyellow][B]Fokus TV[/B][/COLOR]</title>
+			      <thumbnail>https://n-14-21.dcs.redcdn.pl/file/play/playtv/logo/FOTV_cl.png</thumbnail>
+                  <link>http://stream.cdn.smcloud.net/fokustv-p/stream1/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=[COLOR lightyellow][B](1) Fokus TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/fokustv-p/_definst_/stream1/playlist.m3u8$$lsname=[COLOR lightyellow][B](2) Fokus TV 360p[/B][/COLOR]</link>
+				  <link>https://stream.smcdn.pl/fokustv-p/stream1/playlist.m3u8$$lsname=[COLOR lightyellow][B](3) Fokus TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.cdn.smcloud.net/fokustv-p/stream1$$lsname=[COLOR lightyellow][B](4) Fokus TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/fokustv-p/_definst_/stream1$$lsname=[COLOR lightyellow][B](5) Fokus TV 360p[/B][/COLOR]</link>
+				  <link>rtmp://stream.smcdn.pl/fokustv-p/stream1$$lsname=[COLOR lightyellow][B](6) Fokus TV 360p[/B][/COLOR]</link>
+				</item> 
+				
+				<item>
                 <title>[COLOR lightyellow]rbl.tv[/COLOR]</title>
                 <link>https://edge5.popler.tv/popler_publishlive/rebeltv/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
                 <regex>
