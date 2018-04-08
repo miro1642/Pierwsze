@@ -112,6 +112,14 @@
                   <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/ZAGR_playlist.onlybest.tv.m3u</externallink>
 			      <page></page>
                 </subitem>
+				
+				<subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]thanh51[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://avatars0.githubusercontent.com/u/20101230?s=460&v=4</thumbnail>
+                  <externallink>http://gg.gg/8zy29</externallink>
+			      <page></page>
+                </subitem>
 			</subitems>	
         </subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
@@ -1036,7 +1044,8 @@
 "142.44.212.105:8000 -- alan -- alan --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] alan[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
 "142.44.212.105:8000 -- gary -- gary --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] gary[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
 "142.44.212.105:8000 -- steve1 -- steve1 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] steve1[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"142.44.212.105:8000 -- andrew1 -- andrew1 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] andrew1[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://yt3.ggpht.com/-tlF8cIOlxQ8/AAAAAAAAAAI/AAAAAAAAAAA/OqU8Y8UoaYo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"</page>
+"142.44.212.105:8000 -- andrew1 -- andrew1 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] andrew1[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://yt3.ggpht.com/-tlF8cIOlxQ8/AAAAAAAAAAI/AAAAAAAAAAA/OqU8Y8UoaYo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
+"pro.prox7.com:8080 -- bXtIcL3IZp -- CXN8OH7VF2 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] bXtIcL3IZp[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://yt3.ggpht.com/-tlF8cIOlxQ8/AAAAAAAAAAI/AAAAAAAAAAA/OqU8Y8UoaYo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"</page>
 <agent>VLC/2.2.1 LibVLC/2.2.17</agent>
 </regex>
 <regex>

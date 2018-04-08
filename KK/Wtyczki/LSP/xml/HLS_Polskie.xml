@@ -146,27 +146,6 @@
 		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
-          <name>Kino TV</name>
-          <thumbnail>http://satkurier.pl/uploads/54415.jpg</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>404p</title>
-	              <thumbnail>http://satkurier.pl/uploads/54415.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/2910C1B2/1563/0/hls576/576p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/2910C1B2/1563/0/hls576/masterlist.m3u8$$lsname=LINK 2</link>
-				  <link>http://hls.redefine.pl/2910C1B2/1563/0/hls/mob1/list.m3u8$$lsname=LINK 3</link>
-				  <link>http://hls.redefine.pl/2910C1B2/1563/0/hls/mob3/list.m3u8$$lsname=LINK 4</link>
-                </subitem>
-				
-				<subitem>
-                  <title>288p</title>
-	              <thumbnail>http://satkurier.pl/uploads/54415.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/0211D46E/1563/0/hls/masterlist.m3u8</link>
-                </subitem>
-			</subitems>	
-		</subchannel>
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
           <name>FilmBox Action</name>
           <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Filmbox-action.jpg/240px-Filmbox-action.jpg</thumbnail>
             <subitems>
@@ -175,7 +154,12 @@
 	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Filmbox-action.jpg/240px-Filmbox-action.jpg</thumbnail>
                   <link>http://hls.redefine.pl/478676E7/11313/0/hls576/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/478676E7/11313/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
-				  <link>http://hls.redefine.pl/478676E7/11313/0/hls576/mob4/list.m3u8$$lsname=LINK 3</link>
+                </subitem>
+				
+				<subitem>
+                  <title>72p</title>
+	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Filmbox-action.jpg/240px-Filmbox-action.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/478676E7/11313/0/hls576/mob4/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29</link>
                 </subitem>
 			</subitems>	
 		</subchannel>		
@@ -187,10 +171,14 @@
 			    <subitem>
                   <title>576p</title>
 	              <thumbnail>http://korbank.pl/wp-content/uploads/2015/05/filmbox-07.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/60306450/1569/0/hls576/576p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/60306450/1569/0/hls576/masterlist.m3u8$$lsname=LINK 2</link>
-				  <link>http://hls.redefine.pl/60306450/1569/0/hls/mob1/list.m3u8$$lsname=LINK 3</link>
-				  <link>http://hls.redefine.pl/60306450/1569/0/hls/mob3/list.m3u8$$lsname=LINK 4</link>
+                  <link>http://hls.redefine.pl/60306450/1569/0/hls576/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&amp;initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/60306450/1569/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>72p</title>
+	              <thumbnail>http://korbank.pl/wp-content/uploads/2015/05/filmbox-07.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/60306450/1569/0/hls576/mob4/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&amp;initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29</link>
                 </subitem>
 			</subitems>	
 		</subchannel>		
@@ -202,10 +190,20 @@
 			    <subitem>
                   <title>HD</title>
 	              <thumbnail>https://d2xhqqdaxyaju6.cloudfront.net/file/teaser/368809/de/teaser.JPG</thumbnail>
-                  <link>http://hls.redefine.pl/3CA6ACBC/1568/0/hls576/576p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/3CA6ACBC/1568/0/hls576/masterlist.m3u8$$lsname=LINK 2</link>
-				  <link>http://hls.redefine.pl/3CA6ACBC/1568/0/hls/mob1/list.m3u8$$lsname=LINK 3</link>
-				  <link>http://hls.redefine.pl/3CA6ACBC/1568/0/hls/mob3/list.m3u8$$lsname=LINK 4</link>
+                  <link>http://hls.redefine.pl/3CA6ACBC/1568/0/hls576/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&amp;initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/3CA6ACBC/1568/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>288p</title>
+	              <thumbnail>https://d2xhqqdaxyaju6.cloudfront.net/file/teaser/368809/de/teaser.JPG</thumbnail>
+                  <link>http://hls.redefine.pl/3CA6ACBC/1568/0/hls576/mob1/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&amp;initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29</link>
+                </subitem>
+				
+				<subitem>
+                  <title>72p</title>
+	              <thumbnail>https://d2xhqqdaxyaju6.cloudfront.net/file/teaser/368809/de/teaser.JPG</thumbnail>
+                  <link>http://hls.redefine.pl/3CA6ACBC/1568/0/hls576/mob4/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&amp;initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29</link>
                 </subitem>
 			</subitems>	
 		</subchannel>	
@@ -295,6 +293,35 @@
 	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3g/3gxi1b1bn91798ayn1y8k688hcm4c8tf.jpg</thumbnail>
                   <link>http://hls.redefine.pl/3952CD7C/1567/0/hls/masterlist.m3u8</link>
                 </subitem>				
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Kino TV</name>
+          <thumbnail>http://satkurier.pl/uploads/54415.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>404p</title>
+	              <thumbnail>http://satkurier.pl/uploads/54415.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/2910C1B2/1563/0/hls576/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&amp;initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/2910C1B2/1563/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>288p</title>
+	              <thumbnail>http://satkurier.pl/uploads/54415.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/0211D46E/1563/0/hls/masterlist.m3u$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/0211D46E/1563/0/hls/mob1/list.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/0211D46E/1563/0/hls/mob2/list.m3u8$$lsname=LINK 3</link>
+                </subitem>
+				
+				<subitem>
+                  <title>72p</title>
+	              <thumbnail>http://satkurier.pl/uploads/54415.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/2910C1B2/1563/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/0211D46E/1563/0/hls/mob1/list.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/0211D46E/1563/0/hls/mob4/list.m3u8$$lsname=LINK 3</link>
+                </subitem>
 			</subitems>	
 		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
@@ -605,6 +632,384 @@
 			</subitems>	
 		</subchannel>									
 	</channel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+    <channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]onlybest.tv[/B][/COLOR]</name>
+      <thumbnail>http://onlybest.tv/images/logo_ru.png</thumbnail>
+	  <fanart>http://onlybest.tv/images/slides/1.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>13 Ulica HD</name>
+          <thumbnail>http://iptvwojt.000webhostapp.com/ico/13_Ulica_HD_1.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>HD</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/13_Ulica_HD_1.png</thumbnail>
+				  <link>http://185.231.160.54/949/1/index.m3u8?k=a8c442a75a78e75caf679620dd2001b546e2a2e0bfd28efe05db7d9ba00b14b14f2ed21acc29c385edfb02260b625e3703ca099e9934bfaedc1d4066e87b9939482597ad695d8ec453c61d4559f309318c4b134c4ccf9b2fb8b0b249661660093132158288d565b7593b4c2aec1a32c3$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://185.231.160.54/949/1/index.m3u8?k=a8c442a75a78e75caf679620dd2001b546e2a2e0bfd28efe05db7d9ba00b14b14f2ed21acc29c385edfb02260b625e3703ca099e9934bfaedc1d4066e87b9939482597ad695d8ec453c61d4559f309318c4b134c4ccf9b2fb8b0b249661660093132158288d565b7593b4c2aec1a32c3$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>576p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/13_Ulica_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/949/3/index.m3u8?k=9514ef8df255272b93f2d985089c27cbe8d52dad88a7f32c85624b3060cd29ec8caa252ec65d0d6865725735e99e274218c327cfeed4179cf54dad15dafb797b7cb22dc0487c60d78865c5b3a09632afcbb151fed9a9f0a2c4a29efbc5c1bda7c5ce96b9dc238a9c59e5465131e8e91f</link>
+                </subitem>
+				
+				<subitem>
+                  <title>360p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/13_Ulica_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/949/4/index.m3u8?k=acf2874c20ae049734254c3c1abdb985b797bb02bd540b19c67e28c1a5edfcffabe3e7167db57464c5e6fb337acc0e37b9774659fd06f7f9f00ada2135efd4b1ab08feeb8712e4e6de98d56e9f89620b673992537bcbf2c3f4785aedc04e118093bfb07d0713c1b79d13f2651e4d064a</link>
+                </subitem>
+				
+				<subitem>
+                  <title>240p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/13_Ulica_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/949/6/index.m3u8?k=ceb08169c8fb060e7ee0d1cef92dcfd62d2f8afe65a6d7c242102fe56dd8fa295c751dff46692fb2cbb3ab5fb926dad23b71502d2dd88d36b2eb0705e9a94349bc1658a83e8cc3609681685994157a60ef07c475ee5f2845986468c725f9d9cd1289026eeb697b5c169f730eca6abab1</link>
+                </subitem>
+				
+				<subitem>
+                  <title>144p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/13_Ulica_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/949/7/index.m3u8?k=16cf22531ade195036e5607fd92863014abcd5fe38a09205b74e1b8c7881e5ce26d3ee40f62609f56525c357355446a46777f5186323db081c45afa6d70a1d8f5b3659937c63d9cb55a269039cf7a55ad44a835bf2ec208df79fe731a19e213de3a7334486841cb8838957732a852326</link>
+                </subitem>
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>4Fun Dance</name>
+          <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_Dance_1.png</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>576p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_Dance_1.png</thumbnail>
+                  <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/537/index.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://185.231.160.54/562/2/index.m3u8?k=4faf53691001888b5ccb3f89c651334bd3a5613c0f2fd02f428253ac769317b64a2fe33bf458f754b52c776a5c55489f672c5ab2b73016918a090fb2e8622e9cfa7b2886beb32afd239bddb5438856551cf8135200c7a870ece0e2f81e8efa0e549137529d550d52c5c93372cdd73364$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>360p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_Dance_1.png</thumbnail>
+                  <link>http://185.231.160.54/562/4/index.m3u8?k=c43aea3c7b3250dcabe4ca304bb0ef1c69dba34f4b19ac51ee341f52c2390ac1cd9e461035a79ea6b891015e32dd4ba2269b3cebc3f9b25c9996c04c0e59da415026e8eef0e3623017a6764fcddfef45549680865e76a5c34e4086a16dcf45e7f31f5b5a9bf58d29a2b2155f97b7e98c</link>
+                </subitem>
+				
+				<subitem>
+                  <title>240p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_Dance_1.png</thumbnail>
+                  <link>http://185.231.160.54/562/6/index.m3u8?k=3c8f2621242862556683c023dac18dd7fddaa7b9764ac2216c295c055978b74cfaa68f6a342ab63a0b25859ab5569f55e9f487a060728a2b8c45f2cc5b427352edb4e71d2e0c1ecbd8689eeb3d9737927b58d8072d9c3f0d81b2acebf0adb37a0a51d9ebbda8e47ec9ace417c854f9ff</link>
+                </subitem>
+				
+				<subitem>
+                  <title>144p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_Dance_1.png</thumbnail>
+                  <link>http://185.231.160.54/562/7/index.m3u8?k=b958c3086dc1eae57e719831c5372f67e5d0de128e2b95ba40068a386d5e18e9b225b8b26e4c98674c6c77bc41adbdcbf008cef6b28d2e41d9780a503b2a05e30dee56a3792f9fbeb889987cfb758ad7e1c2dc387a7d11b84a890ce2ca9a7af36e96c40cc1c7820aedacb152bb0935d0</link>
+                </subitem>
+			</subitems>	
+		</subchannel>			
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>4Fun Gold Hits</name>
+          <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_Hits.png</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>576p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_Hits.png</thumbnail>
+                  <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/536/index.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://185.231.160.54/561/2/index.m3u8?k=94f1272ae6ba7628ae3c043ca7bcb3b088b90f8bda731cc29f164c4426d827fb121369b12e0011627645460e8fb05bc6e7d92140719ae88ae088b4583066f66e6a3be74a95d3e21c0e5b7b0f80a9cd8ada78eacf4792436bb97026e430f34c4f8365cac994cb728d7f99adb23ce2a505$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>360p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_Hits.png</thumbnail>
+                  <link>http://185.231.160.54/561/4/index.m3u8?k=6c10d38fee9ef361a583decf276f8ef7d75c8259475bba14d75ac5b163be9752da4dd846483982a706361c0b1d43decc331c2080bc6edeac9b0742aaadd34d42a8741d2b4881affd97dcc7e7ffaa4e8f005f228bd8060730e77c555bb8fe2be4b155c7d350617164306b5bae7d5abae1</link>
+                </subitem>
+				
+				<subitem>
+                  <title>240p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_Hits.png</thumbnail>
+                  <link>http://185.231.160.54/561/6/index.m3u8?k=fb4d5eec78bdb0427c29685c96596f38a24cda20e667f281b63282f73ba240dbdb456095ee0cdfad8cd107eb505b2c709410deda36350df2a29fc5a8b57ba72f5154e3785881e23e048c4943fcf3e88f6a51ecdde734bf3bcf533927d78e2f01562d534da71e24e7b84537346555c005</link>
+                </subitem>
+				
+				<subitem>
+                  <title>144p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_Hits.png</thumbnail>
+                  <link>http://185.231.160.54/561/7/index.m3u8?k=4312839bb1b01f4c99f3e4e72aa6767a8b29090883194a5b619eb6849f62f7798f24f52cfe0598fd84d333f1197608671e5ce2e55d08fc00a21d50e2484d687b303e01e09f859d883138593c3986400adfcfb1cbec30d4a5d98dc53db66fd3de799a110502a24b92c20acf7a2a50523f</link>
+                </subitem>
+			</subitems>	
+		</subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>4Fun TV</name>
+          <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_TV_1.png</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>576p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_TV_1.png</thumbnail>
+                  <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/535/index.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://185.231.160.54/560/2/index.m3u8?k=67f8ac74b4b7d2c1b81e2ddf9268418e058d495986e238d500aed65752e14a20483433e45cac93b5c46a750f5a875fecaa839de4e2dcda524f7819724788daa831e9bb8ee6ba25405069c4b8c7299e3ac663628136d8f4e98cf1632c5c7cb8cca94c47ac103f33f691b7afe0055837e6$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>360p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_TV_1.png</thumbnail>
+                  <link>http://185.231.160.54/560/4/index.m3u8?k=e0dbd2b6e97acb2b3e870d4f3d5bb64eb1fed3d0230d9f7f32d1a36ca7b4d01332c0b10fef42f057c5ece8681f232278903e2100b381eea9351a9edaeb71dc8d5f208e63722b6c17152fe2a49be8f86cd2c1887f50b63dd2481e56bb6697671f0ff2921312aeb071d256c79b3e53feea</link>
+                </subitem>
+				
+				<subitem>
+                  <title>240p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_TV_1.png</thumbnail>
+                  <link>http://185.231.160.54/560/6/index.m3u8?k=b30656fa5a28d2415995d4e07a1caca98e3b24d34b1383f550f9b4941210de62a6b65ab2b1abc23811894c9d709186bbefdc5917bbaf52890f1be4f7cc2e60fbbe15c044c153340811dbf17303b3aa7941489a3663e0053696466a1c06bfd2a0fc6252332d600ca3d6e51f4ed3791109</link>
+                </subitem>
+				
+				<subitem>
+                  <title>144p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/4Fun_TV_1.png</thumbnail>
+                  <link>http://185.231.160.54/560/7/index.m3u8?k=8e43a30e540fdfeb904fac64ae95558598a587796594f1b9e1be80502e655cb94f09d4295d6881921f7db2d308440cb79783dfcc1bc02d11eb413c96ecb328dc65271ca85c1ca85631a9c1dd5bec88a8f89811d8bdd99c3f0040cf96a671bd7da4645e9a8823db63e618aa57f6ea78d1</link>
+                </subitem>
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Ale Kino+ HD</name>
+          <thumbnail>http://iptvwojt.000webhostapp.com/ico/Ale_Kino+_HD_1.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>HD</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Ale_Kino+_HD_1.png</thumbnail>
+				  <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/389/index.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://185.231.160.54/395/1/index.m3u8?k=e4c3c7e6897009d3bdbeb85e11bc241bd2e28c2d0a06f8590a22e08af802b00b476bf88827dd39f7968e4d5b6e29b7dcca5c6db005160471f29567953c8b8c92b5f00410f314a5af3a54b7df5b8660e44e05f80d2c93d98853996440b3d75d45f2bcf915b267dd2579b3958e5cae3f35$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>576p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Ale_Kino+_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/395/3/index.m3u8?k=340b92a7cf1c2a1865da066bf52e4d197926035d640403b27970a3fc4d1544a9ae2cba9e61efac81f06274d9d05bed1ba18a675fc0a2dda67a8d5f36b337c6ee3cac83b7ec4f20403c5ae4ac2852e64610b9641277140bb0871e6506cce8fec0bef2a92870dc5676bd24628a17d5e285</link>
+                </subitem>
+				
+				<subitem>
+                  <title>360p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Ale_Kino+_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/395/4/index.m3u8?k=65818cde3255ad017e44af35bc64132881f8238b683dcc2a1db6a536312340f1c07f5e04b2f00a89035144884e84357924e855f326e6de2bce0b5320400ed1b404589299a996d318837f51ed012ff45ea0ee1e6b6438d6dc83767ace9c698793e892b16c96f24ae0721ffe72efb73558</link>
+                </subitem>
+				
+				<subitem>
+                  <title>240p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Ale_Kino+_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/395/6/index.m3u8?k=214822a720addaeeddd3a9516e50fd498f5aeb2e102ec145c0d58e3518e60b5330e97e3d874cb2c7d94cd48fae22b2f0a327ed918d2d63239a0a107b0797059d5a94e5ba41e80a10b4b2182d2334682f349fb133f8ad13f12aa02f281a602583e4b90538aadd05e39233565f00e7fccf</link>
+                </subitem>
+				
+				<subitem>
+                  <title>144p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Ale_Kino+_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/395/7/index.m3u8?k=d2a24d0d43b9a118302b067678fb78dc3dbe6aea0ff9259841d2635b8696bbdb94d25382e8e8ad7f90f19d248ee486fe5fef390cf96ae86035bc626e1975b80aaa5ae9c554c0466081cae211a1c5e3c63cf09b31d7d0d9ec19035f95b4c9a7a04ee1962bccb7c173cbc82f0f2bf96d55</link>
+                </subitem>
+			</subitems>	
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>AXN</name>
+          <thumbnail>http://iptvwojt.000webhostapp.com/ico/axn.png</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>576p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/axn.png</thumbnail>
+                  <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/875/index.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://185.231.160.54/963/2/index.m3u8?k=2c7b9148b89195b1aaf15c91de6e87357e0a46bec3ff3beae1ef16180f8d87877f62039ea1660a5b57cfdd9aa16136befdaa4b13d341f3b60bb0fe41c87ca54bc8c166c1ef8749bf27815cd60fe1c6cd8a509cb92c05fc329c4730e1f1042064085ace0b1ce0d1054a4dfa123051900a$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>360p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/axn.png</thumbnail>
+                  <link>http://185.231.160.54/963/4/index.m3u8?k=c5ea9392754351d4112602b438be5b543206a33536b2d89dc6a054952cdcfac7511c53a58092d9162b9155d0477a0b2a5d835bb2c641246f2e6f598d018367baf0632fac3fa60eb2667cdc9b6fbfdf857a208a541bc954aff71b5cd504df70849e0250696e8d9ff184322af1ea50e078</link>
+                </subitem>
+				
+				<subitem>
+                  <title>240p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/axn.png</thumbnail>
+                  <link>http://185.231.160.54/963/6/index.m3u8?k=b088a2c32b5992f20b7b834aa160d186ddb030ec1400aca4de89d0b1c095fc943dbd4acdd06821e51d71ea5c53fe38eebafe152559087e52b2b84c6ecd4240fc1d06ed70e3846e20dd6ed46126bc0894dec0e39b3a554787477f4a6857327e6b134f3003cd306f844d0f1e822f4b6d9f</link>
+                </subitem>
+				
+				<subitem>
+                  <title>144p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/axn.png</thumbnail>
+                  <link>http://185.231.160.54/963/7/index.m3u8?k=49780b4b97dc6e9d6b0dab7cb65c9fdf9cfe241f271dfdd5c995332bec2c94da8b4696f3798f70129df0368ad556a1ae677eb09e4a6e93c5109543685d976e8a8187b37fffa4cbd1915562cdff417aff079e594008620bf4b8e8fd887a4e825cf59023f1d1b89fd2c05cd2c0cc6ec1ac</link>
+                </subitem>
+			</subitems>	
+		</subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>AXN Black</name>
+          <thumbnail>http://iptvwojt.000webhostapp.com/ico/AXN_Black_1.png</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>576p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/AXN_Black_1.png</thumbnail>
+                  <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/892/index.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://185.231.160.54/957/2/index.m3u8?k=eacb7944bf3f16416abb507778d6e7230a32509af0e1a4c282e174d4c13d8f5d8bace064192711225bc667a0b3cade39c2439001188ca59bd683b27bf927c6e63175a833ed15f7632ae5357ca4f492b27af547e87d178e888d042b3cce06f28aad9be8ea30d7921cd7887e655b4ca135$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>360p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/AXN_Black_1.png</thumbnail>
+                  <link>http://185.231.160.54/957/4/index.m3u8?k=3218814b9c228983264c020c21fd1f21f5172c982b6dd66f1530e66d3d9f2bdaacc6201aa1dde11f503a5572795c91c27333a876fab32d006692c5a479142dc78ae5782570d03fa8f1e7e22a1573546a04bed59785efbebbbf125f04e1ccc16c7c0abf6d5d5a4540bdf6c0b8e05f8c64</link>
+                </subitem>
+				
+				<subitem>
+                  <title>240p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/AXN_Black_1.png</thumbnail>
+                  <link>http://185.231.160.54/957/6/index.m3u8?k=38f65a486334097b0250d03d26b7d3f360c8d2e042a0b9e5a9a6fd74fa3e73e68afde8461d72a332abe736c543c8671a0e7ab3075a98053fe484019d407ab8a3962b10c6d6603008676c39ad15c01cbec8b89915c9831be555af6a83221589231dbdec6d768effd2695fa6e64e6f54fe</link>
+                </subitem>
+				
+				<subitem>
+                  <title>144p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/AXN_Black_1.png</thumbnail>
+                  <link>http://185.231.160.54/957/7/index.m3u8?k=9b9030520ba9f105e7f2458229fdaa191e3a4cd151b57c074e00fef61d7f025e59e91324dd0ea955eb1eec4377c0c7151aa418f7da5e632db51a86bdfc3b498c2c4337c3807059d0f89044b8543276f8f950d4427dbcb3a4577f952ed9c445d6975250834eeff2ee03fbb8fe8865d4ce</link>
+                </subitem>
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>AXN White</name>
+          <thumbnail>http://iptvwojt.000webhostapp.com/ico/AXN_White_1.png</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>576p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/AXN_White_1.png</thumbnail>
+                  <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/876/index.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://185.231.160.54/956/2/index.m3u8?k=0446bde81ea57d54a1906622aac9c1863130aecf8c7f209a5e4ebf38e37b9e942177944fb608e1a7a9614281a16636f6ce5c8a710b5e628995f8cea1e145edf868a37aa1a023f03f8e9a8c388889d665d4bbb808a62a9c03d7fd5e2416caa5fc3c8b3038c6a5e79e100ce689d5ac0433$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>360p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/AXN_White_1.png</thumbnail>
+                  <link>http://185.231.160.54/956/4/index.m3u8?k=b51caa78e7f184567b0ad2d98f35ee9085e2c9dda2bf72d3907a69a4d1ad6bfd1418979994b0343e7cb5538a4ed51d3fa302b8efc229ee74272cad524ceece917309c34359cddda09f228252148795c1d1251e509985634e0d183d6f965319c40410b5b575f735cd14440eb8e8b5c572</link>
+                </subitem>
+				
+				<subitem>
+                  <title>240p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/AXN_White_1.png</thumbnail>
+                  <link>http://185.231.160.54/956/6/index.m3u8?k=99a1828196fcc3acd0e1e5a9a9f78cd59c80c2505f7cc4b52acf2f8a5bd5d40748f969347d537430a6071e6cf8e9651c3158500f2214ec564d1928ece56b9f5f951b2ac953d13f830468fb3617c60f33e48fa8b07aee3e53ef781e3a7581ea5631e2db6bfbd42f591143cb5055569017</link>
+                </subitem>
+				
+				<subitem>
+                  <title>144p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/AXN_White_1.png</thumbnail>
+                  <link>http://185.231.160.54/956/7/index.m3u8?k=b3f104b714eef596e2b4aca12a9bb0179d9704474dfb5d8cea9296d42d1e84406bd8b69c3b5305b25d9937232ffb5d0518215dd62515003ae56ac9d500ac64fb0f7eb01a3b90fbe90e5a68376624370b9bbed5ed274d6c53758bb140c510e1c25df7307d6bc54c3c801c2952cd236225</link>
+                </subitem>
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>BBC Earth HD</name>
+          <thumbnail>http://iptvwojt.000webhostapp.com/ico/bbcearth1.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>HD</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/bbcearth1.png</thumbnail>
+				  <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/560/index.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://185.231.160.54/592/1/index.m3u8?k=9a2c06852a59bf821d7fb2606bd12d1b92fed5b2b1625dcf50025ec0f113d522ca5d21f090d993d7759ec665ae7b2299ed8df92351ce0f852bccd800a764678bcf018fce46aee10ffc1a02d6a60bc4441f58c0ee7c03c2e6ad90b0726d6f8b07fc33332d2b6d058bb148fbdc67f65923$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>576p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/bbcearth1.png</thumbnail>
+                  <link>http://185.231.160.54/592/3/index.m3u8?k=b0721e699d18b01d9751c065dcc65dbdcf8dff659d25734d4ed45387a3bcfec044338c39cebcadfc1b8e19e0f466120c6f9375b0817bcc6a450071a7aeb4a860951f7e6e7dd2fc78db2d165b402e6be308814c0f9d2151744a230ab1743e122f8473a04a3f2c0e680f6935fc292137df</link>
+                </subitem>
+				
+				<subitem>
+                  <title>360p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/bbcearth1.png</thumbnail>
+                  <link>http://185.231.160.54/592/4/index.m3u8?k=08a2252c25769889cb7ce8a8c171dec8edaa80b1653c1796c5e1447b0a63fbb78f7b003df1a3794e51b9146768c8bf3b5ddbf2f727d3a1fdeff946894bae350bf1d107f1e64380b4e3b29f4b8a4f47bbf379cd65663d4664bc5df17e51d1dc72e0d4df47fa3b770250070f277f733567</link>
+                </subitem>
+				
+				<subitem>
+                  <title>240p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/bbcearth1.png</thumbnail>
+                  <link>http://185.231.160.54/592/6/index.m3u8?k=e15bb5f63357ad8a094978a62dd32ae858830ee0b443509395172afd47946d5de36642f9795f37a6a8d960afb757c60c8d46842ff1c1b0541285ec0b4ceb99b26c2dd321c72d66ad78e1ed9b015eaf42ddf6e0522fcd1280745e9d8c2189e670a33f43ad4d0621dc4a4ef2e0b2625ff1</link>
+                </subitem>
+				
+				<subitem>
+                  <title>144p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/bbcearth1.png</thumbnail>
+                  <link>http://185.231.160.54/592/7/index.m3u8?k=1a5961bb070b43dd2be3295f40d5cc114576e0732034662ff7417ed80e55b73bc6cf02b7243027371c847e73f03e1c390af13016ebda79039d9260833a904c817620d0e8e07a69761e48b7376b7c681127603ee26ee55bcabc666d3b5917f37cc051a35d0842e31db539a278362823f5</link>
+                </subitem>
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Canal+ Film HD</name>
+          <thumbnail>http://iptvwojt.000webhostapp.com/ico/Canal+_Film_HD_1.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>HD</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Canal+_Film_HD_1.png</thumbnail>
+				  <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/381/index.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://185.231.160.54/387/1/index.m3u8?k=e84f2ad1f7ddb2cc268f78566b5c1568195e4b9781fd2f1da64f1aa260aa356674d030adbebb78ca1e384585f224a3444a3cc9e004ac79adfcf2abf845ef64739081dfb906e1d76b07a534076420ff642a48877d3ee8429adc5893cd56bd85718e458c76363d650709cfeec4a101a76a$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>576p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Canal+_Film_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/387/3/index.m3u8?k=99e2650bc8433eb3e1f6f1d4eab5330aea4735059c96fd77a35c3d3d753854e0da263ca212099886a064454bc53c433027e30885895afc96e1590a7730e1949a21fe45add1179c95930b8f5b64efd6df5abdb15b40f426e452b76bfa9b63ca1304e4ae2f12cdc24e22694bb39df3d55a</link>
+                </subitem>
+				
+				<subitem>
+                  <title>360p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Canal+_Film_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/387/4/index.m3u8?k=aeea2e14eadfad7ffc632065f2183042d3da4bac8daed739cdf2f3e8f1165e2dd0bef6ead1eae8a7b457050f23fd730b9a3a3f66fc7e6e8b48624a5116cf9a368e1b5a93c62f03627246bf395fcfc50b212819dc75de09f26be86229d48b782204fff521b999b17840df32c38e10195a</link>
+                </subitem>
+				
+				<subitem>
+                  <title>240p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Canal+_Film_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/387/6/index.m3u8?k=23dd3ddf605528e9c93bcbe26c4ce3b6b6c19559b5e4526bbd4371d91bc76718a7e192f62ad3a6ff9d70eddbfa028118887c2a9d156f011f68ae7c2a63f193ef6a8988ee9cdbd9ae7489a32a12a4eb01dacc8c205cf437cc9a90e7c2b425da78d8b360daf6296bbb38297dd1cf681eb2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>144p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Canal+_Film_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/387/7/index.m3u8?k=8216ac6496ae1e9014c488ff1b9cb84c545afd96c4b125c266c477875373c8c6b0bddf2d8f8568f0fe82b3a91758131b0fb64722f6d9dde7c0017225130e1d0842dfac9f5f348122b062ca12826ee7c77958c0701c869e2c90b83c71e7af47ffd8faef25059afed08ab6e91b3d7ca9cf</link>
+                </subitem>
+			</subitems>	
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+		<subchannel>
+          <name>Canal+ Seriale HD</name>
+          <thumbnail>http://iptvwojt.000webhostapp.com/ico/Canal+_Seriale_HD_1.png</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>HD</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Canal+_Seriale_HD_1.png</thumbnail>
+				  <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/391/index.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>http://185.231.160.54/397/1/index.m3u8?k=3cbefa8eedcb26d18aa69be0a441ab3f7a320d71cc2afb11a8be9f0cc0242a596733c52ad0dbbb3471eae14682b1bde29fe68f802e9fb9284d93209f9156c14a233e3060cfd6d4d1469dd0ff78b5f7cee521fe98b3b1cc0e590725c9f869d45199308e5be05e59b7db39ce7888ee5c16$$lsname=LINK 2</link>
+                </subitem>
+				
+				<subitem>
+                  <title>576p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Canal+_Seriale_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/397/3/index.m3u8?k=4797d5d7bb23fd0c383721d46ed3cf106580f718c5cfb1d3ee96eda0cd91a385036791df183f314edb062ee5194970548700861ad3e5fe980d8eab44de690e0d1f68fdfdf821ca157c01d5be937e0b42b42613c4a00c75667e45f68d65c3a5d89dfb8007300d8b3dc3069021cdfd755a</link>
+                </subitem>
+				
+				<subitem>
+                  <title>360p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Canal+_Seriale_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/397/4/index.m3u8?k=e0dedfbd6666860666d133f53838338ca4d05d3190afd58b12a8135ae0acd17f668c998a644f24e4205355eaad69d7d76db3e82dfffcc436dad700174aaab9664b07f50da919ba88d66b614ec32af90e9a912d603950a8291b1621c43fe93e0ba1c3a4e4ecf6aaf851c1499336ae4af4</link>
+                </subitem>
+				
+				<subitem>
+                  <title>240p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Canal+_Seriale_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/397/6/index.m3u8?k=32630ddecb0ffddc57fe68dd8113d2f35a436b4056ba594fcf88590ee138b2650a80dc73e407ecc763d4d3906e7db3b344d3c6a8862385e637fe60e93b0903e4b24afbad500e448e522e7a50b7e49e46e3555235e8a9a413d30ac7b46a677c33c24b1b8b54be6c81f7b8aad2ab7949f3</link>
+                </subitem>
+				
+				<subitem>
+                  <title>144p</title>
+				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/Canal+_Seriale_HD_1.png</thumbnail>
+                  <link>http://185.231.160.54/397/7/index.m3u8?k=b6c8e2936bfc61c942117ac9e69148f0699acd89c9c3ac10fc370c49498c7807f8b54fec2e575d6079ee85c2546f05a73685fc3c463c88b896ae80b91447c3b3514ec645a4b885c2108bcae98bd7c2e890a7ad000c8e5f0c3848a055ee3e338679878e8bd69b4864870cd9225fb96603</link>
+                </subitem>
+			</subitems>	
+		</subchannel>		
+	</channel>			
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 	    <channel>
