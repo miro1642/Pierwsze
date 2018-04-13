@@ -15,31 +15,54 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]DANCE[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/X/s/s/Xs2301952Kdbh.jpg/ru-0-ra-130,130-n-Xs2301952Kdbh.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Club[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/X/s/s/Xs2301952Kdbh.jpg/ru-0-ra-130,130-n-Xs2301952Kdbh.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/club</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]New Dance[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/X/s/s/Xs2301952Kdbh.jpg/ru-0-ra-130,130-n-Xs2301952Kdbh.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/new-dance</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Gwiazdy Dance[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/X/s/s/Xs2301952Kdbh.jpg/ru-0-ra-130,130-n-Xs2301952Kdbh.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/gwiazdy-dance</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Dance[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/X/s/s/Xs2301952Kdbh.jpg/ru-0-ra-130,130-n-Xs2301952Kdbh.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/dance</link>	
+				</subitem>
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Disco Polo[/B][/COLOR]</name>
           <thumbnail>http://t-eska.cdn.smcloud.net/common/k/u/s/ku2301876vsvJ.jpg/ru-0-ra-145,145-n-ku2301876vsvJ.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>[COLOR lightyellow][B]Disco Polo[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/k/u/s/ku2301876vsvJ.jpg/ru-0-ra-145,145-n-ku2301876vsvJ.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=77</link>	
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/disco-polo</link>	
 				</subitem>
 
 				<subitem>
                   <title>[COLOR lightyellow][B]Disco Polo Top[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/k/u/s/ku2301876vsvJ.jpg/ru-0-ra-145,145-n-ku2301876vsvJ.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=78</link>	
-				</subitem>
-				
-				<subitem>
-                  <title>[COLOR lightyellow][B]Disco Polo Top 40[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/k/u/s/ku2301876vsvJ.jpg/ru-0-ra-145,145-n-ku2301876vsvJ.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=70</link>	
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/disco-polo-top</link>	
 				</subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow][B]Gwiazdy Disco Polo[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/k/u/s/ku2301876vsvJ.jpg/ru-0-ra-145,145-n-ku2301876vsvJ.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=76</link>	
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/gwiazdy-disco-polo</link>	
 				</subitem>
 				
 				<subitem>
@@ -62,37 +85,37 @@
 			    <subitem>
                   <title>[COLOR lightyellow][B]Radio ESKA[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/C/X/s/CX2301822k2Tk.jpg/ru-0-ra-145,145-n-CX2301822k2Tk.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=61</link>	
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/eska-warszawa</link>	
 				</subitem> 	
 				
 				<subitem>
                   <title>[COLOR lightyellow][B]ESKA Active[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/L/T/s/LT2117494LaNb.jpg/ru-1-ra-1180,664-n-LT2117494LaNb.jpg</thumbnail>
-                 <link>http://radyjko.tk/stacja.m3u?id=59</link>	
+                 <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/eska-active</link>	
 				</subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow][B]Eska Club[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066403q1UG.jpg/ru-1-ra-1180,664-n-1066403q1UG.jpg</thumbnail>
-                 <link>http://radyjko.tk/stacja.m3u?id=46</link>	
+                 <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/eska-club</link>	
 				</subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow][B]ESKA Dance[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066403q1UG.jpg/ru-1-ra-1180,664-n-1066403q1UG.jpg</thumbnail>
-                 <link>http://radyjko.tk/stacja.m3u?id=45</link>	
+                 <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/eska-dance</link>	
 				</subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow][B]ESKA Do Pracy[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066403q1UG.jpg/ru-1-ra-1180,664-n-1066403q1UG.jpg</thumbnail>
-                 <link>http://radyjko.tk/stacja.m3u?id=67</link>	
+                 <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/eska-do-pracy</link>	
 				</subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow][B]ESKA Gorąca 100[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/X/A/s/XA2198149fgoD.jpg/ru-1-ra-1180,664-n-XA2198149fgoD.jpg</thumbnail>
-                 <link>http://radyjko.tk/stacja.m3u?id=43</link>	
+                 <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/eska-goraca-100</link>	
 				</subitem>
 				
 				<subitem>
@@ -104,19 +127,19 @@
 				<subitem>
                   <title>[COLOR lightyellow][B]ESKA Impreska[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/C/X/s/CX2301822k2Tk.jpg/ru-0-ra-145,145-n-CX2301822k2Tk.jpg</thumbnail>
-                 <link>http://radyjko.tk/stacja.m3u?id=63</link>	
+                 <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/eska-impreska</link>	
 				</subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow][B]Eska Music Awards 2017[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/C/X/s/CX2301822k2Tk.jpg/ru-0-ra-145,145-n-CX2301822k2Tk.jpg</thumbnail>
-                 <link>http://radyjko.tk/stacja.m3u?id=90</link>	
+                 <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/special-eska-music-awards-2017</link>	
 				</subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow][B]ESKA Podwójna Gorąca 20[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/S/y/s/Sy22005984XP9.jpg/ru-1-ra-1180,664-n-Sy22005984XP9.jpg</thumbnail>
-                 <link>http://radyjko.tk/stacja.m3u?id=64</link>	
+                 <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/eska-goraca-20</link>	
 				</subitem>
 			</subitems>	
         </subchannel>	
@@ -128,7 +151,7 @@
 			    <subitem>
                   <title>[COLOR lightyellow][B]Eska ROCK[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/2/0/s/2084658Blv7.jpg/ru-1-ra-1180,664-n-2084658Blv7.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=38</link>	
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/eska-rock</link>	
 				</subitem> 	
 				
 				<subitem>
@@ -155,7 +178,7 @@
                   <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/eska-rock-polska</link>	
 				</subitem> 
 			</subitems>	
-        </subchannel>
+        </subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Impreza[/B][/COLOR]</name>
@@ -205,46 +228,94 @@
 			</subitems>	
         </subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-        <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Oldschool[/B][/COLOR]</name>
-          <thumbnail>http://t-eska.cdn.smcloud.net/common/L/X/s/LX2301889YaP0.jpg/ru-0-ra-145,145-n-LX2301889YaP0.jpg</thumbnail>
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Listy Przebojów[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/U/V/s/UV23500369oSx.jpg/ru-0-ra-130,130-n-UV23500369oSx.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>[COLOR lightyellow][B]Classic Party 80's[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/O/C/s/OC2059160RZbk.jpg/ru-1-ra-1180,664-n-OC2059160RZbk.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=93</link>	
+                  <title>[COLOR lightyellow][B]Dance Top 40[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/f/i/s/fi2350037oqTh.jpg/ru-0-ra-145,145-n-fi2350037oqTh.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/dance-top-40</link>		
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Pop 100[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/f/i/s/fi2350037oqTh.jpg/ru-0-ra-145,145-n-fi2350037oqTh.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/pop-100</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Pop Top 40[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/f/i/s/fi2350037oqTh.jpg/ru-0-ra-145,145-n-fi2350037oqTh.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/pop-100</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Polski TOP 40[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/f/i/s/fi2350037oqTh.jpg/ru-0-ra-145,145-n-fi2350037oqTh.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/polski-top-40</link>		
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Rock Top 40[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/A/z/s/Az2334546bPyu.jpg/ru-0-ra-145,145-n-Az2334546bPyu.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/rock-top40</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Disco Polo Top 40[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/A/z/s/Az2334546bPyu.jpg/ru-0-ra-145,145-n-Az2334546bPyu.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/disco-polo-top40</link>	
+				</subitem>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]MIŁOŚĆ[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/O/m/s/Om23018615Z52.jpg/ru-0-ra-130,130-n-Om23018615Z52.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Miłość W Rytmie POLO DANCE[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/O/m/s/Om23018615Z52.jpg/ru-0-ra-130,130-n-Om23018615Z52.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/milosc-w-rytmie-disco-polo</link>	
 				</subitem> 
 				
 				<subitem>
-                  <title>[COLOR lightyellow][B]Classic Party 90's[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/N/z/s/Nz2059163NAHJ.jpg/ru-1-ra-1180,664-n-Nz2059163NAHJ.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=94</link>	
+                  <title>[COLOR lightyellow][B]Miłość W Rytmie HITÓW[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/O/m/s/Om23018615Z52.jpg/ru-0-ra-130,130-n-Om23018615Z52.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/milosc-w-rytmie-hitow</link>	
 				</subitem> 
 				
 				<subitem>
-                  <title>[COLOR lightyellow][B]Hity 60's/70's/80's[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/L/X/s/LX2301889YaP0.jpg/ru-0-ra-145,145-n-LX2301889YaP0.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t034-1.mp3</link>	
+                  <title>[COLOR lightyellow][B]Miłość W Rytmie POP[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/O/m/s/Om23018615Z52.jpg/ru-0-ra-130,130-n-Om23018615Z52.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/milosc-w-rytmie-pop</link>	
 				</subitem> 
 				
 				<subitem>
-                  <title>[COLOR lightyellow][B]Hity 80's[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/L/X/s/LX2301889YaP0.jpg/ru-0-ra-145,145-n-LX2301889YaP0.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t099-1.mp3</link>	
+                  <title>[COLOR lightyellow][B]Miłość W Rytmie ROCK[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/O/m/s/Om23018615Z52.jpg/ru-0-ra-130,130-n-Om23018615Z52.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/milosc-w-rytmie-rock</link>	
 				</subitem> 
+		</subchannel>					
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]PIOSENKI DLA DZIECI[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/X/k/s/Xk23679864WmQ.jpg/ru-0-ra-130,130-n-Xk23679864WmQ.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Piosenki dla dzieci[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/X/k/s/Xk23679864WmQ.jpg/ru-0-ra-130,130-n-Xk23679864WmQ.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/special-piosenki-dla-dzieci</link>	
+				</subitem>
 				
 				<subitem>
-                  <title>[COLOR lightyellow][B]Hity 90's[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/L/X/s/LX2301889YaP0.jpg/ru-0-ra-145,145-n-LX2301889YaP0.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t031-1.mp3</link>	
-				</subitem> 
-				
-				<subitem>
-                  <title>[COLOR lightyellow][B]Oldies Ballads[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/10662291mhz.jpg/ru-1-ra-1180,664-n-10662291mhz.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t033-1.mp3</link>	
-				</subitem> 
-		</subchannel>			
+                  <title>[COLOR lightyellow][B]Kołysanki dla dzieci[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/X/k/s/Xk23679864WmQ.jpg/ru-0-ra-130,130-n-Xk23679864WmQ.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/special-kolysanki-dla-dzieci</link>	
+				</subitem>
+			</subitems>	
+        </subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]PLUS[/B][/COLOR]</name>
@@ -257,6 +328,90 @@
 				</subitem>
 			</subitems>	
         </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Polska[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/K/u/s/Ku233456809XV.jpg/ru-0-ra-130,130-n-Ku233456809XV.jpg</thumbnail>
+		    <subitems>
+			   <subitem>
+                  <title>[COLOR lightyellow][B]Top Disco Polo[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/K/u/s/Ku233456809XV.jpg/ru-0-ra-130,130-n-Ku233456809XV.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/top-disco-polo</link>	
+				</subitem>	 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Top Polska[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/K/u/s/Ku233456809XV.jpg/ru-0-ra-130,130-n-Ku233456809XV.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/top-polska</link>	
+				</subitem>
+			
+		        <subitem>
+                  <title>[COLOR lightyellow][B]Polski Rock[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/K/u/s/Ku233456809XV.jpg/ru-0-ra-130,130-n-Ku233456809XV.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/polski-rock</link>	
+				</subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Polskie Hity[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/K/u/s/Ku233456809XV.jpg/ru-0-ra-130,130-n-Ku233456809XV.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/polskie-hity</link>
+				</subitem>		
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]POLECANE[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/o/k/s/ok2301971bh9K.jpg/ru-0-ra-130,130-n-ok2301971bh9K.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Beyonce i Jay-Z[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/o/k/s/ok2301971bh9K.jpg/ru-0-ra-130,130-n-ok2301971bh9K.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/special-beyonce-jay-z</link>		
+				<subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Ed Sheeran[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/d/J/s/dJ2438066aZI1.jpg/ru-0-ra-270,130-n-dJ2438066aZI1.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/special-ed-sheeran</link>		
+				<subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Hity na wiosnę 2018[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/B/B/s/BB2432867lTQk.jpg/ru-0-ra-300,130-n-BB2432867lTQk.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/special-hity-na-wiosne-2018</link>		
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Hit Lata 2018[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/o/k/s/ok2301971bh9K.jpg/ru-0-ra-130,130-n-ok2301971bh9K.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/special-hit-lata-2018</link>		
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Hity na weekend[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/H/r/s/Hr2393859xRDK.jpg/ru-0-ra-270,130-n-Hr2393859xRDK.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/special-hity-na-weekend</link>		
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Hity Internetu 2017/2018[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/n/c/s/nc241941430m7.jpg/ru-0-ra-300,130-n-nc241941430m7.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/special-hity-internetow</link>		
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Serialove[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/s/X/s/sX24307635aMn.jpg/ru-0-ra-300,130-n-sX24307635aMn.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/special-serialove</link>		
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]GO To School[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/E/u/s/Eu2431774rc4d.jpg/ru-0-ra-300,130-n-Eu2431774rc4d.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/special-go-to-school</link>		
+				</subitem>
+			</subitems>	
+		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Pop[/B][/COLOR]</name>
@@ -277,28 +432,16 @@
 		        <subitem>
                   <title>[COLOR lightyellow][B]Pop[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/P/N/s/PN2306103PTat.jpg/ru-0-ra-145,145-n-PN2306103PTat.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=98</link>	
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/pop</link>	
 				</subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow][B]Pop 100[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/f/i/s/fi2350037oqTh.jpg/ru-0-ra-145,145-n-fi2350037oqTh.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=74</link>	
-				</subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow][B]Pop Ballads[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/P/N/s/PN2306103PTat.jpg/ru-0-ra-145,145-n-PN2306103PTat.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=99</link>	
-				</subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow][B]Pop Top 40[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/f/i/s/fi2350037oqTh.jpg/ru-0-ra-145,145-n-fi2350037oqTh.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=73</link>	
-				</subitem>	
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/pop-ballads</link>	
+				</subitem>		
 			</subitems>	
-        </subchannel>			
+        </subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Praca/Nauka[/B][/COLOR]</name>
@@ -306,22 +449,51 @@
             <subitems>
 			    <subitem>
                   <title>[COLOR lightyellow][B]Pop Do Pracy[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/I/x/s/Ix2354502dg2k.jpg/ru-0-ra-145,145-n-Ix2354502dg2k.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=66</link>	
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/o/s/s/os2354501t01j.jpg/ru-0-ra-130,130-n-os2354501t01j.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/pop-do-pracy</link>	
 				</subitem> 
 				
 				<subitem>
-                  <title>[COLOR lightyellow][B]Praca[/B][/COLOR]</title>
+                  <title>[COLOR lightyellow][B]Rock do Pracy[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/o/q/s/oq2306105Njqr.jpg/ru-0-ra-145,145-n-oq2306105Njqr.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t024-1.mp3</link>	
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/rock-do-pracy</link>	
 				</subitem> 
 				
 				<subitem>
-                  <title>[COLOR lightyellow][B]Nauka[/B][/COLOR]</title>
+                  <title>[COLOR lightyellow][B]Muzyka Do Pracy[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/o/q/s/oq2306105Njqr.jpg/ru-0-ra-145,145-n-oq2306105Njqr.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=68</link>	
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/hity-do-pracy</link>	
 				</subitem>
-		</subchannel>		
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Muzyka Do Nauki[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/o/q/s/oq2306105Njqr.jpg/ru-0-ra-145,145-n-oq2306105Njqr.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/nauka</link>	
+				</subitem>
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]RELAKS[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/p/j/s/pj2301850bv6w.jpg/ru-0-ra-130,130-n-pj2301850bv6w.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Pop Relaks[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/p/j/s/pj2301850bv6w.jpg/ru-0-ra-130,130-n-pj2301850bv6w.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/pop-relaks</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Rock Relaks[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/p/j/s/pj2301850bv6w.jpg/ru-0-ra-130,130-n-pj2301850bv6w.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/rock-relaks</link>	
+				</subitem> 
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Relaks[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/p/j/s/pj2301850bv6w.jpg/ru-0-ra-130,130-n-pj2301850bv6w.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/relaks</link>	
+				</subitem> 
+		</subchannel>			
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Rock[/B][/COLOR]</name>
@@ -329,40 +501,34 @@
             <subitems>
 			    <subitem>
                   <title>[COLOR lightyellow][B]Alternative[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=97</link>	
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/y/R/s/yR23018793tEE.jpg/ru-0-ra-130,130-n-yR23018793tEE.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/alternative</link>	
 				</subitem> 
 				
 				<subitem>
-                  <title>[COLOR lightyellow][B]Ballady Rockowe[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t030-1.mp3</link>	
+                  <title>[COLOR lightyellow][B]Giganci Rocka[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/y/R/s/yR23018793tEE.jpg/ru-0-ra-130,130-n-yR23018793tEE.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/giganci-rocka</link>	
 				</subitem> 
 				
 				<subitem>
                   <title>[COLOR lightyellow][B]Classic Rock[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=95</link>	
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/classic-rock</link>	
 				</subitem> 
 				
 				<subitem>
-                  <title>[COLOR lightyellow][B]Heavy[/B][/COLOR]</title>
+                  <title>[COLOR lightyellow][B]New Rock[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t018-1.mp3</link>	
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/new-rock</link>	
 				</subitem> 
 				
 				<subitem>
-                  <title>[COLOR lightyellow][B]Polski Rock[/B][/COLOR]</title>
+                  <title>[COLOR lightyellow][B]Rock Polska[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t008-1.mp3</link>	
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/rock-polska</link>	
 				</subitem> 
-				
-				<subitem>
-                  <title>[COLOR lightyellow][B]Rock[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/l/O/s/lO2301881RHV7.jpg/ru-0-ra-145,145-n-lO2301881RHV7.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t001-1.mp3</link>	
-				</subitem> 
-		</subchannel>				
+		</subchannel>									
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Sport[/B][/COLOR]</name>
@@ -371,16 +537,64 @@
 			    <subitem>
                   <title>[COLOR lightyellow][B]Bieganie[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/O/Y/s/OY2301848SJGw.jpg/ru-0-ra-145,145-n-OY2301848SJGw.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=105</link>	
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/bieganie</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Energia[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/O/Y/s/OY2301848SJGw.jpg/ru-0-ra-145,145-n-OY2301848SJGw.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/energia</link>	
 				</subitem>
 			
 			    <subitem>
                   <title>[COLOR lightyellow][B]Fitness[/B][/COLOR]</title>
 			      <thumbnail>http://t-eska.cdn.smcloud.net/common/L/T/s/LT2117494LaNb.jpg/ru-1-ra-1180,664-n-LT2117494LaNb.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=106</link>	
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/fitness</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Rock & Run[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/L/T/s/LT2117494LaNb.jpg/ru-1-ra-1180,664-n-LT2117494LaNb.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/rock-and-run</link>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Trening[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/L/T/s/LT2117494LaNb.jpg/ru-1-ra-1180,664-n-LT2117494LaNb.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/trening</link>	
 				</subitem>
 			</subitems>	
-        </subchannel>			
+        </subchannel>					
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]WAWA[/B][/COLOR]</name>
+          <thumbnail>http://t-eska.cdn.smcloud.net/common/3/4/s/3479EUsa.jpg/ru-0-ra-191,69-n-3479EUsa.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow][B]Radio WAWA[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066471elTd.jpg/ru-1-ra-1180,664-n-1066471elTd.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/wawa</link>	
+				</subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]WAWA Disco Polo[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/T/S/s/TS2215290juhB.jpg/ru-1-ra-1180,664-n-TS2215290juhB.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/wawa-disco-polo</link>	
+				</subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]WAWA Hity[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/M/h/s/Mh23018373LcO.jpg/ru-0-ra-145,145-n-Mh23018373LcO.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/wawa-hity</link>	
+				</subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow][B]Wawa Szczęśliwa 13-tka[/B][/COLOR]</title>
+			      <thumbnail>http://t-eska.cdn.smcloud.net/common/M/h/s/Mh23018373LcO.jpg/ru-0-ra-145,145-n-Mh23018373LcO.jpg</thumbnail>
+                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/wawa-szczesliwa-13</link>	
+				</subitem>	
+			</subitems>	
+        </subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]VOX FM[/B][/COLOR]</name>
@@ -423,194 +637,6 @@
 				</subitem>
 			</subitems>	
         </subchannel>			
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-	    <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]WAWA[/B][/COLOR]</name>
-          <thumbnail>http://t-eska.cdn.smcloud.net/common/3/4/s/3479EUsa.jpg/ru-0-ra-191,69-n-3479EUsa.jpg</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>[COLOR lightyellow][B]Radio WAWA[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066471elTd.jpg/ru-1-ra-1180,664-n-1066471elTd.jpg</thumbnail>
-                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/wawa</link>	
-				</subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow][B]WAWA Disco Polo[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/T/S/s/TS2215290juhB.jpg/ru-1-ra-1180,664-n-TS2215290juhB.jpg</thumbnail>
-                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/wawa-disco-polo</link>	
-				</subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow][B]WAWA Hity[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/M/h/s/Mh23018373LcO.jpg/ru-0-ra-145,145-n-Mh23018373LcO.jpg</thumbnail>
-                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/wawa-hity</link>	
-				</subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow][B]Wawa Szczęśliwa 13-tka[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/M/h/s/Mh23018373LcO.jpg/ru-0-ra-145,145-n-Mh23018373LcO.jpg</thumbnail>
-                  <link>http://85.219.133.18/radio.php?id=-1&amp;url=http://www.eskago.pl/radio/wawa-szczesliwa-13</link>	
-				</subitem>	
-			</subitems>	
-        </subchannel>
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		    <items>
-			    <item>
-                  <title>[COLOR lightyellow][B]Dance[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/d/M/s/dM2301953UZjH.jpg/ru-0-ra-145,145-n-dM2301953UZjH.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=83</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Dance Top 40[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/f/i/s/fi2350037oqTh.jpg/ru-0-ra-145,145-n-fi2350037oqTh.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=75</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]GO To School[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/b/L/s/bL2301972hNLN.jpg/ru-0-ra-145,145-n-bL2301972hNLN.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=87</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Grammy Nominees 2017[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/b/L/s/bL2301972hNLN.jpg/ru-0-ra-145,145-n-bL2301972hNLN.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t097-1.mp3</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Gwiazdy Dance[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/d/M/s/dM2301953UZjH.jpg/ru-0-ra-145,145-n-dM2301953UZjH.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=82</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Hity Internetu 2017/2018[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/n/c/s/nc241941430m7.jpg/ru-0-ra-300,130-n-nc241941430m7.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=88</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Hity Na Weekend[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/b/L/s/bL2301972hNLN.jpg/ru-0-ra-145,145-n-bL2301972hNLN.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=86</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Kołysanki dla dzieci[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/N/p/s/Np23679875ZYW.jpg/ru-0-ra-145,145-n-Np23679875ZYW.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=92</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]La La Land[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/s/Z/s/sZ2320429jUtW.jpg/ru-0-ra-300,300-n-sZ2320429jUtW_justin_hurwitz_planetarium.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t098-1.mp3</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Miłość[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/F/a/s/Fa2301862UQ8l.jpg/ru-0-ra-145,145-n-Fa2301862UQ8l.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t038-1.mp3</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Miłość W Rytmie HITÓW[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/F/a/s/Fa2301862UQ8l.jpg/ru-0-ra-145,145-n-Fa2301862UQ8l.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=101</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Miłość W Rytmie POP[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/F/a/s/Fa2301862UQ8l.jpg/ru-0-ra-145,145-n-Fa2301862UQ8l.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=102</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Miłość W Rytmie ROCK[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/F/a/s/Fa2301862UQ8l.jpg/ru-0-ra-145,145-n-Fa2301862UQ8l.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=103</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Muzykę wybiera Agnieszka Chylińska[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/N/l/s/Nl2334473lv85.jpg/ru-0-ra-270,130-n-Nl2334473lv85.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t010-1.mp3</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Muzykę wybiera Ewa Farna[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/c/U/s/cU2334481KTJD.jpg/ru-0-ra-270,130-n-cU2334481KTJD.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t003-1.mp3</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Muzykę wybiera Ewelina Lisowska[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/c/I/s/cI2334485Ljbs.jpg/ru-0-ra-270,130-n-cI2334485Ljbs.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t021-1.mp3</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Muzykę wybiera Margaret[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/b/L/s/bL2301972hNLN.jpg/ru-0-ra-145,145-n-bL2301972hNLN.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t093-1.mp3</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Muzykę wybiera Mikołaj[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/b/L/s/bL2301972hNLN.jpg/ru-0-ra-145,145-n-bL2301972hNLN.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=89</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]New Dance[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/d/M/s/dM2301953UZjH.jpg/ru-0-ra-145,145-n-dM2301953UZjH.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=81</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]One Direction[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/b/L/s/bL2301972hNLN.jpg/ru-0-ra-145,145-n-bL2301972hNLN.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=85</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Piosenki dla dzieci[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/N/p/s/Np23679875ZYW.jpg/ru-0-ra-145,145-n-Np23679875ZYW.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=91</link>		
-				</item>
-			
-			    <item>
-                  <title>[COLOR lightyellow][B]Polski TOP 40[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/f/i/s/fi2350037oqTh.jpg/ru-0-ra-145,145-n-fi2350037oqTh.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=72</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Polskie Hity[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066471elTd.jpg/ru-1-ra-1180,664-n-1066471elTd.jpg</thumbnail>
-                  <link>http://radyjko.tk/stacja.m3u?id=100</link>		
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Relaks[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/n/I/s/nI2301851vGux.jpg/ru-0-ra-145,145-n-nI2301851vGux.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t011-1.mp3</link>	
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Rock Top 40[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/A/z/s/Az2334546bPyu.jpg/ru-0-ra-145,145-n-Az2334546bPyu.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t028-1.mp3</link>	
-				</item>
-				
-				<item>
-                  <title>[COLOR lightyellow][B]Wiosenne Przebudzenie[/B][/COLOR]</title>
-			      <thumbnail>http://t-eska.cdn.smcloud.net/common/H/j/s/Hj2301864dDIz.jpg/ru-0-ra-145,145-n-Hj2301864dDIz.jpg</thumbnail>
-                  <link>http://waw01.ic1.scdn.smcloud.net/t005-1.mp3</link>	
-				</item>
-			</items>		
 	</channel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
