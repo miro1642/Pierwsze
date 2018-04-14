@@ -12,7 +12,7 @@ http://radyjko.tk/stacja.m3u?id=93
 #EXTINF:-1 radio="true" tvg-logo="http://t-eska.cdn.smcloud.net/common/y/R/s/yR23018793tEE.jpg/ru-0-ra-130,130-n-yR23018793tEE.jpg" group-title="radio",Classic Party 90s
 http://radyjko.tk/stacja.m3u?id=94
 
-#EXTINF:-1 radio="true" tvg-logo="http://t-eska.cdn.smcloud.net/common/y/R/s/yR23018793tEE.jpg/ru-0-ra-130,130-n-yR23018793tEE.jpg" group-title="radio",Classic Rock
+#EXTINF:-1 radio="true" tvg-logo="" group-title="radio",Classic Rock
 http://radyjko.tk/stacja.m3u?id=95
 
 #EXT-X-ENDLIST
