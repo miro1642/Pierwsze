@@ -9,7 +9,7 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	<channel>
-      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio[/B][/COLOR]</name>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio zewnętrzne playlisty 85.219.133.18[/B][/COLOR]</name>
       <thumbnail>http://www.persiantv7.xyz/index_files/channels/eskago.png</thumbnail>
       <fanart>https://i.ytimg.com/vi/8WLUJNqC9Ec/maxresdefault.jpg</fanart>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
@@ -637,6 +637,176 @@
 				</subitem>
 			</subitems>	
         </subchannel>			
+	</channel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio zewnętrzne playlisty radyjko.tk[/B][/COLOR]</name>
+      <thumbnail>http://www.persiantv7.xyz/index_files/channels/eskago.png</thumbnail>
+      <fanart>https://i.ytimg.com/vi/8WLUJNqC9Ec/maxresdefault.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <items>
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Alternative[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=97</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Bieganie[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/O/Y/s/OY2301848SJGw.jpg/ru-0-ra-145,145-n-OY2301848SJGw.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=105</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Classic Party 80's[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/O/C/s/OC2059160RZbk.jpg/ru-1-ra-1180,664-n-OC2059160RZbk.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=93</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Classic Party 90's[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/N/z/s/Nz2059163NAHJ.jpg/ru-1-ra-1180,664-n-Nz2059163NAHJ.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=94</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Classic Rock[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066209En9N.jpg/ru-1-ra-1180,664-n-1066209En9N.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=95</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Dance[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/d/M/s/dM2301953UZjH.jpg/ru-0-ra-145,145-n-dM2301953UZjH.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=83</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Dance Top 40[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/f/i/s/fi2350037oqTh.jpg/ru-0-ra-145,145-n-fi2350037oqTh.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=75</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Disco Polo[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/k/u/s/ku2301876vsvJ.jpg/ru-0-ra-145,145-n-ku2301876vsvJ.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=77</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Disco Polo Top[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/k/u/s/ku2301876vsvJ.jpg/ru-0-ra-145,145-n-ku2301876vsvJ.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=78</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Disco Polo Top 40[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/k/u/s/ku2301876vsvJ.jpg/ru-0-ra-145,145-n-ku2301876vsvJ.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=70</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Energia[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066403q1UG.jpg/ru-1-ra-1180,664-n-1066403q1UG.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=107</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ESKA Active[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/L/T/s/LT2117494LaNb.jpg/ru-1-ra-1180,664-n-LT2117494LaNb.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=59</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ESKA Club[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066403q1UG.jpg/ru-1-ra-1180,664-n-1066403q1UG.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=46</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ESKA Dance[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/1/0/s/1066403q1UG.jpg/ru-1-ra-1180,664-n-1066403q1UG.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=45</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ESKA Gorąca 100[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/X/A/s/XA2198149fgoD.jpg/ru-1-ra-1180,664-n-XA2198149fgoD.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=43</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ESKA Impreska[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/C/X/s/CX2301822k2Tk.jpg/ru-0-ra-145,145-n-CX2301822k2Tk.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=63</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ESKA Music Awards 2017[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/C/X/s/CX2301822k2Tk.jpg/ru-0-ra-145,145-n-CX2301822k2Tk.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=90</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ESKA Podwójna Gorąca 20[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/S/y/s/Sy22005984XP9.jpg/ru-1-ra-1180,664-n-Sy22005984XP9.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=64</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ESKA Rock[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/m/v/s/mv2099948s0gq.png/ru-0-ra-191,69-n-mv2099948s0gq.png</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=38</externallink>
+			  <page></page>
+            </item>
+			
+			<item>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Fitness[/B][/COLOR]</title>
+			  <link>http://ignorame</link>
+			  <thumbnail>http://t-eska.cdn.smcloud.net/common/L/T/s/LT2117494LaNb.jpg/ru-1-ra-1180,664-n-LT2117494LaNb.jpg</thumbnail>
+              <externallink>http://radyjko.tk/stacja.m3u?id=106</externallink>
+			  <page></page>
+            </item>
+		</items>
 	</channel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
