@@ -14,6 +14,14 @@
       <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>	
             <items>
 			    <item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]eskaGO[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://www.persiantv7.xyz/index_files/channels/eskago.png</thumbnail>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/OpenFM.m3u</externallink>
+			      <page></page>
+                </item>
+			
+			    <item>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Open FM[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>http://www.benshishko.eu/wp-content/uploads/2016/07/open-fm-logo-ben-shishko.png</thumbnail>
@@ -33,7 +41,7 @@
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]radiostacja.pl[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>http://www.radiostacja.pl/images/inne/logo-do-skasowania.png</thumbnail>
-                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/radiostacja%2Cpl.m3u</externallink>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/radiostacja.pl.m3u</externallink>
 			      <page></page>
                 </item>
 				
@@ -140,7 +148,7 @@
 			<subitem>
                 <title>[COLOR lightyellow]ZET Bajm[/COLOR]</title>
                 <link>http://zetbaj-01.cdn.eurozet.pl:8466/;stream.nsv?seed=16986.524588428438</link>
-                <thumbnail>http://gfx.radiozet.pl/var/radiozetv3/storage/images/radio/kanaly-muzyczne/zet-bajm/971812-1-pol-PL/ZET-Bajm_resize200x200.jpg</thumbnail>
+                <thumbnail>https://i.ytimg.com/vi/DqWXrIAU1tc/hqdefault.jpg</thumbnail>
             </subitem> 
 			
 			<subitem>
