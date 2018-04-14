@@ -13,6 +13,6 @@ http://radyjko.tk/stacja.m3u?id=93
 http://radyjko.tk/stacja.m3u?id=94
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="radio",Classic Rock
-http://radyjko.tk/stacja.m3u?id=95
+http://radyjko.tk/stacja.pls?id=95
 
 #EXT-X-ENDLIST
