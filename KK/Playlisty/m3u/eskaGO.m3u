@@ -13,6 +13,7 @@ http://radyjko.tk/stacja.m3u?id=93
 http://radyjko.tk/stacja.m3u?id=94
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="radio",Classic Rock
+#EXTVLCOPT--http-reconnect=true
 http://radyjko.tk/stacja.m3u?id=95
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="radio",Classic Rock
