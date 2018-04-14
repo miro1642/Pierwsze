@@ -13,23 +13,6 @@
       <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.playlistLoader.png.pagespeed.ic.cN3WazgAOp.png</thumbnail>
       <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>	
             <items>
-				<item>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]eskaGO[/B][/COLOR]</title>
-				  <thumbnail>http://getsapp.ru/IPTV/img/444_iptv.jpg</thumbnail>
-                  <link>$doregex[makelist]</link>
-                  <regex>
-                    <name>makelist</name>
-                    <listrepeat><![CDATA[
-                    <title>[makelist.param1]</title>
-                    <link>[makelist.param2]</link>
-                    <thumbnail>NA</thumbnail>
-                    ]]></listrepeat>
-                    <expres>#EXTINF:-1.*,(.*?)\n(.*)</expres>
-                    <page>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/eskaGO.m3u</page>
-                    <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-                  </regex>>
-                </item>
-			
 			    <item>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Open FM[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
