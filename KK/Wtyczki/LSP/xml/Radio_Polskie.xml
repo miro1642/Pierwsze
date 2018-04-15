@@ -60,6 +60,12 @@
             </item>
 
 			<item>
+                  <title>[COLOR lightblue]Radio HIT[/COLOR]</title>
+			      <thumbnail>http://radiohit.net.pl/img_news/big/1523020113.jpg</thumbnail>
+                  <link>http://77.91.63.146:8088/RadioHIT.aac</link>
+            </item>
+			
+			<item>
                   <title>[COLOR lightblue]Radio Muza 80[/COLOR]</title>
 			      <thumbnail>http://rm80.pl/wp-content/static/img/RM80-logo-napis-2017-200c.png</thumbnail>
                   <link>http://91.232.4.33:9011/stream</link>

@@ -30,7 +30,7 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
           <items>
 		    <item>
-              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Filmy[/B][/COLOR]</title>
+              <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Filmy Fabularne[/B][/COLOR]</title>
               <link>http://ignorame</link>
               <thumbnail>http://www.telesatellite.com/images/logos/vod.gif</thumbnail>
               <fanart>https://superrepo.org/static/images/fanart/original/plugin.video.polishtv.live.jpg</fanart>
@@ -240,6 +240,14 @@
           <thumbnail>http://thumbs.dreamstime.com/x/music-logo-13731704.jpg</thumbnail>
           <fanart>http://eskipaper.com/images/edm-wallpaper-4.jpg</fanart>
             <subitems>
+			    <subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]ASOT[/B][/COLOR]</title>
+                  <link>http://ignorame</link>
+                  <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/A_State_Of_Trance_Radio_Show.jpg/240px-A_State_Of_Trance_Radio_Show.jpg</thumbnail>
+                  <fanart>https://pro2-bar-s3-cdn-cf.myportfolio.com/e714c0563acffef39d2cd3d6998d9b2b/b478dfb2-8f45-46d8-8191-b04d1fa9565c_rw_1920.jpg?h=f4bfcc49b75dc05075db66d2edd6a0ea</fanart>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/ASOT.m3u</externallink>
+				</subitem>
+			
                 <subitem>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]DJing[/B][/COLOR]</title>
                   <link>http://ignorame</link>
