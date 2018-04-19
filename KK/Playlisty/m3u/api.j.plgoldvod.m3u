@@ -1,0 +1,181 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="",4fun
+rtmp://198.16.77.42/stream/1134?e=1521326159&st=paft41hBtuKqB-xo1r6ASA
+
+#EXTINF:-1 tvg-logo="",8TV
+rtmp://198.16.77.42/stream/1225?e=1521326159&st=JpvhLWwp0NObPcmz3mWz_Q
+
+#EXTINF:-1 tvg-logo="",ATM Rozrywka
+rtmp://198.16.77.42/stream/1105?e=1521326159&st=Bd-0Hgd0QXomKbFZBKgtdg
+
+#EXTINF:-1,AXN HD
+rtmp://198.16.77.42/stream/2211?e=1521326159&st=C1INd8qW2jg3-8Tqy4xmJg
+
+#EXTINF:-1 tvg-logo="",AXN Black
+rtmp://198.16.80.146/stream/1119?e=1521326159&st=_ZDiukDXsTSxRlXe2A9Iiw
+
+#EXTINF:-1 tvg-logo="",AXN Spin
+rtmp://198.16.80.146/stream/1118?e=1521326159&st=54H27Bd6JJZg00jLbsCxOA
+
+#EXTINF:-1 tvg-logo="",AXN White
+rtmp://198.16.72.242/stream/1120?e=1521326159&st=gB7-fk3TQUkDdyDZ-0IPSQ
+
+#EXTINF:-1,Bajki Nowe HD
+rtmp://198.16.72.242/stream/0005?e=1521326159&st=DyhqqMDkW4-Hbz-rUjh7aA
+
+#EXTINF:-1 tvg-logo="",BBC Cbeebies
+rtmp://198.16.77.42/stream/1117?e=1521326159&st=XiL9FW9T8KNUnwPHjv0zNQ
+
+#EXTINF:-1,BBC Earth HD
+rtmp://198.16.72.226/stream/2011?e=1521326159&st=Ae-fJiOGoLyqSAa66kxSIQ
+
+#EXTINF:-1 tvg-logo="",Botoks Serial
+rtmp://198.16.77.42/stream/0006?e=1521326159&st=Dx-9U8ExQg8MbxAOTomUYw
+
+#EXTINF:-1 tvg-logo="",Baby TV
+rtmp://198.16.72.242/stream/1106?e=1521326159&st=sxErDXUAVPWtumq9puoChQ
+
+#EXTINF:-1 tvg-logo="",Cartoon Network
+rtmp://198.16.77.42/stream/1143?e=1521326159&st=wfzeqznVNjl949LMIawKdQ
+
+#EXTINF:-1 tvg-logo="",Cbeebies
+rtmp://198.16.80.146/stream/1248?e=1521326159&st=gQrKT7pN_BpQpeBy1rZ5_Q
+
+#EXTINF:-1 tvg-logo="",Cinemax
+rtmp://198.16.80.146/stream/1241?e=1521326159&st=Oo68tj2H7MD1x2-gJX_63Q
+
+#EXTINF:-1 tvg-logo="",Comedy Central
+rtmp://198.16.72.242/stream/3712?e=1521326159&st=-N20Hat7MtexBd2gxVw73g
+
+#EXTINF:-1 tvg-logo="",Discovery
+rtmp://198.16.72.242/stream/1121?e=1521326159&st=_HyLX3sCI4g4p8_1JTZMVQ
+
+#EXTINF:-1 tvg-logo="",Discovery Historia
+rtmp://198.16.77.42/stream/1222?e=1521326159&st=GVMYdUQCwG9zlGyB0OxHhg
+
+#EXTINF:-1 tvg-logo="",Discovery Life
+rtmp://198.16.80.146/stream/1124?e=1521326159&st=CSHdC8gu8zIs-nzEJzZ8YA
+
+#EXTINF:-1 tvg-logo="",Discovery Science
+rtmp://198.16.72.242/stream/1122?e=1521326159&st=zniKO_Q8Jll34nBNFWfs1w
+
+#EXTINF:-1,Disney Channel HD
+rtmp://198.16.72.242/stream/2713?e=1521326159&st=6r6NxgwOQFixGVFNu3ZZlQ
+
+#EXTINF:-1 tvg-logo="",Disney Junior
+rtmp://198.16.72.242/stream/2413?e=1521326159&st=r3BK7auZFsHm1rn-Qt5iAQ
+
+#EXTINF:-1 tvg-logo="",Disney Xd
+rtmp://198.16.72.242/stream/2714?e=1521326159&st=hFyfqA3U2cFH_p8vYAwH_Q
+
+#EXTINF:-1 tvg-logo="",Dtx
+rtmp://198.16.72.242/stream/1123?e=1521326159&st=7Wrx5QyUy1_LIpAT8DnBOQ
+
+#EXTINF:-1,Eleven Sports 1 HD
+rtmp://198.16.72.242/stream/3613?e=1521326159&st=MDIUC8y8LLLVurFbzWOTEA
+
+#EXTINF:-1,Eurosport HD
+rtmp://198.16.77.42/stream/3313?e=1521326159&st=J7OpQzrphuoLaNuWAJ5IoA
+
+#EXTINF:-1,Eurosport 2 HD
+rtmp://198.16.80.146/stream/2513?e=1521326159&st=XYCTtRdxQxx-Da6pdd8t4w
+
+#EXTINF:-1,Extreme Sports Channel HD
+rtmp://198.16.80.146/stream/2511?e=1521326159&st=tScQQjspaGW88wyhd-ue7A
+
+#EXTINF:-1 tvg-logo="",Filmbox
+rtmp://198.16.80.146/stream/1137?e=1521326159&st=kugyllSU7sn9uzrvjcv1TQ
+
+#EXTINF:-1 tvg-logo="",Filmbox Action
+rtmp://198.16.77.42/stream/1139?e=1521326159&st=_I8CW0iOxnQMxR5_WJGgkw
+
+#EXTINF:-1 tvg-logo="",Filmbox Family
+rtmp://198.16.72.242/stream/1138?e=1521326159&st=djXvACaJ33G_FYk5U4o1CQ
+
+#EXTINF:-1 tvg-logo="",Filmbox Premium
+rtmp://198.16.77.42/stream/1144?e=1521326159&st=uzI-07TZg7VsbyrrAFWNNg
+
+#EXTINF:-1 tvg-logo="",Focus TV
+rtmp://stream.cdn.smcloud.net/fokustv-p/stream1?e=1521326159&st=CnjLYZuLA60Jz_Lkwrvy1w
+
+#EXTINF:-1,HBO HD
+rtmp://198.16.77.42/stream/2112?e=1521326159&st=DeyXDYOFzzhNuqgCAaxlkQ
+
+#EXTINF:-1,HBO 2 HD
+rtmp://198.16.80.146/stream/2013?e=1521326159&st=IzNmkcaxwYYVb-c68ryhbg
+
+#EXTINF:-1,HBO 3 HD
+rtmp://198.16.80.146/stream/2012?e=1521326159&st=9UJl7nm1lzjiubhWXsci8g
+
+#EXTINF:-1,ID HD
+rtmp://198.16.80.146/stream/2512?e=1521326159&st=wruWVj2cg_ioPSnho-_Gxw
+
+#EXTINF:-1 tvg-logo="",Kino Polska
+rtmp://198.16.72.242/stream/1132?e=1521326159&st=BjN55ju7QIhYVQsp40XKSA
+
+#EXTINF:-1,Lifetime HD
+rtmp://198.16.80.146/stream/3012?e=1521326159&st=Wt_V7utEljwp6XP2AoRfTg
+
+#EXTINF:-1 tvg-logo="",Metro TV
+rtmp://198.16.80.146/stream/1260?e=1521326159&st=BBAmdSjgXVmMwRPJYupe8w
+
+#EXTINF:-1,MTV HD
+rtmp://198.16.80.146/stream/3112?e=1521326159&st=QqRswsbROGZeQcWqwzJLJA
+
+#EXTINF:-1,Nickelodeon HD
+rtmp://198.16.80.146/stream/3612?e=1521326159&st=_Hg5Y84aGafNvpIKmp5J4w
+
+#EXTINF:-1 tvg-logo="",Nowa TV
+rtmp://198.16.80.146/stream/1110?e=1521326159&st=RXYYFZRkifbumkcKfwf2fg
+
+#EXTINF:-1 tvg-logo="",Nick Jr
+rtmp://198.16.72.242/stream/3415?e=1521326159&st=xjMy7IH61_qn2e9IQ6bEeg
+
+#EXTINF:-1,Polsat HD
+rtmp://198.16.72.242/stream/3413?e=1521326159&st=SsNKaH_yMdKLHguOE9DmKQ
+
+#EXTINF:-1 tvg-logo="",Republika TV
+rtmp://198.16.77.42/stream/1131?e=1521326159&st=X5iSui_uoIPOnMpSy3iPHQ
+
+#EXTINF:-1 tvg-logo="",Stopklatka
+rtmp://198.16.80.146/stream/1106?e=1521326159&st=sxErDXUAVPWtumq9puoChQ
+
+#EXTINF:-1 tvg-logo="",Superstacja
+rtmp://198.16.80.146/stream/1129?e=1521326159&st=EjZCdDkGSua9TScF_Rmc_A
+
+#EXTINF:-1,Tlc HD
+rtmp://198.16.77.42/stream/3311?e=1521326159&st=7HaJIXLsNhoqbgn5G0-Yvg
+
+#EXTINF:-1 tvg-logo="",TV 4
+rtmp://198.16.80.146/stream/1103?e=1521326159&st=V-xbtaC5vBRRvBCyT0bfig
+
+#EXTINF:-1 tvg-logo="",TV 6
+rtmp://198.16.77.42/stream/1104?e=1521326159&st=jtdGC7oMi6olcRdgaGZnoA
+
+#EXTINF:-1 tvg-logo="",TV Puls
+rtmp://198.16.72.242/stream/1101?e=1521326159&st=zflc7gaQXQgT-hgFD9Oy5Q
+
+#EXTINF:-1 tvg-logo="",TV Puls 2
+rtmp://198.16.80.146/stream/1102?e=1521326159&st=l23SGSNr6TgwFf08qZ7KyA
+
+#EXTINF:-1,TVN HD
+rtmp://198.16.72.242/stream/2212?e=1521326159&st=kh31MvmvHfF9B-O-kCmmdA
+
+#EXTINF:-1,TVP 2 HD
+rtmp://185.142.236.83/stream/2111?e=1521326159&st=JV2TDb6RDK5LII9XpOsAgQ
+
+#EXTINF:-1 tvg-logo="",TVP Abc
+rtmp://185.142.236.99/stream/1113?e=1521326159&st=nSG06CwWn0Xo1dMqCjPKWA
+
+#EXTINF:-1 tvg-logo="",TVP
+rtmp://185.142.236.99/stream/1141?e=1521326159&st=91ouH57wF2L_5wv8zTy8nw
+
+#EXTINF:-1,TVP Sport HD
+rtmp://185.142.236.99/stream/2313?e=1521326159&st=Q5Y6u3us21pOr5za7Spdig
+
+#EXTINF:-1 tvg-logo="",TVP3-wrocaw
+http://gourl.su/2kp?discovery_sc.m3u8?e=1521326159&st=p-lI7VH4PT8q6r880bLcZg
+
+#EXTINF:-1 tvg-logo="",Zoom TV
+rtmp://198.16.72.242/stream/1111?e=1521326159&st=-3_zOmEiDQJsPS-6T2Q42w
