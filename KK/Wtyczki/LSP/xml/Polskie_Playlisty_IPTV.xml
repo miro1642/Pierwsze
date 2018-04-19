@@ -33,6 +33,15 @@
               </item>
 			  
 			  <item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]onlybest.tv[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://onlybest.tv/images/logo_ru.png</thumbnail>
+				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>http://playlist.onlybest.tv/en/device/ee7111e0d5639ac41c9eb207732c3186/static_playlist</externallink>
+			      <page></page>
+              </item>
+			  
+			  <item>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]GoldVod[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>http://sd-xbmc.org/repository/xbmc-addons/goldvod.png</thumbnail>
@@ -147,7 +156,7 @@
 	<fanart>[makelist1.param5]</fanart>
 ]]></listrepeat>
 <expres><![CDATA["(.*?)\s+--\s+(.*?)\s+--\s+(.*?)\s+--\s+(.*?)\s+--\s+(.*?)"]]></expres>
-<page>"major2.ipfox.co:8080 -- winsor_ZdtMSC -- GhAUwb3w --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] major2.ipfox.co:8080[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+<page>"bestbuyiptv.link:6969 -- marcinmatycki@o2.pl -- vhnkt6icOH --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] marcinmatycki@o2.pl[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
 "xc.cobra-iptv.com:25461 -- polonia-v2 -- QgCj3B6VSz --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] xc.cobra-iptv.com[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
 </page>
 <agent>VLC/2.2.1 LibVLC/2.2.17</agent>
