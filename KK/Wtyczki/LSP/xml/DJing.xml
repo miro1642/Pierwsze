@@ -17,190 +17,393 @@
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Animation[/B][/COLOR]</name>
           <thumbnail>http://www.djing.com/newimages/content/c07.jpg</thumbnail>
             <subitems>
-			    <subitem>
-                  <title>[COLOR lightyellow]720p[/COLOR]</title>
-			      <thumbnail>http://www.djing.com/newimages/content/c07.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/a-05.m3u8</link>
-                </subitem>
-			
 				<subitem>
                   <title>[COLOR lightyellow]540p[/COLOR]</title>
 			      <thumbnail>http://www.djing.com/newimages/content/c07.jpg</thumbnail>
-                   <link>https://cdn.djing.com/tv/a-04.m3u8</link>
+                   <link>https://www.djing.com/tv/animation.m3u8</link>
+				   <link>https://cdn.djing.com/tv/a-28063-04.m3u8</link>
                 </subitem>
 
 				<subitem>
                   <title>[COLOR lightyellow]360p[/COLOR]</title>
 			      <thumbnail>http://www.djing.com/newimages/content/c07.jpg</thumbnail>
-                   <link>https://cdn.djing.com/tv/a-03.m3u8</link>
+                   <link>https://cdn.djing.com/tv/a-28063-03.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]180p[/COLOR]</title>
 			      <thumbnail>http://www.djing.com/newimages/content/c07.jpg</thumbnail>
-                   <link>https://cdn.djing.com/tv/a-02.m3u8</link>
+                   <link>https://cdn.djing.com/tv/a-28063-02.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]180p[/COLOR]</title>
 			      <thumbnail>http://www.djing.com/newimages/content/c07.jpg</thumbnail>
-                   <link>https://cdn.djing.com/tv/a-01.m3u8</link>
+                   <link>https://cdn.djing.com/tv/a-28063-01.m3u8</link>
                 </subitem>
 			</subitems>	
         </subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Avicii[/B][/COLOR]</name>
+          <thumbnail>https://djing.com/my-edm-tv-channel/uploads/avicii.jpg</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>https://djing.com/my-edm-tv-channel/uploads/avicii.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/session_avicii.m3u8</link>
+				  <link>https://cdn.djing.com/tv/s-28063-05-avicii.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]540p[/COLOR]</title>
+			      <thumbnail>https://djing.com/my-edm-tv-channel/uploads/avicii.jpg</thumbnail>
+				  <link>https://cdn.djing.com/tv/s-28063-04-avicii.m3u8</link>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>https://djing.com/my-edm-tv-channel/uploads/avicii.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-03-avicii.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://djing.com/my-edm-tv-channel/uploads/avicii.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-02-avicii.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://djing.com/my-edm-tv-channel/uploads/avicii.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-01-avicii.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Classics[/B][/COLOR]</name>
           <thumbnail>http://www.djing.com/newimages/content/c06.jpg</thumbnail>
             <subitems>
-			    <subitem>
-                  <title>[COLOR lightyellow]720p[/COLOR]</title>
-			      <thumbnail>http://www.djing.com/newimages/content/c06.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/i-05.m3u8</link>
-                </subitem>
-			
 				<subitem>
                   <title>[COLOR lightyellow]540p[/COLOR]</title>
 			      <thumbnail>http://www.djing.com/newimages/content/c06.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/i-04.m3u8</link>
+                  <link>https://cdn.djing.com/tv/hits.m3u8</link>
+				  <link>https://cdn.djing.com/tv/i-28063-04.m3u8</link>
                 </subitem>
 
 				<subitem>
                   <title>[COLOR lightyellow]360p[/COLOR]</title>
 			      <thumbnail>http://www.djing.com/newimages/content/c06.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/i-03.m3u8</link>
+                  <link>https://cdn.djing.com/tv/i-28063-03.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]180p[/COLOR]</title>
 			      <thumbnail>http://www.djing.com/newimages/content/c06.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/i-02.m3u8</link>
+                  <link>https://cdn.djing.com/tv/i-28063-02.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]180p[/COLOR]</title>
 			      <thumbnail>http://www.djing.com/newimages/content/c06.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/i-01.m3u8</link>
+                  <link>https://cdn.djing.com/tv/i-28063-01.m3u8</link>
                 </subitem>
 			</subitems>	
         </subchannel>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]DJing[/B][/COLOR]</name>
-          <thumbnail>http://streamplayer.free.fr/images/TVLogo-Big/DJing.jpg</thumbnail>
+          <thumbnail>https://djing.com/newimages/content/c01.jpg</thumbnail>
             <subitems>
-			    <subitem>
-                  <title>[COLOR lightyellow]720p[/COLOR]</title>
-			      <thumbnail>http://streamplayer.free.fr/images/TVLogo-Big/DJing.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/05.m3u8</link>
-                </subitem>
-				
 				<subitem>
                   <title>[COLOR lightyellow]540p[/COLOR]</title>
-			      <thumbnail>http://streamplayer.free.fr/images/TVLogo-Big/DJing.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/04.m3u8</link>
+			      <thumbnail>https://djing.com/newimages/content/c01.jpg</thumbnail>
+				  <link>https://cdn.djing.com/tv/live.m3u8</link>
+                  <link>https://cdn.djing.com/tv/28063-04.m3u8</link>
                 </subitem>
 
 				<subitem>
                   <title>[COLOR lightyellow]360p[/COLOR]</title>
-			      <thumbnail>http://streamplayer.free.fr/images/TVLogo-Big/DJing.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/03.m3u8</link>
+			      <thumbnail>https://djing.com/newimages/content/c01.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/28063-03.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]180p[/COLOR]</title>
-			      <thumbnail>http://streamplayer.free.fr/images/TVLogo-Big/DJing.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/02.m3u8</link>
+			      <thumbnail>https://djing.com/newimages/content/c01.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/28063-02.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]180p[/COLOR]</title>
-			      <thumbnail>http://streamplayer.free.fr/images/TVLogo-Big/DJing.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/01.m3u8</link>
+			      <thumbnail>https://djing.com/newimages/content/c01.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/28063-01.m3u8</link>
                 </subitem>
 			</subitems>	
         </subchannel>	
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
-        <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Ibiza[/B][/COLOR]</name>
-          <thumbnail>http://www.djing.com/newimages/content/c02.jpg</thumbnail>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Electro Rock[/B][/COLOR]</name>
+          <thumbnail>https://djing.com/newimages/content/c08.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>[COLOR lightyellow]720p[/COLOR]</title>
-			      <thumbnail>http://www.djing.com/newimages/content/c02.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/d-05.m3u8</link>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c08.jpg</thumbnail>
+				  <link>https://cdn.djing.com/tv/session_electro-rock.m3u8</link>
+                  <link>https://cdn.djing.com/tv/s-28063-05-electro-rock.m3u8</link>
                 </subitem>
 			
 				<subitem>
                   <title>[COLOR lightyellow]540p[/COLOR]</title>
-			      <thumbnail>http://www.djing.com/newimages/content/c02.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/d-04.m3u8</link>
+			      <thumbnail>https://djing.com/newimages/content/c08.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-04-electro-rock.m3u8</link>
                 </subitem>
 
 				<subitem>
                   <title>[COLOR lightyellow]360p[/COLOR]</title>
-			      <thumbnail>http://www.djing.com/newimages/content/c02.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/d-03.m3u8</link>
+			      <thumbnail>https://djing.com/newimages/content/c08.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-03-electro-rock.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]180p[/COLOR]</title>
-			      <thumbnail>http://www.djing.com/newimages/content/c02.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/d-02.m3u8</link>
+			      <thumbnail>https://djing.com/newimages/content/c08.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-02-electro-rock.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]180p[/COLOR]</title>
-			      <thumbnail>http://www.djing.com/newimages/content/c02.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/d-01.m3u8</link>
+			      <thumbnail>https://djing.com/newimages/content/c08.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-01-electro-rock.m3u8</link>
                 </subitem>
-            </subitems>	
-        </subchannel>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]French Touch[/B][/COLOR]</name>
+          <thumbnail>https://djing.com/newimages/content/c09.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c09.jpg</thumbnail>
+				  <link>https://cdn.djing.com/tv/session_french-touch.m3u8</link>
+                  <link>https://cdn.djing.com/tv/s-28063-05-french-touch.m3u8</link>
+                </subitem>
+			
+				<subitem>
+                  <title>[COLOR lightyellow]540p[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c09.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-04-french-touch.m3u8</link>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c09.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-03-french-touch.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c09.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-02-french-touch.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c09.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-01-french-touch.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Hedonist[/B][/COLOR]</name>
+          <thumbnail>https://djing.com/my-edm-tv-channel/uploads/hedonist.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>https://djing.com/my-edm-tv-channel/uploads/hedonist.jpg</thumbnail>
+				  <link>https://cdn.djing/tv/session_hedonist.m3u8</link>
+                  <link>https://cdn.djing.com/tv/s-28063-05-hedonist.m3u8</link>
+                </subitem>
+			
+				<subitem>
+                  <title>[COLOR lightyellow]540p[/COLOR]</title>
+			      <thumbnail>https://djing.com/my-edm-tv-channel/uploads/hedonist.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-04-hedonist.m3u8</link>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>https://djing.com/my-edm-tv-channel/uploads/hedonist.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-03-hedonist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://djing.com/my-edm-tv-channel/uploads/hedonist.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-02-hedonist.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://djing.com/my-edm-tv-channel/uploads/hedonist.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-01-hedonist.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
         <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]HotHotHot[/B][/COLOR]</name>
           <thumbnail>http://www.djing.com/newimages/content/c03.jpg</thumbnail>
             <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>http://www.djing.com/newimages/content/c03.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/hothothot.m3u8</link>
+                </subitem>
+			
 				<subitem>
                   <title>[COLOR lightyellow]360p[/COLOR]</title>
 			      <thumbnail>http://www.djing.com/newimages/content/c03.jpg</thumbnail>
                   <link>https://cdn.djing.com/tv/h-01-fta.m3u8</link>
                 </subitem>
 			</subitems>	
-        </subchannel>	
-!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
         <subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Underground[/B][/COLOR]</name>
-          <thumbnail>http://wikitv.eu/wp-content/uploads/2015/09/DJing-Underground.jpg</thumbnail>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Ibiza[/B][/COLOR]</name>
+          <thumbnail>https://djing.com/newimages/content/c02.jpg</thumbnail>
             <subitems>
-			    <subitem>
-                  <title>[COLOR lightyellow]720p[/COLOR]</title>
-			      <thumbnail>http://wikitv.eu/wp-content/uploads/2015/09/DJing-Underground.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/u-05.m3u8</link>
-                </subitem>	
-			
-			    <subitem>
+				<subitem>
                   <title>[COLOR lightyellow]540p[/COLOR]</title>
-			      <thumbnail>http://wikitv.eu/wp-content/uploads/2015/09/DJing-Underground.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/u-04.m3u8</link>
-                </subitem>	
-				
+			      <thumbnail>http://www.djing.com/newimages/content/c02.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/dancefloor.m3u8</link>
+				  <link>https://cdn.djing.com/tv/d-28063-04.m3u8</link>
+                </subitem>
+
 				<subitem>
                   <title>[COLOR lightyellow]360p[/COLOR]</title>
-			      <thumbnail>http://wikitv.eu/wp-content/uploads/2015/09/DJing-Underground.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/u-03.m3u8</link>
-                </subitem>	
-				
-				<subitem>
-                  <title>[COLOR lightyellow]180p[/COLOR]</title>
-			      <thumbnail>http://wikitv.eu/wp-content/uploads/2015/09/DJing-Underground.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/u-02.m3u8</link>
+			      <thumbnail>http://www.djing.com/newimages/content/c02.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/d-28063-03.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>[COLOR lightyellow]180p[/COLOR]</title>
-			      <thumbnail>http://wikitv.eu/wp-content/uploads/2015/09/DJing-Underground.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/u-01.m3u8</link>
+			      <thumbnail>http://www.djing.com/newimages/content/c02.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/d-28063-02.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>http://www.djing.com/newimages/content/c02.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/d-28063-01.m3u8</link>
+                </subitem>
+            </subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Karaoke for EDM, duh ?[/B][/COLOR]</name>
+          <thumbnail>https://djing.com/newimages/content/c10.jpg</thumbnail>
+            <subitems>
+				<subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>http://www.djing.com/newimages/content/c10.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/karaoke.m3u8</link>
+				  <link>https://cdn.djing.com/tv/k-28063-05.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]540p[/COLOR]</title>
+			      <thumbnail>http://www.djing.com/newimages/content/c10.jpg</thumbnail>
+				  <link>https://cdn.djing.com/tv/k-28063-04.m3u8</link>
+                </subitem>
+
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>http://www.djing.com/newimages/content/c10.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/k-28063-03.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>http://www.djing.com/newimages/content/c10.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/k-28063-02.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>http://www.djing.com/newimages/content/c10.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/k-28063-01.m3u8</link>
+                </subitem>
+            </subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Summer Vibes[/B][/COLOR]</name>
+          <thumbnail>https://djing.com/newimages/content/c05.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c05.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/session_summer-vibes.m3u8</link>
+				  <link>https://cdn.djing.com/tv/s-28063-05-summer-vibes.m3u8</link>
+                </subitem>
+			
+			    <subitem>
+                  <title>[COLOR lightyellow]540p[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c05.jpg</thumbnail>
+				  <link>https://cdn.djing.com/tv/s-28063-04-summer-vibes.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c05.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-03-summer-vibes.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c05.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-02-summer-vibes.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c05.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/s-28063-01-summer-vibes.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Underground[/B][/COLOR]</name>
+          <thumbnail>https://djing.com/newimages/content/c04.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]540p[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c04.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/underground.m3u8</link>
+				  <link>https://cdn.djing.com/tv/u-28063-04.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c04.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/u-28063-03.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c04.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/u-28063-02.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]180p[/COLOR]</title>
+			      <thumbnail>https://djing.com/newimages/content/c04.jpg</thumbnail>
+                  <link>https://cdn.djing.com/tv/u-28063-01.m3u8</link>
                 </subitem>
 			</subitems>	
         </subchannel>	
