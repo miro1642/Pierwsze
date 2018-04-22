@@ -20,8 +20,8 @@
 				<subitem>
                   <title>[COLOR lightyellow]540p[/COLOR]</title>
 			      <thumbnail>http://www.djing.com/newimages/content/c07.jpg</thumbnail>
-                   <link>https://www.djing.com/tv/animation.m3u8</link>
-				   <link>https://cdn.djing.com/tv/a-28063-04.m3u8</link>
+                   <link>https://cdn.djing.com/tv/animation.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				   <link>https://cdn.djing.com/tv/a-28063-04.m3u8$$lsname=LINK 2</link>
                 </subitem>
 
 				<subitem>
@@ -51,8 +51,8 @@
 				<subitem>
                   <title>[COLOR lightyellow]HD[/COLOR]</title>
 			      <thumbnail>https://djing.com/my-edm-tv-channel/uploads/avicii.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/session_avicii.m3u8</link>
-				  <link>https://cdn.djing.com/tv/s-28063-05-avicii.m3u8</link>
+                  <link>https://cdn.djing.com/tv/session_avicii.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://cdn.djing.com/tv/s-28063-05-avicii.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
@@ -88,8 +88,8 @@
 				<subitem>
                   <title>[COLOR lightyellow]540p[/COLOR]</title>
 			      <thumbnail>http://www.djing.com/newimages/content/c06.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/hits.m3u8</link>
-				  <link>https://cdn.djing.com/tv/i-28063-04.m3u8</link>
+                  <link>https://cdn.djing.com/tv/hits.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://cdn.djing.com/tv/i-28063-04.m3u8$$lsname=LINK 2</link>
                 </subitem>
 
 				<subitem>
@@ -119,8 +119,8 @@
 				<subitem>
                   <title>[COLOR lightyellow]540p[/COLOR]</title>
 			      <thumbnail>https://djing.com/newimages/content/c01.jpg</thumbnail>
-				  <link>https://cdn.djing.com/tv/live.m3u8</link>
-                  <link>https://cdn.djing.com/tv/28063-04.m3u8</link>
+				  <link>https://cdn.djing.com/tv/live.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>https://cdn.djing.com/tv/28063-04.m3u8$$lsname=LINK 2</link>
                 </subitem>
 
 				<subitem>
@@ -150,8 +150,8 @@
 			    <subitem>
                   <title>[COLOR lightyellow]HD[/COLOR]</title>
 			      <thumbnail>https://djing.com/newimages/content/c08.jpg</thumbnail>
-				  <link>https://cdn.djing.com/tv/session_electro-rock.m3u8</link>
-                  <link>https://cdn.djing.com/tv/s-28063-05-electro-rock.m3u8</link>
+				  <link>https://cdn.djing.com/tv/session_electro-rock.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>https://cdn.djing.com/tv/s-28063-05-electro-rock.m3u8$$lsname=LINK 2</link>
                 </subitem>
 			
 				<subitem>
@@ -187,8 +187,8 @@
 			    <subitem>
                   <title>[COLOR lightyellow]HD[/COLOR]</title>
 			      <thumbnail>https://djing.com/newimages/content/c09.jpg</thumbnail>
-				  <link>https://cdn.djing.com/tv/session_french-touch.m3u8</link>
-                  <link>https://cdn.djing.com/tv/s-28063-05-french-touch.m3u8</link>
+				  <link>https://cdn.djing.com/tv/session_french-touch.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>https://cdn.djing.com/tv/s-28063-05-french-touch.m3u8$$lsname=LINK 2</link>
                 </subitem>
 			
 				<subitem>
@@ -224,8 +224,8 @@
 			    <subitem>
                   <title>[COLOR lightyellow]HD[/COLOR]</title>
 			      <thumbnail>https://djing.com/my-edm-tv-channel/uploads/hedonist.jpg</thumbnail>
-				  <link>https://cdn.djing/tv/session_hedonist.m3u8</link>
-                  <link>https://cdn.djing.com/tv/s-28063-05-hedonist.m3u8</link>
+				  <link>https://cdn.djing/tv/session_hedonist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+                  <link>https://cdn.djing.com/tv/s-28063-05-hedonist.m3u8$$lsname=LINK 2</link>
                 </subitem>
 			
 				<subitem>
@@ -279,8 +279,8 @@
 				<subitem>
                   <title>[COLOR lightyellow]540p[/COLOR]</title>
 			      <thumbnail>http://www.djing.com/newimages/content/c02.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/dancefloor.m3u8</link>
-				  <link>https://cdn.djing.com/tv/d-28063-04.m3u8</link>
+                  <link>https://cdn.djing.com/tv/dancefloor.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://cdn.djing.com/tv/d-28063-04.m3u8$$lsname=LINK 2</link>
                 </subitem>
 
 				<subitem>
@@ -310,8 +310,8 @@
 				<subitem>
                   <title>[COLOR lightyellow]HD[/COLOR]</title>
 			      <thumbnail>http://www.djing.com/newimages/content/c10.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/karaoke.m3u8</link>
-				  <link>https://cdn.djing.com/tv/k-28063-05.m3u8</link>
+                  <link>https://cdn.djing.com/tv/karaoke.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://cdn.djing.com/tv/k-28063-05.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
@@ -347,8 +347,8 @@
 			    <subitem>
                   <title>[COLOR lightyellow]HD[/COLOR]</title>
 			      <thumbnail>https://djing.com/newimages/content/c05.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/session_summer-vibes.m3u8</link>
-				  <link>https://cdn.djing.com/tv/s-28063-05-summer-vibes.m3u8</link>
+                  <link>https://cdn.djing.com/tv/session_summer-vibes.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://cdn.djing.com/tv/s-28063-05-summer-vibes.m3u8$$lsname=LINK 2</link>
                 </subitem>
 			
 			    <subitem>
@@ -384,8 +384,8 @@
 			    <subitem>
                   <title>[COLOR lightyellow]540p[/COLOR]</title>
 			      <thumbnail>https://djing.com/newimages/content/c04.jpg</thumbnail>
-                  <link>https://cdn.djing.com/tv/underground.m3u8</link>
-				  <link>https://cdn.djing.com/tv/u-28063-04.m3u8</link>
+                  <link>https://cdn.djing.com/tv/underground.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>https://cdn.djing.com/tv/u-28063-04.m3u8$$lsname=LINK 2</link>
                 </subitem>	
 				
 				<subitem>
