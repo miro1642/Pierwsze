@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.evai.pl/epg/epg.xml"
 
 #EXTINF:-1 tvg-logo="",4fun
 rtmp://198.16.77.42/stream/1134?e=1521326159&st=paft41hBtuKqB-xo1r6ASA
