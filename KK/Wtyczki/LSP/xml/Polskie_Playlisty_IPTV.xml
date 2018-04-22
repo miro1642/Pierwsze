@@ -223,13 +223,6 @@
               <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
             </regex>
           </subitem> 
-		  
-		  <subitem>
-<title>[COLOR lightblue]ARENASPORT 1[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/417.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
-</subitem>
-		  
 	    <subitems>
 		</subchannel>   
 </channel>	
