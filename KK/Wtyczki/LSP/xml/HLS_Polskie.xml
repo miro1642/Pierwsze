@@ -126,13 +126,24 @@
 			    <subitem>
                   <title>576p</title>
 	              <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/disco-polo-music-630x355.png?bc=white&w=575</thumbnail>
-                  <link>http://hls.redefine.pl/E33F843E/10260/0/hls576/masterlist.m3u8</link>
+                  <link>http://hls.redefine.pl/E33F843E/10260/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/E33F843E/10260/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>320p</title>
 	              <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/disco-polo-music-630x355.png?bc=white&w=575</thumbnail>
-                  <link>http://hls.redefine.pl/E0F58044/10260/0/hls/masterlist.m3u8</link>
+                  <link>http://hls.redefine.pl/E0F58044/10260/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/E33F843E/10260/0/hls576/mob1/list.m3u8$$lsname=LINK 2</link> 
+				  <link>http://hls.redefine.pl/E0F58044/10260/0/hls/mob1/list.m3u8$$lsname=LINK 3</link> 
+				  <link>http://hls.redefine.pl/E0F58044/10260/0/hls/mob2/list.m3u8$$lsname=LINK 4</link> 
+                </subitem>
+				
+				<subitem>
+                  <title>2p</title>
+	              <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/disco-polo-music-630x355.png?bc=white&w=575</thumbnail>
+                  <link>http://hls.redefine.pl/E33F843E/10260/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/E0F58044/10260/0/hls/mob4/list.m3u8$$lsname=LINK 2</link> 
                 </subitem>
 			</subitems>	
 		</subchannel>			
