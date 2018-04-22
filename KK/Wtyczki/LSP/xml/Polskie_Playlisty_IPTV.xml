@@ -15,11 +15,11 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	 
             <items>
 			 <item>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]156.67.95.21[/B][/COLOR]</title>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]GEN IPTV[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
-			      <thumbnail>http://onlybest.tv/images/logo_ru.png</thumbnail>
+			      <thumbnail>https://genip.tv/wp-content/themes/geniptv/assets/geniptv.jpg</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://156.67.95.21:8000/playlist.m3u8</externallink>
+                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Playlisty/m3u/PL_geniptv.com.m3u</externallink>
 			      <page></page>
               </item>
 			  
