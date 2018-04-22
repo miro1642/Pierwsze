@@ -95,13 +95,13 @@
   <fanart>http://www.derolen.com/wp-content/uploads/2015/06/hosting_full.jpg</fanart>
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
         <subchannel>
-          <name> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 217.182.138.85[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</name>
-          <thumbnail>http://vexavi19.webd.pl/adam/adam_komputery/images/iptv/nowwatchtvlive_co_tv_poland.png</thumbnail>
+          <name> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] GEN IPTV[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</name>
+          <thumbnail>https://genip.tv/wp-content/themes/geniptv/assets/geniptv.jpg</thumbnail>
           <fanart>http://www.derolen.com/wp-content/uploads/2015/06/hosting_full.jpg</fanart>
 		  <subitems>  
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 		  <subitem>
-		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] clientportal.link:abc123[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
+		  <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] 6jwSGn9CLN[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR]</title>
 		  <thumbnail>http://vexavi19.webd.pl/adam/adam_komputery/images/iptv/nowwatchtvlive_co_tv_poland.png</thumbnail>
            <link>$doregex[makelist]</link>
             <regex>
@@ -112,7 +112,7 @@
                 <thumbnail>NA</thumbnail>
                 ]]></listrepeat>
               <expres>#EXTINF:-1.*,(.*?),PL\n(.*)</expres>
-              <page>http://clientportal.link/get.php?username=abc123&amp;password=321cba&amp;type=m3u</page>
+              <page>http://portal2.geniptv.com:8080/get.php?username=6jwSGn9CLN&amp;password=atn7NBgslf&amp;type=m3u_plus</page>
               <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
             </regex>
           </subitem>		  	  
@@ -156,7 +156,7 @@
 	<fanart>[makelist1.param5]</fanart>
 ]]></listrepeat>
 <expres><![CDATA["(.*?)\s+--\s+(.*?)\s+--\s+(.*?)\s+--\s+(.*?)\s+--\s+(.*?)"]]></expres>
-<page>"bestbuyiptv.link:6969 -- marcinmatycki@o2.pl -- vhnkt6icOH --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] marcinmatycki@o2.pl[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+<page>"portal2.geniptv.com:8080 -- 6jwSGn9CLN -- atn7NBgslf --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] portal2.geniptv.com[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
 "xc.cobra-iptv.com:25461 -- polonia-v2 -- QgCj3B6VSz --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] xc.cobra-iptv.com[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
 </page>
 <agent>VLC/2.2.1 LibVLC/2.2.17</agent>

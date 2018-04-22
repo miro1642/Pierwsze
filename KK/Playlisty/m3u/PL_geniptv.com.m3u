@@ -1,0 +1,503 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13 Ulica HD PL" tvg-name="13 Ulica FHD PL" tvg-logo="" group-title="Poland",13 Ulica FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/865.ts
+#EXTINF:-1 tvg-id="13 Ulica HD PL" tvg-name="13 Ulica PL" tvg-logo="" group-title="Poland",13 Ulica PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6878.ts
+#EXTINF:-1 tvg-id="4FUN DANCE PL" tvg-name="4Fun Dance PL" tvg-logo="http://195.154.221.171/picons/4fundancepl.png" group-title="Poland",4Fun Dance PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10486.ts
+#EXTINF:-1 tvg-id="4FUN GOLD HITS PL" tvg-name="4Fun Gold Hits PL" tvg-logo="http://195.154.221.171/picons/4fungoldhitspl.png" group-title="Poland",4Fun Gold Hits PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10485.ts
+#EXTINF:-1 tvg-id="4Fun TV PL" tvg-name="4Fun TV PL" tvg-logo="" group-title="Poland",4Fun TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4562.ts
+#EXTINF:-1 tvg-id="AMC PL" tvg-name="AMC PL" tvg-logo="http://195.154.221.171/picons/amcpl.png" group-title="Poland",AMC PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10483.ts
+#EXTINF:-1 tvg-id="ATM Rozrywka PL" tvg-name="ATM Rozrywka TV PL" tvg-logo="" group-title="Poland",ATM Rozrywka TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/958.ts
+#EXTINF:-1 tvg-id="AXN Black PL" tvg-name="AXN Black PL" tvg-logo="" group-title="Poland",AXN Black PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/956.ts
+#EXTINF:-1 tvg-id="AXN PL" tvg-name="AXN FHD PL" tvg-logo="http://195.154.221.171/picons/axnhdpl.png" group-title="Poland",AXN FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10482.ts
+#EXTINF:-1 tvg-id="AXN PL" tvg-name="AXN HD PL" tvg-logo="" group-title="Poland",AXN HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/957.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN Spin FHD PL" tvg-logo="" group-title="Poland",AXN Spin FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/955.ts
+#EXTINF:-1 tvg-id="AXN Spin PL" tvg-name="AXN Spin PL" tvg-logo="" group-title="Poland",AXN Spin PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6875.ts
+#EXTINF:-1 tvg-id="AXN White PL" tvg-name="AXN White PL" tvg-logo="" group-title="Poland",AXN White PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/954.ts
+#EXTINF:-1 tvg-id="Active Family PL" tvg-name="Active Family PL" tvg-logo="" group-title="Poland",Active Family PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/962.ts
+#EXTINF:-1 tvg-id="Adventure PL" tvg-name="Adventure FHD PL" tvg-logo="" group-title="Poland",Adventure FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/961.ts
+#EXTINF:-1 tvg-id="Ale kinoPlus PL" tvg-name="Ale Kino+ FHD PL" tvg-logo="" group-title="Poland",Ale Kino+ FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/960.ts
+#EXTINF:-1 tvg-id="Ale kinoPlus PL" tvg-name="Ale Kino+ HD PL" tvg-logo="" group-title="Poland",Ale Kino+ HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6873.ts
+#EXTINF:-1 tvg-id="Animal Planet HD PL" tvg-name="Animal Planet FHD PL" tvg-logo="" group-title="Poland",Animal Planet FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/959.ts
+#EXTINF:-1 tvg-id="BBC Earth PL" tvg-name="BBC Earth HD PL" tvg-logo="" group-title="Poland",BBC Earth HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4560.ts
+#EXTINF:-1 tvg-id="BBC HD PL" tvg-name="BBC HD PL" tvg-logo="" group-title="Poland",BBC HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4559.ts
+#EXTINF:-1 tvg-id="Boomerang PL" tvg-name="Boomerang PL" tvg-logo="" group-title="Poland",Boomerang PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/843.ts
+#EXTINF:-1 tvg-id="CANALPlus Family PL" tvg-name="CANAL+ FAMILY FHD PL" tvg-logo="" group-title="Poland",CANAL+ FAMILY FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/953.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FAMILY HD PL" tvg-logo="" group-title="Poland",CANAL+ FAMILY HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/12321.ts
+#EXTINF:-1 tvg-id="CANALPlus PL" tvg-name="CANAL+ PL" tvg-logo="" group-title="Poland",CANAL+ PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/8429.ts
+#EXTINF:-1 tvg-id="CBS Action PL" tvg-name="CBS Action PL" tvg-logo="" group-title="Poland",CBS Action PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/943.ts
+#EXTINF:-1 tvg-id="CBS Europa PL" tvg-name="CBS Europa FHD PL" tvg-logo="" group-title="Poland",CBS Europa FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/863.ts
+#EXTINF:-1 tvg-id="CBS Reality PL" tvg-name="CBS Reality PL" tvg-logo="" group-title="Poland",CBS Reality PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/942.ts
+#EXTINF:-1 tvg-id="CANALPlus 1 PL" tvg-name="Canal+ 1 FHD PL" tvg-logo="" group-title="Poland",Canal+ 1 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/949.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Discovery FHD PL" tvg-logo="" group-title="Poland",Canal+ Discovery FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/939.ts
+#EXTINF:-1 tvg-id="CANALPlus Discovery PL" tvg-name="Canal+ Discovery HD PL" tvg-logo="" group-title="Poland",Canal+ Discovery HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6425.ts
+#EXTINF:-1 tvg-id="CANALPlus PL" tvg-name="Canal+ FHD PL" tvg-logo="" group-title="Poland",Canal+ FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/947.ts
+#EXTINF:-1 tvg-id="CANALPlus Film PL" tvg-name="Canal+ Film HD PL" tvg-logo="" group-title="Poland",Canal+ Film HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/952.ts
+#EXTINF:-1 tvg-id="CANALPlus PL" tvg-name="Canal+ HD PL" tvg-logo="" group-title="Poland",Canal+ HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/948.ts
+#EXTINF:-1 tvg-id="CANALPlus Seriale PL" tvg-name="Canal+ Seriale FHD PL" tvg-logo="" group-title="Poland",Canal+ Seriale FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/951.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Seriale HD PL" tvg-logo="" group-title="Poland",Canal+ Seriale HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/12322.ts
+#EXTINF:-1 tvg-id="CANALPlus Sport 2 PL" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="" group-title="Poland",Canal+ Sport 2 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6871.ts
+#EXTINF:-1 tvg-id="CANALPlus Sport 2 PL" tvg-name="Canal+ Sport 2 HD PL" tvg-logo="" group-title="Poland",Canal+ Sport 2 HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/950.ts
+#EXTINF:-1 tvg-id="CANALPlus Sport PL" tvg-name="Canal+ Sport FHD PL" tvg-logo="" group-title="Poland",Canal+ Sport FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/944.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport HD PL" tvg-logo="" group-title="Poland",Canal+ Sport HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/945.ts
+#EXTINF:-1 tvg-id="CANALPlus Sport PL" tvg-name="Canal+ Sport PL" tvg-logo="" group-title="Poland",Canal+ Sport PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/946.ts
+#EXTINF:-1 tvg-id="Cartoon Network PL" tvg-name="Cartoon Network HD PL" tvg-logo="" group-title="Poland",Cartoon Network HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/864.ts
+#EXTINF:-1 tvg-id="CBeebies PL" tvg-name="Cbeebies PL" tvg-logo="" group-title="Poland",Cbeebies PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4558.ts
+#EXTINF:-1 tvg-id="Cinemax PL" tvg-name="CineMax 1 FHD PL" tvg-logo="" group-title="Poland",CineMax 1 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/941.ts
+#EXTINF:-1 tvg-id="Cinemax PL" tvg-name="CineMax 1 HD PL" tvg-logo="" group-title="Poland",CineMax 1 HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6872.ts
+#EXTINF:-1 tvg-id="Cinemax2 PL" tvg-name="Cinemax 2 HD PL" tvg-logo="" group-title="Poland",Cinemax 2 HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4557.ts
+#EXTINF:-1 tvg-id="Comedy Central PL" tvg-name="Comedy Central FHD PL" tvg-logo="http://195.154.221.171/picons/comedycentralhdpl.png" group-title="Poland",Comedy Central FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10481.ts
+#EXTINF:-1 tvg-id="Comedy Central Family PL" tvg-name="Comedy Central Family PL" tvg-logo="" group-title="Poland",Comedy Central Family PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4555.ts
+#EXTINF:-1 tvg-id="Comedy Central PL" tvg-name="Comedy Central PL" tvg-logo="" group-title="Poland",Comedy Central PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4556.ts
+#EXTINF:-1 tvg-id="DTX HD PL" tvg-name="DTX FHD PL" tvg-logo="" group-title="Poland",DTX FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/934.ts
+#EXTINF:-1 tvg-id="DTX HD PL" tvg-name="DTX PL" tvg-logo="http://195.154.221.171/picons/dtxpl.png" group-title="Poland",DTX PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10476.ts
+#EXTINF:-1 tvg-id="Da Vinci Learning PL" tvg-name="Da Vinci Learning PL" tvg-logo="" group-title="Poland",Da Vinci Learning PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/940.ts
+#EXTINF:-1 tvg-id="Disco Polo Music PL" tvg-name="Disco Polo Music HD PL" tvg-logo="http://195.154.221.171/picons/discopolomusicpl.png" group-title="Poland",Disco Polo Music HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10488.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disco Polo Music PL" tvg-logo="" group-title="Poland",Disco Polo Music PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4554.ts
+#EXTINF:-1 tvg-id="Discovery Channel PL" tvg-name="Discovery Channel FHD PL" tvg-logo="http://195.154.221.171/picons/discoverychannelhdpl.png" group-title="Poland",Discovery Channel FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10478.ts
+#EXTINF:-1 tvg-id="Discovery Channel PL" tvg-name="Discovery Channel PL" tvg-logo="http://195.154.221.171/picons/discoverychannelpl.png" group-title="Poland",Discovery Channel PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10479.ts
+#EXTINF:-1 tvg-id="Discovery Historia PL" tvg-name="Discovery Historia PL" tvg-logo="" group-title="Poland",Discovery Historia PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/938.ts
+#EXTINF:-1 tvg-id="Discovery Life PL" tvg-name="Discovery Life FHD PL" tvg-logo="" group-title="Poland",Discovery Life FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/937.ts
+#EXTINF:-1 tvg-id="Discovery Life PL" tvg-name="Discovery Life PL" tvg-logo="" group-title="Poland",Discovery Life PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6874.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD PL" tvg-logo="" group-title="Poland",Discovery Science HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/936.ts
+#EXTINF:-1 tvg-id="Disney Channel PL" tvg-name="Disney Channel FHD PL" tvg-logo="" group-title="Poland",Disney Channel FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/963.ts
+#EXTINF:-1 tvg-id="Disney Junior PL" tvg-name="Disney Junior PL" tvg-logo="" group-title="Poland",Disney Junior PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/862.ts
+#EXTINF:-1 tvg-id="Disney XD PL" tvg-name="Disney XD PL" tvg-logo="" group-title="Poland",Disney XD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/935.ts
+#EXTINF:-1 tvg-id="DomoPlus PL" tvg-name="Domo+ HD PL" tvg-logo="" group-title="Poland",Domo+ HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/7798.ts
+#EXTINF:-1 tvg-id="E! HD PL" tvg-name="E! FHD PL" tvg-logo="" group-title="Poland",E! FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/933.ts
+#EXTINF:-1 tvg-id="Eska Rock TV PL" tvg-name="Eska Rock TV FHD PL" tvg-logo="http://195.154.221.171/picons/eskarocktvhdpl.png" group-title="Poland",Eska Rock TV FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10473.ts
+#EXTINF:-1 tvg-id="Eska Rock TV PL" tvg-name="Eska Rock TV PL" tvg-logo="http://195.154.221.171/picons/eskarocktvpl.png" group-title="Poland",Eska Rock TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10469.ts
+#EXTINF:-1 tvg-id="Eska TV Extra PL" tvg-name="Eska TV Extra PL" tvg-logo="http://195.154.221.171/picons/eskatvextrapl.png" group-title="Poland",Eska TV Extra PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10471.ts
+#EXTINF:-1 tvg-id="Eska TV PL" tvg-name="Eska TV PL" tvg-logo="http://195.154.221.171/picons/eskatvpl.png" group-title="Poland",Eska TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10472.ts
+#EXTINF:-1 tvg-id="FOX Comedy PL" tvg-name="FOX Comedy FHD PL" tvg-logo="http://195.154.221.171/picons/foxcomedyhdpl.png" group-title="Poland",FOX Comedy FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10463.ts
+#EXTINF:-1 tvg-id="FOX HD PL" tvg-name="FOX FHD PL" tvg-logo="http://195.154.221.171/picons/foxhdpl.png" group-title="Poland",FOX FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10462.ts
+#EXTINF:-1 tvg-id="FOX HD PL" tvg-name="FOX PL" tvg-logo="http://195.154.221.171/picons/foxpl.png" group-title="Poland",FOX PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10464.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Channel World HD PL" tvg-logo="" group-title="Poland",Fight Channel World HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6433.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network FHD PL" tvg-logo="" group-title="Poland",Fight Network FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/901.ts
+#EXTINF:-1 tvg-id="FightBox HD PL" tvg-name="Fightbox FHD PL" tvg-logo="" group-title="Poland",Fightbox FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/858.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fightbox PL" tvg-logo="" group-title="Poland",Fightbox PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6877.ts
+#EXTINF:-1 tvg-id="FilmBox Arthouse PL" tvg-name="FilmBox Arthouse PL" tvg-logo="" group-title="Poland",FilmBox Arthouse PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/925.ts
+#EXTINF:-1 tvg-id="FilmBox Action PL" tvg-name="Filmbox Action PL" tvg-logo="" group-title="Poland",Filmbox Action PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/926.ts
+#EXTINF:-1 tvg-id="FilmBox Extra HD PL" tvg-name="Filmbox Extra FHD PL" tvg-logo="" group-title="Poland",Filmbox Extra FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/871.ts
+#EXTINF:-1 tvg-id="FilmBox Extra HD PL" tvg-name="Filmbox Extra PL" tvg-logo="http://195.154.221.171/picons/filmboxextrapl.png" group-title="Poland",Filmbox Extra PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10466.ts
+#EXTINF:-1 tvg-id="FilmBox Family PL" tvg-name="Filmbox Family PL" tvg-logo="" group-title="Poland",Filmbox Family PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/924.ts
+#EXTINF:-1 tvg-id="FilmBox PL" tvg-name="Filmbox HD PL" tvg-logo="" group-title="Poland",Filmbox HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/927.ts
+#EXTINF:-1 tvg-id="FilmBox Premium PL" tvg-name="Filmbox Premium HD PL" tvg-logo="" group-title="Poland",Filmbox Premium HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/923.ts
+#EXTINF:-1 tvg-id="Fokus TV PL" tvg-name="Fokus TV PL" tvg-logo="" group-title="Poland",Fokus TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4552.ts
+#EXTINF:-1 tvg-id="FOX Comedy PL" tvg-name="Fox Comedy PL" tvg-logo="" group-title="Poland",Fox Comedy PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4551.ts
+#EXTINF:-1 tvg-id="H2 HD PL" tvg-name="H2 FHD PL" tvg-logo="" group-title="Poland",H2 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/857.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1 FHD PL" tvg-logo="" group-title="Poland",HBO 1 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/11099.ts
+#EXTINF:-1 tvg-id="HBO HD PL" tvg-name="HBO 1 HD PL" tvg-logo="" group-title="Poland",HBO 1 HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/856.ts
+#EXTINF:-1 tvg-id="HBO2 HD PL" tvg-name="HBO 2 FHD PL" tvg-logo="" group-title="Poland",HBO 2 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/922.ts
+#EXTINF:-1 tvg-id="HBO2 HD PL" tvg-name="HBO 2 HD PL" tvg-logo="" group-title="Poland",HBO 2 HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6889.ts
+#EXTINF:-1 tvg-id="HBO3 HD PL" tvg-name="HBO 3 HD PL" tvg-logo="" group-title="Poland",HBO 3 HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/921.ts
+#EXTINF:-1 tvg-id="HGTV PL" tvg-name="HGTV FHD PL" tvg-logo="" group-title="Poland",HGTV FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6888.ts
+#EXTINF:-1 tvg-id="HGTV PL" tvg-name="HGTV PL" tvg-logo="" group-title="Poland",HGTV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/920.ts
+#EXTINF:-1 tvg-id="HIP HOP TV PL" tvg-name="HIP HOP TV PL" tvg-logo="" group-title="Poland",HIP HOP TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4550.ts
+#EXTINF:-1 tvg-id="History PL" tvg-name="History FHD PL" tvg-logo="http://195.154.221.171/picons/historyhdpl.png" group-title="Poland",History FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10460.ts
+#EXTINF:-1 tvg-id="History PL" tvg-name="History PL" tvg-logo="" group-title="Poland",History PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/919.ts
+#EXTINF:-1 tvg-id="Investigation Discovery HD PL" tvg-name="Investigation Discovery FHD PL" tvg-logo="http://195.154.221.171/picons/investigationdiscoveryhdpl.png" group-title="Poland",Investigation Discovery FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10458.ts
+#EXTINF:-1 tvg-id="Investigation Discovery HD PL" tvg-name="Investigation Discovery PL" tvg-logo="http://195.154.221.171/picons/investigationdiscoverypl.png" group-title="Poland",Investigation Discovery PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10459.ts
+#EXTINF:-1 tvg-id="Kino Polska Muzyka PL" tvg-name="Kino Polska Muzyka PL" tvg-logo="" group-title="Poland",Kino Polska Muzyka PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/918.ts
+#EXTINF:-1 tvg-id="Kino Polska PL" tvg-name="Kino Polska PL" tvg-logo="" group-title="Poland",Kino Polska PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4548.ts
+#EXTINF:-1 tvg-id="Kino TV PL" tvg-name="Kino TV PL" tvg-logo="http://195.154.221.171/picons/kinotvpl.png" group-title="Poland",Kino TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10457.ts
+#EXTINF:-1 tvg-id="KuchniaPlus PL" tvg-name="Kuchnia+ FHD PL" tvg-logo="http://195.154.221.171/picons/kuchniaplushdpl.png" group-title="Poland",Kuchnia+ FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10456.ts
+#EXTINF:-1 tvg-id="KuchniaPlus PL" tvg-name="Kuchnia+ HD PL" tvg-logo="" group-title="Poland",Kuchnia+ HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/917.ts
+#EXTINF:-1 tvg-id="Lifetime HD PL" tvg-name="Lifetime FHD PL" tvg-logo="" group-title="Poland",Lifetime FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/855.ts
+#EXTINF:-1 tvg-id="Lifetime HD PL" tvg-name="Lifetime HD PL" tvg-logo="http://195.154.221.171/picons/lifetimehdpl.png" group-title="Poland",Lifetime HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10487.ts
+#EXTINF:-1 tvg-id="METRO PL" tvg-name="METRO PL" tvg-logo="" group-title="Poland",METRO PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4546.ts
+#EXTINF:-1 tvg-id="MTV Dance PL" tvg-name="MTV Dance HD PL" tvg-logo="" group-title="Poland",MTV Dance HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4534.ts
+#EXTINF:-1 tvg-id="MTV Polska PL" tvg-name="MTV FHD PL" tvg-logo="http://195.154.221.171/picons/mtvhdpl.png" group-title="Poland",MTV FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10454.ts
+#EXTINF:-1 tvg-id="MTV Live HD PL" tvg-name="MTV Live FHD PL" tvg-logo="http://195.154.221.171/picons/mtvlivehdpl.png" group-title="Poland",MTV Live FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10455.ts
+#EXTINF:-1 tvg-id="MTV Polska PL" tvg-name="MTV Polska PL" tvg-logo="" group-title="Poland",MTV Polska PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4545.ts
+#EXTINF:-1 tvg-id="MiniMiniPlus HD PL" tvg-name="MiniMini+ FHD PL" tvg-logo="" group-title="Poland",MiniMini+ FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6436.ts
+#EXTINF:-1 tvg-id="MiniMiniPlus HD PL" tvg-name="MiniMini+ HD PL" tvg-logo="" group-title="Poland",MiniMini+ HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/854.ts
+#EXTINF:-1 tvg-id="Motowizja PL" tvg-name="Motorwizja PL" tvg-logo="" group-title="Poland",Motorwizja PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/916.ts
+#EXTINF:-1 tvg-id="National Geographic PL" tvg-name="Nat Geo FHD PL" tvg-logo="" group-title="Poland",Nat Geo FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/852.ts
+#EXTINF:-1 tvg-id="National Geographic PL" tvg-name="Nat Geo PL" tvg-logo="" group-title="Poland",Nat Geo PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/914.ts
+#EXTINF:-1 tvg-id="Nat Geo People HD PL" tvg-name="Nat Geo People FHD PL" tvg-logo="" group-title="Poland",Nat Geo People FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/853.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild PL" tvg-name="Nat Geo Wild FHD PL" tvg-logo="http://195.154.221.171/picons/natgeowildhdpl.png" group-title="Poland",Nat Geo Wild FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10453.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild PL" tvg-name="Nat Geo Wild PL" tvg-logo="" group-title="Poland",Nat Geo Wild PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/915.ts
+#EXTINF:-1 tvg-id="Nick Jr. PL" tvg-name="Nick JR. PL" tvg-logo="" group-title="Poland",Nick JR. PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4544.ts
+#EXTINF:-1 tvg-id="Nickelodeon PL" tvg-name="Nickelodeon PL" tvg-logo="" group-title="Poland",Nickelodeon PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4543.ts
+#EXTINF:-1 tvg-id="Nowa TV PL" tvg-name="Nowa TV PL" tvg-logo="http://195.154.221.171/picons/nowatvpl.png" group-title="Poland",Nowa TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10452.ts
+#EXTINF:-1 tvg-id="Nuta.TV PL" tvg-name="Nuta.TV PL" tvg-logo="http://195.154.221.171/picons/nutatvpl.png" group-title="Poland",Nuta.TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10451.ts
+#EXTINF:-1 tvg-id="POLSAT JimJam PL" tvg-name="POLSAT JimJam PL" tvg-logo="" group-title="Poland",POLSAT JimJam PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4549.ts
+#EXTINF:-1 tvg-id="POLSAT Sport Fight HD PL" tvg-name="POLSAT Sport Fight FHD PL" tvg-logo="" group-title="Poland",POLSAT Sport Fight FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6434.ts
+#EXTINF:-1 tvg-id="POLSAT Viasat Explore HD PL" tvg-name="POLSAT Viasat Explore FHD PL" tvg-logo="" group-title="Poland",POLSAT Viasat Explore FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/903.ts
+#EXTINF:-1 tvg-id="POLSAT Viasat Nature PL" tvg-name="POLSAT Viasat Nature PL" tvg-logo="" group-title="Poland",POLSAT Viasat Nature PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6109.ts
+#EXTINF:-1 tvg-id="Paramount Channel HD PL" tvg-name="Paramount Channel FHD PL" tvg-logo="" group-title="Poland",Paramount Channel FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4542.ts
+#EXTINF:-1 tvg-id="PlanetePlus HD PL" tvg-name="Planete+ FHD PL" tvg-logo="" group-title="Poland",Planete+ FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/913.ts
+#EXTINF:-1 tvg-id="PlanetePlus HD PL" tvg-name="Planete+ PL" tvg-logo="" group-title="Poland",Planete+ PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6887.ts
+#EXTINF:-1 tvg-id="Polo TV PL" tvg-name="Polo TV PL" tvg-logo="" group-title="Poland",Polo TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/912.ts
+#EXTINF:-1 tvg-id="POLSAT 2 PL" tvg-name="Polsat 2 FHD PL" tvg-logo="" group-title="Poland",Polsat 2 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6430.ts
+#EXTINF:-1 tvg-id="POLSAT 2 PL" tvg-name="Polsat 2 HD PL" tvg-logo="" group-title="Poland",Polsat 2 HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/910.ts
+#EXTINF:-1 tvg-id="POLSAT 2 PL" tvg-name="Polsat 2 PL" tvg-logo="" group-title="Poland",Polsat 2 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6429.ts
+#EXTINF:-1 tvg-id="POLSAT Cafe PL" tvg-name="Polsat Cafe HD PL" tvg-logo="" group-title="Poland",Polsat Cafe HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/909.ts
+#EXTINF:-1 tvg-id="POLSAT Doku HD PL" tvg-name="Polsat Doku FHD PL" tvg-logo="http://195.154.221.171/picons/polsatdokuhdpl.png" group-title="Poland",Polsat Doku FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10449.ts
+#EXTINF:-1 tvg-id="POLSAT PL" tvg-name="Polsat FHD PL" tvg-logo="http://195.154.221.171/picons/polsathdpl.png" group-title="Poland",Polsat FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10448.ts
+#EXTINF:-1 tvg-id="POLSAT Film PL" tvg-name="Polsat Film FHD PL" tvg-logo="" group-title="Poland",Polsat Film FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/870.ts
+#EXTINF:-1 tvg-id="POLSAT Film PL" tvg-name="Polsat Film HD PL" tvg-logo="" group-title="Poland",Polsat Film HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6879.ts
+#EXTINF:-1 tvg-id="POLSAT Film PL" tvg-name="Polsat Film PL" tvg-logo="" group-title="Poland",Polsat Film PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/908.ts
+#EXTINF:-1 tvg-id="POLSAT Music PL" tvg-name="Polsat Music FHD PL" tvg-logo="http://195.154.221.171/picons/polsatmusichdpl.png" group-title="Poland",Polsat Music FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10447.ts
+#EXTINF:-1 tvg-id="POLSAT News 2 PL" tvg-name="Polsat News 2 PL" tvg-logo="" group-title="Poland",Polsat News 2 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4541.ts
+#EXTINF:-1 tvg-id="POLSAT News PL" tvg-name="Polsat News FHD PL" tvg-logo="" group-title="Poland",Polsat News FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/907.ts
+#EXTINF:-1 tvg-id="POLSAT News PL" tvg-name="Polsat News PL" tvg-logo="" group-title="Poland",Polsat News PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6886.ts
+#EXTINF:-1 tvg-id="POLSAT PL" tvg-name="Polsat PL" tvg-logo="" group-title="Poland",Polsat PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/911.ts
+#EXTINF:-1 tvg-id="POLSAT Play PL" tvg-name="Polsat Play FHD PL" tvg-logo="" group-title="Poland",Polsat Play FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6428.ts
+#EXTINF:-1 tvg-id="POLSAT Play PL" tvg-name="Polsat Play HD PL" tvg-logo="" group-title="Poland",Polsat Play HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/841.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Play PL" tvg-logo="" group-title="Poland",Polsat Play PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/906.ts
+#EXTINF:-1 tvg-id="POLSAT Romans PL" tvg-name="Polsat Romans PL" tvg-logo="http://195.154.221.171/picons/polsatromanspl.png" group-title="Poland",Polsat Romans PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10446.ts
+#EXTINF:-1 tvg-id="POLSAT Viasat History HD PL" tvg-name="Polsat Viasat History FHD PL" tvg-logo="http://195.154.221.171/picons/polsatviasathistoryhdpl.png" group-title="Poland",Polsat Viasat History FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10442.ts
+#EXTINF:-1 tvg-id="Power TV PL" tvg-name="Power TV PL" tvg-logo="http://195.154.221.171/picons/powertvpl.png" group-title="Poland",Power TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10441.ts
+#EXTINF:-1 tvg-id="PULS 2 PL" tvg-name="Puls 2 PL" tvg-logo="" group-title="Poland",Puls 2 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/902.ts
+#EXTINF:-1 tvg-id="Romance TV PL" tvg-name="Romance FHD PL" tvg-logo="" group-title="Poland",Romance FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4540.ts
+#EXTINF:-1 tvg-id="Scifi Universal PL" tvg-name="SciFi Universal PL" tvg-logo="" group-title="Poland",SciFi Universal PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/849.ts
+#EXTINF:-1 tvg-id="Sportklub PL" tvg-name="Sport Klub FHD PL" tvg-logo="" group-title="Poland",Sport Klub FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4539.ts
+#EXTINF:-1 tvg-id="STARS.TV PL" tvg-name="Stars TV PL" tvg-logo="" group-title="Poland",Stars TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/848.ts
+#EXTINF:-1 tvg-id="Stopklatka TV PL" tvg-name="Stopklatka TV PL" tvg-logo="" group-title="Poland",Stopklatka TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/900.ts
+#EXTINF:-1 tvg-id="Sundance Channel HD PL" tvg-name="Sundance FHD PL" tvg-logo="" group-title="Poland",Sundance FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/847.ts
+#EXTINF:-1 tvg-id="Super Polsat PL" tvg-name="Super Polsat FHD PL" tvg-logo="" group-title="Poland",Super Polsat FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/899.ts
+#EXTINF:-1 tvg-id="Superstacja PL" tvg-name="Superstacja PL" tvg-logo="http://195.154.221.171/picons/superstacjapl.png" group-title="Poland",Superstacja PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10439.ts
+#EXTINF:-1 tvg-id="TLC PL" tvg-name="TLC FHD PL" tvg-logo="" group-title="Poland",TLC FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/846.ts
+#EXTINF:-1 tvg-id="TLC PL" tvg-name="TLC PL" tvg-logo="" group-title="Poland",TLC PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6876.ts
+#EXTINF:-1 tvg-id="TNT PL" tvg-name="TNT FHD PL" tvg-logo="" group-title="Poland",TNT FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/845.ts
+#EXTINF:-1 tvg-id="TNT PL" tvg-name="TNT HD PL" tvg-logo="" group-title="Poland",TNT HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6427.ts
+#EXTINF:-1 tvg-id="TNT PL" tvg-name="TNT PL" tvg-logo="" group-title="Poland",TNT PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/897.ts
+#EXTINF:-1 tvg-id="TO!TV PL" tvg-name="TO!TV PL" tvg-logo="http://195.154.221.171/picons/totvpl.png" group-title="Poland",TO!TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10435.ts
+#EXTINF:-1 tvg-id="TTV PL" tvg-name="TTV FHD PL" tvg-logo="http://195.154.221.171/picons/ttvhdpl.png" group-title="Poland",TTV FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10433.ts
+#EXTINF:-1 tvg-id="TV 4 PL" tvg-name="TV 4 HD PL" tvg-logo="" group-title="Poland",TV 4 HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/869.ts
+#EXTINF:-1 tvg-id="TV 4 PL" tvg-name="TV 4 PL" tvg-logo="http://195.154.221.171/picons/tv4pl.png" group-title="Poland",TV 4 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10430.ts
+#EXTINF:-1 tvg-id="TV Puls PL" tvg-name="TV Puls FHD PL" tvg-logo="http://195.154.221.171/picons/tvpulshdpl.png" group-title="Poland",TV Puls FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10431.ts
+#EXTINF:-1 tvg-id="TV Puls PL" tvg-name="TV Puls HD PL" tvg-logo="" group-title="Poland",TV Puls HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/896.ts
+#EXTINF:-1 tvg-id="TV Republika PL" tvg-name="TV Republika PL" tvg-logo="" group-title="Poland",TV Republika PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/895.ts
+#EXTINF:-1 tvg-id="TV Trwam PL" tvg-name="TV Trwam PL" tvg-logo="" group-title="Poland",TV Trwam PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4537.ts
+#EXTINF:-1 tvg-id="TV 4 PL" tvg-name="TV4 HD PL" tvg-logo="" group-title="Poland",TV4 HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/894.ts
+#EXTINF:-1 tvg-id="TV 6 PL" tvg-name="TV6 FHD PL" tvg-logo="" group-title="Poland",TV6 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6437.ts
+#EXTINF:-1 tvg-id="TV 6 PL" tvg-name="TV6 HD PL" tvg-logo="" group-title="Poland",TV6 HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/893.ts
+#EXTINF:-1 tvg-id="TVN 24 PL" tvg-name="TVN 24 FHD PL" tvg-logo="" group-title="Poland",TVN 24 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/891.ts
+#EXTINF:-1 tvg-id="TVN 24 PL" tvg-name="TVN 24 HD PL" tvg-logo="" group-title="Poland",TVN 24 HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/837.ts
+#EXTINF:-1 tvg-id="TVN 24 PL" tvg-name="TVN 24 PL" tvg-logo="" group-title="Poland",TVN 24 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6882.ts
+#EXTINF:-1 tvg-id="TVN 7 PL" tvg-name="TVN 7 FHD PL" tvg-logo="" group-title="Poland",TVN 7 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/890.ts
+#EXTINF:-1 tvg-id="TVN 7 PL" tvg-name="TVN 7 HD PL" tvg-logo="" group-title="Poland",TVN 7 HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6881.ts
+#EXTINF:-1 tvg-id="TVN PL" tvg-name="TVN FHD PL" tvg-logo="" group-title="Poland",TVN FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/839.ts
+#EXTINF:-1 tvg-id="TVN Fabula PL" tvg-name="TVN Fabula FHD PL" tvg-logo="" group-title="Poland",TVN Fabula FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/840.ts
+#EXTINF:-1 tvg-id="TVN PL" tvg-name="TVN HD PL" tvg-logo="" group-title="Poland",TVN HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/892.ts
+#EXTINF:-1 tvg-id="TVN PL" tvg-name="TVN PL" tvg-logo="http://195.154.221.171/picons/tvnpl.png" group-title="Poland",TVN PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10429.ts
+#EXTINF:-1 tvg-id="TVN Style PL" tvg-name="TVN Style FHD PL" tvg-logo="http://195.154.221.171/picons/tvnstylehdpl.png" group-title="Poland",TVN Style FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10428.ts
+#EXTINF:-1 tvg-id="TVN Style PL" tvg-name="TVN Style PL" tvg-logo="" group-title="Poland",TVN Style PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/889.ts
+#EXTINF:-1 tvg-id="TVN Turbo PL" tvg-name="TVN Turbo FHD PL" tvg-logo="" group-title="Poland",TVN Turbo FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/888.ts
+#EXTINF:-1 tvg-id="TVN Turbo PL" tvg-name="TVN Turbo PL" tvg-logo="" group-title="Poland",TVN Turbo PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6880.ts
+#EXTINF:-1 tvg-id="TVN 24 Biznes i Swiat PL" tvg-name="TVN24 BiS PL" tvg-logo="" group-title="Poland",TVN24 BiS PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/887.ts
+#EXTINF:-1 tvg-id="TVP 1 HD PL" tvg-name="TVP 1 FHD PL" tvg-logo="" group-title="Poland",TVP 1 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/868.ts
+#EXTINF:-1 tvg-id="TVP 1 HD PL" tvg-name="TVP 1 HD PL" tvg-logo="" group-title="Poland",TVP 1 HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6431.ts
+#EXTINF:-1 tvg-id="TVP 2 HD PL" tvg-name="TVP 2 FHD PL" tvg-logo="" group-title="Poland",TVP 2 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/867.ts
+#EXTINF:-1 tvg-id="TVP 2 HD PL" tvg-name="TVP 2 PL" tvg-logo="http://195.154.221.171/picons/tvp2pl.png" group-title="Poland",TVP 2 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10426.ts
+#EXTINF:-1 tvg-id="TVP 3 PL" tvg-name="TVP 3 PL" tvg-logo="" group-title="Poland",TVP 3 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/838.ts
+#EXTINF:-1 tvg-id="TVP 3 Warszawa PL" tvg-name="TVP 3 Warszawa PL" tvg-logo="http://195.154.221.171/picons/tvp3warszawapl.png" group-title="Poland",TVP 3 Warszawa PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10425.ts
+#EXTINF:-1 tvg-id="TVP ABC PL" tvg-name="TVP ABC PL" tvg-logo="" group-title="Poland",TVP ABC PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/886.ts
+#EXTINF:-1 tvg-id="TVP HD PL" tvg-name="TVP FHD PL" tvg-logo="" group-title="Poland",TVP FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6426.ts
+#EXTINF:-1 tvg-id="TVP HD PL" tvg-name="TVP HD PL" tvg-logo="" group-title="Poland",TVP HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6419.ts
+#EXTINF:-1 tvg-id="TVP Historia PL" tvg-name="TVP Historia PL" tvg-logo="" group-title="Poland",TVP Historia PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4536.ts
+#EXTINF:-1 tvg-id="TVP Info PL" tvg-name="TVP Info FHD PL" tvg-logo="http://195.154.221.171/picons/tvpinfohdpl.png" group-title="Poland",TVP Info FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10424.ts
+#EXTINF:-1 tvg-id="TVP Info PL" tvg-name="TVP Info PL" tvg-logo="" group-title="Poland",TVP Info PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4535.ts
+#EXTINF:-1 tvg-id="TVP Kultura PL" tvg-name="TVP Kultura PL" tvg-logo="" group-title="Poland",TVP Kultura PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/884.ts
+#EXTINF:-1 tvg-id="TVP Polonia PL" tvg-name="TVP Polonia PL" tvg-logo="http://195.154.221.171/picons/tvppoloniapl.png" group-title="Poland",TVP Polonia PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10422.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP Rozrywka PL" tvg-logo="" group-title="Poland",TVP Rozrywka PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/883.ts
+#EXTINF:-1 tvg-id="TVP Seriale PL" tvg-name="TVP Seriale PL" tvg-logo="" group-title="Poland",TVP Seriale PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/882.ts
+#EXTINF:-1 tvg-id="TVP Sport HD PL" tvg-name="TVP Sport FHD PL" tvg-logo="http://195.154.221.171/picons/tvpsporthdpl.png" group-title="Poland",TVP Sport FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10421.ts
+#EXTINF:-1 tvg-id="TVP Sport HD PL" tvg-name="TVP Sport HD PL" tvg-logo="" group-title="Poland",TVP Sport HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/866.ts
+#EXTINF:-1 tvg-id="TVS PL" tvg-name="TVS PL" tvg-logo="http://195.154.221.171/picons/tvspl.png" group-title="Poland",TVS PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/881.ts
+#EXTINF:-1 tvg-id="teleTOONPlus HD PL" tvg-name="TeleToon+ FHD PL" tvg-logo="" group-title="Poland",TeleToon+ FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/898.ts
+#EXTINF:-1 tvg-id="teleTOONPlus HD PL" tvg-name="TeleToon+ PL" tvg-logo="" group-title="Poland",TeleToon+ PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6883.ts
+#EXTINF:-1 tvg-id="" tvg-name="TheBlaze TV PL" tvg-logo="http://195.154.221.171/picons/theblazetvpl.png" group-title="Poland",TheBlaze TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4046.ts
+#EXTINF:-1 tvg-id="Trace Urban PL" tvg-name="Trace Urban PL" tvg-logo="http://195.154.221.171/picons/traceurbanpl.png" group-title="Poland",Trace Urban PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10434.ts
+#EXTINF:-1 tvg-id="Travel Channel HD PL" tvg-name="Travel HD PL" tvg-logo="" group-title="Poland",Travel HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/4538.ts
+#EXTINF:-1 tvg-id="Twoja.TV PL" tvg-name="Twoja.TV FHD PL" tvg-logo="http://195.154.221.171/picons/twojatvhdpl.png" group-title="Poland",Twoja.TV FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10418.ts
+#EXTINF:-1 tvg-id="Universal Channel HD PL" tvg-name="Universal FHD PL" tvg-logo="" group-title="Poland",Universal FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/844.ts
+#EXTINF:-1 tvg-id="VH1 PL" tvg-name="VH1 PL" tvg-logo="http://195.154.221.171/picons/vh1pl.png" group-title="Poland",VH1 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10417.ts
+#EXTINF:-1 tvg-id="VIVA PL" tvg-name="VIVA Polska PL" tvg-logo="http://195.154.221.171/picons/vivapolskapl.png" group-title="Poland",VIVA Polska PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10416.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 202 PL" tvg-logo="" group-title="Poland",VOD 202 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/880.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 204 PL" tvg-logo="" group-title="Poland",VOD 204 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/874.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 205 PL" tvg-logo="" group-title="Poland",VOD 205 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/879.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 206 PL" tvg-logo="" group-title="Poland",VOD 206 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/878.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 207 PL" tvg-logo="" group-title="Poland",VOD 207 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/877.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 208 PL" tvg-logo="" group-title="Poland",VOD 208 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/876.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 212 PL" tvg-logo="" group-title="Poland",VOD 212 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/875.ts
+#EXTINF:-1 tvg-id="VOX Music TV PL" tvg-name="VOX Music TV PL" tvg-logo="" group-title="Poland",VOX Music TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/873.ts
+#EXTINF:-1 tvg-id="WP PL" tvg-name="WP PL" tvg-logo="http://195.154.221.171/picons/wppl.png" group-title="Poland",WP PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10413.ts
+#EXTINF:-1 tvg-id="Wellbeing Network PL" tvg-name="Wellbeing Network PL" tvg-logo="http://195.154.221.171/picons/wellbeingnetworkpl.png" group-title="Poland",Wellbeing Network PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10414.ts
+#EXTINF:-1 tvg-id="Zest TV PL" tvg-name="Zest TV PL" tvg-logo="http://195.154.221.171/picons/zesttvpl.png" group-title="Poland",Zest TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10412.ts
+#EXTINF:-1 tvg-id="ZOOM TV PL" tvg-name="Zoom TV PL" tvg-logo="http://195.154.221.171/picons/zoomtvpl.png" group-title="Poland",Zoom TV PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10411.ts
+#EXTINF:-1 tvg-id="nSportPlus HD PL" tvg-name="nSport FHD PL" tvg-logo="" group-title="Poland",nSport FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/842.ts
+#EXTINF:-1 tvg-id="Eleven Extra HD PL" tvg-name="Eleven Sports 1 FHD PL" tvg-logo="" group-title="Poland",Eleven Sports 1 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/932.ts
+#EXTINF:-1 tvg-id="Eleven HD PL" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="" group-title="Poland",Eleven Sports 2 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/931.ts
+#EXTINF:-1 tvg-id="Eleven HD Sports PL" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="" group-title="Poland",Eleven Sports 3 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/930.ts
+#EXTINF:-1 tvg-id="Eleven HD Sports PL" tvg-name="Eleven Sports 4 FHD PL" tvg-logo="" group-title="Poland",Eleven Sports 4 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/929.ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD PL" tvg-name="Eurosport 1 PL" tvg-logo="http://195.154.221.171/picons/eurosport1pl.png" group-title="Poland",Eurosport 1 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10468.ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD PL" tvg-name="EuroSport 1 HD PL" tvg-logo="" group-title="Poland",EuroSport 1 HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/928.ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD PL" tvg-name="EuroSport 1 FHD PL" tvg-logo="" group-title="Poland",EuroSport 1 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/861.ts
+#EXTINF:-1 tvg-id="Eurosport 2 HD PL" tvg-name="EuroSport 2 FHD PL" tvg-logo="" group-title="Poland",EuroSport 2 FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/860.ts
+#EXTINF:-1 tvg-id="Tenis Premium 1 HD PL" tvg-name="Eurosport 3 PL" tvg-logo="http://195.154.221.171/picons/tenispremium1pl.png" group-title="Poland",Eurosport 3 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10437.ts
+#EXTINF:-1 tvg-id="Tenis Premium 2 HD PL" tvg-name="Eurosport 4 PL" tvg-logo="http://195.154.221.171/picons/tenispremium2pl.png" group-title="Poland",Eurosport 4 PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10436.ts
+#EXTINF:-1 tvg-id="Extreme Sports Channel HD PL" tvg-name="Extreme Sports FHD PL" tvg-logo="" group-title="Poland",Extreme Sports FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/859.ts
+#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports HD PL" tvg-logo="" group-title="Poland",Extreme Sports HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/12323.ts
+#EXTINF:-1 tvg-id="Golf Channel HD PL" tvg-name="Golf Channel FHD PL" tvg-logo="http://195.154.221.171/picons/golfchannelhdpl.png" group-title="Poland",Golf Channel FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10461.ts
+#EXTINF:-1 tvg-id="POLSAT Sport Extra HD PL" tvg-name="Polsat Sport Extra FHD PL" tvg-logo="" group-title="Poland",Polsat Sport Extra FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6435.ts
+#EXTINF:-1 tvg-id="POLSAT Sport Extra HD PL" tvg-name="Polsat Sport Extra HD PL" tvg-logo="" group-title="Poland",Polsat Sport Extra HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/904.ts
+#EXTINF:-1 tvg-id="POLSAT Sport Extra HD PL" tvg-name="Polsat Sport Extra PL" tvg-logo="" group-title="Poland",Polsat Sport Extra PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/6885.ts
+#EXTINF:-1 tvg-id="POLSAT Sport HD PL" tvg-name="Polsat Sport FHD PL" tvg-logo="http://195.154.221.171/picons/polsatsporthdpl.png" group-title="Poland",Polsat Sport FHD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10443.ts
+#EXTINF:-1 tvg-id="POLSAT Sport Fight HD PL" tvg-name="Polsat Sport Fight HD PL" tvg-logo="" group-title="Poland",Polsat Sport Fight HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/851.ts
+#EXTINF:-1 tvg-id="POLSAT Sport Fight HD PL" tvg-name="Polsat Sport Fight PL" tvg-logo="http://195.154.221.171/picons/polsatsportfightpl.png" group-title="Poland",Polsat Sport Fight PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10444.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport HD PL" tvg-logo="" group-title="Poland",Polsat Sport HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/905.ts
+#EXTINF:-1 tvg-id="POLSAT Sport News PL" tvg-name="Polsat Sport News HD PL" tvg-logo="" group-title="Poland",Polsat Sport News HD PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/850.ts
+#EXTINF:-1 tvg-id="POLSAT Sport HD PL" tvg-name="Polsat Sport PL" tvg-logo="http://195.154.221.171/picons/polsatsportpl.png" group-title="Poland",Polsat Sport PL
+http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/10445.ts
