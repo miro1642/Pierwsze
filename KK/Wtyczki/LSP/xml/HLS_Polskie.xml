@@ -15,18 +15,18 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>4FUN TV</name>
-          <thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_de_4fun.tv.jpg</thumbnail>
+          <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/p2/p2yha4ek46sduo9rs19a2cp7ko2oih7e.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_de_4fun.tv.jpg</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/p2/p2yha4ek46sduo9rs19a2cp7ko2oih7e.jpg</thumbnail>
                   <link>http://hls.redefine.pl/894619ED/1579/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/894619ED/1579/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
-                  <title>320p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_de_4fun.tv.jpg</thumbnail>
+                  <title>288p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/p2/p2yha4ek46sduo9rs19a2cp7ko2oih7e.jpg</thumbnail>
                   <link>http://hls.redefine.pl/47F846B7/1579/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/894619ED/1579/0/hls576/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/47F846B7/1579/0/hls/mob1/list.m3u8$$lsname=LINK 3</link>
@@ -35,7 +35,7 @@
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_de_4fun.tv.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/p2/p2yha4ek46sduo9rs19a2cp7ko2oih7e.jpg</thumbnail>
                   <link>http://hls.redefine.pl/894619ED/1579/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/47F846B7/1579/0/hls/mob4/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
@@ -43,19 +43,19 @@
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
-          <name>4FUN TV Fit&amp;Dance</name>
-          <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/14/4fun_fit_and_dance_logo_2015.png</thumbnail>
+          <name>4FUN Dance</name>
+          <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/mk/mkue2ua79d2r58wej7aapcevzhfagyxa.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/14/4fun_fit_and_dance_logo_2015.png</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/mk/mkue2ua79d2r58wej7aapcevzhfagyxa.jpg</thumbnail>
                   <link>http://hls.redefine.pl/99520853/1576/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/99520853/1576/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
-                  <title>320p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/14/4fun_fit_and_dance_logo_2015.png</thumbnail>
+                  <title>288p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/mk/mkue2ua79d2r58wej7aapcevzhfagyxa.jpg</thumbnail>
                   <link>http://hls.redefine.pl/31D299AA/1576/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/99520853/1576/0/hls576/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/31D299AA/1576/0/hls/mob1/list.m3u8$$lsname=LINK 3</link>
@@ -64,7 +64,7 @@
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/14/4fun_fit_and_dance_logo_2015.png</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/mk/mkue2ua79d2r58wej7aapcevzhfagyxa.jpg</thumbnail>
                   <link>http://hls.redefine.pl/99520853/1576/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/31D299AA/1576/0/hls/mob4/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
@@ -72,19 +72,19 @@
 		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
-          <name>4FUN TV Hits</name>
-          <thumbnail>http://satinfo24.pl/wp-content/uploads/2015/06/1434050636082.png</thumbnail>
+          <name>4FUN Gold</name>
+          <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/dq/dqxn4k5adtc7sfzxmnj45vc6qs2z93b7.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://satinfo24.pl/wp-content/uploads/2015/06/1434050636082.png</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/dq/dqxn4k5adtc7sfzxmnj45vc6qs2z93b7.jpg</thumbnail>
                   <link>http://hls.redefine.pl/25670764/1580/0/hls576/masterlist.m3u88$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/25670764/1580/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
-                  <title>320p</title>
-	              <thumbnail>http://satinfo24.pl/wp-content/uploads/2015/06/1434050636082.png</thumbnail>
+                  <title>288p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/dq/dqxn4k5adtc7sfzxmnj45vc6qs2z93b7.jpg</thumbnail>
                   <link>http://hls.redefine.pl/98EFF74F/1580/0/hls/masterlist.m3u88$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/25670764/1580/0/hls576/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/98EFF74F/1580/0/hls/mob1/list.m3u8$$lsname=LINK 3</link>
@@ -93,7 +93,7 @@
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://satinfo24.pl/wp-content/uploads/2015/06/1434050636082.png</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/dq/dqxn4k5adtc7sfzxmnj45vc6qs2z93b7.jpg</thumbnail>
                   <link>http://hls.redefine.pl/25670764/1580/0/hls576/mob4/list.m3u88$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/98EFF74F/1580/0/hls/mob4/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
@@ -101,19 +101,19 @@
 		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
-          <name>Da Vinci Learning</name>
-          <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/da_vinci_learning_630x355.png?bc=white&w=575</thumbnail>
+          <name>Da Vinci</name>
+          <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ab/ab54ahtjydsk5orp9j2anmdttkzhqz5t.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/da_vinci_learning_630x355.png?bc=white&w=575</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ab/ab54ahtjydsk5orp9j2anmdttkzhqz5t.jpg</thumbnail>
                   <link>http://hls.redefine.pl/EE9A2255/4198/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/EE9A2255/4198/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/da_vinci_learning_630x355.png?bc=white&w=575</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ab/ab54ahtjydsk5orp9j2anmdttkzhqz5t.jpg</thumbnail>
                   <link>http://hls.redefine.pl/EE9A2255/4198/0/hls576/mob4/list.m3u8</link>
                 </subitem>
 			</subitems>	
@@ -121,18 +121,18 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>Disco Polo Music</name>
-          <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/disco-polo-music-630x355.png?bc=white&w=575</thumbnail>
+          <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/m6/m6go5ijui16cu74chn45vj2g5z7tpe1o.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/disco-polo-music-630x355.png?bc=white&w=575</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/m6/m6go5ijui16cu74chn45vj2g5z7tpe1o.jpg</thumbnail>
                   <link>http://hls.redefine.pl/E33F843E/10260/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/E33F843E/10260/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
-                  <title>320p</title>
-	              <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/disco-polo-music-630x355.png?bc=white&w=575</thumbnail>
+                  <title>288p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/m6/m6go5ijui16cu74chn45vj2g5z7tpe1o.jpg</thumbnail>
                   <link>http://hls.redefine.pl/E0F58044/10260/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/E33F843E/10260/0/hls576/mob1/list.m3u8$$lsname=LINK 2</link> 
 				  <link>http://hls.redefine.pl/E0F58044/10260/0/hls/mob1/list.m3u8$$lsname=LINK 3</link> 
@@ -140,8 +140,8 @@
                 </subitem>
 				
 				<subitem>
-                  <title>2p</title>
-	              <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/disco-polo-music-630x355.png?bc=white&w=575</thumbnail>
+                  <title>72p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/m6/m6go5ijui16cu74chn45vj2g5z7tpe1o.jpg</thumbnail>
                   <link>http://hls.redefine.pl/E33F843E/10260/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/E0F58044/10260/0/hls/mob4/list.m3u8$$lsname=LINK 2</link> 
                 </subitem>
@@ -150,18 +150,18 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>DocuBox</name>
-          <thumbnail>http://cymtv7.cymtv.nl/goalbit-api/logos/147.png</thumbnail>
+          <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/hu/huz4mxyhwih22k8a44c25tqf2tam1jyp.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>http://cymtv7.cymtv.nl/goalbit-api/logos/147.png</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/hu/huz4mxyhwih22k8a44c25tqf2tam1jyp.jpg</thumbnail>
                   <link>http://hls.redefine.pl/D25BC5E8/1572/0/hls720/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/D25BC5E8/1572/0/hls720/720p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://cymtv7.cymtv.nl/goalbit-api/logos/147.png</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/hu/huz4mxyhwih22k8a44c25tqf2tam1jyp.jpg</thumbnail>
                   <link>http://hls.redefine.pl/D25BC5E8/1572/0/hls720/mob4/list.m3u8</link>
                 </subitem>
 			</subitems>	
@@ -169,24 +169,24 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>Duck TV</name>
-          <thumbnail>http://www.arax.md/assets/channels/238.png</thumbnail>
+          <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/uf/ufp584taa8rfe625g7u538f6pqysqhvn.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>404p</title>
-	              <thumbnail>http://www.arax.md/assets/channels/238.png</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/uf/ufp584taa8rfe625g7u538f6pqysqhvn.jpg</thumbnail>
                   <link>http://hls.redefine.pl/1CAD6ACA/4325/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/1CAD6ACA/4325/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>288p</title>
-	              <thumbnail>http://www.arax.md/assets/channels/238.png</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/uf/ufp584taa8rfe625g7u538f6pqysqhvn.jpg</thumbnail>
                   <link>http://hls.redefine.pl/1CAD6ACA/4325/0/hls576/mob1/list.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://www.arax.md/assets/channels/238.png</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/uf/ufp584taa8rfe625g7u538f6pqysqhvn.jpg</thumbnail>
                   <link>http://hls.redefine.pl/1CAD6ACA/4325/0/hls576/mob4/list.m3u8</link>
                 </subitem>
 			</subitems>	
@@ -194,25 +194,25 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>FightBox HD</name>
-          <thumbnail>https://de.magine.com/content/uploads/2016/06/FightBoxHD.jpg</thumbnail>
+          <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ep/epy58vsejpcp9axgitae62u9bbgp9pj8.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>https://de.magine.com/content/uploads/2016/06/FightBoxHD.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ep/epy58vsejpcp9axgitae62u9bbgp9pj8.jpg</thumbnail>
                   <link>http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/ECD95B41/1573/0/hls720/720p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>404p</title>
-	              <thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/9/92/Fightbox_Logo.png/revision/latest?cb=20160116195657</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ep/epy58vsejpcp9axgitae62u9bbgp9pj8.jpg</thumbnail>
                   <link>http://hls.redefine.pl/595E57F9/1573/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/595E57F9/1573/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>288p</title>
-	              <thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/9/92/Fightbox_Logo.png/revision/latest?cb=20160116195657</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ep/epy58vsejpcp9axgitae62u9bbgp9pj8.jpg</thumbnail>
                   <link>http://hls.redefine.pl/7F3D20CE/1573/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/7F3D20CE/1573/0/hls/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/7F3D20CE/1573/0/hls/mob2/list.m3u8$$lsname=LINK 3</link>
@@ -220,7 +220,7 @@
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/9/92/Fightbox_Logo.png/revision/latest?cb=20160116195657</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ep/epy58vsejpcp9axgitae62u9bbgp9pj8.jpg</thumbnail>
                   <link>http://hls.redefine.pl/ECD95B41/1573/0/hls720/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/595E57F9/1573/0/hls576/mob4/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/7F3D20CE/1573/0/hls/mob4/list.m3u8$$lsname=LINK 3</link>
@@ -230,18 +230,18 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>FilmBox Action</name>
-          <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Filmbox-action.jpg/240px-Filmbox-action.jpg</thumbnail>
+          <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/o8/o853ay4u7m9n6qbwo2onue9ojv3cr4y4.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Filmbox-action.jpg/240px-Filmbox-action.jpg</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/o8/o853ay4u7m9n6qbwo2onue9ojv3cr4y4.jpg</thumbnail>
                   <link>http://hls.redefine.pl/478676E7/11313/0/hls576/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/478676E7/11313/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Filmbox-action.jpg/240px-Filmbox-action.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/o8/o853ay4u7m9n6qbwo2onue9ojv3cr4y4.jpg</thumbnail>
                   <link>http://hls.redefine.pl/478676E7/11313/0/hls576/mob4/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29</link>
                 </subitem>
 			</subitems>	
@@ -249,18 +249,18 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>FILMBOX Family</name>
-          <thumbnail>http://korbank.pl/wp-content/uploads/2015/05/filmbox-07.jpg</thumbnail>
+          <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/uc/ucbyqi9mwrpcmqd8cw31qc1j5f1dvbhj.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://korbank.pl/wp-content/uploads/2015/05/filmbox-07.jpg</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/uc/ucbyqi9mwrpcmqd8cw31qc1j5f1dvbhj.jpg</thumbnail>
                   <link>http://hls.redefine.pl/60306450/1569/0/hls576/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&amp;initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/60306450/1569/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://korbank.pl/wp-content/uploads/2015/05/filmbox-07.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/uc/ucbyqi9mwrpcmqd8cw31qc1j5f1dvbhj.jpg</thumbnail>
                   <link>http://hls.redefine.pl/60306450/1569/0/hls576/mob4/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&amp;initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29</link>
                 </subitem>
 			</subitems>	
@@ -268,24 +268,24 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>FILMBOX Premium HD</name>
-          <thumbnail>https://d2xhqqdaxyaju6.cloudfront.net/file/teaser/368809/de/teaser.JPG</thumbnail>
+          <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/x9/x9jjw5gu64jvb5hw4qtryukobja25193.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>https://d2xhqqdaxyaju6.cloudfront.net/file/teaser/368809/de/teaser.JPG</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/x9/x9jjw5gu64jvb5hw4qtryukobja25193.jpg</thumbnail>
                   <link>http://hls.redefine.pl/3CA6ACBC/1568/0/hls576/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&amp;initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/3CA6ACBC/1568/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>288p</title>
-	              <thumbnail>https://d2xhqqdaxyaju6.cloudfront.net/file/teaser/368809/de/teaser.JPG</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/x9/x9jjw5gu64jvb5hw4qtryukobja25193.jpg</thumbnail>
                   <link>http://hls.redefine.pl/3CA6ACBC/1568/0/hls576/mob1/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&amp;initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29</link>
                 </subitem>
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>https://d2xhqqdaxyaju6.cloudfront.net/file/teaser/368809/de/teaser.JPG</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/x9/x9jjw5gu64jvb5hw4qtryukobja25193.jpg</thumbnail>
                   <link>http://hls.redefine.pl/3CA6ACBC/1568/0/hls576/mob4/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&amp;initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29</link>
                 </subitem>
 			</subitems>	
@@ -293,18 +293,18 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>History</name>
-	      <thumbnail>http://dns-trick.com/img/pictures/history-channel-logo.png</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/dj/djejbd89apxo45id3m2jtcw95ihmpi5b.jpg</thumbnail>
             <subitems>
 				<subitem>
-                  <title>576p</title>
-	              <thumbnail>http://dns-trick.com/img/pictures/history-channel-logo.png</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/dj/djejbd89apxo45id3m2jtcw95ihmpi5b.jpg</thumbnail>
                   <link>http://hls.redefine.pl/A2E7AEE6/3531/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/A2E7AEE6/3531/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>288p</title>
-	              <thumbnail>http://dns-trick.com/img/pictures/history-channel-logo.png</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/dj/djejbd89apxo45id3m2jtcw95ihmpi5b.jpg</thumbnail>
                   <link>http://hls.redefine.pl/62655732/3531/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/62655732/3531/0/hls/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/62655732/3531/0/hls/mob2/list.m3u8$$lsname=LINK 3</link>
@@ -312,7 +312,7 @@
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://dns-trick.com/img/pictures/history-channel-logo.png</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/dj/djejbd89apxo45id3m2jtcw95ihmpi5b.jpg</thumbnail>
                   <link>http://hls.redefine.pl/A2E7AEE6/3531/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/62655732/3531/0/hls/mob4/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
@@ -321,25 +321,25 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>H2 HD</name>
-	      <thumbnail>http://my-hd.tv/shared/img/channels/H2-HD.png</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/4c/4cfmcp5c8o3sm5685a76tgxg7yity2yn.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>http://my-hd.tv/shared/img/channels/H2-HD.png</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/4c/4cfmcp5c8o3sm5685a76tgxg7yity2yn.jpg</thumbnail>
 				  <link>http://hls.redefine.pl/BB4D1F8E/11387/0/hls720/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/BB4D1F8E/11387/0/hls720/720p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
-                  <title>576p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/7d/7d3ptoe47q5mzwz47srsnrbxf1so14s6.jpg</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/4c/4cfmcp5c8o3sm5685a76tgxg7yity2yn.jpg</thumbnail>
                   <link>http://hls.redefine.pl/76EC311E/11387/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/76EC311E/11387/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>288p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/7d/7d3ptoe47q5mzwz47srsnrbxf1so14s6.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/4c/4cfmcp5c8o3sm5685a76tgxg7yity2yn.jpg</thumbnail>
                   <link>http://hls.redefine.pl/CDFA8AD3/11387/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/CDFA8AD3/11387/0/hls/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/CDFA8AD3/11387/0/hls/mob2/list.m3u8$$lsname=LINK 3</link>
@@ -347,7 +347,7 @@
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/7d/7d3ptoe47q5mzwz47srsnrbxf1so14s6.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/4c/4cfmcp5c8o3sm5685a76tgxg7yity2yn.jpg</thumbnail>
                   <link>http://hls.redefine.pl/BB4D1F8E/11387/0/hls720/mob4/list.m3u8</link>
 				  <link>http://hls.redefine.pl/CDFA8AD3/11387/0/hls/mob4/list.m3u8</link>
                 </subitem>
@@ -356,18 +356,18 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>KINO POLSKA</name>
-	      <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3d/3doyzx9npkd4brj8do5uvf8wqp8zw8vs.jpg</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/xa/xa6ssb7f3kswwga94t2pvzikqd9tbq7h.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>404p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3d/3doyzx9npkd4brj8do5uvf8wqp8zw8vs.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/xa/xa6ssb7f3kswwga94t2pvzikqd9tbq7h.jpg</thumbnail>
                   <link>http://hls.redefine.pl/76929AC6/1571/0/hls576/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&amp;initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/76929AC6/1571/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 	
 				<subitem>
                   <title>288p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3d/3doyzx9npkd4brj8do5uvf8wqp8zw8vs.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/xa/xa6ssb7f3kswwga94t2pvzikqd9tbq7h.jpg</thumbnail>
 				  <link>http://hls.redefine.pl/76929AC6/1571/0/hls576/mob1/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
                   <link>http://hls.redefine.pl/62B2091C/1571/0/hls/masterlist.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/62B2091C/1571/0/hls/mob1/list.m3u8$$lsname=LINK 3</link>
@@ -376,7 +376,7 @@
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3d/3doyzx9npkd4brj8do5uvf8wqp8zw8vs.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/xa/xa6ssb7f3kswwga94t2pvzikqd9tbq7h.jpg</thumbnail>
                   <link>http://hls.redefine.pl/76929AC6/1571/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/62B2091C/1571/0/hls/mob4/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
@@ -384,18 +384,18 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>KINO POLSKA Muzyka</name>
-	      <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3g/3gxi1b1bn91798ayn1y8k688hcm4c8tf.jpg</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ht/htcc9c674mzexfm4fzfjgzh8yuz3zuu5.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>404p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3g/3gxi1b1bn91798ayn1y8k688hcm4c8tf.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ht/htcc9c674mzexfm4fzfjgzh8yuz3zuu5.jpg</thumbnail>
 				  <link>http://hls.redefine.pl/B34FB49D/1567/0/hls576/masterlist.m3u8</link>
 				  <link>http://hls.redefine.pl/B34FB49D/1567/0/hls576/576p/list.m3u8</link>
                 </subitem>
 				
 				<subitem>
                   <title>288p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3g/3gxi1b1bn91798ayn1y8k688hcm4c8tf.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ht/htcc9c674mzexfm4fzfjgzh8yuz3zuu5.jpg</thumbnail>
                   <link>http://hls.redefine.pl/3952CD7C/1567/0/hls/masterlist.m3u8</link>
 				  <link>http://hls.redefine.pl/B34FB49D/1567/0/hls576/mob1/list.m3u8</link>
 				  <link>http://hls.redefine.pl/3952CD7C/1567/0/hls/mob1/list.m3u8</link>
@@ -404,7 +404,7 @@
 
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/3g/3gxi1b1bn91798ayn1y8k688hcm4c8tf.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ht/htcc9c674mzexfm4fzfjgzh8yuz3zuu5.jpg</thumbnail>
                   <link>http://hls.redefine.pl/B34FB49D/1567/0/hls576/mob4/list.m3u8</link>
 				  <link>http://hls.redefine.pl/3952CD7C/1567/0/hls/mob4/list.m3u8</link>
                 </subitem>
@@ -413,18 +413,18 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>Kino TV</name>
-          <thumbnail>http://satkurier.pl/uploads/54415.jpg</thumbnail>
+          <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/1h/1hpw727yceihhpk8vvnpf1g1rgs3m4nb.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>404p</title>
-	              <thumbnail>http://satkurier.pl/uploads/54415.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/1h/1hpw727yceihhpk8vvnpf1g1rgs3m4nb.jpg</thumbnail>
                   <link>http://hls.redefine.pl/2910C1B2/1563/0/hls576/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&amp;initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/2910C1B2/1563/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>288p</title>
-	              <thumbnail>http://satkurier.pl/uploads/54415.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/1h/1hpw727yceihhpk8vvnpf1g1rgs3m4nb.jpg</thumbnail>
                   <link>http://hls.redefine.pl/0211D46E/1563/0/hls/masterlist.m3u$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/0211D46E/1563/0/hls/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/0211D46E/1563/0/hls/mob2/list.m3u8$$lsname=LINK 3</link>
@@ -432,7 +432,7 @@
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://satkurier.pl/uploads/54415.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/1h/1hpw727yceihhpk8vvnpf1g1rgs3m4nb.jpg</thumbnail>
                   <link>http://hls.redefine.pl/2910C1B2/1563/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/0211D46E/1563/0/hls/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/0211D46E/1563/0/hls/mob4/list.m3u8$$lsname=LINK 3</link>
@@ -442,61 +442,97 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>Nat Geo Wild</name>
-	      <thumbnail>https://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/03/nat-geo-wild-200x106.jpg</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/yc/ycrwwdm3fg5zj4v68udt6qoxr947bby1.jpg</thumbnail>
             <subitems>
 				<subitem>
-                  <title>576p</title>
-	              <thumbnail>https://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/03/nat-geo-wild-200x106.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/AF34819E/11308/0/hls576/576p/list.m3u8</link>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/yc/ycrwwdm3fg5zj4v68udt6qoxr947bby1.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/AF34819E/11308/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/AF34819E/11308/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 
 				<subitem>
-                  <title>320p</title>
-	              <thumbnail>https://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/03/nat-geo-wild-200x106.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/27654727/11308/0/hls/masterlist.m3u8</link>
-                </subitem>		
+                  <title>288p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/yc/ycrwwdm3fg5zj4v68udt6qoxr947bby1.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/27654727/11308/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/AF34819E/11308/0/hls576/mob1/list.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/27654727/11308/0/hls/mob1/list.m3u8$$lsname=LINK 3</link>
+				  <link>http://hls.redefine.pl/27654727/11308/0/hls/mob2/list.m3u8$$lsname=LINK 4</link>
+                </subitem>
+
+				<subitem>
+                  <title>72p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/yc/ycrwwdm3fg5zj4v68udt6qoxr947bby1.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/AF34819E/11308/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/27654727/11308/0/hls/mob4/list.m3u8$$lsname=LINK 2</link>
+                </subitem>
 			</subitems>	
 		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>Novela TV</name>
-	      <thumbnail>http://www.novela.tv/images/header-logo.png</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/uf/ufamdp23fwy15zyu5i6uutsq6t88hnt2.jpg</thumbnail>
             <subitems>
 				<subitem>
-                  <title>576p</title>
-	              <thumbnail>http://www.novela.tv/images/header-logo.png</thumbnail>
-                  <link>http://hls.redefine.pl/AD5867A1/12261/0/hls576/masterlist.m3u8</link>
-                </subitem>				
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/uf/ufamdp23fwy15zyu5i6uutsq6t88hnt2.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/AD5867A1/12261/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/AD5867A1/12261/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
+                </subitem>	
+
+				<subitem>
+                  <title>288</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/uf/ufamdp23fwy15zyu5i6uutsq6t88hnt2.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/AD5867A1/12261/0/hls576/mob1/list.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>72p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/uf/ufamdp23fwy15zyu5i6uutsq6t88hnt2.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/AD5867A1/12261/0/hls576/mob4/list.m3u8</link>
+                </subitem>
 			</subitems>	
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>POLSAT 2 HD</name>
-	      <thumbnail>http://dwiptv.cba.pl/ico/Polsat_2_HD.png</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/rt/rtabywho9qexhe438ng6jpverh7uofjv.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>http://dwiptv.cba.pl/ico/Polsat_2_HD.png</thumbnail>
-                  <link>http://hls.redefine.pl/E30464E3/10258/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
-				  <link>http://hls.redefine.pl/E30464E3/10258/0/hls720/masterlist.m3u8$$lsname=LINK 2</link>
-                </subitem>		
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/rt/rtabywho9qexhe438ng6jpverh7uofjv.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/E30464E3/10258/0/hls720/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE%2F122.0+%28iPhone%3B+ARM+OS+10_0_2+like+Mac+OS+X%29$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/E30464E3/10258/0/hls720/720p/list.m3u8$$lsname=LINK 2</link>
+                </subitem>
+
+				<subitem>
+                  <title>288p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/rt/rtabywho9qexhe438ng6jpverh7uofjv.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/E30464E3/10258/0/hls720/mob1/list.m3u8</link>
+                </subitem>	
+
+				<subitem>
+                  <title>72p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/rt/rtabywho9qexhe438ng6jpverh7uofjv.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/E30464E3/10258/0/hls720/mob4/list.m3u8</link>
+                </subitem>
 			</subitems>	
 		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>POLSAT Crime & Investigation</name>
-	      <thumbnail>https://i.ytimg.com/i/lfRkTSTSVnrl_XvDnqY1DA/mq1.jpg?v=5354c595</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/1r/1r8xpdd8ktetn625jovnyt8dkv6ukqr4.jpg</thumbnail>
             <subitems>
 				<subitem>
-                  <title>576p</title>
-	              <thumbnail>https://i.ytimg.com/i/lfRkTSTSVnrl_XvDnqY1DA/mq1.jpg?v=5354c595</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/1r/1r8xpdd8ktetn625jovnyt8dkv6ukqr4.jpg</thumbnail>
 				  <link>http://hls.redefine.pl/4C97F3A2/11306/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/4C97F3A2/11306/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>		
 				
 				<subitem>
                   <title>288p</title>
-	              <thumbnail>https://i.ytimg.com/i/lfRkTSTSVnrl_XvDnqY1DA/mq1.jpg?v=5354c595</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/1r/1r8xpdd8ktetn625jovnyt8dkv6ukqr4.jpg</thumbnail>
                   <link>http://hls.redefine.pl/238AEE3E/11306/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/238AEE3E/11306/0/hls/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/238AEE3E/11306/0/hls/mob2/list.m3u8$$lsname=LINK 3</link>
@@ -504,7 +540,7 @@
 
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://satkurier.pl/uploads/54415.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/1r/1r8xpdd8ktetn625jovnyt8dkv6ukqr4.jpg</thumbnail>
                   <link>http://hls.redefine.pl/4C97F3A2/11306/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/238AEE3E/11306/0/hls/mob4/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
@@ -513,25 +549,25 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>Polsat Music HD</name>
-	      <thumbnail>http://satkurier.pl/uploads/52028.jpg</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/gb/gbqqfck6o2sv4ppkyfzht4h3szdmgono.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>http://satkurier.pl/uploads/52028.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/gb/gbqqfck6o2sv4ppkyfzht4h3szdmgono.jpg</thumbnail>
                   <link>http://hls.redefine.pl/DE26C65E/10259/0/hls720/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/DE26C65E/10259/0/hls720/720p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>	
 
 				<subitem>
-                  <title>576p</title>
-	              <thumbnail>http://e-cho.pl/wp-content/uploads/2017/05/pm-245x140.png</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/gb/gbqqfck6o2sv4ppkyfzht4h3szdmgono.jpg</thumbnail>
                   <link>http://hls.redefine.pl/1E68CF8B/10259/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/1E68CF8B/10259/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 			
 				<subitem>
                   <title>288p</title>
-	              <thumbnail>http://e-cho.pl/wp-content/uploads/2017/05/pm-245x140.png</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/gb/gbqqfck6o2sv4ppkyfzht4h3szdmgono.jpg</thumbnail>
                   <link>http://hls.redefine.pl/5925C99C/10259/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/DE26C65E/10259/0/hls720/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/1E68CF8B/10259/0/hls576/mob1/list.m3u8$$lsname=LINK 3</link>
@@ -541,7 +577,7 @@
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://e-cho.pl/wp-content/uploads/2017/05/pm-245x140.png</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/gb/gbqqfck6o2sv4ppkyfzht4h3szdmgono.jpg</thumbnail>
                   <link>http://hls.redefine.pl/DE26C65E/10259/0/hls720/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/1E68CF8B/10259/0/hls576/mob4/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/5925C99C/10259/0/hls/mob4/list.m3u8$$lsname=LINK 3</link>
@@ -551,25 +587,25 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>POLSAT NEWS HD</name>
-	      <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/xz/xzg453mrixbfj8f5gtq2ej4o6jwwfz14.jpg</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/b5/b5q4jubvd98hfvd21fx2f9yzorkwdzr2.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/xz/xzg453mrixbfj8f5gtq2ej4o6jwwfz14.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/b5/b5q4jubvd98hfvd21fx2f9yzorkwdzr2.jpg</thumbnail>
 				  <link>http://hls.redefine.pl/3C93EDDB/1574/0/hls720/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/3C93EDDB/1574/0/hls720/720p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
-                  <title>576p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/7b/Polsat_News_Logo.svg</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/b5/b5q4jubvd98hfvd21fx2f9yzorkwdzr2.jpg</thumbnail>
                   <link>http://hls.redefine.pl/0D0E8FFA/1574/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link><link>http://hls.redefine.pl/0D0E8FFA/1574/0/hls576/masterlist.m3u8$$lsname=LINK 2</link></link>
                 </subitem>	
 				
 				<subitem>
-                  <title>320p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/7b/Polsat_News_Logo.svg</thumbnail>
+                  <title>288p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/b5/b5q4jubvd98hfvd21fx2f9yzorkwdzr2.jpg</thumbnail>
                   <link>http://hls.redefine.pl/EB90C47B/1574/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/EB90C47B/1574/0/hls/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/EB90C47B/1574/0/hls/mob2/list.m3u8$$lsname=LINK 3</link>
@@ -577,7 +613,7 @@
 
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/7b/Polsat_News_Logo.svg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/b5/b5q4jubvd98hfvd21fx2f9yzorkwdzr2.jpg</thumbnail>
                   <link>http://hls.redefine.pl/3C93EDDB/1574/0/hls720/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/0D0E8FFA/1574/0/hls576/mob4/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/EB90C47B/1574/0/hls/mob4/list.m3u8$$lsname=LINK 3</link>
@@ -587,18 +623,18 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>POLSAT NEWS 2</name>
-	      <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/av/avf3ra9tds7de8h38v64m1tem6kxty57.jpg</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/hc/hcy6a9c8t3t1yf4pwnyd5w5ttdgcm5nr.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/av/avf3ra9tds7de8h38v64m1tem6kxty57.jpg</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/hc/hcy6a9c8t3t1yf4pwnyd5w5ttdgcm5nr.jpg</thumbnail>
 				  <link>http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/20C4EB56/1575/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
-                  <title>320p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/av/avf3ra9tds7de8h38v64m1tem6kxty57.jpg</thumbnail>
+                  <title>288p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/hc/hcy6a9c8t3t1yf4pwnyd5w5ttdgcm5nr.jpg</thumbnail>
                   <link>http://hls.redefine.pl/25EC3B9E/1575/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/25EC3B9E/1575/0/hls/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/25EC3B9E/1575/0/hls/mob2/list.m3u8$$lsname=LINK 2</link>
@@ -606,7 +642,7 @@
 
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/av/avf3ra9tds7de8h38v64m1tem6kxty57.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/hc/hcy6a9c8t3t1yf4pwnyd5w5ttdgcm5nr.jpg</thumbnail>
                   <link>http://hls.redefine.pl/20C4EB56/1575/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/25EC3B9E/1575/0/hls/mob4/list.m3u8$$lsname=LINK 2</link>
                 </subitem>	
@@ -615,49 +651,62 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>POLSAT PLAY HD</name>
-	      <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/q3/q3rxb6jkopn5qd1ibn7h53k7327xe361.jpg</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/4i/4ibhz846278rvdp5psrpd65ktij2t4za.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/q3/q3rxb6jkopn5qd1ibn7h53k7327xe361.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/4i/4ibhz846278rvdp5psrpd65ktij2t4za.jpg</thumbnail>
 				  <link>http://hls.redefine.pl/66EB39A9/11379/0/hls720/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/66EB39A9/11379/0/hls720/720p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
-                  <title>576p</title>
-	              <thumbnail>http://www.conect.net.pl/wp-content/uploads/2015/09/Polsat_Play.png</thumbnail>
-                  <link>http://hls.redefine.pl/1D4A3CBE/11379/0/hls576/masterlist.m3u8</link>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/4i/4ibhz846278rvdp5psrpd65ktij2t4za.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/1D4A3CBE/11379/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/1D4A3CBE/11379/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
-                  <title>320p</title>
-	              <thumbnail>http://www.conect.net.pl/wp-content/uploads/2015/09/Polsat_Play.png</thumbnail>
-                  <link>http://hls.redefine.pl/7848AE70/11379/0/hls/masterlist.m3u8</link>
-                </subitem>				
+                  <title>288p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/4i/4ibhz846278rvdp5psrpd65ktij2t4za.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/7848AE70/11379/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/7848AE70/11379/0/hls/mob1/list.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/7848AE70/11379/0/hls/mob2/list.m3u8$$lsname=LINK 3</link>
+				  <link>http://hls.redefine.pl/1D4A3CBE/11379/0/hls576/mob1/list.m3u8$$lsname=LINK 4</link>
+				  <link>http://hls.redefine.pl/66EB39A9/11379/0/hls720/mob1/list.m3u8$$lsname=LINK 5</link>
+                </subitem>	
+
+				<subitem>
+                  <title>72p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/4i/4ibhz846278rvdp5psrpd65ktij2t4za.jpg</thumbnail>
+                  <link>http://hls.redefine.pl/7848AE70/11379/0/hls/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/1D4A3CBE/11379/0/hls576/mob4/list.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/66EB39A9/11379/0/hls720/mob4/list.m3u8$$lsname=LINK 3</link>
+                </subitem>	
 			</subitems>	
 		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>POLSAT Sport HD</name>
-	      <thumbnail>https://n-3-21.dcs.redcdn.pl/file/o2/redefine/redb/om/omu1u26p28z87hf3f9mvay8gh8bhmqh9.jpg</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/dz/dz5f1wkaxjx9sidjm45ekjgncy1er7rx.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>https://n-3-21.dcs.redcdn.pl/file/o2/redefine/redb/om/omu1u26p28z87hf3f9mvay8gh8bhmqh9.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/dz/dz5f1wkaxjx9sidjm45ekjgncy1er7rx.jpg</thumbnail>
 				  <link>http://hls.redefine.pl/FF8EFB29/1503/0/hls720/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/FF8EFB29/1503/0/hls720/720p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>288p</title>
-	              <thumbnail>https://n-3-21.dcs.redcdn.pl/file/o2/redefine/redb/om/omu1u26p28z87hf3f9mvay8gh8bhmqh9.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/dz/dz5f1wkaxjx9sidjm45ekjgncy1er7rx.jpg</thumbnail>
                   <link>http://hls.redefine.pl/FF8EFB29/1503/0/hls720/mob1/list.m3u8</link>
                 </subitem>		
 
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>https://n-3-21.dcs.redcdn.pl/file/o2/redefine/redb/om/omu1u26p28z87hf3f9mvay8gh8bhmqh9.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/dz/dz5f1wkaxjx9sidjm45ekjgncy1er7rx.jpg</thumbnail>
                   <link>http://hls.redefine.pl/FF8EFB29/1503/0/hls720/mob4/list.m3u8</link>
                 </subitem>	
 			</subitems>	
@@ -665,25 +714,25 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>POLSAT Sport Fight HD</name>
-	      <thumbnail>http://lipsko.net/wp-content/uploads/2017/01/polsatsportfight-logo655.jpg</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/rp/rp3yky5jyguvh7iv24nvuzytptdn7r6p.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>http://lipsko.net/wp-content/uploads/2017/01/polsatsportfight-logo655.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/rp/rp3yky5jyguvh7iv24nvuzytptdn7r6p.jpg</thumbnail>
                   <link>http://hls.redefine.pl/1A4514F5/12311/0/hls720/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/1A4514F5/12311/0/hls720/720p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36$$lsname=LINK 2</link>
                 </subitem>
 
 				<subitem>
-                  <title>576p</title>
-	              <thumbnail>http://lipsko.net/wp-content/uploads/2017/01/polsatsportfight-logo655.jpg</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/rp/rp3yky5jyguvh7iv24nvuzytptdn7r6p.jpg</thumbnail>
                   <link>http://hls.redefine.pl/6B9594B6/12311/0/hls576/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/6B9594B6/12311/0/hls576/576p/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36$$lsname=LINK 2</link>
                 </subitem>	
 				
 				<subitem>
-                  <title>320p</title>
-	              <thumbnail>http://lipsko.net/wp-content/uploads/2017/01/polsatsportfight-logo655.jpg</thumbnail>
+                  <title>288p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/rp/rp3yky5jyguvh7iv24nvuzytptdn7r6p.jpg</thumbnail>
                   <link>http://hls.redefine.pl/929FF773/12311/0/hls/masterlist.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/1A4514F5/12311/0/hls720/mob1/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/6B9594B6/12311/0/hls576/mob1/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36$$lsname=LINK 3</link>
@@ -693,7 +742,7 @@
 				
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://lipsko.net/wp-content/uploads/2017/01/polsatsportfight-logo655.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/rp/rp3yky5jyguvh7iv24nvuzytptdn7r6p.jpg</thumbnail>
                   <link>http://hls.redefine.pl/1A4514F5/12311/0/hls720/mob4/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/6B9594B6/12311/0/hls576/mob4/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/929FF773/12311/0/hls/mob4/list.m3u8?userid=iOS%691E9D5B88-1FC6-A6C3-4809-E51E3AA55C84&initial|User-Agent=ipla_MOBILE/4.2.4 (Linux; Android 5.1.1; AMIDuOS Build/LMY47Z) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36$$lsname=LINK 3</link>
@@ -703,36 +752,47 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>Republika TV</name>
-	      <thumbnail>http://telewizjarepublika.pl/imgcache/860x400/c/uploads/news/rep_20.jpg</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/cy/cybsper4ow8w1icdgom385722gd1mth2.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>576p</title>
-	              <thumbnail>http://telewizjarepublika.pl/imgcache/860x400/c/uploads/news/rep_20.jpg</thumbnail>
-				  <link>http://hls.redefine.pl/93F156C9/2643/0/hls576/masterlist.m3u8</link>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/cy/cybsper4ow8w1icdgom385722gd1mth2.jpg</thumbnail>
+				  <link>http://hls.redefine.pl/93F156C9/2643/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/93F156C9/2643/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>288p</title>
-	              <thumbnail>http://telewizjarepublika.pl/imgcache/860x400/c/uploads/news/rep_20.jpg</thumbnail>
-				  <link>http://hls.redefine.pl/D1AA8965/2643/0/hls/masterlist.m3u8</link>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/cy/cybsper4ow8w1icdgom385722gd1mth2.jpg</thumbnail>
+				  <link>http://hls.redefine.pl/D1AA8965/2643/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/93F156C9/2643/0/hls576/mob1/list.m3u8$$lsname=LINK 2</link>
+				  <link>http://hls.redefine.pl/D1AA8965/2643/0/hls/mob1/list.m3u8$$lsname=LINK 3</link>
+				  <link>http://hls.redefine.pl/D1AA8965/2643/0/hls/mob2/list.m3u8$$lsname=LINK 4</link>
+                </subitem>
+				
+				<subitem>
+                  <title>72p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/cy/cybsper4ow8w1icdgom385722gd1mth2.jpg</thumbnail>
+				  <link>http://hls.redefine.pl/93F156C9/2643/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://hls.redefine.pl/D1AA8965/2643/0/hls/mob4/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 			</subitems>	
 		</subchannel>			
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>Superstacja</name>
-	      <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/g4/g4mf6zehns8xqdjagz652qox39xg51sr.jpg</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ih/ihcighq5ufdyjvgbxu89yffixoah5ce5.jpg</thumbnail>
             <subitems>
 			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/g4/g4mf6zehns8xqdjagz652qox39xg51sr.jpg</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ih/ihcighq5ufdyjvgbxu89yffixoah5ce5.jpg</thumbnail>
 				  <link>http://hls.redefine.pl/97100F84/1577/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>288p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/g4/g4mf6zehns8xqdjagz652qox39xg51sr.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ih/ihcighq5ufdyjvgbxu89yffixoah5ce5.jpg</thumbnail>
 				  <link>http://hls.redefine.pl/97100F84/1577/0/hls576/mob1/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/4209289C/1577/0/hls/masterlist.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/4209289C/1577/0/hls/mob1/list.m3u8$$lsname=LINK 3</link>
@@ -741,52 +801,34 @@
 
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/g4/g4mf6zehns8xqdjagz652qox39xg51sr.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/ih/ihcighq5ufdyjvgbxu89yffixoah5ce5.jpg</thumbnail>
 				  <link>http://hls.redefine.pl/97100F84/1577/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/4209289C/1577/0/hls/mob4/list.m3u8$$lsname=LINK 2</link>
                 </subitem>	
 			</subitems>	
-		</subchannel>
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>TO!TV</name>
-	      <thumbnail>http://totv.com.pl/images/animacja/LOGO_TOTV.jpg</thumbnail>
-            <subitems>
-			    <subitem>
-                  <title>576p</title>
-	              <thumbnail>http://totv.com.pl/images/animacja/LOGO_TOTV.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/4EBCDDAE/1578/0/hls576/masterlist.m3u8</link>
-                </subitem>			
-				
-				<subitem>
-                  <title>320p</title>
-	              <thumbnail>http://totv.com.pl/images/animacja/LOGO_TOTV.jpg</thumbnail>
-                  <link>http://hls.redefine.pl/5376CBE7/1578/0/hls/masterlist.m3u8</link>
-                </subitem>		
-			</subitems>	
-		</subchannel>			
+		</subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>VIASAT Explore HD</name>
-	      <thumbnail>http://cyfrowypolsatnews.pl/images/news/exp.jpg</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/iq/iqaky9vw823abba6najgj9127tprm93y.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>http://cyfrowypolsatnews.pl/images/news/exp.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/iq/iqaky9vw823abba6najgj9127tprm93y.jpg</thumbnail>
 				  <link>http://hls.redefine.pl/00643E2B/4196/0/hls720/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/00643E2B/4196/0/hls720/720p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
-                  <title>576p</title>
-	              <thumbnail>http://mediafm.net/media/images/original/md5/5/5/5546e5811f480babc6913af56867d51a/Viasat_Explore_Polsat.png</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/iq/iqaky9vw823abba6najgj9127tprm93y.jpg</thumbnail>
                   <link>http://hls.redefine.pl/A3352C50/4196/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/A3352C50/4196/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>	
 				
 				<subitem>
-                  <title>320p</title>
-	              <thumbnail>http://mediafm.net/media/images/original/md5/5/5/5546e5811f480babc6913af56867d51a/Viasat_Explore_Polsat.png</thumbnail>
+                  <title>288p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/iq/iqaky9vw823abba6najgj9127tprm93y.jpg</thumbnail>
                   <link>http://hls.redefine.pl/42C2265D/4196/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/42C2265D/4196/0/hls/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/42C2265D/4196/0/hls/mob2/list.m3u8$$lsname=LINK 3</link>
@@ -794,7 +836,7 @@
 
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://mediafm.net/media/images/original/md5/5/5/5546e5811f480babc6913af56867d51a/Viasat_Explore_Polsat.png</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/iq/iqaky9vw823abba6najgj9127tprm93y.jpg</thumbnail>
                   <link>http://hls.redefine.pl/00643E2B/4196/0/hls720/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/A3352C50/4196/0/hls576/mob4/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/42C2265D/4196/0/hls/mob4/list.m3u8$$lsname=LINK 3</link>
@@ -804,25 +846,25 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>VIASAT HISTORY HD</name>
-	      <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/rv/rvxwvnc9azcz4jevgi4ai3yb88rwb48u.jpg</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/wz/wz5xgrsrhds3qog6rht7v2p34m7h2vie.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>HD</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/rv/rvxwvnc9azcz4jevgi4ai3yb88rwb48u.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/wz/wz5xgrsrhds3qog6rht7v2p34m7h2vie.jpg</thumbnail>
 				  <link>http://hls.redefine.pl/C1F25A0A/4194/0/hls720/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/C1F25A0A/4194/0/hls720/720p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
-                  <title>576p</title>
-	              <thumbnail>https://media2.pl/g/300/38959.jpg</thumbnail>
+                  <title>404p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/wz/wz5xgrsrhds3qog6rht7v2p34m7h2vie.jpg</thumbnail>
                   <link>http://hls.redefine.pl/E70219FB/4194/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/E70219FB/4194/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>	
 				
 				<subitem>
-                  <title>320p</title>
-	              <thumbnail>https://media2.pl/g/300/38959.jpg</thumbnail>
+                  <title>288p</title>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/wz/wz5xgrsrhds3qog6rht7v2p34m7h2vie.jpg</thumbnail>
                   <link>http://hls.redefine.pl/3D960CEA/4194/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/3D960CEA/4194/0/hls/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/3D960CEA/4194/0/hls/mob2/list.m3u8$$lsname=LINK 3</link>
@@ -830,7 +872,7 @@
 
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>https://media2.pl/g/300/38959.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/wz/wz5xgrsrhds3qog6rht7v2p34m7h2vie.jpg</thumbnail>
                   <link>http://hls.redefine.pl/C1F25A0A/4194/0/hls720/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/E70219FB/4194/0/hls576/mob4/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/3D960CEA/4194/0/hls/mob4/list.m3u8$$lsname=LINK 3</link>
@@ -840,18 +882,18 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>VIASAT NATURE</name>
-	      <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/zb/zbm187amhx2bdf6fxa1u9tpiqxszz4fa.jpg</thumbnail>
+	      <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/78/789pf3xxw3m178viauu43m6c8fikzhv2.jpg</thumbnail>
             <subitems>
 			    <subitem>
                   <title>404p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/zb/zbm187amhx2bdf6fxa1u9tpiqxszz4fa.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/78/789pf3xxw3m178viauu43m6c8fikzhv2.jpg</thumbnail>
 				  <link>http://hls.redefine.pl/27D4F385/4195/0/hls576/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/27D4F385/4195/0/hls576/576p/list.m3u8$$lsname=LINK 2</link>
                 </subitem>
 				
 				<subitem>
                   <title>288p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/zb/zbm187amhx2bdf6fxa1u9tpiqxszz4fa.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/78/789pf3xxw3m178viauu43m6c8fikzhv2.jpg</thumbnail>
                   <link>http://hls.redefine.pl/60508455/4195/0/hls/masterlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/27D4F385/4195/0/hls576/mob1/list.m3u8$$lsname=LINK 2</link>
 				  <link>http://hls.redefine.pl/60508455/4195/0/hls/mob1/list.m3u8$$lsname=LINK 3</link>
@@ -860,7 +902,7 @@
 
 				<subitem>
                   <title>72p</title>
-	              <thumbnail>http://s.redefine.pl/dcs/o2/redefine/redb/zb/zbm187amhx2bdf6fxa1u9tpiqxszz4fa.jpg</thumbnail>
+	              <thumbnail>https://s.redefine.pl/file/o2/redefine/redb/78/789pf3xxw3m178viauu43m6c8fikzhv2.jpg</thumbnail>
                   <link>http://hls.redefine.pl/27D4F385/4195/0/hls576/mob4/list.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				  <link>http://hls.redefine.pl/60508455/4195/0/hls/mob4/list.m3u8$$lsname=LINK 2</link>
                 </subitem>

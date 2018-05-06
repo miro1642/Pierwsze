@@ -9,9 +9,6 @@ rtmp://198.16.77.42/stream/1225?e=1521326159&st=JpvhLWwp0NObPcmz3mWz_Q
 #EXTINF:-1 tvg-logo="",ATM Rozrywka
 rtmp://198.16.77.42/stream/1105?e=1521326159&st=Bd-0Hgd0QXomKbFZBKgtdg
 
-#EXTINF:-1,AXN HD
-rtmp://198.16.77.42/stream/2211?e=1521326159&st=C1INd8qW2jg3-8Tqy4xmJg
-
 #EXTINF:-1 tvg-logo="",AXN Black
 rtmp://198.16.80.146/stream/1119?e=1521326159&st=_ZDiukDXsTSxRlXe2A9Iiw
 
@@ -96,8 +93,8 @@ rtmp://198.16.72.242/stream/1138?e=1521326159&st=djXvACaJ33G_FYk5U4o1CQ
 #EXTINF:-1 tvg-logo="",Filmbox Premium
 rtmp://198.16.77.42/stream/1144?e=1521326159&st=uzI-07TZg7VsbyrrAFWNNg
 
-#EXTINF:-1 tvg-logo="",Focus TV
-rtmp://stream.cdn.smcloud.net/fokustv-p/stream1?e=1521326159&st=CnjLYZuLA60Jz_Lkwrvy1w
+#EXTINF:-1,FOX Comedy HD
+rtmp://198.16.77.42/stream/2211?e=1521326159&st=C1INd8qW2jg3-8Tqy4xmJg
 
 #EXTINF:-1,HBO HD
 rtmp://198.16.77.42/stream/2112?e=1521326159&st=DeyXDYOFzzhNuqgCAaxlkQ
@@ -173,9 +170,6 @@ rtmp://185.142.236.99/stream/1141?e=1521326159&st=91ouH57wF2L_5wv8zTy8nw
 
 #EXTINF:-1,TVP Sport HD
 rtmp://185.142.236.99/stream/2313?e=1521326159&st=Q5Y6u3us21pOr5za7Spdig
-
-#EXTINF:-1 tvg-logo="",TVP3-wrocaw
-http://gourl.su/2kp?discovery_sc.m3u8?e=1521326159&st=p-lI7VH4PT8q6r880bLcZg
 
 #EXTINF:-1 tvg-logo="",Zoom TV
 rtmp://198.16.72.242/stream/1111?e=1521326159&st=-3_zOmEiDQJsPS-6T2Q42w

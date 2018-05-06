@@ -5,6 +5,8 @@ rtmp://198.16.80.146/stream/3312L
 rtmp://198.16.80.146/stream/3312
 #EXTINF:0, 4FUN SD
 rtmp://198.16.80.146/stream/1134
+#EXTINF:0, 4FUN Gold SD
+rtmp://198.16.80.146/stream/1124
 #EXTINF:0, ATM ROZRYWKA SD
 rtmp://198.16.80.146/stream/1105
 #EXTINF:0, AXN SD
@@ -28,29 +30,29 @@ rtmp://198.16.80.146/stream/0006
 #EXTINF:0, BOTOKS SERIAL SD
 rtmp://198.16.80.146/stream/0006
 #EXTINF:0, CANAL+ SERIALE SD
-rtmp://198.16.80.146/stream/3512L
+rtmp://198.16.80.146/stream/2812L
 #EXTINF:0, CANAL+ SERIALE HD
-rtmp://198.16.80.146/stream/3512
+rtmp://198.16.80.146/stream/2812
 #EXTINF:0, CARTOON NETWORK SD
 rtmp://198.16.80.146/stream/1143
-#EXTINF:0, COMEDY CENTRAL SD
+#EXTINF:0, COMEDY CENTRAL HD
 rtmp://198.16.80.146/stream/3712
-#EXTINF:0, Canal + Sport SD
-rtmp://198.16.80.146/stream/3111L
-#EXTINF:0, Canal + Sport HD
-rtmp://198.16.80.146/stream/3111
+#EXTINF:0, Canal+ Sport SD
+rtmp://198.16.80.146/stream/2714L
+#EXTINF:0, Canal+ Sport HD
+rtmp://198.16.80.146/stream/2714
 #EXTINF:0, Canal+ SD
-rtmp://198.16.80.146/stream/3113L
+rtmp://198.16.80.146/stream/2713L
 #EXTINF:0, Canal+ HD
-rtmp://198.16.80.146/stream/3113
+rtmp://198.16.80.146/stream/2713
 #EXTINF:0, Canal+ Family SD
-rtmp://198.16.80.146/stream/3513L
+rtmp://198.16.80.146/stream/2813L
 #EXTINF:0, Canal+ Family HD
-rtmp://198.16.80.146/stream/3513
+rtmp://198.16.80.146/stream/2813
 #EXTINF:0, Canal+ Film SD
-rtmp://198.16.80.146/stream/3511L
+rtmp://198.16.80.146/stream/2811L
 #EXTINF:0, Canal+ Film HD
-rtmp://198.16.80.146/stream/3511
+rtmp://198.16.80.146/stream/2811
 #EXTINF:0, Canal+ Sport 2 SD
 rtmp://198.16.80.146/stream/3211L
 #EXTINF:0, Canal+ Sport 2 HD
@@ -62,16 +64,18 @@ rtmp://198.16.80.146/stream/1124
 #EXTINF:0, DISCOVERY SCIENCE SD
 rtmp://198.16.80.146/stream/1122
 #EXTINF:0, DISNEY CHANNEL SD
-rtmp://198.16.80.146/stream/2713L
+rtmp://198.16.80.146/stream/3113L
 #EXTINF:0, DISNEY CHANNEL HD
-rtmp://198.16.80.146/stream/2713
-#EXTINF:0, DISNEY JUNIOR SD
+rtmp://198.16.80.146/stream/3113
+#EXTINF:0, DISNEY JUNIOR HD
 rtmp://198.16.80.146/stream/2413
 #EXTINF:0, DISNEY XD SD
-rtmp://198.16.80.146/stream/2714
+rtmp://198.16.80.146/stream/3111L
+#EXTINF:0, DISNEY XD HD
+rtmp://198.16.80.146/stream/3111
 #EXTINF:0, DTX SD
 rtmp://198.16.80.146/stream/1123
-#EXTINF:0, DUCK TV SD
+#EXTINF:0, DUCK TV HD
 rtmp://198.16.80.146/stream/1133
 #EXTINF:0, ELEVEN SPORTS 1 SD
 rtmp://198.16.80.146/stream/3613L
@@ -99,12 +103,10 @@ rtmp://198.16.80.146/stream/2513
 rtmp://198.16.80.146/stream/2511L
 #EXTINF:0, EXTREME SPORTS CHANNEL HD
 rtmp://198.16.80.146/stream/2511
-#EXTINF:0, FILMBOX SD
-rtmp://198.16.80.146/stream/1137
+#EXTINF:0, FightBox HD
+rtmp://198.16.80.146/stream/1138
 #EXTINF:0, FILMBOX ACTION SD
 rtmp://198.16.80.146/stream/1139
-#EXTINF:0, FILMBOX FAMILY SD
-rtmp://198.16.80.146/stream/1138
 #EXTINF:0, FILMBOX PREMIUM SD
 rtmp://198.16.80.146/stream/1144
 #EXTINF:0, FILMY NOWE HD
@@ -113,6 +115,10 @@ rtmp://198.16.80.146/stream/0003
 rtmp://198.16.80.146/stream/2113L
 #EXTINF:0, FOX HD
 rtmp://198.16.80.146/stream/2113
+#EXTINF:0, FOX Comedy SD
+rtmp://198.16.80.146/stream/2211L
+#EXTINF:0, FOX Comedy HD
+rtmp://198.16.80.146/stream/2211
 #EXTINF:0, HBO SD
 rtmp://198.16.80.146/stream/2112L
 #EXTINF:0, HBO HD
@@ -131,6 +137,8 @@ rtmp://198.16.80.146/stream/2512L
 rtmp://198.16.80.146/stream/2512
 #EXTINF:0, KINO POLSKA SD
 rtmp://198.16.80.146/stream/1132
+#EXTINF:0, Kino TV SD
+rtmp://198.16.80.146/stream/1137
 #EXTINF:0, LIFETIME SD
 rtmp://198.16.80.146/stream/3012L
 #EXTINF:0, LIFETIME HD
@@ -200,9 +208,9 @@ rtmp://198.16.80.146/stream/3311L
 #EXTINF:0, TLC HD
 rtmp://198.16.80.146/stream/3311
 #EXTINF:0, TRAVEL CHANNEL SD
-rtmp://198.16.80.146/stream/2811L
+rtmp://198.16.80.146/stream/3511L
 #EXTINF:0, TRAVEL CHANNEL HD
-rtmp://198.16.80.146/stream/2811
+rtmp://198.16.80.146/stream/3511
 #EXTINF:0, TTV SD
 rtmp://198.16.80.146/stream/1100
 #EXTINF:0, TV 4 SD
@@ -227,10 +235,14 @@ rtmp://198.16.80.146/stream/1117
 rtmp://198.16.80.146/stream/2213L
 #EXTINF:0, TVN 7 HD
 rtmp://198.16.80.146/stream/2213
+#EXTINF:0, TVN Fabuła SD
+rtmp://198.16.80.146/stream/3512L
+#EXTINF:0, TVN Fabuła HD
+rtmp://198.16.80.146/stream/3512
 #EXTINF:0, TVN STYLE SD
-rtmp://198.16.80.146/stream/2813L
+rtmp://198.16.80.146/stream/3513L
 #EXTINF:0, TVN STYLE HD
-rtmp://198.16.80.146/stream/2813
+rtmp://198.16.80.146/stream/3513
 #EXTINF:0, TVN TURBO SD
 rtmp://198.16.80.146/stream/2311L
 #EXTINF:0, TVN TURBO HD
