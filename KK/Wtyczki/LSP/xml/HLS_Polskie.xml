@@ -1015,6 +1015,79 @@
       <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]onlybest.tv[/B][/COLOR]</name>
       <thumbnail>http://onlybest.tv/images/logo_ru.png</thumbnail>
 	  <fanart>http://onlybest.tv/images/slides/1.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]test[/B][/COLOR]</name>
+          <thumbnail>http://addons.kodi.tv/addon-data/cache/Addons/plugin.video.ardmediathek_de/icon.png</thumbnail>
+          <fanart>http://www.ard.de/image/55056/16x9/4788584338065477984/1280</fanart>
+            <subitems>
+				    <subitem>
+                      <title>[COLOR lightyellow]540ptest[/COLOR]</title>
+                      <thumbnail>http://addons.kodi.tv/addon-data/cache/Addons/plugin.video.ardmediathek_de/icon.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>2048000.*\s*(http.*m3u8)</expres>
+                          <page>http://playlist.onlybest.tv/en/channel/7721e3d44b99b8168ae5debce8c60a07/391/index.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]540p[/COLOR]</title>
+                      <thumbnail>http://addons.kodi.tv/addon-data/cache/Addons/plugin.video.ardmediathek_de/icon.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=TSDOWNLOADER</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>1992000.*\s*(http.*m3u8)</expres>
+                          <page>http://playlist.onlybest.tv/en/channel/7721e3d44b99b8168ae5debce8c60a07/391/index.m3u8</page>
+                        </regex>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]360p[/COLOR]</title>
+                      <thumbnail>http://addons.kodi.tv/addon-data/cache/Addons/plugin.video.ardmediathek_de/icon.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>1216000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]288p[/COLOR]</title>
+                      <thumbnail>http://addons.kodi.tv/addon-data/cache/Addons/plugin.video.ardmediathek_de/icon.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>608000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+				
+				    <subitem>
+                      <title>[COLOR lightyellow]270p[/COLOR]</title>
+                      <thumbnail>http://addons.kodi.tv/addon-data/cache/Addons/plugin.video.ardmediathek_de/icon.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>320000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+					
+					<subitem>
+                      <title>[COLOR lightyellow]180p[/COLOR]</title>
+                      <thumbnail>http://addons.kodi.tv/addon-data/cache/Addons/plugin.video.ardmediathek_de/icon.png</thumbnail>
+				      <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
+                        <regex>
+                          <name>getURL</name>
+                          <expres>184000.*\s*(http.*m3u8)</expres>
+                          <page>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</page>
+                        </regex>
+                    </subitem>
+            </subitems>	
+        </subchannel>		  
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>13 Ulica HD</name>
@@ -1030,7 +1103,7 @@
 				<subitem>
                   <title>576p</title>
 				  <thumbnail>http://iptvwojt.000webhostapp.com/ico/13_Ulica_HD_1.png</thumbnail>
-                  <link>http://185.231.160.54/949/3/index.m3u8?k=9514ef8df255272b93f2d985089c27cbe8d52dad88a7f32c85624b3060cd29ec8caa252ec65d0d6865725735e99e274218c327cfeed4179cf54dad15dafb797b7cb22dc0487c60d78865c5b3a09632afcbb151fed9a9f0a2c4a29efbc5c1bda7c5ce96b9dc238a9c59e5465131e8e91f</link>
+                  <link>http://185.231.163.17/397/4/index.m3u8?k=a7c2bb59b4cc2bc0c1f98fafcb8c8ba6779901f2f686f54625e50e84385afc3e5bb3fe477a4acaa340e66ff6056553577af1cb1f88c1ed96f8724a13423c3d3a3c3a33c8451c1141cf4dd23680d1d54e5ec9e9d53aca4a686283956bc5799472858e6c2143d05f99631f1ef5f005add5</link>
                 </subitem>
 				
 				<subitem>

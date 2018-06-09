@@ -14,7 +14,16 @@
       <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	 
             <items>
-			 <item>
+			  <item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]AutoIPTV[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>https://autoiptv.net/resources/images/a.png</thumbnail>
+				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>http://playlist.autoiptv.net/normal.php?c=PL&amp;title=epg$$TSDOWNLOADER$$</externallink>
+			      <page></page>
+              </item>
+			  
+			  <item>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]GEN IPTV[/B][/COLOR]</title>
 			      <link>http://ignorame</link>
 			      <thumbnail>https://genip.tv/wp-content/themes/geniptv/assets/geniptv.jpg</thumbnail>
@@ -46,7 +55,7 @@
 			      <link>http://ignorame</link>
 			      <thumbnail>http://onlybest.tv/images/logo_ru.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://playlist.onlybest.tv/en/device/ee7111e0d5639ac41c9eb207732c3186/static_playlist</externallink>
+                  <externallink>http://playlist.onlybest.tv/ru/device/ee7111e0d5639ac41c9eb207732c3186/static_playlist</externallink>
 			      <page></page>
               </item>
 			  
@@ -58,6 +67,15 @@
                   <externallink>http://playlist.onlybest.tv/en/device/ee7111e0d5639ac41c9eb207732c3186/static_playlist</externallink>
 			      <page></page>
               </item>
+			  
+			  <item>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]GoldVod (EPREMKI)[/B][/COLOR]</title>
+			      <link>http://ignorame</link>
+			      <thumbnail>http://sd-xbmc.org/repository/xbmc-addons/goldvod.png</thumbnail>
+				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
+                  <externallink>http://epremki.000webhostapp.com</externallink>
+			      <page></page>
+              </item> 
 			  
 			  <item>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]GoldVod[/B][/COLOR]</title>
