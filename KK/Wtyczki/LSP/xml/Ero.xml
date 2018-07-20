@@ -1467,6 +1467,43 @@
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]81.200.50.4[/B][/COLOR]</name>
+          <thumbnail>https://c1.staticflickr.com/3/2089/2135946744_b0099dcfce.jpg</thumbnail>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR lightyellow]BRAZZERS[/COLOR]</title>
+			      <thumbnail>https://static.giantbomb.com/uploads/original/8/81005/2192913-brazzers_logo_mem.png</thumbnail>
+                  <link>http:// 81.200.50.4/hls/Brazzers_nejtv_portable_low.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Erox[/COLOR]</title>
+			      <thumbnail>https://www.telekarta.tv/u/images/channels/b/erox_1.png</thumbnail>
+                  <link>http://81.200.50.4/hls/Erox_nejtv_portable_low.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Eroxxx[/COLOR]</title>
+			      <thumbnail>https://i.pinimg.com/736x/71/ca/c0/71cac0413d9dd95a460616426d1ce60c--hd-tvs-tv-channels.jpg</thumbnail>
+                  <link>http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]HUSTLER TV[/COLOR]</title>
+			      <thumbnail>http://jsat.tv/gallery/var/resizes/TV%20Logos/hustler%20tv%20uk.png?m=1458730232</thumbnail>
+                  <link>http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Reality Kings[/COLOR]</title>
+			      <thumbnail>https://i.iinfo.cz/images/233/reality-kings-tv-1-prev.jpg</thumbnail>
+                  <link>http://81.200.50.4/hls/Reality_Kings_nejtv_portable_low.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>	  
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]BABESTATION 1[/B][/COLOR]</name>
           <thumbnail>https://lh4.googleusercontent.com/-UgYdD2w1-nc/Uz3PFPAtk1I/AAAAAAAAQzk/qHqNWQhfh5E/w471-h97-no/Babestation+Xtreme+Live+Show+177+Caprice+Jane++Michelle+Moist+++Movies.png</thumbnail>
             <subitems>
@@ -1918,9 +1955,9 @@
 				<subitem>
                   <title>[COLOR lightyellow]Candy[/COLOR]</title>
 			      <thumbnail>http://img.vintera.tv/img/ico/candy.png</thumbnail>
-                  <link>http://62.76.26.81:8081/candy/candy29/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE4IDM6MzQ6MTQgUE0maGFzaF92YWx1ZT1NWVdoaEZnRmhQelVBVXMzYXF1TEhnPT0mdmFsaWRtaW51dGVzPTQ4MA==</link>
+                  <link>http://62.76.26.81:8081/candy/candy29/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE4IDY6Mjg6NDQgQU0maGFzaF92YWx1ZT1pcXhKRWRvTDRTdXFrMzhadTlmbXRRPT0mdmFsaWRtaW51dGVzPTQ4MA==</link>
                 </subitem>
-				
+				  
 				<subitem>
                   <title>[COLOR lightyellow]Candyman[/COLOR]</title>
 			      <thumbnail>http://img.vintera.tv/img/ico/candman.png</thumbnail>

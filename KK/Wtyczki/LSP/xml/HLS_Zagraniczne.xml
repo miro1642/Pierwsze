@@ -1346,6 +1346,49 @@
       <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>	 
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]81.200.50.4[/B][/COLOR]</name>
+          <thumbnail>https://www.gmkfreelogos.com/logos/S/img/Sport-4.gif</thumbnail>
+          <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]Arena Sport 1[/COLOR]</title>
+			      <thumbnail>https://kinet.sk/wp-content/uploads/arena-sport-1-hd-2.png</thumbnail>
+                  <link>http://81.200.50.4/hls/Arena_Sport__nejtv_portable_low.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Arena Sport 2[/COLOR]</title>
+			      <thumbnail>https://www.maxicom.cz/img-programy/arenasport2.png</thumbnail>
+                  <link>http://81.200.50.4/hls/Arena_Sport_2_nejtv_portable_low.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Eurosport 1[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg</thumbnail>
+                  <link>http://81.200.50.4/hls/Eurosport_nejtv_portable_low.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Eurosport 2[/COLOR]</title>
+			      <thumbnail>https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg</thumbnail>
+                  <link>http://81.200.50.4/hls/Eurosport2_nejtv_portable_low.m3u8</link>
+                </subitem>
+				
+				<subitem>
+                  <title>[COLOR lightyellow]Extreme Sport Channel[/COLOR]</title>
+			      <thumbnail>http://media.freecaster.com/img/poster/program/320x240/default/extreme.png</thumbnail>
+				  <link>http://81.200.50.4/hls/Extreme_Sport_nejtv_portable_low.m3u8</link>
+                </subitem>	
+				
+				<subitem>
+                  <title>[COLOR lightyellow]FightBox[/COLOR]</title>
+			      <thumbnail>https://partner.ulango.tv/uploads/channels/3782469/logo_fightbox.png</thumbnail>
+				  <link>http://81.200.50.4/hls/Fight_Box_nejtv_portable_low.m3u8</link>
+                </subitem>
+			</subitems>	
+        </subchannel>	  
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Abu Dhabi Sports 1[/B][/COLOR]</name>
           <thumbnail>http://www.tunisvista.com/medias/abu-dhabi-sports-1-live.png</thumbnail>
           <fanart>http://assets4.sportsnet.ca/wp-content/uploads/2015/10/prospects2015.jpg</fanart>
