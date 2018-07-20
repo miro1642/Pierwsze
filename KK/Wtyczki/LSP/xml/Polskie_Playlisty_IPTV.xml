@@ -19,7 +19,7 @@
 			      <link>http://ignorame</link>
 			      <thumbnail>https://autoiptv.net/resources/images/a.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://playlist.autoiptv.net/normal.php?c=PL&amp;title=epg$$TSDOWNLOADER$$</externallink>
+                  <externallink>http://playlist.autoiptv.net/sport.php$$TSDOWNLOADER$$</externallink>
 			      <page></page>
               </item>
 			  
@@ -46,7 +46,7 @@
 			      <link>http://ignorame</link>
 			      <thumbnail>http://onlybest.tv/images/logo_ru.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://playlist.onlybest.tv/ru/device/ee7111e0d5639ac41c9eb207732c3186/static_playlist</externallink>
+                  <externallink>http://playlist.onlybest.tv/ru/device/79adb0781aeadcfd6d124ec30f090991/static_playlist</externallink>
 			      <page></page>
               </item>
 			  
@@ -55,7 +55,7 @@
 			      <link>http://ignorame</link>
 			      <thumbnail>http://onlybest.tv/images/logo_ru.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://playlist.onlybest.tv/en/device/ee7111e0d5639ac41c9eb207732c3186/static_playlist$$TSDOWNLOADER$$</externallink>
+                  <externallink>http://playlist.onlybest.tv/en/device/d0f21a70397d3659fe259aa5e2a62107/static_playlist</externallink>
 			      <page></page>
               </item>
 			  

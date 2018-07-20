@@ -2787,12 +2787,6 @@
       <fanart>http://hnzyzb.com/data/out/11/44349659-music-wallpapers.jpg</fanart>
  	    <items>
 		    <item>
-              <title>[COLOR lightyellow]538 Radio[/COLOR]</title>
-              <link>http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_4.m3u8</link>
-              <thumbnail>http://www.allradio.nl/uploaded/logo/Radio538.jpg</thumbnail>
-            </item> 
-		
-		    <item>
               <title>[COLOR lightyellow]Capital TV[/COLOR]</title>
               <thumbnail>http://www.atvtoday.co.uk/wp-content/uploads/2012/10/capital-one.gif</thumbnail>
 			  <link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=HLS</link>
@@ -2813,7 +2807,7 @@
                   <page>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</page>
                 </regex>
             </item>
-		
+			
 			<item>
               <title>[COLOR lightyellow]Heart TV[/COLOR]</title>
               <thumbnail>http://www.getmemedia.com/public/ideas/Opp/13389/heart-tv.jpg</thumbnail>

@@ -14,6 +14,29 @@
       <fanart>http://edge.alluremedia.com.au/m/g/2014/06/shutterstock_197261408_1080.jpg</fanart>
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
 	    <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]AutoIPTV[/B][/COLOR]</name>
+          <thumbnail>https://autoiptv.net/resources/images/a.png</thumbnail>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Sport[/B][/COLOR]</title>
+				  <thumbnail>https://autoiptv.net/resources/images/a.png</thumbnail>
+                  <link>$doregex[makelist]</link>
+                  <regex>
+                    <name>makelist</name>
+                    <listrepeat><![CDATA[
+                    <title>[makelist.param1]</title>
+                    <link>[makelist.param2]</link>
+                    <thumbnail>NA</thumbnail>
+                    ]]></listrepeat>
+                    <expres>#EXTINF:0.*,(.*?)\n(.*)</expres>
+                    <page>http://playlist.autoiptv.net/sport.php</page>
+                    <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+                  </regex>>
+                </subitem>	
+			</subitems>	
+        </subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	  
+	    <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]getsapp.ru[/B][/COLOR]</name>
           <thumbnail>http://getsapp.ru/Img/logo.png</thumbnail>
             <subitems>

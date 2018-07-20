@@ -1,0 +1,273 @@
+#EXTM3U
+#EXTINF:-1, Zaktualizowano:2018-03-24 21:30:09 by GoldVOD
+temp
+#EXTINF:-1 tvg-id="13 ULICA" tvg-logo="http://goldvod.tv/uploads/1498206484148.png", 13 ULICA HD
+rtmp://198.255.36.90/stream/3312?e=1521925849&st=cix6_nJWAztN8PZoWdUReg
+#EXTINF:-1 tvg-id="13 ULICA" tvg-logo="http://goldvod.tv/uploads/1498206484148.png", 13 ULICA SD
+rtmp://198.255.36.90/stream/3312L?e=1521925849&st=vJPfgovho3MshBvMOpp6Ow
+#EXTINF:-1 tvg-id="4FUN" tvg-logo="http://goldvod.tv/uploads/1498603452971.png", 4FUN SD
+rtmp://198.255.36.90/stream/1134?e=1521925850&st=PTc72heGSzPbe3SrZ2Bw9w
+#EXTINF:-1 tvg-id="ATM ROZRYWKA" tvg-logo="http://goldvod.tv/uploads/1498216755864.png", ATM ROZRYWKA SD
+rtmp://198.255.36.90/stream/1105?e=1521925850&st=uvHpJZbSbPWTQUaYbIlEpg
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://goldvod.tv/uploads/1498211387606.png", AXN HD
+rtmp://198.255.36.90/stream/2211?e=1521925850&st=QHegNImALIOyYJTtnouYIw
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://goldvod.tv/uploads/1498211387606.png", AXN SD
+rtmp://198.255.36.90/stream/2211L?e=1521925850&st=A0RaBOLpgRY8GS2GV5qQhw
+#EXTINF:-1 tvg-id="AXN BLACK" tvg-logo="http://goldvod.tv/uploads/1500240785601.png", AXN BLACK SD
+rtmp://198.255.36.90/stream/1119?e=1521925850&st=DmvSS3JkFdfmir51FBtVBQ
+#EXTINF:-1 tvg-id="AXN SPIN" tvg-logo="http://goldvod.tv/uploads/1520984656517.png", AXN SPIN SD
+rtmp://198.255.36.90/stream/1118?e=1521925850&st=RTzPPJABMvZAje7OQTW6MA
+#EXTINF:-1 tvg-id="AXN WHITE" tvg-logo="http://goldvod.tv/uploads/1500241343577.png", AXN WHITE SD
+rtmp://198.255.36.90/stream/1120?e=1521925850&st=wYTZbR_o0qrSb9ebkbKB6Q
+#EXTINF:-1 tvg-id="BAJKI NOWE" tvg-logo="http://goldvod.tv/uploads/1519111872334.png", BAJKI NOWE HD
+rtmp://198.255.36.90/stream/0005?e=1521925850&st=17Lq3NqhP563-RrR_UifHw
+#EXTINF:-1 tvg-id="BAJKI NOWE" tvg-logo="http://goldvod.tv/uploads/1519111872334.png", BAJKI NOWE SD
+rtmp://198.255.36.90/stream/0005?e=1521925850&st=17Lq3NqhP563-RrR_UifHw
+#EXTINF:-1 tvg-id="BBC EARTH" tvg-logo="http://goldvod.tv/uploads/1514541099966.png", BBC EARTH HD
+rtmp://198.16.72.226/stream/2011?e=1521925850&st=K6XDT_kvCWXzgrfA1oMHNA
+#EXTINF:-1 tvg-id="BBC EARTH" tvg-logo="http://goldvod.tv/uploads/1514541099966.png", BBC EARTH SD
+rtmp://198.16.72.226/stream/2011L?e=1521925850&st=M0zZmEBvMJwdMPuUx13o_A
+#EXTINF:-1 tvg-id="BELFER SEZON 2" tvg-logo="http://goldvod.tv/uploads/1513440657818.png", BELFER SEZON 2 HD
+rtmp://198.255.36.90/stream/0006?e=1521925850&st=HDeI2mHTIWNhe82dvzYBZQ
+#EXTINF:-1 tvg-id="BELFER SEZON 2" tvg-logo="http://goldvod.tv/uploads/1513440657818.png", BELFER SEZON 2 SD
+rtmp://198.255.36.90/stream/0006?e=1521925850&st=HDeI2mHTIWNhe82dvzYBZQ
+#EXTINF:-1 tvg-id="BOTOKS SERIAL" tvg-logo="http://goldvod.tv/uploads/1520513878617.png", BOTOKS SERIAL SD
+rtmp://198.255.36.90/stream/0006?e=1521925850&st=HDeI2mHTIWNhe82dvzYBZQ
+#EXTINF:-1 tvg-id="CANAL+ SERIALE" tvg-logo="http://goldvod.tv/uploads/1520162208593.png", CANAL+ SERIALE HD
+rtmp://185.142.236.83/stream/3512?e=1521925850&st=5SL5DWNdekExU3Mgihke5A
+#EXTINF:-1 tvg-id="CANAL+ SERIALE" tvg-logo="http://goldvod.tv/uploads/1520162208593.png", CANAL+ SERIALE SD
+rtmp://185.142.236.83/stream/3512L?e=1521925850&st=UOwGRz9lvhHvG5l_ibL0qA
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="http://goldvod.tv/uploads/1498599643385.png", CARTOON NETWORK SD
+rtmp://198.255.36.90/stream/1143?e=1521925850&st=XiEpo_-XlQOBpLRBXDquSw
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="http://goldvod.tv/uploads/1498216485466.png", COMEDY CENTRAL SD
+rtmp://198.255.36.90/stream/3712?e=1521925850&st=ZosN9ploAWsoMPG9bMon6Q
+#EXTINF:-1 tvg-id="Canal + Sport" tvg-logo="http://goldvod.tv/uploads/1516913085449.png", Canal + Sport HD
+rtmp://185.142.236.88/stream/3111?e=1521925850&st=ENgIhVozXosoAtsi7914Rw
+#EXTINF:-1 tvg-id="Canal + Sport" tvg-logo="http://goldvod.tv/uploads/1516913085449.png", Canal + Sport SD
+rtmp://185.142.236.88/stream/3111L?e=1521925850&st=VRZre_CN2RH6BVZzTJNB7Q
+#EXTINF:-1 tvg-id="Canal+" tvg-logo="http://goldvod.tv/uploads/1516912944142.png", Canal+ HD
+rtmp://185.142.236.99/stream/3113?e=1521925850&st=Ok3qWWR9Ip4GmK1zhRRaPw
+#EXTINF:-1 tvg-id="Canal+" tvg-logo="http://goldvod.tv/uploads/1516912944142.png", Canal+ SD
+rtmp://185.142.236.99/stream/3113L?e=1521925850&st=HBD_6kAldLVymPb7UfDKFw
+#EXTINF:-1 tvg-id="Canal+ Family" tvg-logo="http://goldvod.tv/uploads/1516994558493.png", Canal+ Family HD
+rtmp://185.142.236.83/stream/3513?e=1521925850&st=g3axC40top8BrL6WVMXFRQ
+#EXTINF:-1 tvg-id="Canal+ Family" tvg-logo="http://goldvod.tv/uploads/1516994558493.png", Canal+ Family SD
+rtmp://185.142.236.83/stream/3513L?e=1521925850&st=Dh2qk8PZMddWXHWAi1A3_A
+#EXTINF:-1 tvg-id="Canal+ Film" tvg-logo="http://goldvod.tv/uploads/1518945480678.png", Canal+ Film HD
+rtmp://185.142.236.81/stream/3511?e=1521925850&st=vKY34hCLqqvfnM0GMh023w
+#EXTINF:-1 tvg-id="Canal+ Film" tvg-logo="http://goldvod.tv/uploads/1518945480678.png", Canal+ Film SD
+rtmp://185.142.236.81/stream/3511L?e=1521925850&st=UvbKREpy8r3K79Xbsn3i5w
+#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-logo="http://goldvod.tv/uploads/1516973907198.png", Canal+ Sport 2 HD
+rtmp://185.142.236.99/stream/3211?e=1521925850&st=97_H2oKMxOVgahovy53wWA
+#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-logo="http://goldvod.tv/uploads/1516973907198.png", Canal+ Sport 2 SD
+rtmp://185.142.236.99/stream/3211L?e=1521925850&st=GQrHzkmV9H4Ctw0Ec5N7fw
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="http://goldvod.tv/uploads/149820981173.png", DISCOVERY SD
+rtmp://198.255.36.90/stream/1121?e=1521925850&st=-C1VwLtZmeSNkbZoc_OLFA
+#EXTINF:-1 tvg-id="DISCOVERY LIFE" tvg-logo="http://goldvod.tv/uploads/1498941496646.png", DISCOVERY LIFE SD
+rtmp://198.16.80.146/stream/1124?e=1521925850&st=Q_uO07c_fISl6RN3UZsTUA
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="http://goldvod.tv/uploads/1498210001119.png", DISCOVERY SCIENCE SD
+rtmp://198.255.36.90/stream/1122?e=1521925850&st=d2SqGUhi2QlNfR9Ew2wb9w
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://goldvod.tv/uploads/1498211424778.png", DISNEY CHANNEL HD
+rtmp://198.255.36.90/stream/2713?e=1521925849&st=qliNPeqwVCvGRKhApxQ-zQ
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://goldvod.tv/uploads/1498211424778.png", DISNEY CHANNEL SD
+rtmp://198.255.36.90/stream/2713L?e=1521925849&st=hJChtzEzVUbqQtGISkHtcA
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-logo="http://goldvod.tv/uploads/1520117244989.png", DISNEY JUNIOR SD
+rtmp://198.255.36.90/stream/2413?e=1521925849&st=n8x-e0O49hTWc-QPAO2vNw
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://goldvod.tv/uploads/1498204617167.png", DISNEY XD SD
+rtmp://198.255.36.90/stream/2714?e=1521925849&st=UO6fv34n8QI7TYr26Je27w
+#EXTINF:-1 tvg-id="DTX" tvg-logo="http://goldvod.tv/uploads/1498307485872.png", DTX SD
+rtmp://198.255.36.90/stream/1123?e=1521925850&st=Cf1GaoAKI9D2-W1AB2qVjA
+#EXTINF:-1 tvg-id="DUCK TV" tvg-logo="http://goldvod.tv/uploads/1510790244432.png", DUCK TV SD
+rtmp://198.255.36.90/stream/1133?e=1521925850&st=d-g9s-6IobRM7RJxmvWquA
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-logo="http://goldvod.tv/uploads/1507656244564.png", ELEVEN SPORTS 1 HD
+rtmp://198.255.36.90/stream/3613?e=1521925850&st=i-sbEOGcR3KSftaRYtGAbA
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-logo="http://goldvod.tv/uploads/1507656244564.png", ELEVEN SPORTS 1 SD
+rtmp://198.255.36.90/stream/3613L?e=1521925850&st=9zG0VLT4DozSNxY2fXIjpg
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-logo="http://goldvod.tv/uploads/1507900039331.png", ELEVEN SPORTS 2 HD
+rtmp://185.142.236.99/stream/3013?e=1521925850&st=rcijd-POqL0_eharEZb25g
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-logo="http://goldvod.tv/uploads/1507900039331.png", ELEVEN SPORTS 2 SD
+rtmp://185.142.236.99/stream/3013L?e=1521925850&st=16L9Oo9GNZTQ6F4dJ5Tz_Q
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-logo="http://goldvod.tv/uploads/1507900347113.png", ELEVEN SPORTS 3 HD
+rtmp://198.255.36.90/stream/3411?e=1521925850&st=A8uw-SN6w51brIXCHM-7eQ
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-logo="http://goldvod.tv/uploads/1507900347113.png", ELEVEN SPORTS 3 SD
+rtmp://198.255.36.90/stream/3411L?e=1521925850&st=ag1icrvr_krw1R39Hz1jGg
+#EXTINF:-1 tvg-id="ESKA TV" tvg-logo="http://goldvod.tv/uploads/1498603335216.png", ESKA TV SD
+rtmp://198.255.36.90/stream/1109?e=1521925850&st=y2GEVqyuXhh_GKaLTNK3YQ
+#EXTINF:-1 tvg-id="EUROSPORT" tvg-logo="http://goldvod.tv/uploads/1505207379597.png", EUROSPORT HD
+rtmp://198.16.77.42/stream/3313?e=1521925850&st=pIxvJZihn4Edr4fdtbgxhA
+#EXTINF:-1 tvg-id="EUROSPORT" tvg-logo="http://goldvod.tv/uploads/1505207379597.png", EUROSPORT SD
+rtmp://198.16.77.42/stream/3313L?e=1521925850&st=UH_dCukzB-l9iun4azgH2w
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="http://goldvod.tv/uploads/1498215961132.png", EUROSPORT 2 HD
+rtmp://198.255.36.90/stream/2513?e=1521925850&st=_bdmyGc3xSkBo22WW41gow
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="http://goldvod.tv/uploads/1498215961132.png", EUROSPORT 2 SD
+rtmp://198.255.36.90/stream/2513L?e=1521925850&st=rLJkzGOEHS-YVpt-02tdRw
+#EXTINF:-1 tvg-id="EXTREME SPORTS CHANNEL" tvg-logo="http://goldvod.tv/uploads/1499610895728.png", EXTREME SPORTS CHANNEL HD
+rtmp://198.255.36.90/stream/2511?e=1521925850&st=4aDffVJkr9W5yhcNs4LEqg
+#EXTINF:-1 tvg-id="EXTREME SPORTS CHANNEL" tvg-logo="http://goldvod.tv/uploads/1499610895728.png", EXTREME SPORTS CHANNEL SD
+rtmp://198.255.36.90/stream/2511L?e=1521925850&st=MkhtRElpWY15Cv6gIibPoA
+#EXTINF:-1 tvg-id="FILMBOX" tvg-logo="http://goldvod.tv/uploads/1498211326722.png", FILMBOX SD
+rtmp://198.255.36.90/stream/1137?e=1521925850&st=lVHgbS36DRy7yAiW_ldNPA
+#EXTINF:-1 tvg-id="FILMBOX ACTION" tvg-logo="http://goldvod.tv/uploads/1518264343972.png", FILMBOX ACTION SD
+rtmp://198.255.36.90/stream/1139?e=1521925850&st=ZN6Hd5OWEdlR8ju8tJnAYQ
+#EXTINF:-1 tvg-id="FILMBOX FAMILY" tvg-logo="http://goldvod.tv/uploads/1498217136488.png", FILMBOX FAMILY SD
+rtmp://198.255.36.90/stream/1138?e=1521925850&st=7pPF1LnyRZxKs5YeCjzeTA
+#EXTINF:-1 tvg-id="FILMBOX PREMIUM" tvg-logo="http://goldvod.tv/uploads/1521481632486.png", FILMBOX PREMIUM SD
+rtmp://198.255.36.90/stream/1144?e=1521925850&st=T1irK0erLjgWWH4mzk1ubg
+#EXTINF:-1 tvg-id="FILMY NOWE" tvg-logo="http://goldvod.tv/uploads/1500579072563.png", FILMY NOWE HD
+rtmp://198.255.36.90/stream/0003?e=1521925850&st=pn_Bxtx5e-d4bGb2c5Kebg
+#EXTINF:-1 tvg-id="FILMY NOWE" tvg-logo="http://goldvod.tv/uploads/1500579072563.png", FILMY NOWE SD
+rtmp://198.255.36.90/stream/0003?e=1521925850&st=pn_Bxtx5e-d4bGb2c5Kebg
+#EXTINF:-1 tvg-id="FOCUS TV" tvg-logo="http://goldvod.tv/uploads/150010262332.png", FOCUS TV SD
+rtmp://stream.cdn.smcloud.net/fokustv-p/stream1?e=1521925850&st=HiiLkQWAJmVIcnMOsE9XKg
+#EXTINF:-1 tvg-id="FOX" tvg-logo="http://goldvod.tv/uploads/1501253272109.png", FOX HD
+rtmp://198.255.36.90/stream/2113?e=1521925850&st=tbVhbzrIGNYICmSMYaoFNg
+#EXTINF:-1 tvg-id="FOX" tvg-logo="http://goldvod.tv/uploads/1501253272109.png", FOX SD
+rtmp://198.255.36.90/stream/2113L?e=1521925850&st=EnGRqFna-YC4XCzVzSXGwQ
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://goldvod.tv/uploads/1498209532222.png", HBO HD
+rtmp://198.16.77.42/stream/2112?e=1521925850&st=wjfRHHnd-hvxT-2LFNm4bg
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://goldvod.tv/uploads/1498209532222.png", HBO SD
+rtmp://198.16.77.42/stream/2112L?e=1521925850&st=XcZ13o8ZTDbWAVf24-pMRA
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://goldvod.tv/uploads/1498145731484.png", HBO 2 HD
+rtmp://198.255.36.90/stream/2013?e=1521925849&st=UmOmq6rSv6mDj6Ck4YijwA
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://goldvod.tv/uploads/1498145731484.png", HBO 2 SD
+rtmp://198.255.36.90/stream/2013L?e=1521925849&st=pDi0UFlTw1J24OMTw7W2jg
+#EXTINF:-1 tvg-id="HBO 3" tvg-logo="http://goldvod.tv/uploads/1498145720381.png", HBO 3 HD
+rtmp://198.255.36.90/stream/2012?e=1521925849&st=vLmMcTNJV24d3qTqty-lxA
+#EXTINF:-1 tvg-id="HBO 3" tvg-logo="http://goldvod.tv/uploads/1498145720381.png", HBO 3 SD
+rtmp://198.255.36.90/stream/2012L?e=1521925849&st=OE-bfIGYK3uMuMc3lJ2eig
+#EXTINF:-1 tvg-id="ID" tvg-logo="http://goldvod.tv/uploads/1498218024164.png", ID HD
+rtmp://198.255.36.90/stream/2512?e=1521925849&st=BKXdIqVQxCOF3h_s04e3_w
+#EXTINF:-1 tvg-id="ID" tvg-logo="http://goldvod.tv/uploads/1498218024164.png", ID SD
+rtmp://198.255.36.90/stream/2512L?e=1521925849&st=w4L7sk82FgPG7VVAK-qSLw
+#EXTINF:-1 tvg-id="KINO POLSKA" tvg-logo="http://goldvod.tv/uploads/1498216089543.png", KINO POLSKA SD
+rtmp://198.255.36.90/stream/1132?e=1521925850&st=R0W8YPa0q27O7Kvh_C0oww
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="http://goldvod.tv/uploads/1498205287627.png", LIFETIME HD
+rtmp://198.255.36.90/stream/3012?e=1521925849&st=mv_BNjkgA39_3Gz7xjezOQ
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="http://goldvod.tv/uploads/1498205287627.png", LIFETIME SD
+rtmp://198.255.36.90/stream/3012L?e=1521925849&st=NRuKsZTb_-aN13RYvMncPQ
+#EXTINF:-1 tvg-id="METRO TV" tvg-logo="http://goldvod.tv/assets/images/no_img_channel.png", METRO TV SD
+rtmp://198.255.36.90/stream/1260?e=1521925850&st=xIDS2QUbiOX2xY3-y0cltg
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://goldvod.tv/uploads/1498428952312.png", MTV HD
+rtmp://198.255.36.90/stream/3112?e=1521925850&st=c9Q80IMo_zaxVR5MHIcZ6A
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://goldvod.tv/uploads/1498428952312.png", MTV SD
+rtmp://198.255.36.90/stream/3112L?e=1521925850&st=N7W1IPfHBhtELVhkT8TLgw
+#EXTINF:-1 tvg-id="Mini mini+" tvg-logo="http://goldvod.tv/uploads/1517036812151.png", Mini mini+ SD
+rtmp://185.142.236.99/stream/1140?e=1521925850&st=Tl7wXbThv0OTTiHw14GNig
+#EXTINF:-1 tvg-id="NAT GEO CHANNEL" tvg-logo="http://goldvod.tv/uploads/1501253256988.png", NAT GEO CHANNEL HD
+rtmp://198.255.36.90/stream/3614?e=1521925850&st=dI1W-I9P2V7LlGyCH4PExA
+#EXTINF:-1 tvg-id="NAT GEO CHANNEL" tvg-logo="http://goldvod.tv/uploads/1501253256988.png", NAT GEO CHANNEL SD
+rtmp://198.255.36.90/stream/3614L?e=1521925850&st=5FMS5xT4Mf7DCbw377Ht7A
+#EXTINF:-1 tvg-id="NAT GEO PEOPLE" tvg-logo="http://goldvod.tv/uploads/1501253263794.png", NAT GEO PEOPLE HD
+rtmp://198.255.36.90/stream/2412?e=1521925850&st=rcmdNy5bN4sfcx03WcgUBg
+#EXTINF:-1 tvg-id="NAT GEO PEOPLE" tvg-logo="http://goldvod.tv/uploads/1501253263794.png", NAT GEO PEOPLE SD
+rtmp://198.255.36.90/stream/2412L?e=1521925850&st=KzpPU3GazeaibN59wGGA5A
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="http://goldvod.tv/uploads/1501253360870.png", NAT GEO WILD SD
+rtmp://198.255.36.90/stream/1142?e=1521925850&st=wg4iskeePvq6vvtbcOkDZg
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-logo="http://goldvod.tv/uploads/1501869947843.png", NICKELODEON HD
+rtmp://198.255.36.90/stream/3612?e=1521925850&st=pD2m_GuKg30j5dne6DCSSQ
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-logo="http://goldvod.tv/uploads/1501869947843.png", NICKELODEON SD
+rtmp://198.255.36.90/stream/3612L?e=1521925850&st=q-HEtFzrGaaZRR3EsTBDkQ
+#EXTINF:-1 tvg-id="NOWA TV" tvg-logo="http://goldvod.tv/assets/images/no_img_channel.png", NOWA TV SD
+rtmp://198.255.36.90/stream/1110?e=1521925850&st=ABbqz_-bc_LVldV-Q0-pnw
+#EXTINF:-1 tvg-id="Nick Jr" tvg-logo="http://goldvod.tv/uploads/1501874547824.png", Nick Jr SD
+rtmp://198.255.36.90/stream/3415?e=1521925850&st=VucRSQpjwtkNbELQy753_A
+#EXTINF:-1 tvg-id="Nsport" tvg-logo="http://goldvod.tv/uploads/1517036914997.png", Nsport HD
+rtmp://185.142.236.81/stream/2712?e=1521925850&st=LYY4MwldNkq75iBWIVbeWA
+#EXTINF:-1 tvg-id="Nsport" tvg-logo="http://goldvod.tv/uploads/1517036914997.png", Nsport SD
+rtmp://185.142.236.81/stream/2712L?e=1521925850&st=BrzDYtwIj0YkkGjqNAezaQ
+#EXTINF:-1 tvg-id="POLSAT" tvg-logo="http://goldvod.tv/uploads/1507487272711.png", POLSAT HD
+rtmp://198.16.72.242/stream/3413?e=1521925850&st=R6-C6VexEX2YXf6UK_oo6Q
+#EXTINF:-1 tvg-id="POLSAT" tvg-logo="http://goldvod.tv/uploads/1507487272711.png", POLSAT SD
+rtmp://198.16.72.242/stream/3413L?e=1521925850&st=iNwwq2WnkG0i5YahtYiTAQ
+#EXTINF:-1 tvg-id="POLSAT 2" tvg-logo="http://goldvod.tv/uploads/1499872514175.png", POLSAT 2 SD
+rtmp://185.142.236.88/stream/3711?e=1521925850&st=1V1iU9XfadW091ZTpbtdxQ
+#EXTINF:-1 tvg-id="POLSAT FILM" tvg-logo="http://goldvod.tv/uploads/1504471534838.png", POLSAT FILM HD
+rtmp://185.142.236.81/stream/3414?e=1521925850&st=k_ZEItw3LMcVRFSTM-_uog
+#EXTINF:-1 tvg-id="POLSAT FILM" tvg-logo="http://goldvod.tv/uploads/1504471534838.png", POLSAT FILM SD
+rtmp://185.142.236.81/stream/3414L?e=1521925850&st=rM-ndJJfAZ2o08xHHIWxRg
+#EXTINF:-1 tvg-id="POLSAT JIM JAM" tvg-logo="http://goldvod.tv/uploads/1500104842806.png", POLSAT JIM JAM SD
+rtmp://185.142.236.88/stream/2514?e=1521925850&st=u7M_W7UE1_1X_BN56wSO0g
+#EXTINF:-1 tvg-id="POLSAT NEWS" tvg-logo="http://goldvod.tv/uploads/1499251312267.png", POLSAT NEWS SD
+rtmp://185.142.236.81/stream/1128?e=1521925850&st=IiElORD1MwI3LfaWgOMGUw
+#EXTINF:-1 tvg-id="POLSAT PLAY" tvg-logo="http://goldvod.tv/uploads/149987348147.png", POLSAT PLAY SD
+rtmp://185.142.236.81/stream/1130?e=1521925850&st=FaliPMAtOP7m2_JmHw52vA
+#EXTINF:-1 tvg-id="Polsat Cafe" tvg-logo="http://goldvod.tv/uploads/1520985158739.png", Polsat Cafe SD
+rtmp://198.255.36.90/stream/1127?e=1521925850&st=AemQJkeTH76KsF3ssHJfrQ
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-logo="http://goldvod.tv/uploads/1510778586964.png", Polsat Sport SD
+rtmp://185.142.236.88/stream/1126?e=1521925850&st=7R_J_Ciq3p8YwGyF-CWUnw
+#EXTINF:-1 tvg-id="Polsat sport Extra" tvg-logo="http://goldvod.tv/uploads/1507306126180.png", Polsat sport Extra SD
+rtmp://185.142.236.83/stream/1125?e=1521925850&st=AkIshS7JCCf8R9jUqOcCBw
+#EXTINF:-1 tvg-id="REPUBLIKA TV" tvg-logo="http://goldvod.tv/uploads/1498429102849.png", REPUBLIKA TV SD
+rtmp://198.255.36.90/stream/1131?e=1521925850&st=8TT0qzkdbTWMQQ62zXmyfg
+#EXTINF:-1 tvg-id="STOPKLATKA" tvg-logo="http://goldvod.tv/uploads/1498430136827.png", STOPKLATKA SD
+rtmp://198.255.36.90/stream/1106?e=1521925850&st=QiAW4ZWB_MVh7aNlB-yUOQ
+#EXTINF:-1 tvg-id="SUPER POLSAT" tvg-logo="http://goldvod.tv/uploads/1520982047999.png", SUPER POLSAT SD
+rtmp://198.255.36.90/stream/1108?e=1521925850&st=hAR2xUFuEUPf2zi3vTI6OQ
+#EXTINF:-1 tvg-id="SUPERSTACJA" tvg-logo="http://goldvod.tv/uploads/1498299274205.png", SUPERSTACJA SD
+rtmp://198.255.36.90/stream/1129?e=1521925850&st=SIAo9flaf2LR2UVjvSULRQ
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://goldvod.tv/uploads/1498206207605.png", TLC HD
+rtmp://198.255.36.90/stream/3311?e=1521925849&st=65ghtkI_TxwDEop-Gz-lDg
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://goldvod.tv/uploads/1498206207605.png", TLC SD
+rtmp://198.255.36.90/stream/3311L?e=1521925849&st=ODR5PG_lkdbd7FMdIMLfQQ
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL" tvg-logo="http://goldvod.tv/uploads/1501917652857.png", TRAVEL CHANNEL HD
+rtmp://185.142.236.81/stream/2811?e=1521925850&st=eOtUcEiD63s3KR3PIDUitA
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL" tvg-logo="http://goldvod.tv/uploads/1501917652857.png", TRAVEL CHANNEL SD
+rtmp://185.142.236.81/stream/2811L?e=1521925850&st=CMDxCchwx7so8PV7uNt-Ew
+#EXTINF:-1 tvg-id="TTV" tvg-logo="http://goldvod.tv/uploads/1504471649440.png", TTV SD
+rtmp://185.142.236.83/stream/1100?e=1521925850&st=Pl2yVqh15otVcyfFPrmuJQ
+#EXTINF:-1 tvg-id="TV 4" tvg-logo="http://goldvod.tv/uploads/1498212156751.png", TV 4 SD
+rtmp://198.255.36.90/stream/1103?e=1521925850&st=7Vc8Me2UvYPlJtkoBkBbMw
+#EXTINF:-1 tvg-id="TV 6" tvg-logo="http://goldvod.tv/uploads/1498212168913.png", TV 6 SD
+rtmp://198.255.36.90/stream/1104?e=1521925850&st=t0hyoBX1ig37jS-QEidT3w
+#EXTINF:-1 tvg-id="TV PULS" tvg-logo="http://goldvod.tv/uploads/1498211619625.png", TV PULS SD
+rtmp://198.255.36.90/stream/1101?e=1521925850&st=ONV8yjJI3bhaj8ykeGD2vw
+#EXTINF:-1 tvg-id="TV PULS 2" tvg-logo="http://goldvod.tv/uploads/149821163166.png", TV PULS 2 SD
+rtmp://198.255.36.90/stream/1102?e=1521925850&st=8oDiskw3axjMoY4Ff9yCuQ
+#EXTINF:-1 tvg-id="TVN" tvg-logo="http://goldvod.tv/uploads/1504199582212.png", TVN HD
+rtmp://198.255.36.90/stream/2212?e=1521925850&st=KbgC4z64tgF9-UmB8xL7LA
+#EXTINF:-1 tvg-id="TVN" tvg-logo="http://goldvod.tv/uploads/1504199582212.png", TVN SD
+rtmp://198.255.36.90/stream/2212L?e=1521925850&st=deVMs3JjCKbmr0pGgCLrZw
+#EXTINF:-1 tvg-id="TVN 24" tvg-logo="http://goldvod.tv/uploads/1504199666801.png", TVN 24 HD
+rtmp://185.142.236.81/stream/2411?e=1521925850&st=RZiYnQIkeegl1eVqQwrb1Q
+#EXTINF:-1 tvg-id="TVN 24" tvg-logo="http://goldvod.tv/uploads/1504199666801.png", TVN 24 SD
+rtmp://185.142.236.81/stream/2411L?e=1521925850&st=pd_UPxBIdZKucnxFdmZj-A
+#EXTINF:-1 tvg-id="TVN 24 BIS" tvg-logo="http://goldvod.tv/uploads/1521479472908.png", TVN 24 BIS SD
+rtmp://185.142.236.81/stream/1117?e=1521925850&st=gCpOsu0vcTgGqyDtiib4GQ
+#EXTINF:-1 tvg-id="TVN 7" tvg-logo="http://goldvod.tv/uploads/1504202172613.png", TVN 7 HD
+rtmp://185.142.236.81/stream/2213?e=1521925850&st=v4RPKKnOt-Kc-Hnbvhq-hw
+#EXTINF:-1 tvg-id="TVN 7" tvg-logo="http://goldvod.tv/uploads/1504202172613.png", TVN 7 SD
+rtmp://185.142.236.81/stream/2213L?e=1521925850&st=FL7JVxIuAvhSk46eKboF-g
+#EXTINF:-1 tvg-id="TVN STYLE" tvg-logo="http://goldvod.tv/uploads/1504201833593.png", TVN STYLE HD
+rtmp://185.142.236.99/stream/2813?e=1521925850&st=TZbP2VUNltlcfGr5QU3R5w
+#EXTINF:-1 tvg-id="TVN STYLE" tvg-logo="http://goldvod.tv/uploads/1504201833593.png", TVN STYLE SD
+rtmp://185.142.236.99/stream/2813L?e=1521925850&st=YNtCAN2vi7HMK9N-9-ECIw
+#EXTINF:-1 tvg-id="TVN TURBO" tvg-logo="http://goldvod.tv/uploads/150426634120.png", TVN TURBO HD
+rtmp://185.142.236.83/stream/2311?e=1521925850&st=DoRkO9tHeHaZyS0yxeIOEQ
+#EXTINF:-1 tvg-id="TVN TURBO" tvg-logo="http://goldvod.tv/uploads/150426634120.png", TVN TURBO SD
+rtmp://185.142.236.83/stream/2311L?e=1521925850&st=S1WaGNaQZEa8IkVvnm7nqw
+#EXTINF:-1 tvg-id="TVP 1" tvg-logo="http://goldvod.tv/uploads/1508660690184.png", TVP 1 HD
+rtmp://185.142.236.81/stream/2312?e=1521925850&st=ICUdtQ3bJuabulfxgKYacQ
+#EXTINF:-1 tvg-id="TVP 1" tvg-logo="http://goldvod.tv/uploads/1508660690184.png", TVP 1 SD
+rtmp://185.142.236.81/stream/2312L?e=1521925850&st=Wu-zsMdZ_Var7SOXGYMjnQ
+#EXTINF:-1 tvg-id="TVP 2" tvg-logo="http://goldvod.tv/uploads/1508700307494.png", TVP 2 HD
+rtmp://185.142.236.83/stream/2111?e=1521925849&st=X9Nx6CbBzJdABbGNd4xp5w
+#EXTINF:-1 tvg-id="TVP 2" tvg-logo="http://goldvod.tv/uploads/1508700307494.png", TVP 2 SD
+rtmp://185.142.236.83/stream/2111L?e=1521925849&st=qnGPMGPp5SuJ_-uRyFDGtA
+#EXTINF:-1 tvg-id="TVP ABC" tvg-logo="http://goldvod.tv/uploads/1498429858259.png", TVP ABC SD
+rtmp://185.142.236.99/stream/1113?e=1521925850&st=qK_tBfgPhkFCNjwPIEzJOw
+#EXTINF:-1 tvg-id="TVP HISTORIA" tvg-logo="http://goldvod.tv/uploads/1498600874319.png", TVP HISTORIA SD
+rtmp://185.142.236.99/stream/1115?e=1521925850&st=hJPf8dOul_oQHWrHJactgA
+#EXTINF:-1 tvg-id="TVP INFO" tvg-logo="http://goldvod.tv/uploads/1498583835349.png", TVP INFO SD
+rtmp://185.142.236.99/stream/1145?e=1521925850&st=OgXC3EL14OPW4l2PGG0T_Q
+#EXTINF:-1 tvg-id="TVP KULTURA" tvg-logo="http://goldvod.tv/uploads/1498600346500.png", TVP KULTURA SD
+rtmp://185.142.236.99/stream/1116?e=1521925850&st=WPf_jag54SKhKQ5ELa-kiw
+#EXTINF:-1 tvg-id="TVP ROZRYWKA" tvg-logo="http://goldvod.tv/uploads/1498600611442.png", TVP ROZRYWKA SD
+rtmp://185.142.236.99/stream/1114?e=1521925850&st=ORuJzLf6suc8E50841CUYQ
+#EXTINF:-1 tvg-id="TVP SPORT" tvg-logo="http://goldvod.tv/uploads/1498208459150.png", TVP SPORT HD
+rtmp://185.142.236.99/stream/2313?e=1521925850&st=Dlfx7nsxemnLlbsmhf3mAg
+#EXTINF:-1 tvg-id="TVP SPORT" tvg-logo="http://goldvod.tv/uploads/1498208459150.png", TVP SPORT SD
+rtmp://185.142.236.99/stream/2313L?e=1521925850&st=X7-_U5h5-28Ny0FIrX1yWg
+#EXTINF:-1 tvg-id="WATAHA SEZON 2" tvg-logo="http://goldvod.tv/uploads/1513335590177.png", WATAHA SEZON 2 SD
+rtmp://198.16.72.226/stream/0001?e=1521925850&st=oWB26goGqv8BQnQdNx-3BQ
+#EXTINF:-1 tvg-id="ZOOM TV" tvg-logo="http://goldvod.tv/assets/images/no_img_channel.png", ZOOM TV SD
+rtmp://198.255.36.90/stream/1111?e=1521925850&st=4ok0-ZoXIHF5O3Erc0bIhw

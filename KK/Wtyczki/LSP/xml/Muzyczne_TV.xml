@@ -118,6 +118,29 @@
                   <link>http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_3.m3u8</link>
                 </subitem>	
 			</subitems>	
+        </subchannel>
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Company TV[/B][/COLOR]</name>
+          <thumbnail>hhttp://okti.c0.pl/ico/Company.jpg</thumbnail>
+		  <info></info>
+            <subitems>
+                <subitem>
+                  <title>[COLOR lightyellow]HD[/COLOR]</title>
+				  <thumbnail>http://vector.me/files/images/1/1/11221/dream_tv.png</thumbnail>
+                  <link>http://wma10.fluidstream.net/CompanyTV/livestream/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8$$lsname=LINK 2</link>
+				  <link>rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p$$lsname=LINK 3</link>
+                </subitem>	
+
+				<subitem>
+                  <title>[COLOR lightyellow]360p[/COLOR]</title>
+				  <thumbnail>http://vector.me/files/images/1/1/11221/dream_tv.png</thumbnail>
+                  <link>http://wma10.fluidstream.net/CompanyTV/livestream_360p/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				  <link>http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_360p/playlist.m3u8$$lsname=LINK 2</link>
+				  <link>rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_360p$$lsname=LINK 3</link>
+                </subitem>
+			</subitems>	
         </subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
@@ -607,7 +630,7 @@
                   <link>http://fms.105.net:1935/live/rmc3/index.m3u8</link>
                 </subitem>
 			</subitems>	
-        </subchannel>							
+        </subchannel>		
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 	    <subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Radio Virgin TV[/B][/COLOR]</name>
@@ -815,14 +838,26 @@
                 <title>[COLOR lightyellow][B]Beatz[/B][/COLOR]</title>
                 <link>http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8</link>
                 <thumbnail>http://tv-tv.in/wp-content/uploads/2014/12/BEATZ-TV-live-streaming.gif</thumbnail>
-            </item>			
+            </item>	
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+		    <item>
+                <title>[COLOR lightyellow][B]Bridge TV[/B][/COLOR]</title>
+                <link>http://bl.webcaster.pro/media/playlist/free_9d6a8624a7702dddd15b6c4fbf272152_hd/65_91554723/576i_high/6b805dbede42bab6bbb6c3b829e4a31b/4639979456.m3u8</link>
+                <thumbnail>http://okti.c0.pl/ico/Bridge_TV.png</thumbnail>
+            </item>				
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 		    <item>
                 <title>[COLOR lightyellow][B]City TV[/B][/COLOR]</title>
                 <link>http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
 				<link>http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8$$lsname=LINK 2</link>
                 <thumbnail>http://okteve.com/wp-content/uploads/media/672b2f897a795bdb44fba862f0dfbea3-520x293.jpeg</thumbnail>
-            </item>				
+            </item>	
+<!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
+		    <item>
+                <title>[COLOR lightyellow][B]CMC HD[/B][/COLOR]</title>
+                <link>http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8</link>
+                <thumbnail>http://okti.c0.pl/ico/CMC.png</thumbnail>
+            </item>	
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 		    <item>
                 <title>[COLOR lightyellow][B]Deluxe Music[/B][/COLOR]</title>
@@ -936,7 +971,9 @@
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->
 		    <item>
                 <title>[COLOR lightyellow][B]Radio Number One TV[/B][/COLOR]</title>
-                <link>http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8</link>
+                <link>http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				<link>http://wma02.fluidstream.net/RN1TV/_definst_/mp4:livestream/playlist.m3u8$$lsname=LINK 2</link>
+				<link>rtmp://wma02.fluidstream.net/RN1TV/_definst_/mp4:livestream$$lsname=LINK 3</link>
                 <thumbnail>http://radioitalialive.com/sites/default/files/radio/logos/logo-radio-number-one.jpg</thumbnail>
             </item>	
 <!-----------------------------------------------------------------END--------------------------------------------------------------------------------------->

@@ -1,0 +1,661 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+  <channels_info> <!-- this is opitonal -->
+  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Filmy[/B] [/COLOR]</title> 
+  <thumbnail>http://bevouliin.com/wp-content/uploads/2014/02/video-television-tv-movie-logo-template-preview-bevouliin.jpg</thumbnail>
+  <fanart>http://www.moviesandmovies.com/wp-content/uploads/2016/08/movie-reels.jpeg</fanart>
+  </channels_info>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Nieprzerwana akcja - Wing Commander / Wing Commander 1999 [/B][/COLOR]</name>
+      <thumbnail>https://i.ytimg.com/vi/nFYAhN1shI0/movieposter.jpg</thumbnail>
+      <fanart>https://cdn.wcnews.com/newestshots/full/WCM_Ranks_LtJG_Blair.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+            <items>
+				<item>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/JWfG4jzRkOM</urlsolve>	
+				</item>
+				
+				<item>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/sj0_ashkXOY</urlsolve>	
+				</item>
+				
+			    <item>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/mobqnddmedcqnods</urlsolve>	
+				</item> 
+				
+				<item>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/bdlkpmlbdrrktoaq</urlsolve>	
+				</item> 
+				
+				<item>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  youtube.com[/B][/COLOR]</title>
+			      <thumbnail>http://static.wirtualnemedia.pl/media/top/ytlogo-main1.jpg</thumbnail>
+                  <urlsolve>https://www.youtube.com/embed/z8y_38LgHIw</urlsolve>	
+				</item>
+				
+				<item>
+                  <title>[COLOR green][B]540p[/B][/COLOR] [COLOR lightyellow][B]  cda.pl[/B][/COLOR]</title>
+			      <thumbnail>https://i.ytimg.com/vi/7qlQ-RRB1rQ/hqdefault.jpg</thumbnail>
+                  <urlsolve>http://ebd.cda.pl/673x493/9484329f</urlsolve>	
+				</item>
+				
+				<item>
+                  <title>[COLOR green][B]540p[/B][/COLOR] [COLOR lightyellow][B]  cda.pl[/B][/COLOR]</title>
+			      <thumbnail>https://i.ytimg.com/vi/7qlQ-RRB1rQ/hqdefault.jpg</thumbnail>
+                  <urlsolve>http://ebd.cda.pl/673x493/11714380f</urlsolve>	
+				</item>
+			</items>
+	</channel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Battlestar Galactica [/B][/COLOR]</name>
+      <thumbnail>https://vignette.wikia.nocookie.net/galactica/images/3/3f/Bsg-logo.jpg/revision/latest/scale-to-width-down/640?cb=20100602132440</thumbnail>
+      <fanart>http://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/splay/2016/06/battlestar-galactica-2.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Razor 2007 [/B][/COLOR]</name>
+          <thumbnail>http://1.fwcdn.pl/po/96/88/459688/7454868.6.jpg</thumbnail>
+          <fanart>https://images6.alphacoders.com/798/thumb-1920-798308.jpg</fanart>
+            <subitems>
+				<subitem>
+                  <title>[COLOR green][B]480p Napisy[/B][/COLOR] [COLOR lightyellow][B]  rapidvideo.com[/B][/COLOR]</title>
+			      <thumbnail>https://www.rapidvideo.com/images/rapidvideo.png</thumbnail>
+                  <urlsolve>http://www.rapidvideo.com/embed/FGAUWFU00E</urlsolve>	
+				</subitem>
+			</subitems>
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]The Plan 2009[/B][/COLOR]</name>
+          <thumbnail>http://1.fwcdn.pl/po/37/52/493752/7479445.6.jpg</thumbnail>
+          <fanart>http://film.org.pl/wp-content/uploads/2017/06/637745.jpg</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/WglSDMl5B9Y</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/qC2De2xY-Kk</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/IIE0RfpYEVo</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/vwrTXYONluk</urlsolve>	
+				</subitem>
+			</subitems>
+		</subchannel>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Krew i chrom 2012[/B][/COLOR]</name>
+          <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/BSG_Season_1_DVD.jpg</thumbnail>
+          <fanart>https://storiesbywilliams.files.wordpress.com/2013/01/blood_and_chrome_basestar1.png</fanart>
+            <subitems>
+                <subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/0HWlQcTMlEg</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/VCFRLwu-PJk</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/Mpggj_hHYI4</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/XWa-SF8lYKE</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  raptu.com[/B][/COLOR]</title>
+			      <thumbnail>http://www.raptsoftware.com/rapt.gif</thumbnail>
+                  <urlsolve>http://www.raptu.com/embed/dmC4WjeA</urlsolve>	
+				</subitem>
+			</subitems>
+		</subchannel>			
+	</channel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Gwiezdne wojny[/B][/COLOR]</name>
+      <thumbnail>https://pmcdeadline2.files.wordpress.com/2013/06/star-wars-logo__130325012712.jpg</thumbnail>
+      <fanart>http://www.kinopodbaranami.pl/images_lib/doc_7586_0.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Część I - Mroczne widmo / Star Wars: Episode I - The Phantom Menace 1999[/B][/COLOR]</name>
+          <thumbnail>https://img.moviefull-hd.com/images/2015/11/Watch-Star-Wars-Episode-I-The-Phantom-Menace-1999-Online.jpg</thumbnail>
+          <fanart>http://static1.1.sqspcdn.com/static/f/627490/26482877/1440359112657/starwars_episode2.jpg?token=fjpyZ%2BBYC19G3Gz2sS2EYYnLry0%3D</fanart>
+            <subitems>
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/Fr65A2oW8hU</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/Jq92vImn8mI</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD[/B][/COLOR] [COLOR lightyellow][B]  raptu.com[/B][/COLOR]</title>
+			      <thumbnail>http://www.raptsoftware.com/rapt.gif</thumbnail>
+                  <urlsolve>http://www.raptu.com/embed/vvnlRPHt</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD[/B][/COLOR] [COLOR lightyellow][B]  raptu.com[/B][/COLOR]</title>
+			      <thumbnail>http://www.raptsoftware.com/rapt.gif</thumbnail>
+                  <urlsolve>http://www.raptu.com/embed/7oyRB0ES</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD[/B][/COLOR] [COLOR lightyellow][B]  speedvid.net[/B][/COLOR]</title>
+			      <thumbnail>http://neo.speedvid.net/cdn/images/logo.png</thumbnail>
+                  <yt-dl>http://www.speedvid.net/cvxfzpdstb9h</yt-dl>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD[/B][/COLOR] [COLOR lightyellow][B]  speedvid.net[/B][/COLOR]</title>
+			      <thumbnail>http://neo.speedvid.net/cdn/images/logo.png</thumbnail>
+                  <yt-dl>http://www.speedvid.net/c3j2y1mwx7sx</yt-dl>	
+				</subitem>
+			</subitems>
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Część II - Atak klonów / Star Wars: Episode II - Attack of the Clones 2002[/B][/COLOR]</name>
+          <thumbnail>http://alltube.tv/static/normal/7zrn9ukzlxbk.jpg</thumbnail>
+          <fanart>http://www.wallpapers13.com/wp-content/uploads/2016/03/Star-Wars-Episode-2-Attack-of-the-Clones-widescreen-free-download-1920x1080.jpg</fanart>
+            <subitems>
+				<subitem>
+                  <title>[COLOR green][B]HD[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/341BBiQAQHo</urlsolve>	
+				</subitem>
+			</subitems>
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Część III - Zemsta Sithów / Star Wars: Episode III - Revenge of the Sith 2005[/B][/COLOR]</name>
+          <thumbnail>http://alltube.tv/static/normal/hukltwy2bekz.jpg</thumbnail>
+          <fanart>https://images3.alphacoders.com/674/674477.jpg</fanart>
+            <subitems>
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/fbH3Cu-P3Us</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD[/B][/COLOR] [COLOR lightyellow][B]  speedvid.net[/B][/COLOR]</title>
+			      <thumbnail>http://neo.speedvid.net/cdn/images/logo.png</thumbnail>
+                  <yt-dl>http://www.speedvid.net/2r38m8ddhlh2</yt-dl>	
+				</subitem>
+			</subitems>
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Część IV - Nowa nadzieja / Star Wars: Episode IV - New Hope 1977[/B][/COLOR]</name>
+          <thumbnail>http://alltube.tv/static/normal/09g6g5r8c9sb.jpg</thumbnail>
+          <fanart>https://images3.alphacoders.com/584/584823.jpg</fanart>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR green][B]FHD  [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/k3nLY6XQnhA</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]FHD  [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/5PwrGXECu9s</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/2v_HT4ESg-s</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/-tkJirEemfc</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/tXREw4Un2Nc</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/rroPXySkpz8</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/81lB_DCo_k8</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/QX0nN-dLFAY</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/ZpD34Oy8Vxc</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/76X7lyGK6-A</urlsolve>	
+				</subitem>
+				
+			    <subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/603ft63d698</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/gop_aAZga9o</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/MnC8EkoNBaw</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/msXizHDxyEc</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/6qUWyn5OjeE</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/qZB28kAwE6s</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/1iufUc8R3kY</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/xDuvGcGVLMs</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/GPNXVp0clzk</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/WPeDOY6uupo</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/4Om3aLQmT3U</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/BSsaqrW-GMw</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/i1V186ThUAg</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/1a0_7ZMDGqg</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/kdnNSCNsT9Q</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/glxD4RUtELU</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/wwTKwHVxtV8</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  rapidvideo.com[/B][/COLOR]</title>
+			      <thumbnail>https://www.rapidvideo.com/images/rapidvideo.png</thumbnail>
+                  <urlsolve>http://www.rapidvideo.com/embed/FF1KO9GDQQ</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  rapidvideo.com[/B][/COLOR]</title>
+			      <thumbnail>https://www.rapidvideo.com/images/rapidvideo.png</thumbnail>
+                  <urlsolve>http://www.rapidvideo.com/embed/FK1RPPA9NR</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net[/B][/COLOR]</title>
+			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
+                  <urlsolve>https://vidoza.net/embed-yxjr8por39lk.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  cda.pl[/B][/COLOR]</title>
+			      <thumbnail>https://i.ytimg.com/vi/7qlQ-RRB1rQ/hqdefault.jpg</thumbnail>
+                  <urlsolve>http://ebd.cda.pl/673x493/242285b9</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  cda.pl[/B][/COLOR]</title>
+			      <thumbnail>https://i.ytimg.com/vi/7qlQ-RRB1rQ/hqdefault.jpg</thumbnail>
+                  <urlsolve>http://ebd.cda.pl/673x493/55013484</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  cda.pl[/B][/COLOR]</title>
+			      <thumbnail>https://i.ytimg.com/vi/7qlQ-RRB1rQ/hqdefault.jpg</thumbnail>
+                  <urlsolve>http://ebd.cda.pl/673x493/227842e8</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  cda.pl[/B][/COLOR]</title>
+			      <thumbnail>https://i.ytimg.com/vi/7qlQ-RRB1rQ/hqdefault.jpg</thumbnail>
+                  <urlsolve>http://ebd.cda.pl/673x493/241235cf</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  cda.pl Część 1[/B][/COLOR]</title>
+			      <thumbnail>https://i.ytimg.com/vi/7qlQ-RRB1rQ/hqdefault.jpg</thumbnail>
+                  <urlsolve>http://ebd.cda.pl/673x493/10856337</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  cda.pl Część 2[/B][/COLOR]</title>
+			      <thumbnail>https://i.ytimg.com/vi/7qlQ-RRB1rQ/hqdefault.jpg</thumbnail>
+                  <urlsolve>http://ebd.cda.pl/673x493/108565b3</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/kbmfcdflprolpqbt</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>http://streamango.com/embed/lasqbpftnmdaebso</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>http://streamcherry.com/embed/kbmfcdflprolpqbt</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  raptu.com[/B][/COLOR]</title>
+			      <thumbnail>http://www.raptsoftware.com/rapt.gif</thumbnail>
+                  <urlsolve>http://www.raptu.com/embed/piKS5zrV</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  raptu.com[/B][/COLOR]</title>
+			      <thumbnail>http://www.raptsoftware.com/rapt.gif</thumbnail>
+                  <urlsolve>http://www.raptu.com/embed/dpxNDw7N</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]540p[/B][/COLOR] [COLOR lightyellow][B]  anyfiles.pl[/B][/COLOR]</title>
+			      <thumbnail>http://neo.speedvid.net/cdn/images/logo.png</thumbnail>
+                  <urlsolve>http://video.anyfiles.pl/w.jsp?width=653&amp;height=485&amp;id=160946</urlsolve>	
+				</subitem>
+			</subitems>
+		</subchannel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Część V - Imperium kontratakuje / Star Wars: Episode V - The Empire Strikes Back 1980[/B][/COLOR]</name>
+          <thumbnail>http://alltube.tv/static/normal/zfj3v73c7z36.jpg</thumbnail>
+          <fanart>https://images5.alphacoders.com/338/338858.png</fanart>
+            <subitems>
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/d7KDmolLoJA</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  rapidvideo.com[/B][/COLOR]</title>
+			      <thumbnail>https://www.rapidvideo.com/images/rapidvideo.png</thumbnail>
+                  <urlsolve>http://www.rapidvideo.com/embed/FG3WZOIILN</urlsolve>	
+				</subitem>
+			</subitems>
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Część VI - Powrót Jedi / Star Wars: Episode VI - Return of the Jedi 1983[/B][/COLOR]</name>
+          <thumbnail>http://alltube.tv/static/normal/kvy2wgtl11pj.jpg</thumbnail>
+          <fanart>https://i.ytimg.com/vi/O2F91Up9fT8/maxresdefault.jpg</fanart>
+            <subitems>
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/cRauyILuwTU</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  rapidvideo.com[/B][/COLOR]</title>
+			      <thumbnail>https://www.rapidvideo.com/images/rapidvideo.png</thumbnail>
+                  <urlsolve>http://www.rapidvideo.com/embed/FG2KEXCXM9</urlsolve>	
+				</subitem>
+			</subitems>
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Część VII - Przebudzenie Mocy / Star Wars: The Force Awakens 2015[/B][/COLOR]</name>
+          <thumbnail>http://alltube.tv/static/normal/h1s6qqq9eb09.jpg</thumbnail>
+          <fanart>https://c.slashgear.com/wp-content/uploads/2014/11/1080_falcon_tie.jpg</fanart>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/m9azQUnLjK8</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/KQ_6zweN1xY</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  streamango.com[/B][/COLOR]</title>
+			      <thumbnail>https://streamango.com/assets/img/feature-icon3.png</thumbnail>
+                  <urlsolve>https://streamango.com/embed/astndclkmlndrsol</urlsolve>	
+				</subitem>
+			
+				<subitem>
+                  <title>[COLOR green][B]540p[/B][/COLOR] [COLOR lightyellow][B]  fileone.tv[/B][/COLOR]</title>
+			      <thumbnail>https://www.tvfilmy.pl/img/nf.png</thumbnail>
+                  <yt-dl>http://fileone.tv/v/591513rs35p60</yt-dl>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]540p[/B][/COLOR] [COLOR lightyellow][B]  flashx.tv[/B][/COLOR]</title>
+			      <thumbnail>https://static.flashx.tv/images/logo.png</thumbnail>
+                  <urlsolve>https://www.flashx.tv/embed-3m3nmr94j32l.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  cda.pl[/B][/COLOR]</title>
+			      <thumbnail>https://i.ytimg.com/vi/7qlQ-RRB1rQ/hqdefault.jpg</thumbnail>
+                  <urlsolve>http://ebd.cda.pl/673x493/1773574cd</urlsolve>	
+				</subitem>
+			</subitems>
+		</subchannel>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Część VIII - Ostatni Jedi / Star Wars: The Last Jedi 2017[/B][/COLOR]</name>
+          <thumbnail>http://alltube.tv/static/normal/1ydhfkk28qx5.jpg</thumbnail>
+          <fanart>https://i1.wp.com/teaser-trailer.com/wp-content/uploads/Star-Wars-8-The-Last-Jedi.jpg?ssl=1</fanart>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/dm9SZQluiyI</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/Hl7RW6TIqHI</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/6XxfN5rPi0w</urlsolve>	
+				</subitem>
+			
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  rapidvideo.com[/B][/COLOR]</title>
+			      <thumbnail>https://www.rapidvideo.com/images/rapidvideo.png</thumbnail>
+                  <urlsolve>http://www.rapidvideo.com/embed/FISUNMFI55</urlsolve>	
+				</subitem>
+			</subitems>
+		</subchannel>								
+	</channel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+	<channel>
+      <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Gwiezdne wojny - Historie[/B][/COLOR]</name>
+      <thumbnail>http://moviesroom.pl/images/0.Aktualizacja_listopad/PiotrekS/lucasfilm-1000x600.jpg</thumbnail>
+      <fanart>http://polygamia.pl/wp-content/uploads/2016/12/rogue-one-a-star-wars-story.jpg</fanart>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <subchannel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Łotr 1 / Rogue One: A Star Wars Story 2016[/B][/COLOR]</name>
+          <thumbnail>http://1.fwcdn.pl/po/25/73/712573/7756329.6.jpg</thumbnail>
+          <fanart>https://images4.alphacoders.com/650/thumb-1920-650589.png</fanart>
+            <subitems>
+			    <subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>http://streamcherry.com/embed/teaffmqbqpebcqcs</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]HD   [/B][/COLOR] [COLOR lightyellow][B]  streamcherry.com[/B][/COLOR]</title>
+			      <thumbnail>http://streamcherry.com/assets/img/logo.png</thumbnail>
+                  <urlsolve>http://streamcherry.com/embed/amtfctckcepakdpq</urlsolve>	
+				</subitem>
+			
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/I-czLonLm_8</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/c8X7D5Qpbfs</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  openload.co[/B][/COLOR]</title>
+			      <thumbnail>https://openload.co/assets/img/logo.png</thumbnail>
+                  <urlsolve>https://openload.co/embed/_p0_lMZqmdk</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  vidoza.net[/B][/COLOR]</title>
+			      <thumbnail>https://netbusinessrating.com/inc/imghttps.php?url=aHR0cHM6Ly9uZXRidXNpbmVzc3JhdGluZy5jb20vaW1nL3VwbG9hZGVkL3RodW1iL3RodW1iXzQyMDk1X3ZpZG96YV8xNzA3MzAwODUyNTkucG5n</thumbnail>
+                  <urlsolve>https://vidoza.net/embed-y6bazlra4oh0.html</urlsolve>	
+				</subitem>
+				
+				<subitem>
+                  <title>[COLOR green][B]480p[/B][/COLOR] [COLOR lightyellow][B]  rapidvideo.com[/B][/COLOR]</title>
+			      <thumbnail>https://www.rapidvideo.com/images/rapidvideo.png</thumbnail>
+                  <urlsolve>http://www.rapidvideo.com/embed/FJ39LRY19V</urlsolve>	
+				</subitem>
+			</subitems>
+		</subchannel>	
+	</channel>	
+</channels>		  

@@ -1,0 +1,761 @@
+#EXTM3U
+
+ 
+#Stars TV
+ 
+#EXTINF:- radio="true" tvg-logo="Stars_TV.png" group-title="radio",Stars TV Audio
+http://starstv-live.e91-jw.insyscd.net/starstv.isml/QualityLevels(160000)/manifest(format=m3u8-aapl).m3u8
+ 
+#Stacje Radiowe
+
+#EXTINF:-1 radio="true" tvg-logo="20latrmffm.png" group-title="radio",20 Lat
+http://195.150.20.242:8011/rmf_20lat
+ 
+#EXTINF:-1 radio="true" tvg-logo="50s.png" group-title="radio",50 Style
+http://217.74.72.11:8011/50style_fm
+ 
+#EXTINF:-1 radio="true" tvg-logo="50s.png" group-title="radio",50'S
+http://195.150.20.6:8011/rmf_50s
+
+#EXTINF:-1 radio="true" tvg-logo="60s.png" group-title="radio",60'S
+http://31.192.216.4:8001/rmf_60s
+
+#EXTINF:-1 radio="true" tvg-logo="70s.png" group-title="radio",70'S
+http://195.150.20.5:8003/rmf_70s
+ 
+#EXTINF:-1 radio="true" tvg-logo="70sdisco.png" group-title="radio",70'S Disco
+http://217.74.72.10:8011/rmf_70s_disco
+ 
+#EXTINF:-1 radio="true" tvg-logo="80s.png" group-title="radio",80'S
+http://195.150.20.5:8003/rmf_80s
+ 
+#EXTINF:-1 radio="true" tvg-logo="80sdisco.png" group-title="radio",80'S Disco
+http://195.150.20.5:8003/rmf_80s_disco
+
+#EXTINF:-1 radio="true" tvg-logo="80italodisco.png" group-title="radio",80s & Italo Disco
+http://ps18.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="90s.png" group-title="radio",90'S
+http://217.74.72.10:8004/90S
+ 
+#EXTINF:-1 radio="true" tvg-logo="90sdance.png" group-title="radio",90'S Dance
+http://31.192.216.5:8003/rmf_90s
+
+#EXTINF:-1 radio="true" tvg-logo="90sdance.png" group-title="radio",90s Dance
+http://31.192.216.5:8003/rmf_90s_dance
+ 
+#EXTINF:-1 radio="true" tvg-logo="PlanetaFM-Above-Beyond.png" group-title="radio",Above and Beyond
+http://plaabo-01.cdn.eurozet.pl:8202
+
+#EXTINF:-1 radio="true" tvg-logo="PlanetaFM-Alternative.png" group-title="radio",Alternative
+http://plaalt-01.cdn.eurozet.pl:8210
+ 
+#EXTINF:-1 radio="true" tvg-logo="alternatywa.png" group-title="radio",Alternatywa
+http://195.150.20.244:8011/rmf_alternatywa
+ 
+#EXTINF:-1 radio="true" tvg-logo="Antyradio.png" group-title="radio",Antyradio
+http://dcs-188-64-85-37.atmcdn.pl/streams/o2/Eurozet/live/antyradio.livx
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Armin.png" group-title="radio",Armin Van Buuren
+http://s3.deb1.scdn.smcloud.net/t032-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="bajki.png" group-title="radio",Audiobook dla dzieci
+http://195.150.20.244:8011/audiobook
+ 
+#EXTINF:-1 radio="true" tvg-logo="baby.png" group-title="radio",Baby
+http://195.150.20.242:8011/rmf_baby
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Ballads.png" group-title="radio",Ballads
+http://s3.deb1.scdn.smcloud.net/t011-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="balladyrockowe.png" group-title="radio",Ballady Rockowe
+http://ps43.stream.polskastacja.pl/
+
+#EXTINF:-1 radio="true" tvg-logo="beatlemania.png" group-title="radio",Beatlemania
+http://195.150.20.6:8011/rmf_beatlemania
+ 
+#EXTINF:-1 radio="true" tvg-logo="bestofrmfon.png" group-title="radio",Best Of RMFON 
+http://31.192.216.5:8008/BESTOFRMFON
+
+#EXTINF:-1 radio="true" tvg-logo="pbiesiada.png" group-title="radio",Biesiada
+http://ps51.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="pbiesiadaslaska.png" group-title="radio",Biesiada Slaska
+http://ps56.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="BlueFM-103-Poznan.png" group-title="radio",Blue FM 103.4 - Pozna?
+http://mainstream.radioagora.pl/bluefm.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="pblues.png" group-title="radio",Blues
+http://ps36.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="blues.png" group-title="radio",Blues
+http://195.150.20.6:8011/rmf_blues
+ 
+#EXTINF:-1 radio="true" tvg-logo="pbollywood.png" group-title="radio",Bollywood
+http://ps59.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="pgirlsbandboysband.png" group-title="radio",Boysband And Girlsband
+http://ps60.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="bravo.png" group-title="radio",Bravo
+http://195.150.20.242:8011/rmf_bravo
+ 
+#EXTINF:-1 radio="true" tvg-logo="ccm.png" group-title="radio",CCM - Contemporary Christian
+http://ps52.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="celtic.png" group-title="radio",Celtic
+http://217.74.72.4:8001/rmf_celtic
+
+#EXTINF:-1 radio="true" tvg-logo="pchillout.png" group-title="radio",Chillout
+http://ps22.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="PlanetaFM-Chill-out.png" group-title="radio",Chillout
+http://plachi-01.cdn.eurozet.pl:8204
+ 
+#EXTINF:-1 radio="true" tvg-logo="chillout.png" group-title="radio",Chillout
+http://31.192.216.5:8003/rmf_chillout
+ 
+#EXTINF:-1 radio="true" tvg-logo="chopin.png" group-title="radio",Chopin
+http://195.150.20.6:8011/rmf_chopin
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Cinema.png" group-title="radio",Cinema
+http://s3.deb1.scdn.smcloud.net/t024-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="classic.png" group-title="radio",Classic
+http://31.192.216.6:8003/rmf_classic
+ 
+#EXTINF:-1 radio="true" tvg-logo="classicrock.png" group-title="radio",Classic Rock
+http://195.150.20.4:8011/rmf_classic_rock
+
+#EXTINF:-1 radio="true" tvg-logo="eskaclub.png" group-title="radio",Club
+http://s3.deb1.scdn.smcloud.net/t004-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="club.png" group-title="radio",Club
+http://217.74.72.4:8001/rmf_club
+ 
+#EXTINF:-1 radio="true" tvg-logo="clubbreaks.png" group-title="radio",Club Breaks
+http://195.150.20.243:8001/rmf_club_breaks
+ 
+#EXTINF:-1 radio="true" tvg-logo="clubhits.png" group-title="radio",Club Hits
+http://ps29.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="PlanetaFM-Clubbing.png" group-title="radio",Clubbing
+http://placlu-02.cdn.eurozet.pl:8222
+ 
+#EXTINF:-1 radio="true" tvg-logo="country.png" group-title="radio",Country
+http://ps24.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="cuba.png" group-title="radio",Cuba
+http://195.150.20.5:8003/rmf_cuba
+ 
+#EXTINF:-1 radio="true" tvg-logo="Czworka_Polskie_Radio.png" group-title="radio",Czworka
+http://stream.polskieradio.pl:80/program4
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Dance.png" group-title="radio",Dance
+http://s3.deb1.scdn.smcloud.net/t012-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="dance.png" group-title="radio",Dance
+http://195.150.20.6:8011/rmf_dance
+ 
+#EXTINF:-1 radio="true" tvg-logo="dance100_2.png" group-title="radio",Dance 100
+http://ps77.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="dancehall.png" group-title="radio",Dancehall
+http://ps61.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="depechemode.png" group-title="radio",Depeche Mode
+http://195.150.20.6:8011/rmf_depeche_mode
+ 
+#EXTINF:-1 radio="true" tvg-logo="grupa.png" group-title="radio",Disco
+http://195.150.20.4:8011/rmf_disco
+ 
+#EXTINF:-1 radio="true" tvg-logo="pdiscopoloradio.png" group-title="radio",Disco Polo Radio
+http://ps14.stream.polskastacja.pl/
+
+#EXTINF:-1 radio="true" tvg-logo="djtop50_okok.png" group-title="radio",DJ Top 50
+http://ps25.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="drum_bass.png" group-title="radio",Drum And Bass
+http://ps49.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="PlanetaFM-Dubstep.png" group-title="radio",Dubstep
+http://pladub-01.cdn.eurozet.pl:8224
+ 
+#EXTINF:-1 radio="true" tvg-logo="dubstep2.png" group-title="radio",Dubstep
+http://ps85.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="Dwojka_Polskie_Radio.png" group-title="radio",Dwojka
+http://stream.polskieradio.pl:80/program2
+ 
+#EXTINF:-1 radio="true" tvg-logo="pdzieciom.png" group-title="radio",Dzieciom
+http://ps17.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="20.png" group-title="radio",EDEN (New Age & World Music)
+http://ps20.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="electro.png" group-title="radio",Electro
+http://ps76.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="electrohouse.png" group-title="radio",Electro-House
+http://ps41.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="elo.png" group-title="radio",Elo RMF
+http://195.150.20.6:8011/rmf_elo
+ 
+#EXTINF:-1 radio="true" tvg-logo="eradisco.png" group-title="radio",Era Disco
+http://ps33.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_One_Direction.png" group-title="radio",Eska One Direction
+http://s3.deb1.scdn.smcloud.net/t098-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="etnopop.png" group-title="radio",Etno POP
+http://ps34.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="peurowizja.png" group-title="radio",Eurowizja
+http://ps45.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="pfashion.png" group-title="radio",Fashion
+http://ps65.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="fitness2.png" group-title="radio",Fitness
+http://ps86.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="fitness.png" group-title="radio",Fitness
+http://217.74.72.11:8011/rmf_fitness
+ 
+#EXTINF:-1 radio="true" tvg-logo="fitnessrock.png" group-title="radio",Fitness Rock
+http://195.150.20.6:8004/FITNESSROCK
+ 
+#EXTINF:-1 radio="true" tvg-logo="folk.png" group-title="radio",Folk
+http://ps9.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="francais.png" group-title="radio",Francais
+http://31.192.216.6:8003/rmf_francais
+
+#EXTINF:-1 radio="true" tvg-logo="funkyhouse.png" group-title="radio",Funky House
+http://ps66.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Global_Lista.png" group-title="radio",Global Lista
+http://s3.deb1.scdn.smcloud.net/t016-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="gold.png" group-title="radio",Gold
+http://217.74.72.4:8001/rmf_gold
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Goraca_100.png" group-title="radio",Gor?ca 100
+http://s3.deb1.scdn.smcloud.net/t039-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Goraca_20.png" group-title="radio",Gor?ca 20
+http://s3.deb1.scdn.smcloud.net/t019-1.aac
+ 
+#EXTINF:-1 radio="true" tvg-logo="gothic.png" group-title="radio",Gothic
+http://ps78.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="groove.png" group-title="radio",Groove
+http://195.150.20.243:8001/rmf_grunge
+ 
+#EXTINF:-1 radio="true" tvg-logo="grunge.png" group-title="radio",Grunge
+http://195.150.20.243:8001/rmf_grunge
+ 
+#EXTINF:-1 radio="true" tvg-logo="hardstyle.png" group-title="radio",Hard Style
+http://ps50.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="HardHeavy.png" group-title="radio",Hard&Heavy
+http://31.192.216.5:8003/rmf_hard_heavy
+ 
+#EXTINF:-1 radio="true" tvg-logo="phiphop.png" group-title="radio",Hip Hop
+http://ps13.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="hiphop.png" group-title="radio",Hip Hop
+http://195.150.20.6:8011/rmf_hip_hop
+
+#EXTINF:-1 radio="true" tvg-logo="Eska_Hity.png" group-title="radio",Hity Nie Tylko Na Czasie
+http://s3.deb1.scdn.smcloud.net/t014-1.aac
+ 
+#EXTINF:-1 radio="true" tvg-logo="oldshool.png" group-title="radio",Hop B?c Old School
+http://31.192.216.6:84/HOPBECOLDSCHOOL
+ 
+#EXTINF:-1 radio="true" tvg-logo="hot100.png" group-title="radio",Hot 100
+http://ps40.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="hothouse.png" group-title="radio",Hot House
+http://ps28.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="hotnew.png" group-title="radio",Hot New
+http://195.150.20.244:8011/rmf_hot_new
+ 
+#EXTINF:-1 radio="true" tvg-logo="PlanetaFM-House.png" group-title="radio",House
+http://plahou-01.cdn.eurozet.pl:8208
+ 
+#EXTINF:-1 radio="true" tvg-logo="house_dance.png" group-title="radio",House & Dance
+http://ps15.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="houseprogressive.png" group-title="radio",House Progressive
+http://ps67.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="PlanetaFM-Progressive-House.png" group-title="radio",House Progressive
+http://plapro-02.cdn.eurozet.pl:8214
+ 
+#EXTINF:-1 radio="true" tvg-logo="ibizahits.png" group-title="radio",Ibiza Hits
+http://ps68.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="indierock.png" group-title="radio",Indie Rock
+http://ps74.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="pitalia.png" group-title="radio",Italia
+http://ps31.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="pjazz.png" group-title="radio",Jazz
+http://ps8.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="Jedynka_Polskie_Radio.png" group-title="radio",Jedynka
+http://stream.polskieradio.pl:80/program1
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Justin.png" group-title="radio",Justin Bieber
+http://s3.deb1.scdn.smcloud.net/t099-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="karnawal.png" group-title="radio",Karnawa?
+http://31.192.216.5:8003/rmf_karnawal
+ 
+#EXTINF:-1 radio="true" tvg-logo="Katolickie_Radio_Zamosc.png" group-title="radio",Katolickie Radio 90.1 - Zamo?? 
+http://posluchaj.krz.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="10.png" group-title="radio",Klasycznie
+http://ps10.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="klasykamuzykielektronicznej.png" group-title="radio",Klasyka Muzyki Elektronicznej
+http://ps30.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="koledy.png" group-title="radio",Kol?dy
+http://195.150.20.244:82/KOLEDY
+ 
+#EXTINF:-1 radio="true" tvg-logo="KRK_FM.png" group-title="radio",KRK FM 102.4 - Kraków
+http://stream4.nadaje.com:11770/test
+ 
+#EXTINF:-1 radio="true" tvg-logo="ladypank.png" group-title="radio",Lady Pank
+http://31.192.216.5:8003/rmf_lady_pank
+ 
+#EXTINF:-1 radio="true" tvg-logo="platino.png" group-title="radio",Latino
+http://ps19.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="latino.png" group-title="radio",Latino
+http://31.192.216.5:8003/rmf_latino
+ 
+#EXTINF:-1 radio="true" tvg-logo="lounge.png" group-title="radio",Lounge
+http://ps69.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Love.png" group-title="radio",Love
+http://s3.deb1.scdn.smcloud.net/t038-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="love.png" group-title="radio",Love
+http://31.192.216.4:8001/rmf_love
+ 
+#EXTINF:-1 radio="true" tvg-logo="Made-In-Poland.png" group-title="radio",Made In Poland
+http://plamad-02.cdn.eurozet.pl:8220
+ 
+#EXTINF:-1 radio="true" tvg-logo="RMF_Maxxx.png" group-title="radio",Maxxx
+http://195.150.20.242:8011/rmf_maxxx
+ 
+#EXTINF:-1 radio="true" tvg-logo="hopbec.png" group-title="radio",Maxxx Hop B?c
+http://195.150.20.5:8003/rmf_hop_bec
+ 
+#EXTINF:-1 radio="true" tvg-logo="RMF_Maxxx.png" group-title="radio",Maxxx Pozna?
+http://195.150.20.4:8011/rmf_maxxx_poz
+ 
+#EXTINF:-1 radio="true" tvg-logo="RMF_Maxxx.png" group-title="radio",Maxxx Wstawaj Nie Udawaj
+http://195.150.20.242:8011/rmf_maxxx_wstawaj_nie_udawaj
+ 
+#EXTINF:-1 radio="true" tvg-logo="MCRadio.png" group-title="radio",MC Radio 102.7 - Pozna?
+http://poznan5-3.radio.pionier.net.pl:8000/mcradio.ogg
+ 
+#EXTINF:-1 radio="true" tvg-logo="mj.png" group-title="radio",Michael Jackson
+http://195.150.20.4:8011/rmf_Michael_Jackson
+ 
+#EXTINF:-1 radio="true" tvg-logo="m_brzm_rocka.png" group-title="radio",Mocne Brzmienie Rocka
+http://ps32.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="modernrock.png" group-title="radio",Modern Rock
+http://ps23.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="Muzyczne_Radio.png" group-title="radio",Muzyczne Radio
+http://stream.muzyczneradio.pl:9400
+ 
+#EXTINF:-1 radio="true" tvg-logo="muzykafilmowa.png" group-title="radio",Muzyka Filmowa
+http://ps12.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="filmowa.png" group-title="radio",Muzyka Filmowa
+http://195.150.20.244:8011/rmf_muzyka_filmowa
+ 
+#EXTINF:-1 radio="true" tvg-logo="muzykafrancuska.png" group-title="radio",Muzyka Francuska
+http://ps38.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="klasyczna.png" group-title="radio",Muzyka Klasyczna
+http://217.74.72.11:8011/rmf_muzyka_klasyczna
+ 
+#EXTINF:-1 radio="true" tvg-logo="muzykaludowa.png" group-title="radio",Muzyka Ludowa
+http://ps62.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="natopie.png" group-title="radio",Muzyka Na Topie
+http://ps4.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="Muzyka_niemiecka.png" group-title="radio",Muzyka Niemiecka
+http://ps83.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="Muzyka_zydowska2.png" group-title="radio",Muzyka ?ydowska
+http://ps81.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="6070.png" group-title="radio",Najwieksze Przeboje Lat 60/70
+http://ps16.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="Najwieksze_Przeboje_80_90.png" group-title="radio",Najwieksze Przeboje Lat 80/90
+http://ps3.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="npp.png" group-title="radio",Najwi?ksze Polskie Przeboje
+http://195.150.20.6:8011/npp_rmf_on
+ 
+#EXTINF:-1 radio="true" tvg-logo="nastolatka2.png" group-title="radio",Nastolatka
+http://ps84.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="new_romantic.png" group-title="radio",New Romantic
+http://ps80.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Nicky.png" group-title="radio",Nicky Romero
+http://s3.deb1.scdn.smcloud.net/t022-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="niezapomnianemelodie.png" group-title="radio",Niezapomniane Melodie  
+http://217.74.72.11:8011/rmf_niezapomniane_melodie
+ 
+#EXTINF:-1 radio="true" tvg-logo="nostalgia.png" group-title="radio",Nostalgia
+http://31.192.216.6:8003/rmf_nostalgia
+ 
+#EXTINF:-1 radio="true" tvg-logo="PlanetaFM-Oldschool.png" group-title="radio",Oldschol
+http://plaold-02.cdn.eurozet.pl:8212
+ 
+#EXTINF:-1 radio="true" tvg-logo="pparty.png" group-title="radio",Party
+http://ps6.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Party.png" group-title="radio",Party
+http://s3.deb1.scdn.smcloud.net/t005-1.aac
+ 
+#EXTINF:-1 radio="true" tvg-logo="party.png" group-title="radio",Party
+http://195.150.20.243:8001/rmf_party
+ 
+#EXTINF:-1 radio="true" tvg-logo="literacka.png" group-title="radio",Piosenka Literacka 
+http://195.150.20.242:8011/rmf_piosenka_literacka
+ 
+#EXTINF:-1 radio="true" tvg-logo="piosenkizfilmow.png" group-title="radio",Piosenki z Filmów
+http://ps46.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="poezjaspiewana.png" group-title="radio",Poezja Spiewana i nie tylko ...
+http://ps47.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="muzykachrzescijanska.png" group-title="radio",Polska Muzyka Chrzescijanska
+http://ps48.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="polskascenaalternatywna.png" group-title="radio",Polska Scena Alternatywna
+http://ps71.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="ppolskihiphop.png" group-title="radio",Polski Hip Hop
+http://ps42.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="polskihiphop.png" group-title="radio",Polski Hip Hop
+http://217.74.72.10:8011/rmf_ziom
+ 
+#EXTINF:-1 radio="true" tvg-logo="polskiepowerdance.png" group-title="radio",Polski Power Dance
+http://ps58.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="polskirock.png" group-title="radio",Polski Rock
+http://195.150.20.5:8003/rmf_polski_rock
+ 
+#EXTINF:-1 radio="true" tvg-logo="polskiedisco.png" group-title="radio",Polskie Disco
+http://217.74.72.10:8011/rmf_polskie_disco
+ 
+#EXTINF:-1 radio="true" tvg-logo="niezapomnianepolskieprzeboje.png" group-title="radio",Polskie Niezapomniane Przeboje
+http://ps2.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="polskieprzeboje.png" group-title="radio",Polskie Przeboje
+http://195.150.20.6:8011/rmf_polskie_przeboje
+ 
+#EXTINF:-1 radio="true" tvg-logo="ppolskiereggae.png" group-title="radio",Polskie Reggae
+http://ps57.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="poplista.png" group-title="radio",Poplista
+http://31.192.216.6:8003/rmf_poplista
+ 
+#EXTINF:-1 radio="true" tvg-logo="poplista10lat.png" group-title="radio",Poplista 10 Lat
+http://217.74.72.4:8001/rmf_10_lat_poplisty
+ 
+#EXTINF:-1 radio="true" tvg-logo="premiery.png" group-title="radio",Premiery i Nowosci Muzyczne
+http://ps73.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="prl.png" group-title="radio",PRL
+http://195.150.20.243:8001/rmf_prl
+ 
+#EXTINF:-1 radio="true" tvg-logo="przebojenalato.png" group-title="radio",Przeboje Na Lato
+http://ps75.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="przebojewedwoje.png" group-title="radio",Przeboje We Dwoje
+http://ps11.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="przebojlata.png" group-title="radio",Przebój Lata
+http://195.150.20.6:8011/rmf_przeboj_lata
+ 
+#EXTINF:-1 radio="true" tvg-logo="ppunk.png" group-title="radio",Punk
+http://ps72.stream.polskastacja.pl/ 
+
+#EXTINF:-1 radio="true" tvg-logo="queen.png" group-title="radio",Queen
+http://31.192.216.6:8003/rmf_queen
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_RNB.png" group-title="radio",R'N'B
+http://s3.deb1.scdn.smcloud.net/t003-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="PlanetaFM-Pop-r-n-b.png" group-title="radio",r'n'b/pop
+http://plarnb-02.cdn.eurozet.pl:8216
+ 
+#EXTINF:-1 radio="true" tvg-logo="rnb.png" group-title="radio",R&B
+http://195.150.20.242:8011/rmf_rnb
+ 
+#EXTINF:-1 radio="true" tvg-logo="Radio_Afera.png" group-title="radio",Radio Afera 98.6 - Pozna?
+http://radio.afera.com.pl/afera128.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="Radio_Alex.png" group-title="radio",Radio Alex 105.2 - Zakopane
+http://radioalex.watra.pl:8005/
+ 
+#EXTINF:-1 radio="true" tvg-logo="Radio_Centrum.png" group-title="radio",Radio Centrum - 98.2 - Lublin
+http://5.201.13.191/live
+ 
+#EXTINF:-1 radio="true" tvg-logo="Radio_ER.png" group-title="radio",Radio ER - 97.9 - Lublin
+http://stream.radioer.pl:8000/Radio_eR
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska.png" group-title="radio",Radio ESKA
+http://s3.deb1.scdn.smcloud.net/t042-1.aac
+ 
+#EXTINF:-1 radio="true" tvg-logo="Radio_Lublin.png" group-title="radio",Radio Lublin
+http://94.230.19.202:8000/64k
+ 
+#EXTINF:-1 radio="true" tvg-logo="Radio_Maryja.png" group-title="radio",Radio Maryja
+rtmp://94.42.167.5:1935/live/rm.sdp
+ 
+#EXTINF:-1 radio="true" tvg-logo="Radio-PiK.png" group-title="radio",Radio PiK - Bydgoszcz
+http://stream.radiopik.pl:9004
+ 
+#EXTINF:-1 radio="true" tvg-logo="Radio_Rodzina.png" group-title="radio",Radio Rodzina
+http://156.17.54.5:8000/128.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="logo_zet.png" group-title="radio",Radio ZET
+http://radiozetmp3-07.eurozet.pl:8400
+ 
+#EXTINF:-1 radio="true" tvg-logo="radiofonia.png" group-title="radio",Radiofonia
+http://195.150.20.5:8003/radiofonia
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Rap.png" group-title="radio",Rap
+http://s3.deb1.scdn.smcloud.net/t002-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="reggae.png" group-title="radio",Reggae
+http://195.150.20.244:8011/rmf_reggae
+ 
+#EXTINF:-1 radio="true" tvg-logo="relaks.png" group-title="radio",Relaks
+http://31.192.216.4:8001/rmf_relaks
+ 
+#EXTINF:-1 radio="true" tvg-logo="rmf2.png" group-title="radio",RMF 2
+http://217.74.72.11:8011/rmf_2
+ 
+#EXTINF:-1 radio="true" tvg-logo="2000.png" group-title="radio",RMF 2000
+http://195.150.20.5:8003/rmf_2000
+ 
+#EXTINF:-1 radio="true" tvg-logo="2010.png" group-title="radio",RMF 2010
+http://195.150.20.243:8001/rmf_2010
+ 
+#EXTINF:-1 radio="true" tvg-logo="rmf3.png" group-title="radio",RMF 3
+http://195.150.20.4:8011/rmf_3
+ 
+#EXTINF:-1 radio="true" tvg-logo="rmf4.png" group-title="radio",RMF 4
+http://31.192.216.6:8003/rmf_4
+ 
+#EXTINF:-1 radio="true" tvg-logo="rmf5.png" group-title="radio",RMF 5
+http://217.74.72.4:8001/rmf_5
+ 
+#EXTINF:-1 radio="true" tvg-logo="rmf.png" group-title="radio",RMF FM
+http://195.150.20.5:87/RMFFM48
+ 
+#EXTINF:-1 radio="true" tvg-logo="fmf.png" group-title="radio",RMF FMF
+http://217.74.72.10:87/FMF
+ 
+#EXTINF:-1 radio="true" tvg-logo="prnb.png" group-title="radio",RnB
+http://ps39.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Rock.png" group-title="radio",Rock
+http://s3.deb1.scdn.smcloud.net/t041-1.aac
+ 
+#EXTINF:-1 radio="true" tvg-logo="rock.png" group-title="radio",Rock
+http://195.150.20.242:8011/rmf_rock
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Rock_Polska.png" group-title="radio",Rock Polska
+http://s3.deb1.scdn.smcloud.net/t008-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="rockprog.png" group-title="radio",Rock Progresywny
+http://31.192.216.6:8003/rmf_rock_progresywny
+ 
+#EXTINF:-1 radio="true" tvg-logo="sade.png" group-title="radio",Sade
+http://217.74.72.10:8011/rmf_sloneczne_przeboje
+ 
+#EXTINF:-1 radio="true" tvg-logo="Sizeer.png" group-title="radio",Sizeer Fm
+http://217.74.72.10:8011/sizeer_fm
+ 
+#EXTINF:-1 radio="true" tvg-logo="sloneczneprzeboje.png" group-title="radio",S?oneczne Przeboje
+http://217.74.72.10:8011/rmf_sloneczne_przeboje
+
+#EXTINF:-1 radio="true" tvg-logo="psmoothjazz.png" group-title="radio",Smooth Jazz
+http://ps37.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="smoothjazz.png" group-title="radio",Smooth Jazz
+http://31.192.216.4:8001/rmf_smooth_jazz
+ 
+#EXTINF:-1 radio="true" tvg-logo="soul.png" group-title="radio",Soul
+http://ps44.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="polskastacja_sport.png" group-title="radio",Sport
+http://ps82.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="styl.png" group-title="radio",Styl
+http://217.74.72.10:8011/rmf_styl
+ 
+#EXTINF:-1 radio="true" tvg-logo="eskasummercity.png" group-title="radio",Summer City
+http://s3.deb1.scdn.smcloud.net/t010-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="superprzeboje.png" group-title="radio",Super Przeboje
+http://ps79.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="symbiosis.png" group-title="radio",Symbiosis...sound
+http://195.150.20.5:8003/symbiosis_fm
+ 
+#EXTINF:-1 radio="true" tvg-logo="pszanty.png" group-title="radio",Szanty
+http://ps35.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="szanty.png" group-title="radio",Szanty
+http://195.150.20.244:8011/rmf_szanty
+ 
+#EXTINF:-1 radio="true" tvg-logo="swieta.png" group-title="radio",?wi?ta
+http://195.150.20.4:8011/rmf_swieta
+ 
+#EXTINF:-1 radio="true" tvg-logo="teksciory.png" group-title="radio",Teksciory
+http://195.150.20.243:8001/rmf_teksciory
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Teksty_FM.png" group-title="radio",Teksty FM
+http://s3.deb1.scdn.smcloud.net/t026-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Tiesto.png" group-title="radio",Tiesto
+http://s3.deb1.scdn.smcloud.net/t023-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="top5dance.png" group-title="radio",Top 30 Dance
+http://195.150.20.6:8011/rmf_top_5_dance
+ 
+#EXTINF:-1 radio="true" tvg-logo="top5rnb.png" group-title="radio",Top 30 Disco Polo
+http://31.192.216.5:8003/rmf_top_5_rnb
+ 
+#EXTINF:-1 radio="true" tvg-logo="top5pl.png" group-title="radio",Top 30 PL
+http://195.150.20.242:8011/rmf_top_5_pl
+ 
+#EXTINF:-1 radio="true" tvg-logo="top5pop.png" group-title="radio",Top 30 POP
+http://195.150.20.243:8001/rmf_top_5_pop
+ 
+#EXTINF:-1 radio="true" tvg-logo="top5rock.png" group-title="radio",Top 30 Rock
+http://31.192.216.4:8001/rmf_top_5_rock
+ 
+#EXTINF:-1 radio="true" tvg-logo="PlanetaFM-Trance.png" group-title="radio",Trance
+http://platra-01.cdn.eurozet.pl:8218
+ 
+#EXTINF:-1 radio="true" tvg-logo="trancevocal.png" group-title="radio",Trance Vocal
+http://ps70.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="trax.png" group-title="radio",TRAX (techno i trance)
+http://ps7.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="trendsounds.png" group-title="radio",Trend Sounds
+http://195.150.20.243:8001/rmf_trend_sounds
+ 
+#EXTINF:-1 radio="true" tvg-logo="Trojka_Polskie_Radio.png" group-title="radio",Trojka
+http://stream.polskieradio.pl:80/program3
+ 
+#EXTINF:-1 radio="true" tvg-logo="tylkopolskieprzeboje.png" group-title="radio",Tylko Polskie Przeboje
+http://ps1.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="tylkorock.png" group-title="radio",Tylko Rock
+http://ps5.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Ultra_Music.png" group-title="radio",Ultra Music
+http://s3.deb1.scdn.smcloud.net/t029-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="wpracy.png" group-title="radio",W Pracy
+http://217.74.72.4:8001/rmf_w_pracy
+ 
+#EXTINF:-1 radio="true" tvg-logo="pwrytmiereggae.png" group-title="radio",W rytmie Reggae
+http://ps21.stream.polskastacja.pl/
+ 
+#EXTINF:-1 radio="true" tvg-logo="worldmusic.png" group-title="radio",World Music
+http://217.74.72.10:8011/rmf_world_music
+ 
+#EXTINF:-1 radio="true" tvg-logo="Eska_Young_Stars.png" group-title="radio",Young Stars
+http://s3.deb1.scdn.smcloud.net/t025-1.mp3
+ 
+#EXTINF:-1 radio="true" tvg-logo="zet2000.png" group-title="radio",ZET 2000
+http://zet200-02.cdn.eurozet.pl:8406
+ 
+#EXTINF:-1 radio="true" tvg-logo="zet90.png" group-title="radio",ZET 90
+http://zet090-02.cdn.eurozet.pl:8404
+ 
+#EXTINF:-1 radio="true" tvg-logo="logo-zet-chilli.png" group-title="radio",ZET Chilli
+http://chillizetmp3-01.eurozet.pl:8400
+ 
+ 
+ 
+#EXTINF:-1 radio="true" tvg-logo="zetdance.png" group-title="radio",ZET Dance
+http://zetdan-02.cdn.eurozet.pl:8416
+ 
+#EXTINF:-1 radio="true" tvg-logo="zetdobiegania.png" group-title="radio",ZET Do Biegania
+http://zetrun-02.cdn.eurozet.pl:8452
+ 
+#EXTINF:-1 radio="true" tvg-logo="ZET-Film.png" group-title="radio",ZET Film
+http://zetfil-01.cdn.eurozet.pl:8418
+ 
+#EXTINF:-1 radio="true" tvg-logo="zet_gold.png" group-title="radio",ZET Gold
+http://zgl080-01.cdn.eurozet.pl:8502
+ 
+#EXTINF:-1 radio="true" tvg-logo="zetgold80.png" group-title="radio",ZET Gold 80
+http://redir.atmcdn.pl/liveflv/o2/Eurozet/live/zetgold.livx
+ 
+#EXTINF:-1 radio="true" tvg-logo="zetgrechuta.png" group-title="radio",ZET Grechuta
+http://zetgre-02.cdn.eurozet.pl:8426
+ 
+#EXTINF:-1 radio="true" tvg-logo="zethits.png" group-title="radio",ZET Hits
+http://zethit-02.cdn.eurozet.pl:8428
+ 
+#EXTINF:-1 radio="true" tvg-logo="zethot.png" group-title="radio",ZET Hot
+http://zethot-02.cdn.eurozet.pl:8430
+ 
+#EXTINF:-1 radio="true" tvg-logo="zetklasykapop.png" group-title="radio",ZET Klasyka Pop
+http://zetgol-02.cdn.eurozet.pl:8424
+ 
+#EXTINF:-1 radio="true" tvg-logo="zetklasykarock.png" group-title="radio",ZET Klasyka Rock
+http://zetcrk-02.cdn.eurozet.pl:8414
+ 
+#EXTINF:-1 radio="true" tvg-logo="zetlove.png" group-title="radio",ZET Love
+http://zetlov-02.cdn.eurozet.pl:8440
+ 
+#EXTINF:-1 radio="true" tvg-logo="zetosiecka.png" group-title="radio",ZET Osiecka
+http://zetosi-02.cdn.eurozet.pl:8442
+ 
+#EXTINF:-1 radio="true" tvg-logo="zetparty.png" group-title="radio",ZET Party
+http://zetpar-02.cdn.eurozet.pl:8444
+ 
+#EXTINF:-1 radio="true" tvg-logo="zetpl.png" group-title="radio",ZET PL
+http://zetpl1-02.cdn.eurozet.pl:8446
+ 
+#EXTINF:-1 radio="true" tvg-logo="zetrock.png" group-title="radio",ZET Rock
+http://zetrok-02.cdn.eurozet.pl:8448
+ 
+ 
+#EXTINF:-1 radio="true" tvg-logo="zetsupergold.png" group-title="radio",ZET Super Gold
+http://zetspg-02.cdn.eurozet.pl:8460
+ 
+#EXT-X-ENDLIST

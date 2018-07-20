@@ -2417,6 +2417,12 @@
                 <thumbnail>http://www.a1-sys.com/wp-content/uploads/2015/05/a1_logo3.png</thumbnail>
             </item>
 			
+			<item>
+                <title>[COLOR lightyellow]Boets[/COLOR]</title>
+                <link>http://serv24.vintera.tv:8081/sport/boets1e/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE4IDM6MzQ6MTQgUE0maGFzaF92YWx1ZT1NWVdoaEZnRmhQelVBVXMzYXF1TEhnPT0mdmFsaWRtaW51dGVzPTQ4MA==</link>
+                <thumbnail>http://img.vintera.tv/img/ico/boectv.png</thumbnail>
+            </item>
+			
 		    <item>
                 <title>[COLOR lightyellow]BURSASPORT TV[/COLOR]</title>
                 <link>http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8</link>
@@ -2454,6 +2460,101 @@
             </item> 
 		</items>	
 	</channel>
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
+        <channel>
+          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Telekom TV[/B][/COLOR]</name>
+          <thumbnail>https://www.digitaltveurope.com/files/2014/07/Crnogorski-Telekom.png</thumbnail>		
+<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>		  <items>
+            <item>
+                <title>[COLOR lightyellow]Eurosport 1[/COLOR]</title>
+                <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport/6.m3u8/Level(545259)?start=LIVE&amp;end=END</link>
+                <thumbnail>http://apps.telekomtv.ro/RTEFacade_RIGHTV/images/data/logos/channels_144x65/Eurosport-1.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow]Eurosport 2[/COLOR]</title>
+                <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport2/6.m3u8/Level(545259)?start=LIVE&amp;end=END</link>
+                <thumbnail>http://apps.telekomtv.ro/RTEFacade_RIGHTV/images/data/logos/channels_144x65/Eurosport-2.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow]Eurosport 360 1[/COLOR]</title>
+                <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport3601/6.m3u8/Level(545259)?start=LIVE&amp;end=END</link>
+                <thumbnail>http://apps.telekomtv.ro/RTEFacade_RIGHTV/images/data/logos/channels_144x65/Eurosport-360.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow]Eurosport 360 2[/COLOR]</title>
+                <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport3602/6.m3u8/Level(545259)?start=LIVE&amp;end=END</link>
+                <thumbnail>http://apps.telekomtv.ro/RTEFacade_RIGHTV/images/data/logos/channels_144x65/Eurosport-360.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow]Eurosport 360 3[/COLOR]</title>
+                <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport3603/6.m3u8/Level(545259)?start=LIVE&amp;end=END</link>
+                <thumbnail>http://apps.telekomtv.ro/RTEFacade_RIGHTV/images/data/logos/channels_144x65/Eurosport-360.png</thumbnail>
+            </item>
+			
+			<item>
+                <title>[COLOR lightyellow]Eurosport 360 4[/COLOR]</title>
+                <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport3604/6.m3u8/Level(545259)?start=LIVE&amp;end=END</link>
+                <thumbnail>http://apps.telekomtv.ro/RTEFacade_RIGHTV/images/data/logos/channels_144x65/Eurosport-360.png</thumbnail>
+            </item>
+
+		    <item>
+                <title>[COLOR lightyellow]Telekom Sport 1[/COLOR]</title>
+                <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport/6.m3u8/Level(545259)?start=LIVE&amp;end=END$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				<link>http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSportHD/6.m3u8/Level(545259)?start=LIVE&amp;end=END$$lsname=LINK 2</link>
+                <thumbnail>http://apps.telekomtv.ro/RTEFacade_RIGHTV/images/data/logos/channels_144x65/TS1HD_ott.png</thumbnail>
+            </item> 
+			
+			<item>
+                <title>[COLOR lightyellow]Telekom Sport 2[/COLOR]</title>
+                <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport2/6.m3u8/Level(545259)?start=LIVE&amp;end=END$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				<link>http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport2HD/6.m3u8/Level(545259)?start=LIVE&amp;end=END$$lsname=LINK 2</link>
+                <thumbnail>http://apps.telekomtv.ro/RTEFacade_RIGHTV/images/data/logos/channels_144x65/TS2HD_ott.png</thumbnail>
+            </item> 
+			
+			<item>
+                <title>[COLOR lightyellow]Telekom Sport 3[/COLOR]</title>
+                <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport3/6.m3u8/Level(545259)?start=LIVE&amp;end=END$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				<link>http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport3HD/6.m3u8/Level(545259)?start=LIVE&amp;end=END$$lsname=LINK 2</link>
+                <thumbnail>http://apps.telekomtv.ro/RTEFacade_RIGHTV/images/data/logos/channels_144x65/TS3HD_ott.png</thumbnail>
+            </item> 
+			
+			<item>
+                <title>[COLOR lightyellow]Telekom Sport 4[/COLOR]</title>
+                <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport4/6.m3u8/Level(545259)?start=LIVE&amp;end=END$$LSPlayOnlyOne$$$$lsname=LINK 1</link>
+				<link>http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport4HD/6.m3u8/Level(545259)?start=LIVE&amp;end=END$$lsname=LINK 2</link>
+                <thumbnail>http://apps.telekomtv.ro/RTEFacade_RIGHTV/images/data/logos/channels_144x65/TS4HD_ott.png</thumbnail>
+            </item> 
+			
+			<item>
+                <title>[COLOR lightyellow]Telekom Sport 7 Online[/COLOR]</title>
+                <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$UEFA1/6.m3u8/Level(545259)?start=LIVE&amp;end=END</link>
+                <thumbnail>http://apps.telekomtv.ro/RTEFacade_RIGHTV/images/data/logos/channels_144x65/FotbalOnline.png</thumbnail>
+            </item> 
+			
+			<item>
+                <title>[COLOR lightyellow]Telekom Sport 8 Online[/COLOR]</title>
+                <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$UEFA2/6.m3u8/Level(545259)?start=LIVE&amp;end=END</link>
+                <thumbnail>http://apps.telekomtv.ro/RTEFacade_RIGHTV/images/data/logos/channels_144x65/FotbalOnline.png</thumbnail>
+            </item> 
+			
+			<item>
+                <title>[COLOR lightyellow]Telekom Sport 9 Online[/COLOR]</title>
+                <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$UEFA3/6.m3u8/Level(545259)?start=LIVE&amp;end=END</link>
+                <thumbnail>http://apps.telekomtv.ro/RTEFacade_RIGHTV/images/data/logos/channels_144x65/FotbalOnline.png</thumbnail>
+            </item> 
+			
+			<item>
+                <title>[COLOR lightyellow]Telekom Sport 10 Online[/COLOR]</title>
+                <link>http://telekomtv.ro.edgesuite.net/shls/LIVE$UEFA4/6.m3u8/Level(545259)?start=LIVE&amp;end=END</link>
+                <thumbnail>http://apps.telekomtv.ro/RTEFacade_RIGHTV/images/data/logos/channels_144x65/FotbalOnline.png</thumbnail>
+            </item> 
+		</items>	
+	</channel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
         <channel>
