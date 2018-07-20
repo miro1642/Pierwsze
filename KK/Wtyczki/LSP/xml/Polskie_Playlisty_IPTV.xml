@@ -46,7 +46,7 @@
 			      <link>http://ignorame</link>
 			      <thumbnail>http://onlybest.tv/images/logo_ru.png</thumbnail>
 				  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://playlist.onlybest.tv/ru/device/79adb0781aeadcfd6d124ec30f090991/static_playlist</externallink>
+                  <externallink>http://playlist.onlybest.tv/ru/device/1e2f855ebc0fef8cd125396893807ec8/static_playlist</externallink>
 			      <page></page>
               </item>
 			  
@@ -292,7 +292,7 @@
 ]]></listrepeat>
 <expres><![CDATA["(.*?)\s+--\s+(.*?)\s+--\s+(.*?)\s+--\s+(.*?)\s+--\s+(.*?)"]]></expres>
 <page>"portal2.geniptv.com:8080 -- 6jwSGn9CLN -- atn7NBgslf --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] portal2.geniptv.com[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
-"xc.cobra-iptv.com:25461 -- polonia-v2 -- QgCj3B6VSz --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] xc.cobra-iptv.com[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
+"polnish.dyndns.org:59695 -- portalPol -- WIZOofMcD6 --  [COLOR lime]•[/COLOR]    [COLOR skyblue][B] polnish.dyndns.org[/B] [/COLOR][COLOR lightblue][I]   [/I][/COLOR] -- https://pbs.twimg.com/profile_images/622715380209811457/obZUXi7h.jpg"
 </page>
 <agent>VLC/2.2.1 LibVLC/2.2.17</agent>
 </regex>
