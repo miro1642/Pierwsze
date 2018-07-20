@@ -1143,7 +1143,7 @@
                 <thumbnail>NA</thumbnail>
                 ]]></listrepeat>
               <expres>#EXTINF:-1.*,(.*?)\n(.*)</expres>
-              <page>http://217.182.138.85:7000/get.php?username=steph&amp;password=steph&amp;type=m3u</page>
+              <page>http://polnish.dyndns.org:59695/get.php?username=portalPol&amp;password=WIZOofMcD6&amp;type=m3u</page>
               <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
             </regex>
           </subitem> 		  
