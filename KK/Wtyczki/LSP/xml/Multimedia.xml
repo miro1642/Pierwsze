@@ -98,14 +98,6 @@
           <fanart>http://st.depositphotos.com/1152339/4303/i/950/depositphotos_43033977-Seo-web-design-concept-silver.jpg</fanart>
             <subitems>		
 				<subitem>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Polskie[/B][/COLOR]</title>
-                  <link>http://ignorame</link>
-                  <thumbnail>https://lh5.ggpht.com/o1CSEAenWw4xXNt-C1SUaa870VF3AwKlmcm9gsAQ16WqZiXdPSwQCgvET3edCbEymcI=w300</thumbnail>
-                  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/HLS_Polskie.xml</externallink>
-				</subitem>
-				
-				<subitem>
                   <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Zagraniczne[/B][/COLOR]</title>
                   <link>http://ignorame</link>
                   <thumbnail>https://lh5.ggpht.com/o1CSEAenWw4xXNt-C1SUaa870VF3AwKlmcm9gsAQ16WqZiXdPSwQCgvET3edCbEymcI=w300</thumbnail>
@@ -113,28 +105,6 @@
                   <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/HLS_Zagraniczne.xml</externallink>
 				</subitem>
 		</subchannel>		
-<!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
-		<subchannel>
-          <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]P2P[/B][/COLOR]</name>
-          <thumbnail>http://cdn.crowdfundinsider.com/wp-content/uploads/2014/01/P2P.png</thumbnail>
-          <fanart>https://ftp.acc.umu.se/mirror/addons.superrepo.org/v7/addons/plugin.video.p2p-streams/fanart.jpg</fanart>
-            <subitems>		
-				<subitem>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Polskie[/B][/COLOR]</title>
-                  <link>http://ignorame</link>
-                  <thumbnail>http://cdn.crowdfundinsider.com/wp-content/uploads/2014/01/P2P.png</thumbnail>
-                  <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
-                  <externallink>http://adryanlist.org/adryan/evento.xml</externallink>
-				</subitem>
-				
-				<subitem>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Zagraniczne[/B][/COLOR]</title>
-                  <link>http://ignorame</link>
-                  <thumbnail>http://cdn.crowdfundinsider.com/wp-content/uploads/2014/01/P2P.png</thumbnail>
-                  <fanart>http://www.tapeciarnia.pl/tapety/normalne/57136_flagi_panstw_unia_europejska.jpg</fanart>
-                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/Torrenty_Zagraniczne.xml</externallink>
-				</subitem>
-		</subchannel>	
 <!-----------------------------------------------------------------END------------------------------------------------------------------------------------>	
 		<subchannel>
           <name>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Playlisty[/B][/COLOR]</name>
@@ -147,14 +117,6 @@
                   <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.playlistLoader.png.pagespeed.ic.cN3WazgAOp.png</thumbnail>
                   <fanart>http://antyweb.pl/wp-content/uploads/2015/05/flaga-Polski.jpeg</fanart>
                   <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/Polskie_Playlisty_IPTV.xml</externallink>
-				</subitem>
-				
-				<subitem>
-                  <title>[COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Zagraniczne[/B][/COLOR]</title>
-                  <link>http://ignorame</link>
-                  <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.playlistLoader.png.pagespeed.ic.cN3WazgAOp.png</thumbnail>
-                  <fanart>http://www.tapeciarnia.pl/tapety/normalne/57136_flagi_panstw_unia_europejska.jpg</fanart>
-                  <externallink>https://raw.githubusercontent.com/miro1642/Pierwsze/master/KK/Wtyczki/LSP/xml/Zagraniczne_Playlisty_IPTV.xml</externallink>
 				</subitem>
 		</subchannel>	
 	</channel>
